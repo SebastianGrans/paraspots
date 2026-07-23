@@ -1,0 +1,13 @@
+{
+    "country_id":160,
+    "start_id":132,
+    "name":"Voss, Hangur Øst-start",
+    "coordinates":[
+        60.64555556,
+        6.40777778
+    ],
+    "description":"Den mest brukte starten på Voss.\nTilkomst med gondolen frå Voss sentrum, eller med 4 seters ekspressheis frå Bavallen vinterstid.\nSommerstid er det mulig å køyre opp vegen til toppen for bl.a. HG etter avtale. Dette skjer ved aktivitet i regi av klubben. DL, styreleiar eller skulesjef kan opne bommen. \n\nEtter oppgraderingen høsten 2021 kan en nå ta av på alt fra NNØ til SSØ. Hovudlanding er nede i Voss sentrum vest for Voss Kulturhus, eller på Prestegardslandet mellom Park Hotel og Voss camping. Sandstranda mot sør er også eit alternativ til landing. \nI sommarhalvåret kjem det ofte solgangsbris frå vest/sørvest på ettermiddagen. Då vil vinden snu på starten midt på dagen ofte, og det kan bli kraftig vind på landing. I vinterhalvåret må ein vera obs på østavind ved landing i sentrum då den kan få trakteffekt i dalen, og redningsbåten til klubben er på land. Ikkje fly langt ut over vatnet. \nI vestenden av landinga ved Kulturhuset/Fleischer’s er det også landingsplass for helikopter. Om det skulle vera eit helikopter på veg inn, eller stå eit helikopter på landinga, fly til Prestegardslandet/Minigolfen eller stranda for landing.",
+    "holfuy_id":107,
+    "holfuy_url":"http://holfuy.com/en/weather/107",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=132"
+}

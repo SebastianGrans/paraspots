@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.languageServer": "None",
+		"ty.diagnosticMode": "workspace",
+		"ty.completions.completeFunctionParentheses": true,
+		"qt-qml.qmlls.additionalImportPaths": [
+			"${workspaceFolder}/src/paraspots/qml",
+			"~/Qt/6.11.1/gcc_64/qml"
+		],
+		"editor.rulers": [
+			90
+		],
+		"[python]": {
+			"editor.rulers": [
+				90
+			],
+			"editor.wordWrap": "off",
+			"editor.defaultFormatter": "charliermarsh.ruff",
+		},
+		"qt-core.qtInstallationRoot": "",
+		"qt-qml.qmlls.customExePath": "~/Qt/6.11.1/gcc_64/bin/qmlls",
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-python.python",
+			"charliermarsh.ruff",
+			"astral-sh.ty",
+			"theqtcompany.qt-core",
+			"theqtcompany.qt-qml",
+		],
+		"unwantedRecommendations": [
+			"ms-python.isort"
+		]
+	}
+}

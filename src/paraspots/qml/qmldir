@@ -1,0 +1,5 @@
+module qml
+typeinfo paraspots.qmltypes
+Map 1.0 Map.qml
+Main 1.0 Main.qml
+singleton Theme 1.0 Theme.qml
