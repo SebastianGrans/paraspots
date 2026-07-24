@@ -69,6 +69,18 @@ Rectangle {
                     {
                         label: "Holfuy",
                         url: root.takeoff.holfuyUrl
+                    },
+                    {
+                        label: "Windy",
+                        url: `https://www.windy.com/${root.takeoff.latitude}/${root.takeoff.longitude}`
+                    },
+                    {
+                        label: "Google Maps",
+                        url: `https://www.google.com/maps/search/?api=1&query=${root.takeoff.latitude},${root.takeoff.longitude}`
+                    },
+                    {
+                        label: "Yr.no",
+                        url: `https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/${root.takeoff.latitude},${root.takeoff.longitude}`
                     }
                 ]
 

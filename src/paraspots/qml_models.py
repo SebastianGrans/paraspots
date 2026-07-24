@@ -8,6 +8,8 @@ from paraspots.takeoff import Takeoff
 
 @QmlElement
 class TakeoffObject(QObject):
+    takeoff: Takeoff
+
     def __init__(self, takeoff: Takeoff, parent: QObject | None = None) -> None:
         super().__init__(parent)
         self._takeoff = takeoff
