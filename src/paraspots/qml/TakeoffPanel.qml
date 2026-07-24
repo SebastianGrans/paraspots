@@ -50,13 +50,15 @@ Rectangle {
             anchors.margins: 16
             spacing: 12
 
-            Text {
+            TextEdit {
                 Layout.fillWidth: true
                 text: root.takeoff.name
                 color: Theme.textPrimary
                 font.pointSize: Theme.fontXl
                 font.bold: true
                 wrapMode: Text.WordWrap
+                readOnly: true
+                selectByMouse: true
             }
 
             Rectangle {
@@ -137,13 +139,14 @@ Rectangle {
                 Layout.fillHeight: true
                 clip: true
 
-                Text {
+                TextEdit {
                     width: root.width - 32
                     text: root.takeoff.description
                     color: Theme.textSecondary
                     font.pointSize: Theme.fontMd
-                    lineHeight: 1.3
                     wrapMode: Text.WordWrap
+                    readOnly: true
+                    selectByMouse: true
                 }
             }
         }
