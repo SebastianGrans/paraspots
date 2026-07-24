@@ -37,13 +37,13 @@ Canvas {
         const cy = height / 2;
         const radius = Math.min(width, height) / 2 - 10;
         const sliceHalfWidth = (Math.PI / 4) / 2;
-        // Slightly overlap neighboring slices so antialiasing doesn't leave
-        // a visible seam between two adjacent same-colored fills.
-        const overlap = 0.01;
 
-        // Highlighted 45-degree slices
+        // Highlighted 45-degree slices. All wedges are added to a single
+        // path and filled once, so adjacent wedges merge into one shape
+        // instead of leaving an antialiasing seam where two separately
+        // filled wedges meet.
+        ctx.beginPath();
         for (const value of root.windDirs) {
-            console.log("Drawing wind direction slice for value:", value);
             const angleDeg = root.directionAngles[value];
             if (angleDeg === undefined)
                 continue;
@@ -52,13 +52,12 @@ Canvas {
             // 0rad pointing right, so shift by -90deg to align them.
             const centerRad = (angleDeg - 90) * Math.PI / 180;
 
-            ctx.beginPath();
             ctx.moveTo(cx, cy);
-            ctx.arc(cx, cy, radius, centerRad - sliceHalfWidth - overlap, centerRad + sliceHalfWidth + overlap);
+            ctx.arc(cx, cy, radius, centerRad - sliceHalfWidth, centerRad + sliceHalfWidth);
             ctx.closePath();
-            ctx.fillStyle = Theme.accent;
-            ctx.fill();
         }
+        ctx.fillStyle = Theme.accent;
+        ctx.fill();
 
         // Outer circle
         ctx.beginPath();
