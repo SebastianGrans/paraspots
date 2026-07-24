@@ -41,6 +41,11 @@ Item {
 
     PositionSource {
         id: positionSource
+        name: "geoclue2"
+        PluginParameter {
+            name: "desktopId"
+            value: "paraspots"
+        }
 
         onPositionChanged: {
             if (position.latitudeValid && position.longitudeValid) {

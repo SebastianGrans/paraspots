@@ -42,7 +42,6 @@ def main() -> None:
     app = QGuiApplication([sys.argv[0]] + qt_args)
     app.setApplicationName("Paraspots")
     app.setOrganizationName("paraspots")
-    app.setDesktopFileName("paraspots")
 
     engine = QQmlApplicationEngine()
     engine.addImportPath(str(Path(__file__).parent))
