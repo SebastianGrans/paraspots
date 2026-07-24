@@ -73,15 +73,41 @@ ApplicationWindow {
             SplitView.minimumWidth: 200
         }
 
-        TakeoffPanel {
-            id: takeoffPanel
+        SplitView {
+            id: sidePanel
+            orientation: Qt.Vertical
             SplitView.preferredWidth: mainRow.width * 0.2
             SplitView.minimumWidth: 550
-            takeoff: map.selectedTakeoff
 
-            // A callback that prints the current width
-            // For debugging purposes
-            // onWidthChanged: console.log("TakeoffPanel width changed to", width)
+            handle: Rectangle {
+                implicitHeight: 6
+                color: SplitHandle.pressed ? Theme.chartLine : (SplitHandle.hovered ? Theme.divider : "transparent")
+
+                Rectangle {
+                    anchors.centerIn: parent
+                    width: parent.width * 0.3
+                    height: 2
+                    radius: 1
+                    color: Theme.textMuted
+                }
+            }
+
+            TakeoffPanel {
+                id: takeoffPanel
+                SplitView.preferredHeight: sidePanel.height * 0.5
+                SplitView.minimumHeight: 300
+                takeoff: map.selectedTakeoff
+
+                // A callback that prints the current width
+                // For debugging purposes
+                // onHeightChanged: console.log("TakeoffPanel height changed to", height)
+            }
+
+            ListPanel {
+                id: listPanel
+                SplitView.preferredHeight: sidePanel.height * 0.5
+                SplitView.minimumHeight: 0
+            }
         }
     }
 }
