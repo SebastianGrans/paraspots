@@ -121,7 +121,7 @@ Item {
                 width: 12
                 height: 12
                 radius: width / 2
-                color: Theme.chartLine
+                color: takeoffMarker.takeoff === root.selectedTakeoff ? Theme.accent : Theme.chartLine
                 border.color: "white"
                 border.width: 1
 

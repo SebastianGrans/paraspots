@@ -45,5 +45,6 @@ QtObject {
     readonly property color chartBg: isDark ? "#0a0e17" : "#f8fafc"
     readonly property color chartGrid: isDark ? "#334155" : "#94a3b8"
     readonly property color chartLine: isDark ? "#8b5cf6" : "#7c3aed"
+    readonly property color accent: isDark ? "#fb923c" : "#ea580c"
     readonly property color chartLabel: isDark ? "#64748b" : "#475569"
 }
