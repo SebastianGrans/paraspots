@@ -51,5 +51,5 @@ class TakeoffObject(QObject):
         return self._takeoff.holfuy_id or 0
 
     @Property("QVariantList", constant=True)  # ty: ignore[invalid-argument-type]
-    def windDirs(self) -> list[str]:
-        return [d.name for d in self._takeoff.wind_dirs]
+    def windDirs(self) -> list[int]:
+        return [int(d) for d in self._takeoff.wind_dirs]

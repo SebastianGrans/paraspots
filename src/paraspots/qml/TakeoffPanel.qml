@@ -114,6 +114,15 @@ Rectangle {
             }
         }
 
+        RowLayout {
+            Layout.fillWidth: true
+            spacing: 12
+
+            WindRose {
+                windDirs: root.takeoff.windDirs
+            }
+        }
+
         ScrollView {
             Layout.fillWidth: true
             Layout.fillHeight: true
