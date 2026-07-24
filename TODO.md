@@ -2,13 +2,11 @@
 
 ## Add wind direction indicator
 
-title
+Done. But it's layout needs to be improved.
 
-## Add link to yr/windy at that location?
+## Insert weather prognosis panel for the location? 
 
-title
-
-Or even insert a panel for the weather at that location
+totle
 
 ## Add a list of all takeoffs to the right
 
@@ -22,3 +20,27 @@ Filter by location?
 
 Title (this is relevant later for the list of all takeoffs)
 
+## Ctrl+w should quit the app
+
+title
+
+## Fix bug
+
+Since I enabled ctrl+c to quit the app, I think that bypasses any "cleanup" activity that the app
+needs to do before quitting (such as unregistering)
+
+```bash
+qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+```
+
+## Make search sort the results by relevance.
+
+Searching for `sund` results in:
+
+```
+Vikersund hoppbakke
+...
+Sundvollen
+```
+
+It should prioritize sundvollen higher, since it starts with `sund`

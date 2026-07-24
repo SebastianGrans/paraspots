@@ -63,6 +63,18 @@ Rectangle {
             }
 
             onTextChanged: searchDebounce.restart()
+
+            Keys.onDownPressed: event => {
+                if (listView.count > 0) {
+                    listView.forceActiveFocus();
+                    // forceActiveFocus() can itself promote currentIndex from -1 to 0
+                    // as a side effect, making this assignment a no-op that doesn't fire
+                    // onCurrentIndexChanged. Select explicitly rather than relying on it.
+                    listView.currentIndex = 0;
+                    root.takeoffSelected(root.filteredTakeoffs[0]);
+                }
+                event.accepted = true;
+            }
         }
 
         Timer {
@@ -88,6 +100,12 @@ Rectangle {
                 id: listView
                 model: root.filteredTakeoffs
                 spacing: 4
+                currentIndex: -1
+
+                onCurrentIndexChanged: {
+                    if (listView.activeFocus && currentIndex >= 0 && currentIndex < root.filteredTakeoffs.length)
+                        root.takeoffSelected(root.filteredTakeoffs[currentIndex]);
+                }
 
                 delegate: Rectangle {
                     id: delegateRoot
