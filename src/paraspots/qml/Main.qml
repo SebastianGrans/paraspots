@@ -19,6 +19,10 @@ ApplicationWindow {
             errorTimer.restart();
         }
     }
+
+    KeyboardShortcuts {
+        onFocusSearchRequested: listPanel.focusSearch()
+    }
     Rectangle {
         id: errorBar
         visible: false

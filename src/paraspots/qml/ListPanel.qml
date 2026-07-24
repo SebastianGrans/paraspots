@@ -20,6 +20,12 @@ Rectangle {
     border.color: Theme.divider
     border.width: 1
 
+    function focusSearch() {
+        searchField.forceActiveFocus();
+    }
+
+    Component.onCompleted: root.focusSearch()
+
     // Empty state (no takeoffs loaded yet)
     ColumnLayout {
         anchors.centerIn: parent
