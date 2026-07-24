@@ -12,7 +12,7 @@ Or even insert a panel for the weather at that location
 
 ## Add a list of all takeoffs to the right
 
-The list should be searchable
+~~The list should be searchable~~
 
 If a location is available, then the distance from the location to the takeoff should be visible
 

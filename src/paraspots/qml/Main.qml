@@ -1,7 +1,5 @@
 import QtQuick
 import QtQuick.Controls
-import QtQuick.Layouts
-import QtQuick.Dialogs
 
 ApplicationWindow {
     id: root
@@ -107,6 +105,8 @@ ApplicationWindow {
                 id: listPanel
                 SplitView.preferredHeight: sidePanel.height * 0.5
                 SplitView.minimumHeight: 0
+                selectedTakeoff: map.selectedTakeoff
+                onTakeoffSelected: takeoff => map.selectedTakeoff = takeoff
             }
         }
     }
