@@ -10,6 +10,7 @@ Item {
 
     property var selectedTakeoff: null
     property bool locating: false
+    property var userLocationMarker: null
 
     MapView {
         id: mapView
@@ -48,6 +49,7 @@ Item {
                 centerAnimation.start();
                 zoomAnimation.start();
                 root.locating = false;
+                root.updateUserLocationMarker(position.coordinate);
             }
         }
 
@@ -163,12 +165,40 @@ Item {
         }
     }
 
+    Component {
+        id: userLocationComponent
+
+        MapQuickItem {
+            anchorPoint: Qt.point(locationText.width / 2, locationText.height / 2)
+
+            sourceItem: Text {
+                id: locationText
+                text: "📍"
+                font.pointSize: Theme.fontXl
+            }
+        }
+    }
+
     function rebuildMarkers() {
         mapView.map.clearMapItems();
         for (const takeoff of Bridge.takeoffs) {
             mapView.map.addMapItem(markerComponent.createObject(root, {
                 takeoff: takeoff
             }));
+        }
+        if (root.userLocationMarker) {
+            mapView.map.addMapItem(root.userLocationMarker);
+        }
+    }
+
+    function updateUserLocationMarker(coordinate) {
+        if (root.userLocationMarker) {
+            root.userLocationMarker.coordinate = coordinate;
+        } else {
+            root.userLocationMarker = userLocationComponent.createObject(root, {
+                coordinate: coordinate
+            });
+            mapView.map.addMapItem(root.userLocationMarker);
         }
     }
 
