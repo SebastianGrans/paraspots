@@ -1,3 +1,4 @@
+pragma ComponentBehavior: Bound
 import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
@@ -35,106 +36,115 @@ Rectangle {
         }
     }
 
-    ColumnLayout {
+    Loader {
         anchors.fill: parent
-        anchors.margins: 16
-        spacing: 12
-        visible: !!root.takeoff
+        active: !!root.takeoff
+        sourceComponent: detailsComponent
+    }
 
-        Text {
-            Layout.fillWidth: true
-            text: root.takeoff.name
-            color: Theme.textPrimary
-            font.pointSize: Theme.fontXl
-            font.bold: true
-            wrapMode: Text.WordWrap
-        }
+    Component {
+        id: detailsComponent
 
-        Rectangle {
-            Layout.fillWidth: true
-            Layout.preferredHeight: 1
-            color: Theme.divider
-        }
+        ColumnLayout {
+            anchors.fill: parent
+            anchors.margins: 16
+            spacing: 12
 
-        RowLayout {
-            Layout.fillWidth: true
-            spacing: 10
+            Text {
+                Layout.fillWidth: true
+                text: root.takeoff.name
+                color: Theme.textPrimary
+                font.pointSize: Theme.fontXl
+                font.bold: true
+                wrapMode: Text.WordWrap
+            }
 
-            Repeater {
-                model: [
-                    {
-                        label: "Flightlog",
-                        url: root.takeoff.flightlogUrl
-                    },
-                    {
-                        label: "Holfuy",
-                        url: root.takeoff.holfuyUrl
-                    },
-                    {
-                        label: "Windy",
-                        url: `https://www.windy.com/${root.takeoff.latitude}/${root.takeoff.longitude}`
-                    },
-                    {
-                        label: "Google Maps",
-                        url: `https://www.google.com/maps/search/?api=1&query=${root.takeoff.latitude},${root.takeoff.longitude}`
-                    },
-                    {
-                        label: "Yr.no",
-                        url: `https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/${root.takeoff.latitude},${root.takeoff.longitude}`
-                    }
-                ]
+            Rectangle {
+                Layout.fillWidth: true
+                Layout.preferredHeight: 1
+                color: Theme.divider
+            }
 
-                delegate: Rectangle {
-                    id: linkChip
-                    required property var modelData
+            RowLayout {
+                Layout.fillWidth: true
+                spacing: 10
 
-                    visible: !!modelData.url
-                    color: linkArea.containsMouse ? Theme.divider : "transparent"
-                    border.color: Theme.chartLine
-                    border.width: 1
-                    Layout.preferredWidth: linkLabel.implicitWidth + 20
-                    Layout.preferredHeight: linkLabel.implicitHeight + 12
+                Repeater {
+                    model: [
+                        {
+                            label: "Flightlog",
+                            url: root.takeoff.flightlogUrl
+                        },
+                        {
+                            label: "Holfuy",
+                            url: root.takeoff.holfuyUrl
+                        },
+                        {
+                            label: "Windy",
+                            url: `https://www.windy.com/${root.takeoff.latitude}/${root.takeoff.longitude}`
+                        },
+                        {
+                            label: "Google Maps",
+                            url: `https://www.google.com/maps/search/?api=1&query=${root.takeoff.latitude},${root.takeoff.longitude}`
+                        },
+                        {
+                            label: "Yr.no",
+                            url: `https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/${root.takeoff.latitude},${root.takeoff.longitude}`
+                        }
+                    ]
 
-                    Text {
-                        id: linkLabel
-                        anchors.centerIn: parent
-                        text: linkChip.modelData.label
-                        color: Theme.chartLine
-                        font.pointSize: Theme.fontSm
-                    }
+                    delegate: Rectangle {
+                        id: linkChip
+                        required property var modelData
 
-                    MouseArea {
-                        id: linkArea
-                        anchors.fill: parent
-                        hoverEnabled: true
-                        cursorShape: Qt.PointingHandCursor
-                        onClicked: Qt.openUrlExternally(linkChip.modelData.url)
+                        visible: !!modelData.url
+                        color: linkArea.containsMouse ? Theme.divider : "transparent"
+                        border.color: Theme.chartLine
+                        border.width: 1
+                        Layout.preferredWidth: linkLabel.implicitWidth + 20
+                        Layout.preferredHeight: linkLabel.implicitHeight + 12
+
+                        Text {
+                            id: linkLabel
+                            anchors.centerIn: parent
+                            text: linkChip.modelData.label
+                            color: Theme.chartLine
+                            font.pointSize: Theme.fontSm
+                        }
+
+                        MouseArea {
+                            id: linkArea
+                            anchors.fill: parent
+                            hoverEnabled: true
+                            cursorShape: Qt.PointingHandCursor
+                            onClicked: Qt.openUrlExternally(linkChip.modelData.url)
+                        }
                     }
                 }
             }
-        }
 
-        RowLayout {
-            Layout.fillWidth: true
-            spacing: 12
+            RowLayout {
+                Layout.fillWidth: true
+                spacing: 12
 
-            WindRose {
-                windDirs: root.takeoff.windDirs
+                WindRose {
+                    windDirs: root.takeoff.windDirs
+                }
             }
-        }
 
-        ScrollView {
-            Layout.fillWidth: true
-            Layout.fillHeight: true
-            clip: true
+            ScrollView {
+                Layout.fillWidth: true
+                Layout.fillHeight: true
+                clip: true
 
-            Text {
-                width: root.width - 32
-                text: root.takeoff.description
-                color: Theme.textSecondary
-                font.pointSize: Theme.fontMd
-                lineHeight: 1.3
-                wrapMode: Text.WordWrap
+                Text {
+                    width: root.width - 32
+                    text: root.takeoff.description
+                    color: Theme.textSecondary
+                    font.pointSize: Theme.fontMd
+                    lineHeight: 1.3
+                    wrapMode: Text.WordWrap
+                }
             }
         }
     }

@@ -43,7 +43,7 @@ Canvas {
         // instead of leaving an antialiasing seam where two separately
         // filled wedges meet.
         ctx.beginPath();
-        for (const value of root.windDirs) {
+        for (const value of root.windDirs || []) {
             const angleDeg = root.directionAngles[value];
             if (angleDeg === undefined)
                 continue;
