@@ -22,13 +22,31 @@ Item {
         }
     }
 
+    CoordinateAnimation {
+        id: centerAnimation
+        target: mapView.map
+        property: "center"
+        duration: 800
+        easing.type: Easing.InOutQuad
+    }
+
+    NumberAnimation {
+        id: zoomAnimation
+        target: mapView.map
+        property: "zoomLevel"
+        to: 10
+        duration: 800
+        easing.type: Easing.InOutQuad
+    }
+
     PositionSource {
         id: positionSource
 
         onPositionChanged: {
             if (position.latitudeValid && position.longitudeValid) {
-                mapView.map.center = position.coordinate;
-                mapView.map.zoomLevel = 12;
+                centerAnimation.to = position.coordinate;
+                centerAnimation.start();
+                zoomAnimation.start();
                 root.locating = false;
             }
         }
