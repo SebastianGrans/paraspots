@@ -9,6 +9,7 @@ Item {
     id: root
 
     property var selectedTakeoff: null
+    property bool locating: false
 
     MapView {
         id: mapView
@@ -23,19 +24,18 @@ Item {
 
     PositionSource {
         id: positionSource
-        updateInterval: 5000
 
         onPositionChanged: {
             if (position.latitudeValid && position.longitudeValid) {
                 mapView.map.center = position.coordinate;
                 mapView.map.zoomLevel = 12;
-                active = false;
+                root.locating = false;
             }
         }
 
         onSourceErrorChanged: {
             if (sourceError !== PositionSource.NoError) {
-                active = false;
+                root.locating = false;
                 locateError.visible = true;
                 locateErrorTimer.restart();
             }
@@ -59,14 +59,17 @@ Item {
 
         Text {
             anchors.centerIn: parent
-            text: positionSource.active ? "…" : "📍"
+            text: root.locating ? "…" : "📍"
             font.pointSize: Theme.fontLg
         }
 
         MouseArea {
             anchors.fill: parent
             cursorShape: Qt.PointingHandCursor
-            onClicked: positionSource.active = true
+            onClicked: {
+                root.locating = true;
+                positionSource.update();
+            }
         }
     }
 
