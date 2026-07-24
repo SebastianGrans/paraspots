@@ -9,7 +9,7 @@ Rectangle {
     signal takeoffSelected(var takeoff)
 
     property var selectedTakeoff: null
-    property string searchQuery: searchField.text.trim().toLowerCase()
+    property string searchQuery: ""
     property var filteredTakeoffs: {
         if (!root.searchQuery)
             return Bridge.takeoffs;
@@ -61,6 +61,14 @@ Rectangle {
                 border.width: 0
                 radius: 4
             }
+
+            onTextChanged: searchDebounce.restart()
+        }
+
+        Timer {
+            id: searchDebounce
+            interval: 200
+            onTriggered: root.searchQuery = searchField.text.trim().toLowerCase()
         }
 
         // Then a vertical divider
