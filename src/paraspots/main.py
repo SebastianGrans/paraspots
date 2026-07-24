@@ -42,6 +42,7 @@ def main() -> None:
     app = QGuiApplication([sys.argv[0]] + qt_args)
     app.setApplicationName("Paraspots")
     app.setOrganizationName("paraspots")
+    app.setDesktopFileName("paraspots")
 
     engine = QQmlApplicationEngine()
     engine.addImportPath(str(Path(__file__).parent))
@@ -51,7 +52,7 @@ def main() -> None:
         sys.exit(1)
 
     bridge = Bridge.instance()  # type: ignore[attr-defined]
-    bridge.load_takeoffs("/home/grans/Projects/paraspots/data/takeoffs")
+    bridge.load_takeoffs("/home/grans/Projects/flightlogscrape/data/takeoffs")
 
     ret = app.exec()
     # Destroy the QML engine before the singleton goes out of scope, otherwise

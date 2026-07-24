@@ -6,7 +6,7 @@ import QtQuick.Dialogs
 ApplicationWindow {
     id: root
     visible: true
-    width: 980
+    width: 1080
     height: 860
     minimumWidth: 700
     minimumHeight: 600
@@ -49,14 +49,39 @@ ApplicationWindow {
         }
     }
 
-    ColumnLayout {
+    SplitView {
+        id: mainRow
         anchors.fill: parent
-        spacing: 10
-        // map — grows to fill all remaining space
+        orientation: Qt.Horizontal
+
+        handle: Rectangle {
+            implicitWidth: 6
+            color: SplitHandle.pressed ? Theme.chartLine : (SplitHandle.hovered ? Theme.divider : "transparent")
+
+            Rectangle {
+                anchors.centerIn: parent
+                width: 2
+                height: parent.height * 0.3
+                radius: 1
+                color: Theme.textMuted
+            }
+        }
+
         Map {
             id: map
-            Layout.fillWidth: true
-            Layout.fillHeight: true
+            SplitView.preferredWidth: mainRow.width * 0.8
+            SplitView.minimumWidth: 200
+        }
+
+        TakeoffPanel {
+            id: takeoffPanel
+            SplitView.preferredWidth: mainRow.width * 0.2
+            SplitView.minimumWidth: 550
+            takeoff: map.selectedTakeoff
+
+            // A callback that prints the current width
+            // For debugging purposes
+            // onWidthChanged: console.log("TakeoffPanel width changed to", width)
         }
     }
 }
