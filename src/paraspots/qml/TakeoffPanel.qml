@@ -43,7 +43,7 @@ Rectangle {
 
         Text {
             Layout.fillWidth: true
-            text: root.takeoff ? root.takeoff.name : ""
+            text: root.takeoff.name
             color: Theme.textPrimary
             font.pointSize: Theme.fontXl
             font.bold: true
@@ -64,11 +64,11 @@ Rectangle {
                 model: [
                     {
                         label: "Flightlog",
-                        url: root.takeoff ? root.takeoff.flightlogUrl : ""
+                        url: root.takeoff.flightlogUrl
                     },
                     {
                         label: "Holfuy",
-                        url: root.takeoff ? root.takeoff.holfuyUrl : ""
+                        url: root.takeoff.holfuyUrl
                     }
                 ]
 
@@ -109,7 +109,7 @@ Rectangle {
 
             Text {
                 width: root.width - 32
-                text: root.takeoff ? root.takeoff.description : ""
+                text: root.takeoff.description
                 color: Theme.textSecondary
                 font.pointSize: Theme.fontMd
                 lineHeight: 1.3
