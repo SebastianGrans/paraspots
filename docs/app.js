@@ -20,6 +20,16 @@ function showTakeoffDetails(takeoff) {
     `;
 }
 
+function renderList(takeoffs) {
+    const list = document.getElementById("list-panel");
+    list.innerHTML = "";
+    for (const takeoff of takeoffs) {
+        const item = document.createElement("li");
+        item.textContent = takeoff.name;
+        list.appendChild(item);
+    }
+}
+
 fetch("data/takeoffs.json")
     .then(response => response.json())
     .then(takeoffs => {
@@ -28,4 +38,5 @@ fetch("data/takeoffs.json")
                 .addTo(map)
                 .on("click", () => showTakeoffDetails(takeoff));
         }
+        renderList(takeoffs);
     });

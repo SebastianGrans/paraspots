@@ -26,6 +26,19 @@ body {
 
 #list-panel {
     flex: 1;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#list-panel li {
+    padding: 8px 16px;
+    border-bottom: 1px solid #eee;
+    cursor: default;
+}
+
+#list-panel li:hover {
+    background: #f0f0f0;
 }
 
 #takeoff-panel, #list-panel {
