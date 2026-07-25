@@ -34,11 +34,16 @@ body {
 #list-panel li {
     padding: 8px 16px;
     border-bottom: 1px solid #eee;
-    cursor: default;
+    cursor: pointer;
 }
 
 #list-panel li:hover {
     background: #f0f0f0;
+}
+
+#list-panel li.selected {
+    background: #d8e8fb;
+    font-weight: bold;
 }
 
 #takeoff-panel, #list-panel {
