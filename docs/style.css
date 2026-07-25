@@ -28,14 +28,26 @@ body {
     flex: 1;
 }
 
+#takeoff-panel, #list-panel {
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    overflow-y: auto;
+}
+
 .placeholder {
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    border: 1px solid #ccc;
-    box-sizing: border-box;
     color: #666;
-    font-family: sans-serif;
     padding: 16px;
+}
+
+.detail {
+    padding: 16px;
+}
+
+.detail h2 {
+    margin-top: 0;
 }
