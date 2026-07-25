@@ -192,6 +192,17 @@ body {
     margin-top: 0;
 }
 
+.detail-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.wind-rose {
+    flex-shrink: 0;
+}
+
 .link-row {
     display: flex;
     flex-wrap: wrap;

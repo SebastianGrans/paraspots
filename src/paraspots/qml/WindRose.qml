@@ -69,6 +69,15 @@ Canvas {
         ctx.lineWidth = 1;
         ctx.stroke();
 
+        // No data: show a question mark instead of an empty circle
+        if (!root.windDirs || root.windDirs.length === 0) {
+            ctx.fillStyle = Theme.textMuted;
+            ctx.font = "bold " + Math.round(radius) + "px sans-serif";
+            ctx.textAlign = "center";
+            ctx.textBaseline = "middle";
+            ctx.fillText("?", cx, cy);
+        }
+
         // // Spokes at each slice boundary (offset by 22.5deg from the
         // // cardinal directions, so e.g. North's slice is bounded by the
         // // spokes at -22.5deg and 22.5deg, not centered between two of them)
