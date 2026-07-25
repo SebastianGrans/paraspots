@@ -502,38 +502,29 @@ document.addEventListener("click", event => {
     }
 });
 
-let shortcutsHelp = null;
+const infoPanel = document.getElementById("info-panel");
+const infoBtn = document.getElementById("info-btn");
 
-function toggleShortcutsHelp() {
-    if (shortcutsHelp) {
-        closeShortcutsHelp();
-        return;
-    }
-    shortcutsHelp = document.createElement("div");
-    shortcutsHelp.className = "shortcuts-help";
-    shortcutsHelp.innerHTML = `
-        <strong>Keyboard shortcuts</strong>
-        <ul>
-            <li><kbd>/</kbd> or <kbd>Ctrl</kbd> <kbd>K</kbd> — Focus search</li>
-            <li><kbd>Esc</kbd> — Clear search</li>
-            <li><kbd>↓</kbd> <kbd>↑</kbd> — Move through results</li>
-            <li><kbd>?</kbd> — Toggle this help</li>
-        </ul>
-    `;
-    document.body.appendChild(shortcutsHelp);
+function toggleInfoPanel() {
+    infoPanel.classList.toggle("hidden");
 }
 
-function closeShortcutsHelp() {
-    if (shortcutsHelp) {
-        shortcutsHelp.remove();
-        shortcutsHelp = null;
-    }
+function closeInfoPanel() {
+    infoPanel.classList.add("hidden");
 }
+
+infoBtn.addEventListener("click", toggleInfoPanel);
+
+document.addEventListener("click", event => {
+    if (!infoPanel.classList.contains("hidden") && !infoPanel.contains(event.target) && event.target !== infoBtn) {
+        closeInfoPanel();
+    }
+});
 
 document.addEventListener("keydown", event => {
     if (event.key === "Escape") {
         closeMapContextMenu();
-        closeShortcutsHelp();
+        closeInfoPanel();
         closeSortMenu();
         return;
     }
@@ -548,7 +539,7 @@ document.addEventListener("keydown", event => {
         document.getElementById("search").focus();
     } else if (event.key === "?") {
         event.preventDefault();
-        toggleShortcutsHelp();
+        toggleInfoPanel();
     }
 });
 

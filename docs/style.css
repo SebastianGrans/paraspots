@@ -38,6 +38,32 @@ body {
     background: #f0f0f0;
 }
 
+#info-btn {
+    position: absolute;
+    right: 60px;
+    bottom: 12px;
+    z-index: 1000;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    background: #fff;
+    color: #475569;
+    font-size: 1.1rem;
+    font-weight: bold;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+#info-btn:hover {
+    background: #f0f0f0;
+}
+
 #locate-error {
     position: absolute;
     right: 12px;
@@ -83,31 +109,54 @@ body {
     background: #f0f0f0;
 }
 
-.shortcuts-help {
+.info-panel {
     position: fixed;
     left: 50%;
     bottom: 24px;
     transform: translateX(-50%);
     z-index: 2000;
+    width: 320px;
+    max-width: calc(100vw - 24px);
+    max-height: calc(100vh - 48px);
+    overflow-y: auto;
     background: #fff;
     border: 1px solid #ccc;
     border-radius: 6px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     font: 14px sans-serif;
-    padding: 12px 16px;
+    padding: 16px;
+    box-sizing: border-box;
 }
 
-.shortcuts-help ul {
+.info-panel.hidden {
+    display: none;
+}
+
+.info-panel h3 {
+    margin: 16px 0 4px;
+    font-size: 1em;
+}
+
+.info-panel h3:first-child {
+    margin-top: 0;
+}
+
+.info-panel p {
+    margin: 4px 0;
+    color: #334155;
+}
+
+.info-panel ul {
     list-style: none;
-    margin: 8px 0 0;
+    margin: 4px 0;
     padding: 0;
 }
 
-.shortcuts-help li {
+.info-panel li {
     padding: 2px 0;
 }
 
-.shortcuts-help kbd {
+.info-panel kbd {
     display: inline-block;
     min-width: 1.4em;
     text-align: center;
@@ -118,6 +167,17 @@ body {
     background: #f6f6f6;
     font-family: inherit;
     font-size: 0.85em;
+}
+
+.info-panel .github-link {
+    display: inline-block;
+    margin-top: 12px;
+    color: #7c3aed;
+    text-decoration: none;
+}
+
+.info-panel .github-link:hover {
+    text-decoration: underline;
 }
 
 .takeoff-marker-icon {

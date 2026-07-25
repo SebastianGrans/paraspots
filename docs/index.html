@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -7,13 +8,40 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
     <div id="map">
+        <button id="info-btn" title="About &amp; help" aria-label="About and help">?</button>
         <button id="locate-btn" title="Use my location" aria-label="Use my location">📍</button>
         <div id="locate-error" class="hidden">Couldn't get your location</div>
     </div>
+
+    <div id="info-panel" class="info-panel hidden">
+        <h3>ParaSpots</h3>
+        <p>A map of paragliding and hang gliding takeoff spots.</p>
+
+        <h3>Using the map</h3>
+        <ul>
+            <li>Click a takeoff, on the map or in the list, to see its details</li>
+            <li>📍 — use your current GPS location</li>
+            <li>Right-click the map (or long-press on mobile) to set a location manually</li>
+            <li>Once a location is set, sort the list by distance to find takeoffs near you</li>
+        </ul>
+
+        <h3>Keyboard shortcuts</h3>
+        <ul>
+            <li><kbd>/</kbd> or <kbd>Ctrl</kbd> <kbd>K</kbd> — Focus search</li>
+            <li><kbd>Esc</kbd> — Clear search</li>
+            <li><kbd>↓</kbd> <kbd>↑</kbd> — Move through results</li>
+            <li><kbd>?</kbd> — Toggle this panel</li>
+        </ul>
+
+        <a class="github-link" href="https://github.com/SebastianGrans/paraspots" target="_blank" rel="noopener noreferrer">View on GitHub →</a>
+    </div>
     <div id="sidebar">
         <div id="takeoff-panel" class="placeholder">
+            <!-- Fixme: Center this above the text later -->
+            <!-- <p style="font-size: 2rem; text-align: center;">🪂</p> -->
             <p>Select a takeoff on the map<br />to see its details</p>
         </div>
         <div id="list-panel">
@@ -28,7 +56,8 @@
                         <div class="sort-option" data-mode="name-asc">A-Z</div>
                         <div class="sort-option" data-mode="name-desc">Z-A</div>
                         <div class="sort-option" data-mode="distance-asc" data-requires-location="true">Dist. asc.</div>
-                        <div class="sort-option" data-mode="distance-desc" data-requires-location="true">Dist. desc.</div>
+                        <div class="sort-option" data-mode="distance-desc" data-requires-location="true">Dist. desc.
+                        </div>
                     </div>
                 </div>
             </div>
@@ -39,4 +68,5 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="app.js"></script>
 </body>
+
 </html>
