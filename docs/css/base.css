@@ -6,6 +6,8 @@ body {
 
 body {
     display: flex;
+    background: var(--bg-page);
+    color: var(--text-primary);
     -webkit-tap-highlight-color: transparent;
 }
 
@@ -39,7 +41,7 @@ body {
 
 #takeoff-panel,
 #list-panel {
-    border: 1px solid #ccc;
+    border: 1px solid var(--border);
     box-sizing: border-box;
     font-family: sans-serif;
 }

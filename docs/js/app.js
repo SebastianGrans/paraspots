@@ -5,6 +5,7 @@ import { showTakeoffDetails, closeYrWidget } from "./takeoff-detail.js";
 import { initList, updateListSelection, setSortMode, refreshList, closeSortMenu } from "./list.js";
 import { toggleInfoPanel, closeInfoPanel } from "./info-panel.js";
 import { showDetailView, showListView } from "./mobile-view.js";
+import "./theme.js";
 
 function isCoordinateVisible(latlng) {
     return map.getBounds().contains(latlng);

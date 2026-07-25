@@ -3,7 +3,7 @@
     gap: 8px;
     margin: 8px;
     padding-bottom: 8px;
-    border-bottom: 1px solid #e2e8f0;
+    border-bottom: 1px solid var(--border-subtle);
 }
 
 #search-wrap {
@@ -19,7 +19,8 @@
     box-sizing: border-box;
     border: 1px solid transparent;
     border-radius: 4px;
-    background: #fff;
+    background: var(--bg-panel);
+    color: var(--text-primary);
 }
 
 #search:focus {
@@ -40,7 +41,7 @@
     border: none;
     border-radius: 50%;
     background: transparent;
-    color: #94a3b8;
+    color: var(--text-muted);
     font-size: 1.2rem;
     line-height: 1;
     cursor: pointer;
@@ -51,7 +52,7 @@
 }
 
 #clear-search:hover {
-    background: #e2e8f0;
+    background: var(--bg-hover);
 }
 
 #sort-wrap {
@@ -64,15 +65,15 @@
     padding: 0;
     font: inherit;
     box-sizing: border-box;
-    border: 1px solid #e2e8f0;
-    background: #fff;
-    color: #94a3b8;
+    border: 1px solid var(--border-subtle);
+    background: var(--bg-panel);
+    color: var(--text-muted);
     cursor: pointer;
 }
 
 #sort-btn:hover,
 #sort-btn.open {
-    background: #e2e8f0;
+    background: var(--bg-hover);
 }
 
 #sort-menu {
@@ -81,8 +82,8 @@
     right: 0;
     top: calc(100% + 4px);
     padding: 4px;
-    background: #fff;
-    border: 1px solid #e2e8f0;
+    background: var(--bg-panel);
+    border: 1px solid var(--border-subtle);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
@@ -95,13 +96,13 @@
     padding: 6px 8px;
     border-radius: 4px;
     font-size: 0.9em;
-    color: #0f172a;
+    color: var(--text-primary);
     cursor: pointer;
     box-sizing: border-box;
 }
 
 .sort-option:hover {
-    background: #e2e8f0;
+    background: var(--bg-hover);
 }
 
 .sort-option.active {
@@ -148,12 +149,12 @@
 
 #list li .distance {
     flex-shrink: 0;
-    color: #777;
+    color: var(--text-muted-alt);
     font-size: 0.85em;
 }
 
 #list li:hover {
-    background: #e2e8f0;
+    background: var(--bg-hover);
 }
 
 #list li.selected {
@@ -167,6 +168,6 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #666;
+    color: var(--text-muted-alt);
     padding: 16px;
 }

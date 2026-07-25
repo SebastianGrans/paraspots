@@ -6,8 +6,9 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    border: 1px solid #ccc;
-    background: #fff;
+    border: 1px solid var(--border);
+    background: var(--bg-panel);
+    color: var(--text-primary);
     font-size: 1.2rem;
     line-height: 1;
     cursor: pointer;
@@ -19,7 +20,7 @@
 }
 
 #locate-btn:hover {
-    background: #f0f0f0;
+    background: var(--bg-hover);
 }
 
 #info-btn {
@@ -30,9 +31,9 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    border: 1px solid #ccc;
-    background: #fff;
-    color: #475569;
+    border: 1px solid var(--border);
+    background: var(--bg-panel);
+    color: var(--text-secondary);
     font-size: 1.1rem;
     font-weight: bold;
     line-height: 1;
@@ -45,7 +46,7 @@
 }
 
 #info-btn:hover {
-    background: #f0f0f0;
+    background: var(--bg-hover);
 }
 
 #locate-error {
@@ -75,8 +76,8 @@
 .map-context-menu {
     position: absolute;
     z-index: 1000;
-    background: #fff;
-    border: 1px solid #ccc;
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     font: 14px sans-serif;
@@ -87,10 +88,11 @@
     padding: 8px 16px;
     cursor: pointer;
     white-space: nowrap;
+    color: var(--text-primary);
 }
 
 .map-context-menu div:hover {
-    background: #f0f0f0;
+    background: var(--bg-hover);
 }
 
 .takeoff-marker-icon {
@@ -122,4 +124,14 @@
     display: flex;
     align-items: center;
     gap: 5px;
+}
+
+.leaflet-tooltip {
+    background-color: var(--bg-panel);
+    border-color: var(--bg-panel);
+    color: var(--text-primary);
+}
+
+.leaflet-tooltip-top:before {
+    border-top-color: var(--bg-panel);
 }

@@ -1,6 +1,7 @@
 import { escapeHtml, descriptionToHtml } from "./utils.js";
 import { drawWindRose } from "./wind-rose.js";
 import { goBackFromDetail } from "./mobile-view.js";
+import { isDarkActive } from "./theme.js";
 
 function buildTakeoffLinks(takeoff) {
     return [
@@ -61,7 +62,7 @@ function setupYrWidget(widget, meteogramUrl) {
             positionWrap();
             if (!loaded) {
                 loaded = true;
-                img.src = meteogramUrl;
+                img.src = isDarkActive() ? `${meteogramUrl}?mode=dark` : meteogramUrl;
             }
         }
     });
