@@ -12,6 +12,27 @@ function buildTakeoffLinks(takeoff) {
     ].filter(link => !!link.url);
 }
 
+async function copyShareUrl() {
+    const url = window.location.href;
+    if (navigator.clipboard && window.isSecureContext) {
+        try {
+            await navigator.clipboard.writeText(url);
+            return;
+        } catch {
+            // Permission denied or otherwise unavailable - fall through to
+            // the execCommand fallback below.
+        }
+    }
+    const textarea = document.createElement("textarea");
+    textarea.value = url;
+    textarea.style.position = "fixed";
+    textarea.style.opacity = "0";
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand("copy");
+    textarea.remove();
+}
+
 function buildYrUrls(takeoff) {
     return {
         pageUrl: `https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/${takeoff.latitude},${takeoff.longitude}`,
@@ -97,6 +118,7 @@ export function showTakeoffDetails(takeoff) {
                     <div class="meteogram-error">Couldn't load the forecast.</div>
                 </div>
             </div>
+            <button class="link-chip share-btn" type="button" aria-label="Share"><span class="share-icon"></span></button>
         </div>
         <p>${descriptionToHtml(takeoff.description)}</p>
     `;
@@ -104,6 +126,13 @@ export function showTakeoffDetails(takeoff) {
     drawWindRose(panel.querySelector(".wind-rose"), takeoff.wind_dirs);
     setupYrWidget(panel.querySelector(".yr-widget"), yr.meteogramUrl);
     panel.querySelector(".detail-back").addEventListener("click", goBackFromDetail);
+    panel.querySelector(".share-btn").addEventListener("click", async event => {
+        const btn = event.currentTarget;
+        await copyShareUrl();
+        const original = btn.innerHTML;
+        btn.textContent = "Copied!";
+        setTimeout(() => { btn.innerHTML = original; }, 1500);
+    });
 }
 
 export function closeYrWidget() {

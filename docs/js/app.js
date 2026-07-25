@@ -45,7 +45,24 @@ function ensureTakeoffVisible(takeoff) {
     map.setView(bounds.getCenter(), targetZoom, { animate: true });
 }
 
+function updateUrlForTakeoff(takeoff) {
+    const url = new URL(window.location.href);
+    url.searchParams.set("country_id", takeoff.country_id);
+    url.searchParams.set("start_id", takeoff.start_id);
+    history.replaceState(null, "", url);
+}
+
+function findTakeoffFromUrl() {
+    const params = new URLSearchParams(window.location.search);
+    const countryId = Number(params.get("country_id"));
+    const startId = Number(params.get("start_id"));
+    if (!countryId || !startId)
+        return null;
+    return state.allTakeoffs.find(t => t.country_id === countryId && t.start_id === startId) || null;
+}
+
 function selectTakeoff(takeoff) {
+    updateUrlForTakeoff(takeoff);
     state.selectedTakeoff = takeoff;
     showTakeoffDetails(takeoff);
     updateListSelection();
@@ -102,4 +119,11 @@ fetch("data/takeoffs.json")
             createTakeoffMarker(map, takeoff, { onSelect: selectTakeoff, onZoom: zoomToTakeoff });
         }
         refreshList();
+
+        const linkedTakeoff = findTakeoffFromUrl();
+        if (linkedTakeoff) {
+            zoomToTakeoff(linkedTakeoff);
+            selectTakeoff(linkedTakeoff);
+            state.listItems.get(linkedTakeoff)?.scrollIntoView({ block: "center" });
+        }
     });

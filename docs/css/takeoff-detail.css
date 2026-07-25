@@ -57,6 +57,35 @@
     background: var(--bg-hover-accent);
 }
 
+button.link-chip {
+    background: transparent;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.share-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 16px;
+    min-height: 0;
+}
+
+.share-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: currentColor;
+    -webkit-mask-image: url("../resources/link_icon.svg");
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url("../resources/link_icon.svg");
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+}
+
 .yr-widget {
     display: inline-flex;
 }
