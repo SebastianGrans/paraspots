@@ -1,8 +1,10 @@
-const map = L.map("map").setView([61.0, 8.0], 5);
+const map = L.map("map", { attributionControl: false }).setView([61.0, 8.0], 5);
 
-L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution: "&copy; OpenStreetMap contributors",
-}).addTo(map);
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(map);
+
+L.control.attribution({ position: "bottomleft" })
+    .addAttribution("&copy; OpenStreetMap contributors")
+    .addTo(map);
 
 let allTakeoffs = [];
 let selectedTakeoff = null;
