@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":10652,
+    "name":"Helgetoppen Ualand",
+    "latitude":58.52444444,
+    "longitude":6.33388889,
+    "description":"Traktorvei heilt til toppen. Parkering ved butikken eller idrettsplass.  Landing på fotballbanen. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10652"
+}

@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":10688,
+    "name":"Folldal - Knutshovda",
+    "latitude":67.12166667,
+    "longitude":9.95194444,
+    "description":"Kjør opp til Moldalssætrin og følg skiltet sti opp til varden på Knutshovda. 15-20min gange. God plass til å legge ut vingen flere steder.\n\nDet er gjort avtale med Folldal IF (idrettsforeningen) om bruk av Grusbane/fotballbane ved Folldal Skole som landing. Husk og undersøk om det er aktivitet der! \n\nKontaktpersoner fotballbane: Juel Phillips eller Stian G. Berget\n\nEvt landing på jorder nedenfor Knutshovda må avtales med Grunneier/bonde før hver tur! \n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10688"
+}

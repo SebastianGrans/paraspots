@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":1008,
+    "name":"Ørsta - Skårasalen",
+    "latitude":62.16666667,
+    "longitude":6.48361111,
+    "description":"Kopier linken under for bilde fra toppen: http://www.sabo.gs.mr.no/Sunnmorsalpane/Naturbilete/skaarasalen.jpg\n(Foto Thomas Hame)\n\nVØHSL",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1008"
+}

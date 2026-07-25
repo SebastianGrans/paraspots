@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":3156,
+    "name":"Bjørndalsfjell",
+    "latitude":58.88305556,
+    "longitude":5.81944444,
+    "description":"Fint sørøst flysted. Flere startplasser.\nSjelden turbulent\nKjør veien til  vest ende av Gramstadvannet. Gå  sørøst til Bjørndalsfjell.1/2 times gange i lett terreng.Landing er ved veikryss Hommersåk/Høle\nved komposteringsanleegget.\n\nHusk høydebegrensning på 1500 fot. 457m\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3156"
+}

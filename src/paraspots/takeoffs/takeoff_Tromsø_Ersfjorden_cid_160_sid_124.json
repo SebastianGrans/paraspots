@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":124,
+    "name":"Tromsø, Ersfjorden",
+    "latitude":69.70027778,
+    "longitude":18.63944444,
+    "description":"Heng- / sjøtermikksted. 130 moh, 10-15 min å gå. \nFlybart på de fleste sørlige vindretninger, da fjord og fjell nesten alltid fører vind inn på start. \nMest brukt på vinteren.\n\nHer må du være PP3 for å fly siden lufta kan være uforutsigbar og endre seg MEGET raskt til noe du ikke liker. \nPP2 kan fly hvis en instruktør har gitt seg utsjekk på stedet og senere er erfarne piloter til stede som gir lov! \n\nErsfjord er sannynligvis Norges beste vinterflysted på grunn av god sjøtermikk og vinder som nesten alltid står inn på start i vinterhalvåret.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=124"
+}

@@ -1,0 +1,20 @@
+{
+    "country_id":160,
+    "start_id":5859,
+    "name":"Reinsfjellet. Gjemnes",
+    "latitude":62.93,
+    "longitude":7.92666667,
+    "description":"Kjør til angvika . Ta av innover mot heggem . Etter ca 6 km komme rman til en parkeringsplass hvor det står reinsfjellet . Går på vei helt til topps . Bruker ca 1,5 - 2 timer opp. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5859"
+}

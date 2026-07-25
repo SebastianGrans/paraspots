@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":207,
+    "name":"Heggmyrane - Sogn Skisenter",
+    "latitude":61.33888889,
+    "longitude":7.18361111,
+    "description":"Ved Sogn Skisenter er det gode moglegheiter til å flyga paraglider/speedrider/hangglider. Me har startplassar med høgdeforskjell på 250,400,600 og 650 m. Nytt for året er eige dagskort for PG-pilotar i trekket.\n\nDu må skrive deg i ei bok når du kjem og vise gyldig lisens til dei i bilettluka\n\nDet er ikkje stolheis, så ein er avhengig av å bruke miniski eller liknande for å komme seg opp.\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=207"
+}

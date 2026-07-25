@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":6040,
+    "name":"Storafjellet, Vikeså i Bjerkreim, SV exit",
+    "latitude":58.64944444,
+    "longitude":6.10333333,
+    "description":"Exit 15 m. syd for varden.\nPasser best med sydvestlig vind og det er flotte ladningområder nedenfor.\nMye løft å hente til høyre for exit, selv med speedflyer. \nEn stor fordel med Storafjellet. Er at det er flybart i de fleste vindretninger. Med forholds lite forflytning når man først er på toppen. Ca 1 t gange fra Kodleberget 22. Parkering ved barnehagen. Stien begynner med gjerde ca 100 meter oppover vegen parkering/barnehage. Det er merket sti til toppen ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6040"
+}

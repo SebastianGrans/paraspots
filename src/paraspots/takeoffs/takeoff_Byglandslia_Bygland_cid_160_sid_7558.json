@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":7558,
+    "name":"Byglandslia Bygland",
+    "latitude":58.82416667,
+    "longitude":7.82222222,
+    "description":"Gressdekt start. Planert helling utover som er fin for HG og PG, med egen riggeplass for HG. Vær obs i 0-vind, da veien under start fungerer som en avsats. Ikke egnet for PP2 som ikke har utsjekk i 0-Vind, utsjekk i 0-vind skal kun gis hvis elev får flydd den aktuelle dagen.\n\nI 0-vind må det alltid startes mot høyre side(N)\n\nAvgiftsbelagt bomveg for de som kjører opp, og det koster 65,- per bil som vippses til BLSK. Søk på \"byglandslia\"  eller skriv inn nummeret «120488». Nøkkel til bommen oppbevares av Bygland luftsportklubb, og kan lånes på forespørsel på telefon 45 35 65 20 / 91 87 44 02\n\nSving av mot Byglandsheimen, og kjør rett opp vegen til bommen. Kjør så til enden av grusvegen. Der er det parkering. Gå traktorvei opp til høyre. Det er skiltet oppover. Hold venstre opp igjennom. Ca 15 minutt å gå. Hovedlanding er nærmeste jorde på andre siden av vegen ved Tesla ladestasjonene. Land i kanten mot riksveien. \n\nNB! høyspent på østsiden av jorde. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7558"
+}

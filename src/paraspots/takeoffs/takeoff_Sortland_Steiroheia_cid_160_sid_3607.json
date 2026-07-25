@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":3607,
+    "name":"Sortland, Steiroheia",
+    "latitude":68.69111111,
+    "longitude":15.33972222,
+    "description":"Fin start et stykke under toppen av Steiroheia. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3607"
+}

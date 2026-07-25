@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":988,
+    "name":"Bergen Ulriken Øst (baksiden mot Unneland)",
+    "latitude":60.37611111,
+    "longitude":5.41972222,
+    "description":"Hovedretning: Øst\nRett vis à vis heisen på Ulriken mot øst.\nEnkelt å gå til start ifra heisen. Gå hovedløypa ifra Heisen og sørover. Ta til venstre i første \"kryss\" og hold venstre der den merkede stien deler seg. De siste to hundre metrene er ikke merket -stien går mere nordover, men nå er du så nærme at du ser kanten. Det er fine stier og fult mulig å gå i joggesko for eks. \ningen stigning, men det er på andre siden av fjellet så det tar mellom 45min-en time å gå.\nLanding er på jordene rett ned av fjellet på Espeland. Her går det buss tilbake til Danmarksplass i sentrum.\nStarten er dekket med kort gress, litt steiner, og kupert tereng. Høydebegrensning: 650, men 1070m.o.h over foten på fjellet.",
+    "holfuy_id":138,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/138",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=988"
+}

@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":908,
+    "name":"Ringsaker, Bangsberg (skolebakke - PG/HG, PPG PHG)",
+    "latitude":60.85555556,
+    "longitude":10.90611111,
+    "description":"Skolebakke for hg/pg og startplass for motorisert Hangglider og Paraglider.\n\nDette er også hoved-landing for både Bangsberg syd og øst.\n\nHØYDER: 1372 moh nord og øst for gratishaugen. 1064 moh sør og vest for gratishaugen. TIPS: Flyr du til Helgøya er det 1064 moh som gjelder.\n\nNår det gjelder kursing er det i hovedsak et kursted for HLSK. Andre klubber må kontakte styret i HLSK for og drive kursing herfra. \n\nMOTORISERT FLYVING: Her er det HLSK som styrer startstedet, og våre flyregler gjelder alle og enhver. Vi vil ikke ha trafikk til enhver tid for dette startstedet, det tåler ikke grunneierne. I hovedsak skal du være medlem i HLSK for og fly motorisert her, men gjestepiloter er velkommen sammen med medlemmer fra HLSK. \n\nVi har flere startsteder rundt omkring, og flytter litt på oss for og ikke være til unødvendig støy for dem som bor der. Vi er nødt til og ha litt strenge regler for og værne om vårt eget flysted. Disse flyregler skal overholdes.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=908"
+}

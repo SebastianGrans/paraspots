@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":8456,
+    "name":"Korga, Fåvang",
+    "latitude":61.40583333,
+    "longitude":10.26138889,
+    "description":"Privat start hjemme. tlf 92261472, tlf 47080406\n\nStarten er på dyrka mark. Ta kontakt på tlf i vekstsesongen. Vil prøve å brøyte parkering  v/Øygardsvegen på vinterstid. Det må ikke parkeres i Øygardsvegen. Det er 700m å gå på traktorveg fra parkering, (se kart) Hold grinda lukket.\n\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8456"
+}

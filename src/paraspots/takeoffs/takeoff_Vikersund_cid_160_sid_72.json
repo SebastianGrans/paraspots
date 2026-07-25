@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":72,
+    "name":"Vikersund",
+    "latitude":59.93833333,
+    "longitude":10.00611111,
+    "description":"Koordinatene gjelder skiflygingsbakken.\n\nDet er iallfall 2 takeoffs i Vikersund: \n1. toppen av alpinanlegget (NV), du må gå mesteparten av veien opp, og takeoff er ikke stor. \n(Gjengrodd tror jeg. -Kristian Bjølgerud)\n\n2. Take-off rett under hoppkanten i skiflygingsbakken; \"perfekt take-off\". Hengbar på V og kanskje helt til NV. Det går an å kjøre helt opp (bompenger). Her er en del sen termikk, og hengbart på vestavind. \n\nNB: Nede til høyre i bakken, mellom skiflygingsbakken og de mindre bakkene, går det en wire som er veldig vanskelig å se fra lufta. Hvis du planlegger å lande nede i bunn av bakkene, må du lokalisere denne wiren før du tar av. \n\nIngen wire der nå, men kan komme opp for cablecam når det er konkurranse i bakken.\n\nVær obs på at det kan være aktivitet med drone i hoppbakken - kontakt NLF/HPS for å få kontakt med droneoperatør.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=72"
+}

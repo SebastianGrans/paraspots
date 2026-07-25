@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":4466,
+    "name":"Bogen i Ofoten.Fotballbanen Fellesarena PPG",
+    "latitude":68.56388889,
+    "longitude":17.00333333,
+    "description":"Kjør inn for/etter statoil på E10 følg Niingsveien/Sporet til Åsenveien du finner da den gammle fotballbanen som blir brukt til forskjellige ting.Plassen kan være noe krevende siden det er gatelys og busker i hver ende. Det bør helst være baklengsstart her inntil det er ordnet med kommunen om å renske litt skog for å få litt lengre start",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4466"
+}

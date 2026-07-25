@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":7176,
+    "name":"Sogndal - Barten",
+    "latitude":61.24833333,
+    "longitude":7.08916667,
+    "description":"Starten Barten ligger rett ved toppen av fjellet Skjeggen som er første og høyeste fjell rett nord for Sogndal sentrum. Gir noen ekstra høydemeter over Åberge og derfor bedre sjans og tid for å finne termikken. Det er flere landingsmuligheter på jorder. Hovedlanding ved Kvåle stadion i Sogndal. Husk at kvåle stadion brukes av andre, og land heller på jorder litt lenger inn i dalen hvis det er fullt.\n\nDet er to mulige starter: Hovedstart er sørøstvendt (SW-SE) og fungerer for både pg og spg (men trolig ikke for høy wingload). Øststarten (NE-E) ligger 200 meter unna, er flatere og passer seg nok best for pg og evt minivinge med fin vind inn. Startene ble ryddet og utbedret høsten 2023.\n\nVindmåler (satt opp 8 mars 2024): https://www.wunderground.com/dashboard/pws/ISOGND5\n\nNB: Starten ligg ca akkurat på grensa til TIZ til Sogndal flyplass. Flyging må meldes fra til tårnet tlf: 75541641. forklar flyplan og spør om det er greit.\n\nGrunneier ønsker ikke at det flys i hjortejakten (ca september), eller at det fyres opp bål ved starten. Ta kontakt med sogn pg for nærmere info.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7176"
+}

@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":456,
+    "name":"Gahperus, Reisadalen i Nordreisa, Troms.",
+    "latitude":69.5175,
+    "longitude":21.33611111,
+    "description":"Start like ved scooterløype, landing på en åpen myr. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=456"
+}

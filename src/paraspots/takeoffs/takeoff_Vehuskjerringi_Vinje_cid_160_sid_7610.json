@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":7610,
+    "name":"Vehuskjerringi, Vinje",
+    "latitude":59.61916667,
+    "longitude":8.06388889,
+    "description":"Norges nasjonalfjell lzm.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7610"
+}

@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":232,
+    "name":"Ålesund, Turheisen i Spjelkavika",
+    "latitude":62.4525,
+    "longitude":6.38055556,
+    "description":"Dette er et veldig flott fjell å fly fra.\n\nDet er 3 starter på dette fjellet.\n\n1. N-NW  62°27'13.70 6°22'55.69 Denne starter ligger 20m fra avstigningen på heisen.\n\n\n2. N Denne ligger 5min gange innover fjellet.\n\n3. N-NE Denne ligger 10-15 min gange innover fjellet.\nTma vest for heisa er 769 moh. Øst for heisa er det 1069 moh.  Anbefaler å ringe møre approach ( tlf 67 03 30 40) og varsle om flyging. Det hender at ambulanse helikopter eller andre flymaskiner flyger lavt i dalen. \n\n",
+    "holfuy_id":842,
+    "wind_dirs":[
+        "NW",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/842",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=232"
+}

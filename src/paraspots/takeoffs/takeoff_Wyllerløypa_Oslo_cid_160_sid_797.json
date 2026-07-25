@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":797,
+    "name":"Wyllerløypa, Oslo",
+    "latitude":59.99361111,
+    "longitude":10.65388889,
+    "description":"Parker ved Tryvannstårnet og gå ned til toppen av Wyller. Tar ca. 20 min. Merket sti. \n\nAlternativt parker i bunn av bakken. Utenfor bommen. Tar ca 30 minutter å gå opp, dog er det litt bratt til tider (Oslos bratteste!).\n\n\nLanding er parkeringsplassen i bunnen av bakken. Det gikk tidligere en kraftledning rett over den, men den er fjernet, så landingen er enkel og trygg.\n\n\nVær obs på TMA til Gardermoen. Stolheis midt i bakken. \nLitt problematisk med solgangsbris sent på ettermiddagen. \n\nVoksenlia met-stasjon ca 3 km sør for starten: http://voksenlia.net/met/",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=797"
+}

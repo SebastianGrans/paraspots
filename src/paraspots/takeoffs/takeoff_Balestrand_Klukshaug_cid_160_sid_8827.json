@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":8827,
+    "name":"Balestrand, Klukshaug",
+    "latitude":61.20583333,
+    "longitude":6.50416667,
+    "description":"Ta av mot sørvest frå Klukshaug, som det er merka sti til. Gå ca 100-150 meter i same høgd så finn ein starten.\n100 to 150 meters southwest of Klukshaug, witch is on a marked trail, in about same hight as Klukshaug. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8827"
+}

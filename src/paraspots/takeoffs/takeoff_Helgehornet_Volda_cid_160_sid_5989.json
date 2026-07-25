@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":5989,
+    "name":"Helgehornet, Volda",
+    "latitude":62.18944444,
+    "longitude":5.99972222,
+    "description":"Dette fly sted ligger innen for Hovden TIZ, de må innhentes tillatelse fra Hovden Kontrolltårn(Tlf 70041689) før det kan flyges. \nVær tilgjengelig på mobil/radio under flyging.\nhttps://himmelseglarane.no/flyging/flykultur \n\nObs det er vanligvis daglig aktivitet på skyte banen. \n\nGrei landing på myra nede på ryggen mot Ørsta, ved råsa som går fra Solidalen. Start fra toppen av Helgehornet.\n\n(added coordinates SR/20251125)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "E",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5989"
+}

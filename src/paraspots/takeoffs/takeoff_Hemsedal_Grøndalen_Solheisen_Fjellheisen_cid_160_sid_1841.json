@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":1841,
+    "name":"Hemsedal, Grøndalen, Solheisen, Fjellheisen",
+    "latitude":60.92527778,
+    "longitude":8.45388889,
+    "description":"Du kan gå opp til start til venstre gjennom skogen fra den første heisen",
+    "holfuy_id":134,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/134",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1841"
+}

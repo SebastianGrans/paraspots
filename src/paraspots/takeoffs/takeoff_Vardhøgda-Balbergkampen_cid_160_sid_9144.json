@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":9144,
+    "name":"Vardhøgda-Balbergkampen",
+    "latitude":61.15472222,
+    "longitude":10.445,
+    "description":"2026 Grunneier ønsker ikke bruk av startstedet. Skogen skal opp igjen.\n\nSørvendt start. PP3 eller over. Denne starten kan være krevende på termiske dager. Mulig rotor og trakteffekt fra Balbergskaret og høyden som ligger lenge fremme. Ellers en start som kan gi gode muligheter for lange skliturer på svake dager. Denne starten ligger på godt til rette for termikk og distanseturer.\n\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9144"
+}

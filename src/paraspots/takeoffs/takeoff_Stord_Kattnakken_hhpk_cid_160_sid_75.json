@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":75,
+    "name":"Stord, Kattnakken (hhpk)",
+    "latitude":59.87305556,
+    "longitude":5.49305556,
+    "description":"45 min.spasering opp veien til TV.masta.Best på østavind/termikk.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=75"
+}

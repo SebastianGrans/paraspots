@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":9258,
+    "name":"Valdres, Øystre Slidre, Valdresflya, Raslet",
+    "latitude":61.38611111,
+    "longitude":8.74027778,
+    "description":"1.5t gåtur fra Valdresflya Vandrerhjem.\nKan ta av flere steder mot øst på ryggen opp mot raslet. Både stupstart og ikke stup. Tar av mot sør på andre siden av Raslet- mot Bygdin. \nLanding: egnet sted på Valdresflya ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9258"
+}

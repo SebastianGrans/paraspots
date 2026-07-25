@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":10318,
+    "name":"Skogstadfjellet Sunnfjord",
+    "latitude":61.50472222,
+    "longitude":6.01583333,
+    "description":"Lynghei på toppen. Fint å starte i alle retningar.\n\n(added coordinates SR/20251201)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10318"
+}

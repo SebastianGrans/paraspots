@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":2878,
+    "name":"Drøshågen (Fellesbeitet på Kvæfjordeidet) - kursbakke og PPG",
+    "latitude":68.78611111,
+    "longitude":16.35138889,
+    "description":"Dette er fellesbeite så der er ikke alltid det passer å være der. Når det passer og vinden er rett er dette en super skolebakken. Fin plass å trene skjermkontroll og starte med PPG. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2878"
+}

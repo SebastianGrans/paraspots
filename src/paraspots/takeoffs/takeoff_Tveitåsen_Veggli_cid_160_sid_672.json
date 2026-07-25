@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":672,
+    "name":"Tveitåsen, Veggli",
+    "latitude":60.04333333,
+    "longitude":9.115,
+    "description":"Bilvei og parkering 20 meter fra start, Fin og stor landing. Stupstart. Kjempe fine muligheter for topplanding inne på fjellplatået. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=672"
+}

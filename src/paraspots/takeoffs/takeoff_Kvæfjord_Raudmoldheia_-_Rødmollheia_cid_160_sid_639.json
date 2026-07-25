@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":639,
+    "name":"Kvæfjord, Raudmoldheia - Rødmollheia",
+    "latitude":68.80638889,
+    "longitude":16.19277778,
+    "description":"Termikksted nummer 1 i Harstad/Kvæfjord området. Høyderekorden på 2210 msl på Norges største øy er satt her av Bjørnar Trondsen (1998).\n\nDen beste sesongen for Raudmoldheia er Mai/Juni til midten av August. Stedet har stort distansepotensiale i alle retninger, spesielt sørover til Lødingen (55 km). Flere distanseturer har blitt gjennomført til Medkila fra Raudmoldheia.\nDe beste boblene kommer på veststarten fra kl. 13 og utover. Boblene over Raudmoldheia er kraftige, så her er det enkelt å komme høyt.\n\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=639"
+}

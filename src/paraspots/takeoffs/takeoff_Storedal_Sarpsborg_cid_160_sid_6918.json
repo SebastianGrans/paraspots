@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":6918,
+    "name":"Storedal, Sarpsborg",
+    "latitude":59.23138889,
+    "longitude":11.10972222,
+    "description":"Populært PP3 flysted i Østfold.\nHolfuy værstasjon: https://holfuy.com/no/weather/1189\n\nFra parkering går man 85 vertikale meter i 10 minutter opp til starten som er på bart fjell med fri sikt vestover. Stupstart!\n\nParkering og landing på udyrket område ved traktorvei. Ingen parkering på traktorveien!\n\nURL til kart: https://goo.gl/maps/8NH7Rd65ehC2",
+    "holfuy_id":1189,
+    "wind_dirs":[
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/1189",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6918"
+}

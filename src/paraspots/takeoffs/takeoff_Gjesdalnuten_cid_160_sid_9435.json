@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":9435,
+    "name":"Gjesdalnuten",
+    "latitude":58.75972222,
+    "longitude":5.97361111,
+    "description":"Nordfjellet ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9435"
+}

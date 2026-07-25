@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":10444,
+    "name":"Storfonna (Fonna) Tjeldbergodden",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"OBS! Det er flyforbud over selve Tjeldbergodden!Flott fjell ved Tjeldbergodden.vei opp til litjfonna. Ca 30 min opp til Storfonna. Flere jorder for landing",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10444"
+}

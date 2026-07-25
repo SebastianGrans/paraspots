@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":3565,
+    "name":"Myrefjell - Målselv fjellandsby",
+    "latitude":69.08083333,
+    "longitude":18.7475,
+    "description":"Kjør opp til skikafeen i det nye alpinanlegget i Myrefjellet. Derfra ca 20 min å gå til toppen av bakken. Mange startsteder å velge i. Det er sikkert også mulig å starte lengre ned i slalombakkene.\nLanding på jordet ved Rognmoen eller myra under slalombakene.\nOBS! Flystedet ligger i kontrollsonen og all flyging må koordineres med tårnet på Bardufoss, telefon 77833241. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3565"
+}

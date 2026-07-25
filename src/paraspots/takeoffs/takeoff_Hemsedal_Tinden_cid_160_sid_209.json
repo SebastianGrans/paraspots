@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":209,
+    "name":"Hemsedal, Tinden",
+    "latitude":60.83972222,
+    "longitude":8.49555556,
+    "description":"PP2 / PP3 start.\n\nFor å komme hit må man ta Tindenheisen (stolheis) som går fra midten av skianlegget. For å komme til Tindenheisen kan man enten kjøre bil/buss, eller stå på ski ned fra Lodge Express (stolheis) eller Hovin Express (stolheis). Begge disse heisene går fra bunnen av skianlegget. Dersom man velger å stå på stompeski opp er det anbefalt å ta Lodge Express og deretter T-krokheisen Hamarheisen. Det er da litt lengre å gå enn om man tar Tindenheisen.\n\nStarten ligger 100 meter til høyre når du går av Tindenheisen.\n\nStarten er flat og gir normalt ingen problemer. Plass til mange vinger. Ingen spesielle vindhensyn på start. Du kan snakke med personale i bua på toppen av heisen hvis du lurer på hvordan vinden har vært den siste tiden. \n\nTerrenget ned mot Holdeskaret gir ikke veldig mye høyde til overs. Sett derfor kursen mot landing umiddelbart etter takeoff. Fly gjerne så nærme terrenget som mulig til du har passert Holdeskaret.\n\nNB: skulle du ha forlite høyde til å komme sikkert over heisvaieren, er det en alternativ landing i bakken (relativt flatt område) du vil se en kiosk/hytte på høyre side i det flate området og med vaieren forann deg. Kun i nødstilfeller!\n\nPå vinteren er det ofte en lokal vind som kommer på vestlige vindretninger, og som blir forsterket av boravinder fra fjellplatået innenfor Holdeskaret. Du kan derfor ha ganske god medvind nedover Holdeskaret, selv om det ikke er så mye vind ellers. Dette påvirker også vinden på landing. Legg merke til vindpølsene på mastene i Holdeskaret på vei opp, så har du litt mer kunnskap om hva som foregår.\n\nLanding på hovedlanding i skisenteret. Vær oppmerksom på at det er en høyspentledning på vestkanten av landingsjordet, og at det går en høyspentledning over elva øst for landingsjordet.\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=209"
+}

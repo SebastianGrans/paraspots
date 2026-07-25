@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":4963,
+    "name":"Viafjellet - Førde",
+    "latitude":61.4525,
+    "longitude":5.935,
+    "description":"Viafjellet 709 m. kan nåes ved hjelp av merket tursti fra Soleide, Vieåsen eller Tefre. På toppen kan startområde velges basert på vindretning. Beste flyretning mot vest når solgangsbrisen står rett inn mot fjellet på ettermiddag og kveld.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4963"
+}

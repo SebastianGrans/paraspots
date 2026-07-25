@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":9705,
+    "name":"Våttåfjellet Selbu",
+    "latitude":63.29,
+    "longitude":10.96083333,
+    "description":"Sydvendt hang. Ca 2-300m bredde. Landing på myr ved Svarttjønna øst for toppen eller oppe på toppen. Mulig å starte langs hele ryggen, best landing foran østre del av fjellet. Korteste vei å gå opp er fra demningen ved første tjern på Svendalsvegen. Ca 30-40 min å gå herfra.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9705"
+}

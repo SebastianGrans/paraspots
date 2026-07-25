@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":2280,
+    "name":"Ørskogfjellet, Nyseternakken",
+    "latitude":62.52416667,
+    "longitude":6.93944444,
+    "description":"Flott flysted med muligheter for start mot alle vindretninger. Fint hang mot nord.\nVeien til toppen er mye brukt som skolebakke.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2280"
+}

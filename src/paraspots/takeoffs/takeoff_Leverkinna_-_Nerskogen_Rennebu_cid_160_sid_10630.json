@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":10630,
+    "name":"Leverkinna - Nerskogen, Rennebu",
+    "latitude":62.77138889,
+    "longitude":9.64583333,
+    "description":"Can be approached from the ski centre or from the nice hiking trail from the parking (toll road) at (62°46'48.1\"N 9°37'39.3\"E).\n\nGood soaring with North winds, can even work with mid-summer thermals late in the day. Often a slightly lower cloud base than further south. Convergence possible.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10630"
+}

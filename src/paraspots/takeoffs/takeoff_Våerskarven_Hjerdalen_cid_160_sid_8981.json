@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":8981,
+    "name":"Våerskarven, Hjerdalen",
+    "latitude":59.87194444,
+    "longitude":8.43694444,
+    "description":"Herlig sted.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8981"
+}

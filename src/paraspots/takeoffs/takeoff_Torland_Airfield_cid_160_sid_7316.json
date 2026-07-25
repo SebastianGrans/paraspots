@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":7316,
+    "name":"Torland Airfield",
+    "latitude":58.68916667,
+    "longitude":5.63666667,
+    "description":"Stedet er godt egnet for paramotorflyging. All flyging her skal på forhånd avklares med Jæren luftsportsklubb (jaerenluftsport.no) etter avtale med grunneier, eller med Trond Nyman Aarre på mobil +47 950 50 555, som har kursvirksomhet her. Området har gode forhold for takeoff og landing i alle retninger.\nVind og vær:\nhttps://www.windy.com/58.690/5.637?58.648,5.727,11",
+    "holfuy_id":1683,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "N"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/1683",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7316"
+}

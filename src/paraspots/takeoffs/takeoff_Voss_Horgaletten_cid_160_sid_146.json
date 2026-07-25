@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":146,
+    "name":"Voss, Horgaletten",
+    "latitude":60.66694444,
+    "longitude":6.39138889,
+    "description":"Bomvei opp. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=146"
+}

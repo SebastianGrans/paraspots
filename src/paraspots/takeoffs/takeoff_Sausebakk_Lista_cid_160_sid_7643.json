@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":7643,
+    "name":"Sausebakk, Lista",
+    "latitude":58.13027778,
+    "longitude":6.59861111,
+    "description":"Kystheng 5km nord-nordøst for Lista fyr. Den gresskledde delen er ca.200m. Flyr man ut over trærne i syd får man ytterlige 150m. Da henget ikke er så bratt, må det være rundt 6-7 m/sek. Det er i tillegg endel stein som stikker opp. Krever god vingekontroll. PP3",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7643"
+}

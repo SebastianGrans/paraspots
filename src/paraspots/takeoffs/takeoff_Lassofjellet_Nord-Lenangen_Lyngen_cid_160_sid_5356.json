@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":5356,
+    "name":"Lassofjellet, Nord-Lenangen(Lyngen)",
+    "latitude":69.89333333,
+    "longitude":20.20055556,
+    "description":"Kjør til Straumen-brua i Nord-Lenangen og kjør veien ca 80 meter høyere enn hovedveien, parkeer ved veienden. Følg stien opp på sørsida langs ryggen på Lassofjellet. Det tar fra 30-60 min å gå opp etter korsen formen din er.\n\nFjellet er en avlang sukkertopp med beste vindretninger på ren vest og sør-vest, garantihang da. Men du kommer deg ut på alle retninger med å forflytte starten ca 300 meter i lengderetning(nord/sør) Om du starter på østlige vinder må du fly rundt fjellet, det går fint både på nord-sida og sør-sida.\n\nLandinger er ikke avtalt, men bygdas folk er superhappy om du lander hos en av dem og slår av en prat. Stort fint jorde rett under fjellet på vest-sida.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5356"
+}

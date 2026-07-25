@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":7115,
+    "name":"Ose, Reiårsfossen camping, Bygland (OTP Scootervinsj)",
+    "latitude":58.94111111,
+    "longitude":7.69055556,
+    "description":"An old airstrip where you can use a winch.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7115"
+}

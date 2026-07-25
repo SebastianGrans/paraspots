@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":10926,
+    "name":"Rødland?",
+    "latitude":58.50833333,
+    "longitude":6.25611111,
+    "description":"Small takeoff, 30 minutes to climb from the car park on Rødlandsveien",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10926"
+}

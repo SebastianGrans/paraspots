@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":7856,
+    "name":"Staurinibba, Loen",
+    "latitude":61.89277778,
+    "longitude":6.85777778,
+    "description":"Fin tur 40-45 min fra Hoven (Loen Skylift). Litt kupert terreng nedom toppen, men går fint å ride med ski på vinterstid. Landing samme som fra Hoven.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7856"
+}

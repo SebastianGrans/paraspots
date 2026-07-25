@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":3987,
+    "name":"Brokke Alpinsenter, Valle",
+    "latitude":59.08555556,
+    "longitude":7.45583333,
+    "description":"Brokke Alpinsenter ligger ved Rysstad i Valle komune. Følg suleskar veien så ligger det på V side av vegen når du kommer opp den første bakken. Skiltet. Spørr altid om låv fra Alpinsenteret før du flyr.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3987"
+}

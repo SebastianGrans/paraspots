@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":854,
+    "name":"Geilotoppen(Geilo)",
+    "latitude":60.53972222,
+    "longitude":8.19416667,
+    "description":"I FØLGE SKISENTERET HAR ALPINANLEGGENES LANDSFORENING GENERELT FORBUDT ALL FLYGING NÆRMERE SKISENTER ENN 200 METER. DET MEDFØRER AT STEDET ER STENGT FOR FLYGING.\n\nGeilotoppen ligger nord for Geilo. \nDu kommer dit ved å ta heisen opp, eller du kan kjøre rundt på baksiden og gå opp (sommeren). Ca. 5 min gange svak stigning.\nTakeoff øverst i Ola-løypa, til venstre for toppen på heisen (se bildet), eller på østlig øverst i Geilo-løypa. Heisen går selvsagt om vinteren, men også i turistsesongen om sommeren, sjekk www.geilotaubane.no.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=854"
+}

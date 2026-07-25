@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":10394,
+    "name":"Skruen - Rennebu",
+    "latitude":62.87416667,
+    "longitude":9.86861111,
+    "description":"Works very well in afternoon with cliffs below, nice for evening thermal soaring, hike and fly. Reliable with valley breeze from NW/N, the wind turns straight up this hillside. Normally very smooth and consistent. Convergence possible.\n\nMany take-off options around the top where the trail emerges, rather than the true summit. Many landing options in the valley.\nBest to park by the toll station, (62°52'56.5\"N 9°50'40.4\"E) space for one or two cars, walk along the road until you meet the path via Pilgrimsleden, then it is a quite steep but only 1.5km.\nMore parking space at the Joker shop nearby in Voll.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10394"
+}

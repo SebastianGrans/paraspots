@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":7215,
+    "name":"Gjæsene, Eide, Fitjar",
+    "latitude":59.90611111,
+    "longitude":5.46416667,
+    "description":"Mulig å starte mot Ø-SØ ovenfor og sør for varde, mot Ø-NØ ovenfor og nord for varde.\n\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7215"
+}

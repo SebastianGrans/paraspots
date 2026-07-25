@@ -1,0 +1,20 @@
+{
+    "country_id":160,
+    "start_id":7085,
+    "name":"Ålesund, Engesetdalen - Vardtua",
+    "latitude":62.55722222,
+    "longitude":6.81666667,
+    "description":"Følg råsa frå Høgsetra mot Frostadtinden og stopp på siste toppen før Frostadtinden (grønn stipla på kartet). \n\nStort sett startbar i dei fleste vindretningar med gode hangforhold på nordsida og fine moglegheiter for løft og termikk på sør og vestsida inn mot Høgsetra som også er hovedlanding ved parkeringsplassen (stor grøn prikk på kartet)\n\nGodt med landingsmuligheter i heile området ..",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7085"
+}

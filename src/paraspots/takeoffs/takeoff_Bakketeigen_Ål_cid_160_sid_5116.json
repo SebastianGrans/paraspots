@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":5116,
+    "name":"Bakketeigen Ål",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Start på jordet ved Halstensgård, landing ved MC-huset ved Strandafjorden",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5116"
+}

@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":167,
+    "name":"Meråker",
+    "latitude":63.4575,
+    "longitude":11.68194444,
+    "description":"På vinters tid er dette et alpinanlegg, da tar vi trekket opp (ta med små-ski). Sommers tid går vi opp; ca 15-20 min.\nKjempefint sted for hang- og termikkflyging.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=167"
+}

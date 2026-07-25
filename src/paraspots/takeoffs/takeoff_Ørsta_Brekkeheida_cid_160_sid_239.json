@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":239,
+    "name":"Ørsta, Brekkeheida",
+    "latitude":62.19944444,
+    "longitude":6.17027778,
+    "description":"Dette fly sted ligger innenfor kontrollert luft rom Hovden TIZ, de må innhentes tillatelse fra Hovden Kontrolltårn(Tlf 70041689) før det kan flyges eller Møre Approch(Tlf 74825800) for og åpne luftsports boks.\nhttps://himmelseglarane.no/flyging/flykultur \n\nStartplassen ligger rett øst for Ørsta sentrum. Vi kjører opp en bomvei som ligger et lite stykke inn i Follestaddalen. På heldige dager får man fin termikk i tillegg til solgangsbris som støttehang.. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=239"
+}

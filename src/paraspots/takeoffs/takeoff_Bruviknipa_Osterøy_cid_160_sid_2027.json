@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":2027,
+    "name":"Bruviknipa,Osterøy",
+    "latitude":60.48416667,
+    "longitude":5.65138889,
+    "description":"Kjør mot Bruvik,på Osterøy.Fortsett opp mot Bruvikdalen.Stopp ved parkering på toppen.Herfra går det merka løype på Bruviknipa.Må rekne ca.1 time å gå.Landing på Bruvik.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2027"
+}

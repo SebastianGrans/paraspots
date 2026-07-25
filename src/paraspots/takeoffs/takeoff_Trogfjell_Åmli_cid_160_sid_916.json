@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":916,
+    "name":"Trogfjell, Åmli",
+    "latitude":58.77472222,
+    "longitude":8.47138889,
+    "description":"Ankomst start:\nFølg riksveien til Birkeland. Videre er det skiltet. Stien opp fra sentrum i Åmli er merket som vandresti. Parker ved turistinformasjonen. Stien starter der, se etter porten.  \nOm starten(e) :\nStarten er blanke fjellet, og er særdeles godt egnet. Så er du redd for å skitne til skjermen, er dette plassen for deg.  \nOm landingen(e) :\nIdrettsplassen er beste landingsfelt, men det finnes andre nødlandinger i området. OBS!! Pass opp for høyspentledningene.  \nMerknader Ved riktige forhold, er det et meget bra både hang og termikksted. Utgangspunkt for en distansetur er god. \nDet er en stor vindpil i metall på starten. Den viste feil vindrettning når jeg fløy der!!!  Termikken blir ekstremt kraftig når solen står inn i den glatte fjellsiden!!!\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=916"
+}

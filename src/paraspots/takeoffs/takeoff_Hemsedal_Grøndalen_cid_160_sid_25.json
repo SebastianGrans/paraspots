@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":25,
+    "name":"Hemsedal , Grøndalen",
+    "latitude":60.92333333,
+    "longitude":8.45,
+    "description":"Du kan se takeoff er markert som den nederste av de røde prikkene på bildet under. Om sommeren kjører du til Harahorn og går resten. Om vinteren tar du T-krok-heisen frem til takeoff - derfor skal du ikke glemme mini-/stumpe-ski...\n\nVinterlanding er jordet på motsatt side av oppkjøring til Solheisen. Her skal vi ikke lande etter at snøen er borte! Bruk da hovedlanding på golfen, eller et lite steinete jorde ved rød hytte øst for hovedveien. Det ligger mellom hoveveien og sommerveien opp til start. Dette jordet er litt vanskelig å finne. Se etter vindpølse.\n\nForklaring til bilde:\n\nS1 = Øvre start Sogglarberget (alle trinn)\nS2 = Nedre start Sogglarberget (sør-starten, litt vanskeligere, og blir til stup noen steder)\nS3 = Øvre start i Solheisen, fra skibakken (alle trinn)\nS4 = Nedre start i Solheisen,brukes om vinteren, der du går av skitrekket. (Alle trinn).\n\nL1 = Hovdedlanding ved golfbanen",
+    "holfuy_id":134,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/134",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=25"
+}

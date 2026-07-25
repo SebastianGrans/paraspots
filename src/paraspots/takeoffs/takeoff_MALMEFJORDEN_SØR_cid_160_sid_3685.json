@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":3685,
+    "name":"MALMEFJORDEN SØR :)",
+    "latitude":62.80166667,
+    "longitude":7.26861111,
+    "description":"Flott alternativ når 2. satarten i malmis ikke fungerer\n\n(added coordinates SR/20251130)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3685"
+}

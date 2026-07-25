@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":10753,
+    "name":"Ørsta, Vardehornet",
+    "latitude":62.23055556,
+    "longitude":6.11583333,
+    "description":"Fin natur start mellom Vardehornet og Nivane. Flyging avtales med HOV TIZ. TMA 1067.\n62.2305849, 6.1158601",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10753"
+}

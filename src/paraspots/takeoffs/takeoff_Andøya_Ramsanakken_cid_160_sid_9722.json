@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":9722,
+    "name":"Andøya, Ramsanakken",
+    "latitude":69.19194444,
+    "longitude":15.99722222,
+    "description":"Info",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9722"
+}

@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":4409,
+    "name":"Hallingskarvet Skisenter",
+    "latitude":60.63805556,
+    "longitude":8.00972222,
+    "description":"Start i skaret hvor løypa fra fjellheisen går ned til super g løypa. Ta første heisen opp gå til høyre når du går av heisen. Følg løype opp mot fjellhisen til det er en avstikker ned mot dalen (super g løypa). Landing på isen. Fallvindene fra Hallingskarvet er ofte dominerende, så det lønner seg å ta en tur på ski først. \nVed øslig vind må en på toppen av fjellheisen. Her kan det virke langt over \"sletta\" før skogkanten. Skulle en ikke skli over  er det bare å lande hvor som helst å gå ned.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4409"
+}

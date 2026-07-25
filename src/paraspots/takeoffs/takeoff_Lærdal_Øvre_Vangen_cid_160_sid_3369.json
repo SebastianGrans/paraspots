@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":3369,
+    "name":"Lærdal, Øvre Vangen",
+    "latitude":61.1025,
+    "longitude":7.52944444,
+    "description":"Fra E16 ta av mot Lærdal Sjukehus. Køyr 200 m forbi sjukehuset opp ein bakke over ei bru og ta fyste veg til venstre. Køyr til toppen av boligfeltet. Parker på parkeringsplass på høgre sida av siste sving. Frå parkeringsplassen gå siste 100 meter av vegen. Gå gjennom grinder og følg stien i ca 15 min til du er framme.   ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3369"
+}

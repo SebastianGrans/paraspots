@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":10925,
+    "name":"Prekestolen på osterøy. Ved Tyssebotnen.",
+    "latitude":60.61611111,
+    "longitude":5.62722222,
+    "description":"Man går opp til nedre botnavatnet fra tyssebotnen.\nDerifra går man over en liten bro og videre opp til venstre. Følg opp ca 100 høydemeter",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10925"
+}

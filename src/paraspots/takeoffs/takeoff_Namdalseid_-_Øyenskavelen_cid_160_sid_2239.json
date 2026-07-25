@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":2239,
+    "name":"Namdalseid - Øyenskavelen",
+    "latitude":64.28444444,
+    "longitude":11.09361111,
+    "description":"Kjør RV17, ta av mot Osen. Kjør til Myrmoen (liten husklynge og stor parkeringsplass ved vegen) ca 5 km fra RV17. Det er veg opp til flystart, men det kreves løyve for å kjøre opp. 5,5 km å gå opp, ca 1,5 time.\n\nMaks høyde er 1067m, Namsos TIA",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2239"
+}

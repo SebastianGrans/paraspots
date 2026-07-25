@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":2698,
+    "name":"Arneve",
+    "latitude":58.53305556,
+    "longitude":7.60305556,
+    "description":"Ligger mellom Evje og Sveindal.20-30min å gå til toppen.Må være kjent.Kontakt Per Finnvold.\n\n(added coordinates SR/20251130)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2698"
+}

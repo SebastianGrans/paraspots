@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":3744,
+    "name":"Bodø Turisthytta Latmannshauen",
+    "latitude":67.30333333,
+    "longitude":14.44611111,
+    "description":"Gammel hanggliderplass.5 min og gå til start fra parkeringsplass ved Turisthytta.Bør være hengende pga lite landingsplasser i Skivika. Egner seg best for pp3.Turisthytta helt til venstre i bildet.Start inntil radiomast.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3744"
+}

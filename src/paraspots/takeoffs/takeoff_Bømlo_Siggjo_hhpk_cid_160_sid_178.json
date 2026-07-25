@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":178,
+    "name":"Bømlo, Siggjo (hhpk)",
+    "latitude":59.74861111,
+    "longitude":5.29583333,
+    "description":"Ingen spesiell landingsplass.Finn og sjekk landingsplass før du tar av. Siggjo er ikke egnet for nybegynnere pga. kronglete landing",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=178"
+}

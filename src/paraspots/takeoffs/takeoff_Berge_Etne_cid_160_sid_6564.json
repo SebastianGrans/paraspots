@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":6564,
+    "name":"Berge Etne",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Ta av mot Aurdal i Øvre Vats. Følg skilt til Sletthaug turløype. Bakken er på vei opp til Sletthaug. Flyving i skolebakken må avtales med grunneier Jan Haslemo 915 58 403.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6564"
+}

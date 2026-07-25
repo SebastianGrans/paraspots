@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":6844,
+    "name":"Bjørndalsfjellet",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Parkering på Gramstad ved Dalsnuten. Gå videre opp veien forbi klubbhuset ti Sandnes MC, så over gjerdeklyven på høyre side og følg merket sti. Det kan være lurt å sette en bil på Lutsisiden om man ikke vil gå helt tilbake til Gramstad. Det er også mulig å parkere ved kompostannlegget på Lutsi. Følg annleggsveien opp til den store pipa i skogen og følg sti videre herfra. Har bare flydd vinterstid så har ingen erfaring med vindforholdene ennå. Landingsområder i vekstsesongen er IKKE avklart. Finnes likevel noen utmarker i nærheten",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6844"
+}

@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":1646,
+    "name":"Sogndal, Storehaugen",
+    "latitude":61.17194444,
+    "longitude":7.12,
+    "description":"07.09.03 Arbeider med å få tlgang til nøkklene til vegen opp. Flyging må avtales med flyplasskontrollen på tlf.: 57672616. Sindre",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1646"
+}

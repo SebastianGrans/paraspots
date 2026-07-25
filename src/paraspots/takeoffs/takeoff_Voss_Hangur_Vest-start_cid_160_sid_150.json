@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":150,
+    "name":"Voss, Hangur Vest-start",
+    "latitude":60.64333333,
+    "longitude":6.39861111,
+    "description":"Dette er en litt krevende start hvor GOD vingekontroll er nødvendig, og en start som en er nødt til å ha vind inn for å kunne ta av. Ingen plass for å løpe. Vingen må være over hodet med god kontroll før en kan ta av trygt. \nKan være lurt å legge ut vingen «oppå» siste fjell/kul så det er lettere å få vingen opp. \nEr litt lyng og småtrær som linene kan sitte fast i så vær litt obs på dette. \n\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=150"
+}

@@ -1,0 +1,20 @@
+{
+    "country_id":160,
+    "start_id":5,
+    "name":"Oppdal, Hovden",
+    "latitude":62.61638889,
+    "longitude":9.68638889,
+    "description":"Flysted året rundt med gode hang- og termikkforhold like ved E6. Skiheis/gondol til take-off. Start i nærheten av heisen på øst eller vestsiden. SørØst starten er ganske flatt, stort plenaktig område.\nSV-start er mere stenete.\n\n--> Hoved landing må ikke brukes innen vekstsesongen. Det betyr fra dagen snøen er bort i våren til circa midt i August. Innen sommer sesong må vi flytte hovedlanding til første jordet ØST for heisen, ovenfor leieligheter, se bilde her (1): https://postimg.cc/Pv5cst41\n(Kart: https://maps.app.goo.gl/BDy97E1q8E2yV3YR7 )\nAndre jordet (2) vestover er også mulig å bruke men ikke som hoved landing.\n\nUtenfor vekstsesongen (ETTER ca. 15.August/ når gressklipping er ferdig)... land langs hovedveien, Gamle Kongeveg, dvs langs den 300m lange veikanten på dette jordet. \nDet er ofte et flagg på gården øverst på jordet som viser vindretning.\n\nMan skal være oppmerksom på, at ved sydlige vinder mer enn 5-6 ms i 800hPa (2000moh), dannes det  bølgeaktivitet \nHøydebegrensning 4114m. \nhttp://relet.github.io/pg-xc/viewer.html#9/62.6230/9.7380\n\nNB! \nAlle som flyr i området bør være obs på Fagerhaug flyplass som ligger ca 10km Ø for Oppdal sentrum. Her foregår det fallskjermhopping, motor-, mikro- og seilflyaktivitet. Det er ikke kontrollert luftrom over flyplassen, men det frarådes på det sterkest å fly innenfor 2km radius rundt flyplasssen, da det vil skape konflikter med aktiviteten på flyplassen. Det er ikke lov til å lande på flyplassen om ikke annet er avtalt. \nSe nettsiden for terminliste over aktivitet på flyplassen. http://www.mfl.no/ \nFlyplassens frekvens er 122,95 MHz",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5"
+}

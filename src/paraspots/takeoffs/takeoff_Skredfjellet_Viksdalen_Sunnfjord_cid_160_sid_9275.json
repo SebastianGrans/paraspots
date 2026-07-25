@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":9275,
+    "name":"Skredfjellet, Viksdalen, Sunnfjord",
+    "latitude":61.37,
+    "longitude":6.11333333,
+    "description":"Fint starterreng på begge sider av fjellet, mulig å starta frå NØ-SV. Fint å gå frå Biskarhammaren på veg mot Vikastølen. Bompeng 50 kr\n\nLanding kan avtalast med grunneigar på Nyheim",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9275"
+}

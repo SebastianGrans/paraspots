@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":8732,
+    "name":"Sauda",
+    "latitude":59.63888889,
+    "longitude":6.51805556,
+    "description":"Jettegrytene ligger i Åbødalen ved siden av Buer. Det minste fjellet i området.\n\n(added coordinates SR/20251130)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8732"
+}

@@ -1,0 +1,20 @@
+{
+    "country_id":160,
+    "start_id":3024,
+    "name":"Skrott, Øystese",
+    "latitude":60.45722222,
+    "longitude":6.14416667,
+    "description":"Generelt:\nFin stad å fly med hangmuligheter mot V.\nTar 2-3 timar å gå opp frå Fitjadalen avhengig av form. Turskildring er lagt ved som link.\n\nTilkoms og parkering:\nFrå Øystese følg skilting mot Soldal og vidare mot Fitjadalen. Parkering på Fetet i Fitjadalen. \nIkkje pålagt betaling, men for å støtte vinteropen veg og vedlikehald av vegen kan ein vippse 30 kr til 139178 - Fitjadalens vener.\n\nStarten:\nGreie startmogelegheiter mot Ø-SØ-S. Kan vera delvis stupstart mot V avhengig av kor ein tar av. Også mogeleg å starte mot SV, NV og NØ. \nEr ein del stein på heile toppen, men ein finn alltid ein grei plass å ta av.\nEr det for mykje vind på toppen kan Vindskjerleitet litt lenger nede vera eit mogeleg startalternativ ved SØ, S, SV og V.\n\nI lufta:\n- Kan vera sterk dalvind.\n- Ver obs på mulig rotor frå omkringliggande fjell ved andre vindretningar enn S.\n- Fleire smådalar som møtest i området, kan vera lokale vindsystem.\n\nLanding:\nMange store fine bakkar å lande på i Fitjadalen ved parkeringa.\n\nHøgdebegrensing:\nHøgdebegrensinga i området er 2286 moh.\nKart: http://luftrom.info/viewer.html#12/60.4070/6.1184/topo4-x12vsf-65l4ys",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3024"
+}

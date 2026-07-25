@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":10712,
+    "name":"Valdres, Øystre Slidre, Bitihorn, Toppunkt",
+    "latitude":61.29443056,
+    "longitude":8.79895278,
+    "description":"Toppen av Bitihorn.\nKan ta av alle retninger, men stupstart på N, NØ, Ø, SØ og S.\nOfte vind fra Vest når man kommer opp mot toppen, som kan virke som SV/S når man går oppover Sherpatrappene.\nOfte rotete å fly rundt på østsiden om det er litt trekk fra Vest. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10712"
+}

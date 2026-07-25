@@ -1,0 +1,20 @@
+{
+    "country_id":160,
+    "start_id":8708,
+    "name":"Haram, Søvika - Søvikvarden",
+    "latitude":62.55333333,
+    "longitude":6.30583333,
+    "description":"Lav start ca. 20 minutt gange frå Vetegarasja, som er utgangspunkt for vegen opp til Gamlemsveten. Kan gå langs vegen til ein kjem til skilt mot Søvikvarden, følger deretter godt etablert rås vestover til takeoff. Kan også gå via pensjonistråsa og/eller Hagefjellet på fine råser.\n\nFine landinger ved småbåthavna.\n\nSituated within Vigra CTR (that has a very direct view to this start), so please make sure to clear your takeoff with Vigra ATC by phone +47 67035470, and help preserve the very good relationship we have established with them.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8708"
+}

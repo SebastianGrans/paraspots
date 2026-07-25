@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":7443,
+    "name":"Tylderingen Sogndal",
+    "latitude":61.292451,
+    "longitude":7.032344,
+    "description":"Lots of good starting possibilities near the summit. SOGNDAL.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "E",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7443"
+}

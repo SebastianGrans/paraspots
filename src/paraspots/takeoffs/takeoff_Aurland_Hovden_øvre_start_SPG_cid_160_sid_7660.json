@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":7660,
+    "name":"Aurland, Hovden, øvre start ( SPG )",
+    "latitude":60.92083333,
+    "longitude":7.22722222,
+    "description":"Start i Aurland. Lengre opp enn øvre start, på vei til Prest. Rett etter stien går opp en 'klippekant' finnes starten rett bort. Rom nok til å kunne avbryte start. Mulig hjørneeffekt til høyre med mye vind.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7660"
+}

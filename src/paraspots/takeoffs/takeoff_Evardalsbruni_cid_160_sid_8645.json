@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":8645,
+    "name":"Evardalsbruni",
+    "latitude":59.08166667,
+    "longitude":7.32388889,
+    "description":"Top of mountain with good posibillity for thermal flights. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8645"
+}

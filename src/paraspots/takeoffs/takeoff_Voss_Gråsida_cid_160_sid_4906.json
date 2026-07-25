@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":4906,
+    "name":"Voss, Gråsida",
+    "latitude":60.56694444,
+    "longitude":6.36361111,
+    "description":"En fin gåtur på et par timer,starter ved saga før hjelle starten.\n\n(added coordinates SR/20251126)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4906"
+}

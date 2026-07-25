@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":10929,
+    "name":"Nakklingsfjellet, Kolvereid",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Small ridge with some areas suitable for saoring. The start consists of Rocky slabs and heather. No clear path, but easily accessable from both sides. Check with landowner before landing on the fields either side of the ridge. Both sides have bog fields that are easily landable.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10929"
+}

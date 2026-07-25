@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":6775,
+    "name":"Daurmålshaugen, Vikafjellet nord",
+    "latitude":61.04786806,
+    "longitude":6.56942626,
+    "description":"Daurmålshaugen ligger på Vikafjellet, nord for Storhaugtunnelen. En går fra Storhaug, retning nord, langs oppmerket tursti på Ovriseggi. Ca. 1 time å gå. Jevnt terreng. Starten er stor og fin.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6775"
+}

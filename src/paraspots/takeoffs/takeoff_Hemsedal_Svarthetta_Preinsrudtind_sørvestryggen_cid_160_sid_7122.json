@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":7122,
+    "name":"Hemsedal, Svarthetta, Preinsrudtind, sørvestryggen",
+    "latitude":60.96083333,
+    "longitude":8.29805556,
+    "description":"Ryggen opp mot Preinrudtind som ligger foran Svarthetta på nordsiden av Bulidalen.\n\nFint sted å bli dragget over uventet harde steiner.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7122"
+}

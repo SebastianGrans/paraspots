@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":4285,
+    "name":"Julskartind, Malmefjorden, Hustadvika",
+    "latitude":62.81222222,
+    "longitude":7.28333333,
+    "description":"Dette er den høyeste toppen bak Galten. Ligger ved Julskaret mot Urdfjellet. Se bilde med Urdfjellet og Kvannfjellet i bakgrunnen.\n\nFør flyving ringes \"Flytårnet\" i Molde (Bodø flykontrolltjeneste) på telefon +47 75541647.\n\nEtter stengetid må Møre Approach (Værnes) ringes på tel +47 67033040",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4285"
+}

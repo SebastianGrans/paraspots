@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":8173,
+    "name":"Sandblokksteane, Hornnes",
+    "latitude":58.52722222,
+    "longitude":7.60861111,
+    "description":"Middle distance with easy landing.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8173"
+}

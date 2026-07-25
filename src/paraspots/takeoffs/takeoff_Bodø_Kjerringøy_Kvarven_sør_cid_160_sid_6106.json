@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":6106,
+    "name":"Bodø Kjerringøy Kvarven sør",
+    "latitude":67.50966667,
+    "longitude":14.87323333,
+    "description":"Veldig fin merket tursti opp til start. Ca 90 min å gå til start",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6106"
+}

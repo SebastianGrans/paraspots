@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":6919,
+    "name":"Valdres, Øystre Slidre, Beito, Skyrifjellet",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Mountain between Bitihorn and Lake Fleindendin. In winter, skinning up from Fleinsendin (appr 1 hour); in summer, access from any direction. Good thermals above vertical drops all around the mountain when the sun has done its part...",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6919"
+}

@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":10575,
+    "name":"Furuåsen - Rennebu",
+    "latitude":62.85861111,
+    "longitude":9.795,
+    "description":"Top with antenna. Short hike circa 20min from Nerskogveien. Works as a nice thermal start on a good day and/or Easterly winds. Also calm wind days for hike and fly.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10575"
+}

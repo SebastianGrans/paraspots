@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":758,
+    "name":"Åberget - Sogndal",
+    "latitude":61.23805556,
+    "longitude":7.09805556,
+    "description":"Bilveg til Åberge, parkering ved postkassene. \nCa 15-20 min gange mot \"Trona\". (sti)\n\nNB: Starten ligg ca akkurat på grensa til TIZ til Sogndal flyplass. Flyging må meldes fra til tårnet tlf: 75541641. forklar flyplan og spør om det er greit.\n\nHøgdebegrensing 1670 meter.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=758"
+}

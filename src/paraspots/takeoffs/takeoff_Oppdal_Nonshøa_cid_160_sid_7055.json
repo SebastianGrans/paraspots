@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":7055,
+    "name":"Oppdal, Nonshøa",
+    "latitude":62.72277778,
+    "longitude":9.53361111,
+    "description":"Parker bilen på parkeringsplass der stien går opp til Nonshøa.Følg denne stien et stykke på vei. Flere steder å starte fra ut mot kanten. Er det litt vestlig komponent i vinden, er det bedre å gå over toppen og starte på vestsiden av toppen. Må gå litt ned igjen på andre siden.  Fint hangsted på nordavind. ( N/NNØ) Litt termisk også. Landing er rett ovenfor parkeringsplassen. Ofte fin vind og greie landingsforhold.  Alternativt land på nedre parkeringsplass (Svahøgvegen) eller ei myr lenger bort langs denne veien.  ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7055"
+}

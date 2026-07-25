@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":2404,
+    "name":"Reppesåsen - Reppe - Trondheim",
+    "latitude":63.41083333,
+    "longitude":10.54916667,
+    "description":"Langt hang med utsikt ut over hele Trondheim med termikkpotensiale. Traktorvei helt opp til start - ikke kjørbar med bil. Landing på åker KUN utenfor vekstsesong. På sommeren må man enten lande på grusveien som går tvers over åkeren mot vest, eller på grusplassen rundt hjørnet til høyre, sett fra start. Bonden som eier grunnen bor på den siste gården før man kommer frem til hanget. \n\nVed vestlig vind kan det bli litt turbulent luft fra åsen til vest. Beste vindretning er ren nordvest.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2404"
+}

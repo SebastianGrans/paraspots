@@ -51,7 +51,7 @@ def main() -> None:
         sys.exit(1)
 
     bridge = Bridge.instance()  # type: ignore[attr-defined]
-    bridge.load_takeoffs("/home/grans/Projects/flightlogscrape/data/takeoffs")
+    bridge.load_takeoffs(str(Path(__file__).parent / "takeoffs"))
 
     ret = app.exec()
     # Destroy the QML engine before the singleton goes out of scope, otherwise

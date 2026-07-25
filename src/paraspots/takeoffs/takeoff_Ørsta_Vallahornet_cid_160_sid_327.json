@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":327,
+    "name":"Ørsta, Vallahornet",
+    "latitude":62.22277778,
+    "longitude":6.13916667,
+    "description":"Dette fly sted ligger innenfor kontrollert luft rom Hovden TIZ, de må innhentes tillatelse fra Hovden Kontrolltårn(Tlf 70041689) før det kan flyges.\nhttps://himmelseglarane.no/flyging/flykultur \n\nPå Vallahornet kan ein starte på alle vindretningar unntatt rein nord.  Grasbelagt er toppen også.  Vi har brukt plassen mest til kveldstur og dermed lang sklitur nedatt, men den kan også kvitte seg med ein del kveldstermikk.   Det tek knappe 2 timar opp, anten ved å følge ryggen eller Skålavegen. Elles brukar vi å tanke høgde her når vi er på distansetur frå Bondalseidet.  Landingar fins det overalt nede i bygde, men det vert stadig færre av dei.  Hugs å ring Flytårnet.  ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=327"
+}

@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":570,
+    "name":"Lysenuten, Sandeid",
+    "latitude":59.5275,
+    "longitude":5.90416666,
+    "description":"Skogsvei fra Sandeid-sida opp til ca.500m/30 min derifra/flere starthøyder mot vest. Snakk med bonde før kjøring.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=570"
+}

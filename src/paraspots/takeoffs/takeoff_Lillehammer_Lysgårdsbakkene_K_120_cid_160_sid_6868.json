@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":6868,
+    "name":"Lillehammer,  Lysgårdsbakkene K 120",
+    "latitude":61.12583333,
+    "longitude":10.48972222,
+    "description":"Fin og jamn start, men brukes bare i spesielle anledninger. Se opp for skihoppere, og ingen landing på jordet i vekstsesongen",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6868"
+}

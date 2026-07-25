@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":5074,
+    "name":"Søljåsen, Skjold (hhpk)",
+    "latitude":59.52138889,
+    "longitude":5.61388889,
+    "description":"Over Eggetoppen på vei mot Vats fra Skjold. Start på S-SØ.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5074"
+}

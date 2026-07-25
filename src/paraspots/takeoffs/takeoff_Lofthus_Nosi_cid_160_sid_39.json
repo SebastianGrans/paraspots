@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":39,
+    "name":"Lofthus, Nosi",
+    "latitude":60.31888889,
+    "longitude":6.70055556,
+    "description":"Bomveg. Ta kontakt med Hardanger Paragliderklubb så ordner vi nøkkel. I tillegg 15 min å gå på god sti.\nVærstasjon.\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=39"
+}

@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":251,
+    "name":"Bergen, Slettegga",
+    "latitude":60.36361111,
+    "longitude":5.50722222,
+    "description":"En time å gå opp, nydelig utsikt og meget fine plasser å starte fra. \n\nNB: Det kan bli for kraftig vind på toppen. Hovudstarten ligg over den beste termikkgeneratoren på heile Sletteggen, og det er gjerne vindkompresjon på toppen. Til saman kan dette bli for mykje til å starte i. Det pleier å løye til slutt, men det kan ta nokre timar. Om ein veit at det ikkje er for mykje vind ute i lufta kan ein trygt starte litt lengre nede på ryggen som ein går langs på veg opp. Men om vinden faktisk er for sterk skal ein sjølvsagt ikkje ta \"lengre ned i bakken trikset\". Den nedre starten er litt bratt og det kan løfta ein del der også. Kanskje ikkje eigna for PP2.\n\nROS-analyse:\nhttps://docs.google.com/spreadsheets/d/1o3S_2_OD9VhEujaQ-XzKRKoTkANbnWmp/edit?usp=sharing&ouid=115994384133530457336&rtpof=true&sd=true\nhttps://docs.google.com/spreadsheets/d/1aU2wrSJQnbOa3LW7lLRi7tx3Wj1DiIPD/edit?usp=sharing&ouid=115994384133530457336&rtpof=true&sd=true",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=251"
+}

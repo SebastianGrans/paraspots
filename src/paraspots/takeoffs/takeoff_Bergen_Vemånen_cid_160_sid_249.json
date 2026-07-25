@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":249,
+    "name":"Bergen, Vemånen",
+    "latitude":60.36833333,
+    "longitude":5.48527778,
+    "description":"Høydebegrensning: 762m (2500 fot)\n\nTil toppen går flere stier, den mest brukte er å kjøre opp med bil til en liten parkering på venstre side. Deretter er det en 15 minutters gåtur. Alternativt kan en gå direkte fra nedre parkering. Dette tar omtrent like lang tid som å kjøre og gå opp på baksiden.\n\nToppen fungerer som regel både som triggerpunkt for termikk og vindkompresjon, dette gjør topplanding vanskelig.\nHovedstarten for PG i BHPK. På toppen drifter BHPK en værstasjon og en utstyrskasse. Kassen inneholder førstehjelp og ryddeutstyr. Dersom du parawaiter har du ingen unnskyldning for å ikke ta noen greiner eller litt gress. Koden på låsen er den samme som høydebegrensingen i meter.\n\nDet er mulig å skru seg opp og bort til Sletteggen, Arna-nipa, Gullfjellet, eller videre! En bør min. 150 -200 m over Unnelandstoppen før en prøver seg på å fly til Nipa/Sletteggen. Faremoment: kraftig rotor like bak start, Høyspent på sørsiden ved \"foten på fjellet\", samt kraftig rotor bak skaret på nord-siden av start.\n\nBHPK leier landing ved Unnelandsveien (se bilde). Det er meget viktig å følge reglene for landingen: \nPARKERING PÅ BETONGPLATTINGEN i krysset. \nEtter landing BÆRES UTSTYRET TIL VEIKANTEN for pakking. \nUtstyret bæres til parkeringen, INGEN KJØRING for å hente! \nINGEN SKJERMTREKKING på Unnelandslandingen. \nUNNGÅ å lande utenfor oppmerket område, unntatt i nødsfall. Dersom dette ikke overholdes kan vi sette landingsavtalen i fare.\n\nROS-analyse:\nhttps://docs.google.com/spreadsheets/d/1AHsniBtZvqsQBmVrpmP5ApfvCkg_pRlp/edit?usp=sharing&ouid=115994384133530457336&rtpof=true&sd=true\nhttps://docs.google.com/spreadsheets/d/1aU2wrSJQnbOa3LW7lLRi7tx3Wj1DiIPD/edit?usp=sharing&ouid=115994384133530457336&rtpof=true&sd=true",
+    "holfuy_id":117,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/117",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=249"
+}

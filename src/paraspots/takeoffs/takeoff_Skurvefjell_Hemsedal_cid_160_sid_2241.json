@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":2241,
+    "name":"Skurvefjell, Hemsedal",
+    "latitude":60.88805556,
+    "longitude":8.60361111,
+    "description":"Skurvefjell er den nest høyeste toppen over Hemsedal (Veslebotnskarven er noen meter høyere, men ligger lenger bak, noe som vanskeliggjør en sklitur ned i dalen). Ingen vei, ingen heis. Gå fra dalen, fra Grøndalen eller fra Lykkja.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2241"
+}

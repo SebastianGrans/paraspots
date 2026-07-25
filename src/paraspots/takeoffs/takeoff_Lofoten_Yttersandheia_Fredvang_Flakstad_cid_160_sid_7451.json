@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":7451,
+    "name":"Lofoten, Yttersandheia, Fredvang, Flakstad",
+    "latitude":68.09972222,
+    "longitude":13.11833333,
+    "description":"Kjør til Fredvang i Flakstad kommune. Hold til høyre og kjør til vegs ende. Her er det parkeringsplass og tursti til toppen av Yttersandheia, eller videre om man ønsker å utforske andre starter. Nydelig naturperle i vakre omgivelser. Fine store jorder å lande på, eller man kan lande på stranden like nedenfor. Fine muligheter for hang flyging når vindretningen er bra.\nFlere fine starter fra fjellene rund, når vindretningen er riktig",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7451"
+}

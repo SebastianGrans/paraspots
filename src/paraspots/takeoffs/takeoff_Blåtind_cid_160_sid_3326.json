@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":3326,
+    "name":"Blåtind",
+    "latitude":69.1625,
+    "longitude":18.78944444,
+    "description":"Blåtind\n\n(added coordinates SR/20251130)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3326"
+}

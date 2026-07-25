@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":7470,
+    "name":"Tyssdalsfjellet, Osøyro",
+    "latitude":60.22055556,
+    "longitude":5.48361111,
+    "description":"Starten ligger rett vest for linken med startretning SSØ til SSV. For å komme til start kjører man inn i Tyssdal hvor DNT har merket løype opp til linken.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7470"
+}

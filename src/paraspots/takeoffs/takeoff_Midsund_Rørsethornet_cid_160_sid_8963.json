@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":8963,
+    "name":"Midsund, Rørsethornet",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Fine trapper opp til fjellet, og flere fine steder å starte fra. Mye gress og lyng, så fint å løpe. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8963"
+}

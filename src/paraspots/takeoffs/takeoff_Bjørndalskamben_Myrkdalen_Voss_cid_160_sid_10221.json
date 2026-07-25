@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":10221,
+    "name":"Bjørndalskamben, Myrkdalen, Voss",
+    "latitude":60.891736,
+    "longitude":6.541762,
+    "description":"Fjellet ligger S/Ø for alpinanlegget.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10221"
+}

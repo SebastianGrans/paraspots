@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":9375,
+    "name":"Etne, Grindheimsnuten Bordfjellet",
+    "latitude":59.63777778,
+    "longitude":6.13083333,
+    "description":"Parkering Skarstøl (husk å betale). Fra parkering er det ca 30 min gangtid på vei inn til Grindheimstølen. Derifra følg T-merket sti (mot Sauda) til du kommer opp på platå, ta så til venstre (Nordover) Det er mangen fine startplasser i dette omraådet. \nKart i området: https://ut.no/kart##11/59.633/6.1375\n\nParking Skarstøl (remember to pay). From the parking there is about 30 min walking time on the way to Grindheimstølen. From there, follow the T-marked path (towards Sauda) until you reach the plateau, then turn left (Northwards) There are many nice starting places in this area.\nMap in the area: https://ut.no/kart##11/59.633/6.1375",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9375"
+}

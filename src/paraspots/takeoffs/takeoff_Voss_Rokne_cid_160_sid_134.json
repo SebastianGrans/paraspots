@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":134,
+    "name":"Voss, Rokne",
+    "latitude":60.61333333,
+    "longitude":6.44972222,
+    "description":"Bilveg til over starten slik at en går ned til starten.\nEn kan også gå traktorveien opp nedenfra, det tar omtrent samme tid som å kjøre helt rundt opp til start og gå ned.\nVær obs på at det er en kraftlinje som krysser litt nedenfor start som en må hensynta hvis en mister mye høyde like etter start.\nEtter at starten er kraftig renovert i juni 2021 er det pr dd den største starten i m2 på Voss. Hovudlanding på Prestegardslandet ved Minigolfen, eller på stranda om du ikkje når fram. Det er ikkje tillatt å lande på jordene rett nedenfor start.\n\nKoordinatene på denne starten er markert feil, men på google heter starten «Voss HPK Rokne start»",
+    "holfuy_id":109,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/109",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=134"
+}

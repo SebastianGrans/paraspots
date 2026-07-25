@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":10112,
+    "name":"Tarløysa",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Mangle plasser og ta av ifra om det er litt snø på toppen. \nFlott tur gå tur opp. \nMange landings muligheter. \n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "E",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10112"
+}

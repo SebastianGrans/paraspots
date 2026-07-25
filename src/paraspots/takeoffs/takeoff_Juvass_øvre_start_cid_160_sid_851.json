@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":851,
+    "name":"Juvass, øvre start",
+    "latitude":61.68,
+    "longitude":8.35972222,
+    "description":"Nord-nordveststart i svingen like før toppen av veien til Juvasshytta",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=851"
+}

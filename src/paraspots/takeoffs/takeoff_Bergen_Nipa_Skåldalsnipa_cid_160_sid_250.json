@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":250,
+    "name":"Bergen Nipa, Skåldalsnipa",
+    "latitude":60.38361111,
+    "longitude":5.4875,
+    "description":"Et av Bergens fineste steder å fly både for PG og HG. Det er taubane til toppen som kan frakte utstyr, men ikke personer! MAX 80 kg utstyr på heisen pr tur. For nøkler, opplæring og mer info om heisen, ta kontakt med styret@bhpk.no\n\nHG-rampen er SV-vendt, mens PG kan starte i alle retninger bortsett fra øst. Vær obs på at østavind kan skape turbulent luft fra Gullfjellet/Sletteggen.\n\nFor PP2 er det kun NV-starten som gjelder. Denne ligger omtrent 300 meter nord for varden. Landing foregår på Unneland, sjekk http://bhpk.no/flysteder/unnelandstoppen.aspx for mer info.\n\nROS-analyse:\nhttps://docs.google.com/spreadsheets/d/1KddJ1k5N2csxGVxe_vGigPzh95lLszs9/edit?usp=sharing&ouid=115994384133530457336&rtpof=true&sd=true\nhttps://docs.google.com/spreadsheets/d/1aU2wrSJQnbOa3LW7lLRi7tx3Wj1DiIPD/edit?usp=sharing&ouid=115994384133530457336&rtpof=true&sd=true",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=250"
+}

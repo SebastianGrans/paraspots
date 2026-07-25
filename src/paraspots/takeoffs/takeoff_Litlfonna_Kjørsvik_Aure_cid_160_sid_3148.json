@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":3148,
+    "name":"Litlfonna, Kjørsvik, Aure",
+    "latitude":63.37944444,
+    "longitude":8.71638889,
+    "description":"It is a very interesting place to fly with a toll road (25 NOK/car) to the top. There are many places to have an easy take off and landing. This mount is between Aure(Møre og Romsdal) and Kyrksæterøra (Sør Trondelag). To find it follow the road no. 680. About 10 km from Aure turn left to the optional (longer about 20 km) road no. 680 and drive in the direction to Kjørsvik. When you cross the 2nd bridge it will be impossible not to see a huge antenna on the top of the Litlfonna. There is a sign showing when you have to take a turn to the toll road to the top. The best hang is if wind comes from NW, N, S and SW. You can a bit higher to Fonna (722 meter). Than you can fly in all directions.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3148"
+}

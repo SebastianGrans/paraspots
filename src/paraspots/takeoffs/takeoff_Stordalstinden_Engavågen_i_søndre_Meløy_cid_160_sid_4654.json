@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":4654,
+    "name":"Stordalstinden, Engavågen i søndre Meløy",
+    "latitude":66.79138889,
+    "longitude":13.56638889,
+    "description":"Stordalstinden ligger midt mellom Vassdalsvik og Engavågen. Starten er lettest tilgjengelig fra sørsiden ved at man følger skogsveien opp Engalia og går opp på fjellet forbi trimkassa ved Stordalsrabben. Er starter på mange retninger hvis en er litt oppfinnsom. Flere muligheter for landing nede på Engavågen. Kontakt Reidar på mob 48608976 for mer info. En del strømkabler og høyspentlinjer i området.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4654"
+}

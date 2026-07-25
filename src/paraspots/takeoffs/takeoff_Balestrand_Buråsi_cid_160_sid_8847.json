@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":8847,
+    "name":"Balestrand, Buråsi",
+    "latitude":61.20472222,
+    "longitude":6.50111111,
+    "description":"Føl merka sti til Buråsi (På veg til Raudmelen)\nFollow marked trail towards Raudmelen. When at Buråsi, go a little to the east. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8847"
+}

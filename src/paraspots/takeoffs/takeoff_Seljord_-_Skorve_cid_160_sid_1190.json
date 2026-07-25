@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":1190,
+    "name":"Seljord - Skorve",
+    "latitude":59.51944444,
+    "longitude":8.59388889,
+    "description":"Skorve er en av de to fineste flystedene i Seljord, men det er dessverre et stykke å gå. Gangtid mellom 1 og 2 timer, avhengig av dagsform og hvor høyt du vil starte. Over tregrensa kan man starte stort sett over alt, men Listaulnuten er en favoritt blant de innfødte. Startbart på sørlige vindretninger, men går man på toppen kan man i prinsippet starte på alle vindretninger. Gode muligheter for termikk, distanse og hang! Rundt 1000 høydemeter å boltre seg på. Dyrskuplassen og fotballbanen er fine landinger. Vær obs på fotballmål og lysstolper på fotballbanen.\n\nSe www.telemarkparagliderklubb.no for utfyllende info og kartlinker til start og landing.\n\nStart:\nFlere fine steder, på bildet på ca 1230m (S)\n\nGøysen:     N59° 31' 10''  E08° 35' 38'' \nListaul:     N59° 30' 50'' E08° 36' 39'' \n\"Mats' favoritt\":     N59° 30' 41'' E008° 36' 14''\n\"Thomas' favoritt\":     N59° 30' 50'' E08° 36' 24''\nSki/Skuter løypa:     N59° 30' 44'' E08° 36' 30''\n\n\nLanding:\n\nFotballbanen: \t\tN59° 29' 17'' E08° 38' 24'' \nDyrskuplassen: \t\tN59° 28' 39'' E08° 36' 45''",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1190"
+}

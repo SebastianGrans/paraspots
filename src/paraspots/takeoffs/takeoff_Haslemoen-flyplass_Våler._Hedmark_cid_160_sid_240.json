@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":240,
+    "name":"Haslemoen-flyplass, Våler. (Hedmark)",
+    "latitude":60.65305556,
+    "longitude":11.90944444,
+    "description":"Høydebegrensning; 1067 moh.\n\nFlyplass med mange aktiviteter; bl.a HG-trike, PG-trike, ppg, phg, vinsjing hg/pg.\n\nKristian Eriksmoen og Roger Nybakk styrer og steller her. Egen hangar med vær sin micro hg-trike inni, god plass til flere. Hedemarken Luftsports-klubb er en av deltakerne her.\n\nStripa vender rett nord/sør. Litt små-turbulent på østlige vinder da skogen ligger rett ved siden stripa. Meget god termikksted.\n\nCa. 3 mils kjøring sørover på riksvei 2 fra Elverum og mot Kongsvinger, ligger på venstre(østre) side av hovedveien.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=240"
+}

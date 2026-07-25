@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":3301,
+    "name":"Spåkenes, Kåfjord/Nordreisa",
+    "latitude":69.75861111,
+    "longitude":20.4725,
+    "description":"Kysthang. Det er to steder å fly. Enten på moreneryggen der det gamle fortet ligger eller helt nede i fjæra på nordsiden. \nDet kan flyges når vinden går inn eller ut fjorden, noe vinden forøvring kan gjøre ved forskjellige \"meldte\" vindretninger.\n\nNB1! Pass på linjer på begge sider når det flyges på hovedstedet(moreneryggen). Land på toppen eller fly ut og forbi i tide hvis løftet forsvinner. \n\nNB2! Pass på de gamle betongkonstruksjonene....farlige for bein og ankler, spesielt.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "SW",
+        "S",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3301"
+}

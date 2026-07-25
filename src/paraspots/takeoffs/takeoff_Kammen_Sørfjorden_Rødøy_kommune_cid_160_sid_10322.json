@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":10322,
+    "name":"Kammen, Sørfjorden, Rødøy kommune",
+    "latitude":66.48972222,
+    "longitude":13.32638889,
+    "description":"Main direction is Northwest to Southwest. Start towards Southeast is possible, but not optimal.\n\nClosest village is Oldervika. Only to reach by ferry.\n\nLanding at the \"traktor road\" or on the fields, but take care in the growing season.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10322"
+}

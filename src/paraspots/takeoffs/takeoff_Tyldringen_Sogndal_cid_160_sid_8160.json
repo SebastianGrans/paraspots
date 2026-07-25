@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":8160,
+    "name":"Tyldringen, Sogndal",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Vest for tyldringen fines det flere lyngkledde bakker som er bratte nok for å starte både SPG og PG. Terrenget har en del klippeparti før skoggrensa, derfra er hellingen relativt jevn mot landing. Se opp for mye telefonlinjer og lavspent kabler i området rundt landing.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8160"
+}

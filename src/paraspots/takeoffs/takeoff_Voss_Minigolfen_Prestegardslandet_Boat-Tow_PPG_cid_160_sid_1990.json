@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":1990,
+    "name":"Voss, Minigolfen, Prestegardslandet (Boat-Tow/PPG)",
+    "latitude":60.62694444,
+    "longitude":6.41666667,
+    "description":"ACRO/SIV/TANDEM/Boat-TOW/PPG\n\nLanding, GH and launch area for boat-tow. \nNOT preferred on eastern winds due to rotors from the trees. \n\nSeabreeze can be quite hard on days with termals.\n\nDette er samme plass som Minigolfen.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1990"
+}

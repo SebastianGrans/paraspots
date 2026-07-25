@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":10768,
+    "name":"Veslsætra (Harpefoss)",
+    "latitude":61.58878222,
+    "longitude":9.88930472,
+    "description":"Ingen avtale med grunneier verken på start eller landing.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10768"
+}

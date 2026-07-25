@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":5629,
+    "name":"Tromsø, Buren",
+    "latitude":69.71416667,
+    "longitude":18.52666667,
+    "description":"5 km nord vest for eidkjosen. Parkering i krysset ersfjord tromvik.\n\nFin start slette ca 50 høydemeter før toppen.\n\n(added coordinates SR/20251125)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5629"
+}

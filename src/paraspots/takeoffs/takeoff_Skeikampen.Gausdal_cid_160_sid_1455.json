@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":1455,
+    "name":"Skeikampen.Gausdal",
+    "latitude":61.35083333,
+    "longitude":10.08833333,
+    "description":"Det er nå stolheis helt opp til toppen.\n\nStupstart på øst og nordøst, kjempe fin hang plass.\n\nPå s-sv er det fint å starte litt nedenfor der heisen slutter. \nGrei landing rett ved siden av Vikingland Afterski, der får du kjøpt logg pils:) \nEllers er det å fint å lande på golfbanen på andre siden av Peer Gynt vegen.\nPS! Ikke land på sletta ved stolheisen, land lengs mulig unna der det er mye folk. Usikker på hvor du skal lande, snakk med de som jobber der.\n\nSkal du fly på vest må du borti vinkel heisen.\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1455"
+}

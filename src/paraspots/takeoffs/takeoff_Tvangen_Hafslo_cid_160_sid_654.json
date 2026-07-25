@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":654,
+    "name":"Tvangen Hafslo",
+    "latitude":61.32555556,
+    "longitude":7.18861111,
+    "description":"Ta av Rv. 55 til Hafslo Sentrum, ta av i sentrum til Alme. Kjør vegen til endes og husk å kjøre pent/rolig. Grusveg med bom på slutten. (40kr) \nFungerer fint på S-SØ. Fungerer på SV, men kan bli noe turbulent utfra start pga trærne. \n\nKjempefin skolebakke med stabile og fine forhold for søndagspiloten. \n\nDet er avtalt godkjent landing med grunneier på Kalhagen ved Hafslo sentrum (61.3137819, 7.1962979). Vennligst ikke land andre steder med mindre det er snakk om nødlanding.\n\nParker bilene på andre siden av landingsjordet mot vannet. Parker på skrå mot veien, så blir det plass til flere.\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=654"
+}

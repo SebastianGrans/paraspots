@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":116,
+    "name":"Nesna, Middagstuva",
+    "latitude":66.2,
+    "longitude":13.06277778,
+    "description":"Nydelig kysthang med gode muligheter for distanse.\nTre hovedstartplasser fr 360 - 400moh, to ligger rett ovenfor vannreservoaret ovenfor Nesna, den tredje ca 200 m NØ for disse. Følg bomveien opp fra Tunga, og videre sti fra like under demningen. Vegen opp er ikke åpen for alminnelig ferdsel men den lokale klubben har avtale med grunneiere og kommune for ferdsel. Kontakt lokal klubb for informasjon. Det MÅ benyttes bil med 4-hjulstrekk!!!\nLanding på etablert landingsområde på jorder ved bebyggelse på Nordvollen. Vindpølse + spot. \nDet er også mulig å lande ved campingplassen eller på Nesna Gressbane.\nBest på V - NV - N\n\nSe risikoanalyse for flystedet på Polar HGPG: \nhttp://www.polarhgpg.com/wp-content/uploads/2019/03/Risikoanalyse-Middagstuva-Nesna-2019.pdf\n\nRisikoanalyse av veistart:\nhttp://www.polarhgpg.com/wp-content/uploads/2019/03/Risikoanalyse-Nesna-Veistart-2019.pdf",
+    "holfuy_id":186,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "N"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/186",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=116"
+}

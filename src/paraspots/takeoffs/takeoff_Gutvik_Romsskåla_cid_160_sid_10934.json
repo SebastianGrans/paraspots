@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":10934,
+    "name":"Gutvik, Romsskåla",
+    "latitude":65.12083333,
+    "longitude":11.90805556,
+    "description":"Fint hang, fin utsikt, enkel gåtur opp. Best på V og NV. SV kan medbringe noe rotor fra fjellet Hornfjellet. Følg merket tursti til Romsskåla. Den er godt beskrevet på nett. Beregn ca 90 min opp, noe vått i starten. Mulig å starte langs hele hanget. Nøyaktig startsted må tilpasses vindretning.\nLanding i fjæra, eventuelt på jorder som er slått. Ingen avtaler foreløpig. Vær obs på beitedyr.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10934"
+}

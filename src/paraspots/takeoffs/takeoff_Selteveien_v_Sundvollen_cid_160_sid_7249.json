@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":7249,
+    "name":"Selteveien v/Sundvollen",
+    "latitude":60.09777778,
+    "longitude":10.27805556,
+    "description":"PPG plass ved Sundvollen-Steinsletta.Ordnet av Rune Hvid\n\n\nLinken er til Holfuy stasjon på Sundvollen,5km unna",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7249"
+}

@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":913,
+    "name":"Hareid, Holstadhornet",
+    "latitude":62.37888889,
+    "longitude":5.98666667,
+    "description":"Details to come. Mountain situated E of Hareid, Skafjell\n\nPanorama: http://www.rundskuer.no/panotour/holstadhornet/virtualtour.html\n\nMERK !!!\nMeld fra om flyging før start og etter landing til MØRE APPROACH, tel.: +47 67 03 30 40 \nStarten ligger i luftsportsboksen Hareid MIDT\nVigra TMA 2500ft/762m asl\n\nVed all flyving hvor man har fått ekstra høyde skal en pilot ha mulighet til å svare på telefon fra MØRE APPROACH og mulighet til å kommunisere med og informere evt andre piloter innenfor området.\n\nStratus Paragliderklubb, Sunnmøre",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=913"
+}

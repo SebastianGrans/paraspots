@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":3234,
+    "name":"Norefjell, Høgevarde",
+    "latitude":60.29722222,
+    "longitude":9.4675,
+    "description":"This is the summit of Høgvarde, the highest point in the Norefjell area. This is the 2nd top in Norway in trems of seeing most part of the country, only next to Gaustatoppen. The top is flat and there are lots of small stones and rocks that can tangle up the lines on glider. A bit \"cliff launch style\" but no problem. There are lots of landing opportunities on the plateau.\nIf you turn around, there are good opportunities to fly on the west side of the mountain as well, but not with launch from the summit. \n\nVær obs på mulig(e) landings-/ferdselsforbud: https://geocortex02.miljodirektoratet.no/Html5Viewer/?viewer=naturbase&layerTheme=null&scale=20000&basemap=¢er=196301.3549610076%2C6697161.961551197&layers=1evj6j (lagt til av MD)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3234"
+}

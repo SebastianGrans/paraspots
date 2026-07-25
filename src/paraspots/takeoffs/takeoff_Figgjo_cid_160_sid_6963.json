@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":6963,
+    "name":"Figgjo",
+    "latitude":58.78916667,
+    "longitude":5.78333333,
+    "description":"Snakk med bonden først, han er rå! Tillater å lande på jordet fram til gjødsling & spiring. Dette starter i veke 15. \nPrøv igjen til høsten..\nPassende for speedflying - fin exit med korrekt vindretning.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6963"
+}

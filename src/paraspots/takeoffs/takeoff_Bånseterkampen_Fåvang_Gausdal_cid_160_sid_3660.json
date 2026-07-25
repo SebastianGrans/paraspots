@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":3660,
+    "name":"Bånseterkampen, Fåvang/Gausdal",
+    "latitude":61.39694444,
+    "longitude":10.13277778,
+    "description":"Sør-sørøstvendt heng som er ca 3,5 km langt.\n\nKartreferanse NP-600075\nBilveg sommer og vinter til Bånsetra,sør-vest for Fåvang(bompenger).\nSti opp til toppen om sommeren og Maskinkjørt løype om vinteren.Ca 25min.Mange alternative landinger.\n\nAlternativ om sommeren: Bilvei til skeikampen og videre torsdalsvegen (bomvei 40 kr) inn så langt man kommer. Derfra ca. 30 minutter å tusle, på fin sti og det er ikke mange høydemeter. Mange steder å starte og lande, alt er over tregrensen. Se kart (P = parkering, S = mulig startsted)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3660"
+}

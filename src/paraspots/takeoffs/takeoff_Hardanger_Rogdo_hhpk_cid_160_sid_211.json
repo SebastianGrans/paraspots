@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":211,
+    "name":"Hardanger, Rogdo (hhpk)",
+    "latitude":60.27138889,
+    "longitude":6.56138889,
+    "description":"Rogdo ligger på vestsida av Sørfjorden, ca 30 min kjøring fra Odda.\nParkering øvers på Rogdo, derifra 5-10 min gange.\nBrukbar  termiskheng plass, spesielt tidlig på våren.\nStarten: Mange fine startplassar.\nLanding: Liten landing på Åkre. Passer ikkje for fersk PP2er.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=211"
+}

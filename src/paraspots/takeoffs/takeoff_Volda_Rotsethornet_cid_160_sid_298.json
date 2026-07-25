@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":298,
+    "name":"Volda, Rotsethornet",
+    "latitude":62.13194444,
+    "longitude":6.09277778,
+    "description":"Dette er sentrumsfjellet i Volda. Det er et populært sted for speedflying, og i tillegg et flott sted å fly heng med paraglider til langt utpå kvelden når det er solgangsbris.\nFor info om turen opp, se: https://ut.no/turforslag/1114417/rotsethornet-rotevatnet\n\nFlystedet ligger innenfor Hovden TIZ og det må innhentes tillatelse fra tårnet på Hovden flyplass før flyving. Dersom tårnet er stengt, skal Møre Approach ringes.\n\nhttps://himmelseglarane.no/flyging/flykultur\nHovden flyplass: 700 41 689\nMøre Approach: 670 33 040\n\nHolfuy: https://holfuy.com/en/weather/1450\n\n\nMax høyde: Avtales med tårnet på Hovden flyplass (normalt får man opptil 3500ft om man trenger det)\n\nTakeoff: Nordlig retning på vestsiden og østsiden for toppvarden er de mest brukte startene. Det er ulike muligheter for å starte fra helt fra vest, mot nord, og over til nordøst.\n\nFaremomenter:\n- Er endel avlastninger her og der i terrenget på startene, gjør deg godt kjent med terrenget på de ulike startene.\n- Solgangsbrisen kan være sterk. Vær derfor obs på følgende: \n1. Vær forsiktig med å fly for langt mot vest-sørvest «bak fjellet», grunnet fare for å ikke komme seg rundt fjellet og tilbake til Volda igjen.\n 2. Landingen på Aarflot jordet kan være ganske turbulent ved sterk vind/solgangsbris, anbefaler å velge Årneset ved sterk vind eller solgangsbris.\n\nLandingene vi bruker er merket på bilde.\n1. Aarflot jordet -  Dette er den mest brukte landingen med speedvinger, prøv så godt det lar seg gjøre å lande på grusveien som går over jordet. Denne kan som nevnt over her til tider være turbulent.\n2. Årneset -  Denne landingen er stor og fin, og er mer skjermet med tanke på turbulens og vind fra fjorden.\n3. Kiwi jordet  - Greit jorde å lande på, men anbefaler en av de andre da denne kan være litt krevende under enkelte forhold. Kan være termisk på varme dager, og turbulent ved sterk vind/solgangsbris. Et annet faremoment er høye stolper og trær rundt jordet.\n",
+    "holfuy_id":1450,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/1450",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=298"
+}

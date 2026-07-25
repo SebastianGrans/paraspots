@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":9464,
+    "name":"Myrbærfjellet/ Dale i Sunnfjord",
+    "latitude":61.49708333,
+    "longitude":5.46022222,
+    "description":"Kan gå fra Jøtulshaugen, og følge ryggen innover fjorden.\nUmerket sti fra Strand, spør lokale om stien.\nFin takeoff lyng og åpent.\nLanding på en av gårene nedenfor. Spør først.\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9464"
+}

@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":272,
+    "name":"Rana, Hellerfjellet ved Umskaret",
+    "latitude":66.18416667,
+    "longitude":14.53083333,
+    "description":"Flystedet benyttes til nybegynner kurs og er meget godt egnet for rolig hang i stabil vind på vinteren. I område rundt fjellet er det om vinteren startmuligheter på nesten alle vind retninger og er derfor godt egnet for kursing. Med hangglider er det gjennomført mange flotte turer. Kan nevnes at bølgeflyging opp gjennom tiden har vært en av utfordringene. Høyde opp til 2500 moh.er oppnådd. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=272"
+}

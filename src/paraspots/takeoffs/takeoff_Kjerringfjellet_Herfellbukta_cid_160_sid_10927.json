@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":10927,
+    "name":"Kjerringfjellet, Herfellbukta",
+    "latitude":59.02408611,
+    "longitude":10.200425,
+    "description":"Flere takeoff muligheter på fjellet.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10927"
+}

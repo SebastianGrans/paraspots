@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":187,
+    "name":"Flatdal - Haugan",
+    "latitude":59.56777778,
+    "longitude":8.58638889,
+    "description":"Starten erstatter gamle \"Natadal\" start. \nFra E134, følg Hauganvegen til du kommer til Hauganvegen 135. Parker pent i tunet, men ikke i parkeringslommen innerst da denne er til hyttefolk. Gå gjennom gårdstunet mot dalen. Du kommer da til en rød hytte. Starten ligger 50 meter sør for hytta. \nStart på gressbakke, landing på div jorder i området eller på fotballbanen.\nI vekstsesongen er landing kun på flystripa eller på fotballbanen, ikke i åkerne. \n",
+    "holfuy_id":316,
+    "wind_dirs":[
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/316",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=187"
+}

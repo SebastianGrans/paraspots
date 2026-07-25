@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":604,
+    "name":"Kvitfjell, Utforstarten toppen(tidl Segelstadseterkampen nord)",
+    "latitude":61.465,
+    "longitude":10.12722222,
+    "description":"Østlige starten på toppen av Kvitfjell skianlegg, ved siden av den nedlagte kafeen. Veldig fin på NØ-Ø, men funker og på nord tidlig på dagen. Ved sørlig innblanding kan det være lurt og gå lenger sør langs kanten eller benytte sør starten. Viktig å holde god høyde over heisene når de er i drift (min. 200m).\nLanding ved bunne av skianlegget, alternativt over til Fåvang(ikke jorde nord for Fåvang ved langt gress). Ingen permanente avtaler om landing per i dag.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=604"
+}

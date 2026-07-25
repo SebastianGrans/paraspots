@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":5157,
+    "name":"Andsfjellet - Målselv",
+    "latitude":69.11916667,
+    "longitude":18.52194444,
+    "description":"Vei opp til Åtter-piggen og gange derfra. Kan starte på alle himmelretninger. \nNB: Sjekk med ATC Bardufoss før take-off. \nVær også obs på at det ikke er ønskelig med hunder på landingen\n",
+    "holfuy_id":206,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/206",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5157"
+}

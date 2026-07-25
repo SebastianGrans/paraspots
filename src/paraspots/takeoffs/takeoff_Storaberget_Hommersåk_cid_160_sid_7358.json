@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":7358,
+    "name":"Storaberget, Hommersåk",
+    "latitude":58.88694444,
+    "longitude":5.86805556,
+    "description":"Parker ved gården, følg stien.\nLitt flatt på toppen, så ikke så enkelt i nullvind.\nPass på østavind da den kan bli turbulent.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7358"
+}

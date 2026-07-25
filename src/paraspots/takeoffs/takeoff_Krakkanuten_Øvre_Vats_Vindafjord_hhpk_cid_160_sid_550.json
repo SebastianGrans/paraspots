@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":550,
+    "name":"Krakkanuten, Øvre Vats, Vindafjord (hhpk)",
+    "latitude":59.53555556,
+    "longitude":5.67888889,
+    "description":"KRAKKANUTEN I ØVRE VATS\nSV- Ø, PP3 (Ø - PP2 M UTSJEKK)\n\nHøydeforskjell ca. 350- 400 meter. SV-S-Ø (NØ) vind. \nAlt. 1 Kjør opp til Krakk gård øverst ved foten av fjellet. Parker på tilvist plass. Gå gjennom tun med grinder og følg sti til topps, vis hensyn. Nokså bratt oppover, særlig innledningsvis. 25-35 min å gå. \n\nAlt 2. Parker ved Øvre Vats bedehus og følg skilting. 45-50 min?\nDet er 2 startmuligheter,.\n\nNedre starten \n\nMot SV; PP3, gressbakke m enkelte steiner, ekstra viktig med kontroll/trykk i skjerm før du løper da det blir fort bratt.\n\nToppstartene;\n\nSV- PP3, som nedre starten, men enda kortere til bratta\n\nS/SØ - PP3, som SV starten\n\nØ/NØ- PP2/m utsjekk, legg ut og start i gropen lengst mot nord (øst). Mer tid til å få kontroll og trykk i skjerm her og ikke så bratt.\n\nLanding ved Krakk gård, men her kan det bli turbulent. Bedre å lande over Vatsvannet,langs E- 134. \nGreit å legge i vei innover mot Ølensvåg, om du PP4-5. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=550"
+}

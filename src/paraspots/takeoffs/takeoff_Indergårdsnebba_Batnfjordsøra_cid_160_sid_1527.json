@@ -1,0 +1,20 @@
+{
+    "country_id":160,
+    "start_id":1527,
+    "name":"Indergårdsnebba, Batnfjordsøra",
+    "latitude":62.87558333,
+    "longitude":7.69008333,
+    "description":"Adkomst: Kjør ca 2 kilometer fra Batnfjordsøra mot Molde og ta av mot silsetfjellet.Følg veien helt til endes. Herifra er det en god halvtime å gå til start\n\nStart: Det er mulig å starte på nesten alle retninger, men S og SØ er mest gunstig med tanke på termikk.\n\nLanding: Kan lande nesten overalt oppe på fjellet, eller en kan fly ned til batnfjorden og lande på fotballbanen.\n\nNB: høydebegrensingen er 1000 meter i dette området!",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1527"
+}

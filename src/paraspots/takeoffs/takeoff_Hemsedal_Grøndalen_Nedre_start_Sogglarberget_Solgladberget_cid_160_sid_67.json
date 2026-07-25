@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":67,
+    "name":"Hemsedal, Grøndalen, Nedre start, Sogglarberget (Solgladberget)",
+    "latitude":60.93222222,
+    "longitude":8.43333333,
+    "description":"Er merket på kartet med S3. Du kommer hit ved å parkere på fjellveien e. Vavatn. Parker ved den lille parkeringa ved innkjøring forbudt skiltet og gå herfra. Gå veien rett frem til veien ender. Deretter litt til og du er på start.\n\nSjelden brukt. Ujevn start, mye lyng og bergknauser. Kan være vanskelig å starte. Er det vest eller sørvest så er det bedre å gå opp til øvre start. Vær særlig obs ved start på nordavind; bergknausen litt lenger opp i dalen kan gi sterk turbulens utenfor start og bortover skogsida.\n\nLanding på hovelanding ved golfen.",
+    "holfuy_id":134,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/134",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=67"
+}

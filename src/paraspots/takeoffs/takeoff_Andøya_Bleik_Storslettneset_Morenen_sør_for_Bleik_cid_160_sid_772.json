@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":772,
+    "name":"Andøya, Bleik, Storslettneset (Morenen sør for Bleik)",
+    "latitude":69.26666667,
+    "longitude":15.92222222,
+    "description":"Fin strandmorene sør av Bleik. Grusvei åpen for kjøring langs hele strekningen store deler av året. Best med 3m/s og mer for hengflyging.\n\nHusk at all flyging på Andøya, må klareres med kontrolltårnet på Andøya Flystasjon (tlf. 76116272).",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=772"
+}

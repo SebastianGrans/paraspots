@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":3511,
+    "name":"Silsetfjellet, Eide",
+    "latitude":62.92666667,
+    "longitude":7.40111111,
+    "description":"HØYDEBEGRENSNING: 726 M ASL.\n\nFint plass,Stin starter ved Eide lysløype og det er ca. en timers gangvei til toppen",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3511"
+}

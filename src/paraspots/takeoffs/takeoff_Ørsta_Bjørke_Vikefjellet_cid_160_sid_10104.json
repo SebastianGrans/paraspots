@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":10104,
+    "name":"Ørsta, Bjørke, Vikefjellet",
+    "latitude":62.1,
+    "longitude":6.53333333,
+    "description":"Fint område med mulighet for start i fleire retninger, litt ovenfor gapahuken på Vikefjellet. Går opp fra Bakkedalen, eller ungdomshuset på Bjørke. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10104"
+}

@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":2873,
+    "name":"Hadsel - Ørnheia",
+    "latitude":68.54555556,
+    "longitude":14.90472222,
+    "description":"Bak Ørnheihytta, alternativt ut mot Stokmarknes",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2873"
+}

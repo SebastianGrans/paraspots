@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":2728,
+    "name":"Vestre Bokn (hhpk)",
+    "latitude":59.21861111,
+    "longitude":5.43055556,
+    "description":"Høydebegrensing 457m oh. Sola TMA. \nhttps://luftrom.info/viewer.html#13/59.2204/5.5005/\n\nParker på anvist sted ved foten av fjellet der veien opp er stengt med bom. 30 min å vandre. \nStartes helst på den østlige siden. Obs på barduner og ledninger.\nMange steder å lande. Ved høyt gress kontakt en grunneier i forkant.  \n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2728"
+}

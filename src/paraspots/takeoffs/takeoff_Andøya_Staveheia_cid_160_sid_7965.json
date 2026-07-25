@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":7965,
+    "name":"Andøya, Staveheia",
+    "latitude":69.22388889,
+    "longitude":15.87722222,
+    "description":"Fjellet rett nord av Stave, sør for Måtinden. På gode dager med vestlig/sør-vestlig vind kan man henge over Stave og Høyvika.\n\nHusk at all flyging på Andøya, må klareres med kontrolltårnet på Andøya Flystasjon (tlf. 76116272).",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7965"
+}

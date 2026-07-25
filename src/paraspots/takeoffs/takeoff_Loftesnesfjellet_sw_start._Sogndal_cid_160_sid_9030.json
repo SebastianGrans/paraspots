@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":9030,
+    "name":"Loftesnesfjellet sw start. Sogndal",
+    "latitude":61.22833333,
+    "longitude":7.13972222,
+    "description":"Hike and fly start 400m before you reach panorama start.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9030"
+}

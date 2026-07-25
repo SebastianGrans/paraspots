@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":10470,
+    "name":"Skaget, Langsua",
+    "latitude":61.29111111,
+    "longitude":9.20305556,
+    "description":"Fine starter rundt 1500-merket øst og vest for toppen. På selve toppen er det mye steinur og blokk, men på den midterste toppen rundt 1660-linja er det noen brukbare starter på startvind. Forlengsstart her oppe er ikke å anbefale.\nKoordinatet er til den fineste sørstarten nær toppen.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10470"
+}

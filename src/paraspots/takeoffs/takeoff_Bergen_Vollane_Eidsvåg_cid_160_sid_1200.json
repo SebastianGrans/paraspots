@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":1200,
+    "name":"Bergen, Vollane, Eidsvåg",
+    "latitude":60.44166667,
+    "longitude":5.32166667,
+    "description":"Skolebakke ved badestedet Vollane i Eidsvåg, Bergen\n\nBlir også brukt til vinsjing.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1200"
+}

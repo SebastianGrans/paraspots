@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":4821,
+    "name":"åsgardan i gol",
+    "latitude":60.72144444,
+    "longitude":8.98533333,
+    "description":"krever god start vind/termikk men jordet er langt og det er null problem og lande på jorde igjen vis du ikke tror du har høyde nokk til og komme over tretoppene på enden.\n\nfins og et brattere jorde rett på siden men har ikke prøvd det enda. går en telefon/strøm kabel der. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4821"
+}

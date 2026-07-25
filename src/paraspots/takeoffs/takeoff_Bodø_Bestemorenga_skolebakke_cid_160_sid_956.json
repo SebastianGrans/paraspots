@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":956,
+    "name":"Bodø Bestemorenga skolebakke",
+    "latitude":67.29555556,
+    "longitude":14.50361111,
+    "description":"Ligger i kontrollert luftrom, varsle Bodø Kontrolltårn om \"lavtflyging\" hvis du skal dit. Skolebakke, ryddet i 2001 sånn at det er mulig å fly hang der med nok vind - men da er det gjerne litt turbulent. Finne frem? Se Junkerfjell nord, ligger like ved på venstre side av veien.\n\nWithin Bodo Control Zone, call tower 75521190 before flight. Soaring possible in winds E - SE 5 m/sec +, slightly turbulent. To get there, see Junkerfjell nord, the site is adjacent, but on the other side of the road.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=956"
+}

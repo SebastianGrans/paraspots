@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":10631,
+    "name":"Bandaklumpen Tydal NV",
+    "latitude":63.00166667,
+    "longitude":12.13861111,
+    "description":"Stenete start, mulig å komme seg opp med litt fjellklatring.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10631"
+}

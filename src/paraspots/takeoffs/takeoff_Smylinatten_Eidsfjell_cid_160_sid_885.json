@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":885,
+    "name":"Smylinatten  Eidsfjell",
+    "latitude":60.09055556,
+    "longitude":9.0075,
+    "description":"25 minutter å gå, 200m høydeforskjell.\nKan fly ned til kravikfjorden og da får man en høydeforskjell på 900m. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=885"
+}

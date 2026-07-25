@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":59,
+    "name":"Kvinnherad, Husnes, Nordfjellet",
+    "latitude":59.84611111,
+    "longitude":5.79388889,
+    "description":"Fint startsted mot W/NW. Har hatt denne staden som utgangspunkt for ein del fine distanseturer innover fjorden.\nHar ingen landingsavtale med grunneigar, så trå varsamt.....\n\nParker ved skogsvegen ovenfor Valen Sjukehus, og følg skogsvegen mot Nordfjellet. Sjå link til Norgeskart:\n\nLink til værstasjon: \nhttp://holfuy.hu/en/data.php?station=s137\n\n\n\n",
+    "holfuy_id":137,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/137",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=59"
+}

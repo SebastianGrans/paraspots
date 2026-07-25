@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":10657,
+    "name":"Varen, Bygland (flyvraket)",
+    "latitude":58.79314,
+    "longitude":7.751637,
+    "description":"Fin naturstart med plass til 3-4 vinger. Snill start som egner seg for PP3 og oppover. Nok plass til å starte i nullvind.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10657"
+}

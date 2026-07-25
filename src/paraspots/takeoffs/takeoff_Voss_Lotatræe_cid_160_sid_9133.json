@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":9133,
+    "name":"Voss, Lotatræe",
+    "latitude":60.61194444,
+    "longitude":6.41055556,
+    "description":"Hovedlanding for Gjelle\nFin landing også for Rokne\nFlott plass for GH\nHusk bilene skal parkeres ved parkeringslommen oppe på hovedveien.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9133"
+}

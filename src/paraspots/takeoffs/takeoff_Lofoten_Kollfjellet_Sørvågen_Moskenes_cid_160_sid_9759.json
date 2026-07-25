@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":9759,
+    "name":"Lofoten, Kollfjellet, Sørvågen, Moskenes",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Fin rund \"kolle\" godt synlig bak Sørvågvannet på Sørvågen. Kjører man mot Å tar man av første vei til høyre etter skole og barnehage på Sørvågen. Følg veien til parkeringsplass ved lysløype, å gå lysløypa til fots. Ta av mot Studalen hvor lysløypa gjør første sving. I toppen av \"brekka\" før man når Studalen, deler stien seg. Hold stien til høyre mot Kollfjellet.\nFlott steinfri start på flere vindretninger.\nLanding ved Sørvågvannet. Noe kupert landing. Vær obs på høyspent rundt landing.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9759"
+}

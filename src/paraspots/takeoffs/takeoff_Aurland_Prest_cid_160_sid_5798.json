@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":5798,
+    "name":"Aurland, Prest",
+    "latitude":60.93361111,
+    "longitude":7.22805556,
+    "description":"Takeoff fra varden på Prest med god vind. \nnyydelig utsikt og gode hengmuligheter med små glidere om vinden kommer rett på.\n\n(added coordinates SR/20251201)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5798"
+}

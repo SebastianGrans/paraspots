@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":802,
+    "name":"Voss, Lønahorgi, vest-start",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"End of the road to Lønahorgi + a walk to the west.",
+    "holfuy_id":121,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/121",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=802"
+}

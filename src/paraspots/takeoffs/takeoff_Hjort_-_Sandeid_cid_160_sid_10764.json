@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":10764,
+    "name":"Hjort - Sandeid",
+    "latitude":59.50222222,
+    "longitude":5.81166667,
+    "description":"Østaheng i sandeid ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10764"
+}

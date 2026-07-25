@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":253,
+    "name":"Bergen, Ulriken",
+    "latitude":60.37555556,
+    "longitude":5.38416667,
+    "description":"Et av Norges desidert fineste flysteder, flybart på nesten alle vindretninger.\n\nKOMPETANSEKRAV\n- PP3/SPG3\n\nFLYSTEDSREGLER\n - Første tur fra Ulriken skal gjøres som en utsjekkstur. Dvs enten med instruktør eller en pilot som instruktør mener er kvalifisert til å kunne gi en slik utsjekk.\n - All flyging må være synlig i SafeSky-appen. \n - All flyging over fjellet må gjøres med GPS-kalibrert høydemåler. Det betyr at skal du skru termikk og bevege deg over fjellet så må du ha en høydemåler som viser deg GPS-høyden din.\n - Maks høyde for PP3 er toppen av fjellet.\n - Det er ikke tillatt å krysse nordover mot Fløyen eller sørover mot Nattlandsfjellet. All flyging vekk fra Ulriken skal skje østover (mot Unneland).\n - Landing er kun tillatt ved Nymarksbanene for PG og på Montana for SPG (og i nødstilfeller for PG).\n - Når en flyr mot landing skal en fly i en rett linje fra Montana til en passerer landing. Det er ikke lov å oppholde seg lengre enn nødvendig i dette området.\n - All flyging over landing (ved Nymarksbanene) skal foregå vest for landingen (over fotballbanene). Det er forbudt å fly av høyde e.l. øst for landingen (utover nødvendig krysning fra Ulriken til landing).\n - Flyging vest for Inndalsveien er forbudt.\n - Akroflyging er ikke tillatt.\n\nSTARTER\n- Hovedstarten (S/SV) ligger ca 3 min gange ifra heisen mot syd. Kan også brukes på nullvind.\n- For å starte mot N/NØ går man (ca 10 min) opp på fjellet bak kaféen. Starten er en stupstart som peker mot Isdalen. \n- NV-starten ligger like sør for den nest-øverste masten, ca 10 min gange fra toppen.\n- Ved vind fra V kan man starte på myren som ligger ca 15 min gange sørover fra toppen.\n\nLANDINGER\n- Hovedlanding Nymark er en god landing på gresset nord for Brann stadion. Vær obs på vindskjæring frå stadion, lyktestolper, gjerder og bygninger.\n- Montana er kun lov å bruke for SPG. Landing mellom hus og høyspent. Ved landing fra nord må en holde god høyde over treet like ved veien som går langs landing og oppover mot Ulriken da dette er i nærheten av flere duehus og duene blir skremt av aktiviteten.\n\nVÆR OG SIKKERHET\n- Vær obs på høydebegrensningen på 762 moh når du flyr på Ulriken. Denne er absolutt og det er stor aktivitet i luftrommet like over.\n- På Ulriken kan det, slik som de fleste andre steder, være mer vind nede enn oppe. Dette er nokså vanlig ved vind fra NØ. Vinden oppe hører da til et annet vindsystem enn vinden nede, som normalt er NV, og kan bli sterk. Følg derfor med på vinden på Storelungeren. \n- Ved hengflyging lengst inne i Isdalen har en ikke sikt ned mot byen. Det kan derfor være smart å av og til fly ut på egget på Ulriken for å se om det kommer vindkast eller blir bølger på Storelungeren.\n\nSe BHPK sin hjemmeside for mer informasjon om flystedet samt detaljert beskrivelse av de ulike startene.\n\nROS-analyse:\nhttps://docs.google.com/spreadsheets/d/1R3ArPQwLBlS8cMseiNsVFTr8oKfoQR7l/edit?usp=sharing&ouid=115994384133530457336&rtpof=true&sd=true",
+    "holfuy_id":138,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/138",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=253"
+}

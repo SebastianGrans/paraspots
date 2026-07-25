@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":156,
+    "name":"Obrestad fyr",
+    "latitude":58.6575,
+    "longitude":5.55583333,
+    "description":"En forlengelse av hanget \"Obrestad havn\" og også en PP3 plass. Virker på SV. Litt trang landing, men superlaminært gresskledd hang.\n\n\nBeskjed fra bonden:\nRundt starten er det er gjerde. Tidligere var dette gjerdet åpent i enden mot parkinga, men nå er det laget en type grind. Bruk denne, ikke prøv å klatre over (gjerdet er skjørt). Du kan også selvfølgelig gå stien langs gresshenget. Det er også viktig at vi ikke lander på dyrket mark i området. Blant annet marka rett til høyre for start (bak gjerdet).",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=156"
+}

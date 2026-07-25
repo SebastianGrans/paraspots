@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":2237,
+    "name":"Hafjelltoppen",
+    "latitude":61.22916667,
+    "longitude":10.52638889,
+    "description":"Selve hafjelltoppen... du kommer ikke ut i dalen uten løft men kan lande på myra under\nFor å komme dit må du kjøre til Gayastova og få evt scootertransport opp.,",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2237"
+}

@@ -1,0 +1,20 @@
+{
+    "country_id":160,
+    "start_id":1143,
+    "name":"Gråkallen",
+    "latitude":63.41944444,
+    "longitude":10.25416667,
+    "description":"Gråkallen er det nest høyeste fjellet i Trondheims bymark, 6 km vest for Trondheim sentrum. På toppen er det to store militære flyradarer. Raderene er fortsatt i drift men Luftforsvarets stasjon ble nedlagt i 2002.\n\nStedet er flybart på alle retninger untatt NØ. Det er ett spesielt fint hang på NV der høydeforskjellen er ca 300 meter.\n\nNB!\nDet er stråling fra radaren. Gopro kameraer har blitt ødelagt. Vario, gps og radio har også reagert i området. Radarstrålingen er vurdert av Statens Strålevern og arbeidsmedisinsk avdeling ved St Olavs Hospital og utgjør ingen helsefare.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1143"
+}

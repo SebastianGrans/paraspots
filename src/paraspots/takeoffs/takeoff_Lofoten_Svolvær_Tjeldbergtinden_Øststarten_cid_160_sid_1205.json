@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":1205,
+    "name":"Lofoten, Svolvær, Tjeldbergtinden, Øststarten",
+    "latitude":68.22833333,
+    "longitude":14.50472222,
+    "description":"Nice start between Kabelvåg and Svolvær. A road on the east side takes you to the foot of the mountain, then you must walk 5-800 meters up the hillside. Call the tower at Svolvær lufthavn before takeoff: 75 54 16 37 (updated 17.08.2023)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1205"
+}

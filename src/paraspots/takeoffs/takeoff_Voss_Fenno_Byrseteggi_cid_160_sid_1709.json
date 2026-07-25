@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":1709,
+    "name":"Voss, Fenno, Byrseteggi",
+    "latitude":60.62833333,
+    "longitude":6.61416667,
+    "description":"Fin plass å fly hang/termikk på solgangsbris om ettermiddagen.Mange startmuligheter.\nOBS! Landing på stølane der ein begynner å gå i frå er ikkje tillatt om sommaren når det går kyr der. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1709"
+}

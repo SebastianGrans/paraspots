@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":820,
+    "name":"Lofoten Leknes Haugheia",
+    "latitude":68.13,
+    "longitude":13.50972222,
+    "description":"Idyllisk Lofot-hang med utsikt mot Nappstraumen. Sted hvor man kan topplande så mange ganger man vil hvis forholdene er til stede. Forholdsvis kort vei å gå. Gresskledd morenehøyde. Vakkert! Varsle tårnet Leknes ved flyging (tlf 67033880",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=820"
+}

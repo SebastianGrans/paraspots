@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":6508,
+    "name":"Bogafjellet, Fusa",
+    "latitude":60.17527778,
+    "longitude":5.61861111,
+    "description":"Toppen av Bogafjellet (ved postkassen) passer for sørleg vind. Er vinden meir vestleg passer avsatsen lengre vest bra. \n\nBegge alternativa treng litt start vind sidan det er knappt med plass fram til kanten...\n\nMange landingsmuligheter, ingen avtalar",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6508"
+}

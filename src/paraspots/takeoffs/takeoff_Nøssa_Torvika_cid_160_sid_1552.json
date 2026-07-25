@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":1552,
+    "name":"Nøssa, Torvika",
+    "latitude":62.95,
+    "longitude":7.90194444,
+    "description":"Fin plass på nordmøre, med gode muligheter for hang. Best med nord i vinden. Går opp fra vannverket oppe i dalen. Starten er kjempefin , og det er bare å velge seg et jorde å lande på, her er de fleste trivelige.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1552"
+}

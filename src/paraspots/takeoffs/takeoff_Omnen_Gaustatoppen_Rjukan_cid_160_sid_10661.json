@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":10661,
+    "name":"Omnen, Gaustatoppen, Rjukan",
+    "latitude":59.98583333,
+    "longitude":10.08416667,
+    "description":"50 minutter med tursti fra parkering til takeoff. Parker ved veien opp mot gautastoppen ved området \"Svineroe\", følg så turstien mot \"Selstali\" \n\nKoordianter til takeoff:\nNord\t\n6653687.1\nØst\t\n143868.11\n\nAnbefaler vind fra nord-vest eller bare nord. \ntre landingsalternativer: Tveito-parken, friidrettsbanen eller Bjørn Myhres plass. \n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10661"
+}

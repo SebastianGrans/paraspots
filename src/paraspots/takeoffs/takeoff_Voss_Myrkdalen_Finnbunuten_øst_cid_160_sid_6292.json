@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":6292,
+    "name":"Voss, Myrkdalen, Finnbunuten, øst",
+    "latitude":60.88,
+    "longitude":6.44166667,
+    "description":"Den østvendte gryta over skianlegget i Myrkdalen er et fint flysted i svak østavind. Siden flystedet er østvendt lønner det seg ofte å være startklar før 14:00 om sommeren. Det kan lett bli bak/sidevind utover dagen.\nTilkomst fra Vetlebotn-setra eller Storhaugen om bommen er åpen videre fra Vetlebotn. Mange startmuligheter oppover til kanten på ca 1200-1250moh. Landing ved Vetlebotn setra (500m høydeforskjell), ved bunnen av heisene (800m høydeforskjell) eller helt nede ved Myrkdalsvatnet/campingen (1000m høydeforskjell). \n\nOm vinteren er det best tilkomst fra toppen av KariTrå-trekket. Ca 200 høydemeter å gå opp til kanten.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6292"
+}

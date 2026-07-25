@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":6472,
+    "name":"Biggas, Alta",
+    "latitude":70.15555556,
+    "longitude":23.74305556,
+    "description":"Very nice hang, easy approach, close to the road. Parking on the left side og the road from Alta.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6472"
+}

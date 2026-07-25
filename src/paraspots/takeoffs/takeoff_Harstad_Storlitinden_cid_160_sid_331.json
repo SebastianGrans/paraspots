@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":331,
+    "name":"Harstad, Storlitinden",
+    "latitude":68.79666667,
+    "longitude":16.30583333,
+    "description":"",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=331"
+}

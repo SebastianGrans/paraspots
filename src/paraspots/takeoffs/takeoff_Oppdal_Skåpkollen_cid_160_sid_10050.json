@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":10050,
+    "name":"Oppdal, Skåpkollen",
+    "latitude":62.72388889,
+    "longitude":9.56416667,
+    "description":"Parker bil på en liten parkeringsplass ved Skaret. Vipps 40,- kr til eier. Infoskilt på parkeringsplassen. Gå raka vegen rett opp lia. Ingen sti, men kommer raskt over tregrensa, og da er det greit å gå. Litt klatring til å begynne med. Mange startsteder å velge i. Vær litt obs på vindøkning i Skaret, som er passe trangt, om du velger å lande ved parkeringsplassen. Alternativt lande på nedre parkering ved Svahøvegen. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10050"
+}

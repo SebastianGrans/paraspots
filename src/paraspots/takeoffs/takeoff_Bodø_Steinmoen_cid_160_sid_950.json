@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":950,
+    "name":"Bodø Steinmoen",
+    "latitude":67.33111111,
+    "longitude":14.55472222,
+    "description":"Controlled airspace (inside \"Air Sport Area\"), permission required from Bodø Control Tower. 40 minutes steep walk from Soløyvannsveien, in winter ski-lift. You will need mini-skis. Start must be done away from the skiers, walk 10 minutes from the top of the lift towards the top of the ridge. Landing on the ice in winter, check that it is safe. In summer make the best out of it.\n\nPS! Veien og parkering kan ikke brukes på sommertid da dette er en privat vei og parkering. Grunneier tillater at vi bruker parkeringen litt forbi nede ved naustene og man kan bruke stien som går paralelt med veien til bakken.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=950"
+}

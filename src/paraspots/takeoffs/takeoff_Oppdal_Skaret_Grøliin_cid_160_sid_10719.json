@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":10719,
+    "name":"Oppdal Skaret Grøliin",
+    "latitude":62.67774167,
+    "longitude":9.57259722,
+    "description":"Gå sti opp fra Skaret camping (bratt)langs en bekk som renner ned fjellsia. Over tregrensa bare fortsett oppover utenfor sti (østover) til den høyste toppen omtrent rett øst for Skaret camping. Stort område å legge ut vinger. Landing på parkeringsplassen ved Skaret camping (stor) ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10719"
+}

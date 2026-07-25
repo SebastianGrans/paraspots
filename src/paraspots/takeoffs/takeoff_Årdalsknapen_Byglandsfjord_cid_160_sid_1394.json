@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":1394,
+    "name":"Årdalsknapen Byglandsfjord",
+    "latitude":58.67305556,
+    "longitude":7.83527778,
+    "description":"Gå fra Vassend rett sør for Byglandsfjord. Parkeringsplass på østsiden av Vassendkilen. Merket tursti til toppen opp Vinddalen på traktorvei. Ta til høyre på merket sti ved ca 475 moh, og følg denne opp mot toppen. \n\nRelativ store områder å starte på. God vingekontroll er nødvendig. Noe kort løpebane etterfulgt av stup. \nStarten ligger vest for toppen ved varden på ca 700 moh. Best nord for varden på vestavind og syd for varden på mer sydlig vind. \nKan være svært termisk. \n\nIngen konkret avtale om landing. Hvis hensyn i vekstsesong.\n\nNB! TMA høydebegrensning rett over start er ca 1520 meter AMSL (5000 fot AMSL). Høydebegrensning øker rett nordvest for start til 2890 meter (FL95).",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1394"
+}

@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":9571,
+    "name":"Murinibba (1119moh), Olden",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Gåturen til Murinibba går ifra Huaren 400moh. Herfra går det fin sti til toppen av Murinibba. \nTakeoff fra Murinibba gjøres mot Vest, med mulighet for takeoff mot SV og NV. \nLanding ved «Murivegen» 50moh. Fin og stor åker. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9571"
+}

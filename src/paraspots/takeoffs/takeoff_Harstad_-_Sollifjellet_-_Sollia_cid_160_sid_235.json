@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":235,
+    "name":"Harstad - Sollifjellet - Sollia",
+    "latitude":68.80388889,
+    "longitude":16.36666667,
+    "description":"En fin startplass om vinteren. Mer steinat terræng gjør d tidvis litt utrivelig førr diverse line å ta av i medvind om sommern.\n\nVærstasjon på toppen, klikke på Lenke til mer info.\n\nParkeringen nede er base for mye av PPG aktiviteten i Harstad. Denne har egen start for PPG, så registrer all motorflyging der: http://no.flightlog.org/fl.html?l=2&a=22&country_id=160&start_id=3484",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=235"
+}

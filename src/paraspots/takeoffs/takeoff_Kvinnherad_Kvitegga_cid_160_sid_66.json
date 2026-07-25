@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":66,
+    "name":"Kvinnherad, Kvitegga",
+    "latitude":59.94361111,
+    "longitude":6.02611111,
+    "description":"Hoved flystaden i Kvinnherad.\nSkogsvei til start gjennom tunet til bonden(Svein Hjelmeland). Kun 4WD tillatt. Dersom klubben din ikke har egen avtale med eiere av veien må det betales pr. tur til bonden. Landing på stort jorde ved bensinstasjonen, på utsida av vegen mot sjøen.\n\nHardanger Paragliderklubb betaler leige for jordet, samt leige for vegen. Kjør hensynsfullt, ta med deg søppel og ikkje pakk vingen midt på jordet. Pakk sammen der det går ein slags veg ned til sjøen. \n\nDet er montert ein værstasjon på toppen av Kvitegga. Data frå denne finnes på www.kvitegga.no (direkte link: http://www.kvitegga.no/w_display/WD_index.jpg  )",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=66"
+}

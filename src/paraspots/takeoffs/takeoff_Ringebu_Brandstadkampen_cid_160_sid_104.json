@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":104,
+    "name":"Ringebu, Brandstadkampen",
+    "latitude":61.51027778,
+    "longitude":10.19166667,
+    "description":"Start:\nStart på et lite, nokså bratt hogstfelt. Man går opp en bratt bakke fra ovenfor grusvegen som går videre til en skytebane. Parkering langs vegen, eventuelt nærmere skytebanen. Viktig å ikke sperre vegen.\n\nDet er en øvre og en nedre start. Den øverste har gjerne renere luft nå man starter, samtidig glir du over dem som rigger på nederste starten. \n\nNår det ikke er snø her, er det et lite parti med stein på den øverste starten som må passeres i starten.\n\nNB! Dette stedet ble tidligere vedlikeholdt av Sportwing, som da i mange år betalte \"festeavgift\" for å holde skogen nede. Men nå har i mange år ikke lenger vært noen avtale med grunneier grunnet markert økning av avgiften (Opplysningsvesenet). Grunnet stor skogvekst nedenfor vegen er det ikke lenger tilrådelig å bruke stedet for start med hangglider. I alle fall om man ikke er spesielt god i å starte, og det er gode vindforhold!\n\nLanding:\nHovedlanding er ved gammel løe vest for E6. Nedkjøring på Lågensida akkurat der vegen fra Ringebu stavkirke starter fra E6.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=104"
+}

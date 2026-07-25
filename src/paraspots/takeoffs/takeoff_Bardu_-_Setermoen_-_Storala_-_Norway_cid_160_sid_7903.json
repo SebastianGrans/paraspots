@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":7903,
+    "name":"Bardu - Setermoen - Storala - Norway",
+    "latitude":68.9075,
+    "longitude":18.33111111,
+    "description":"Fin exit mot S-SE. Start 20 høydemeter fra toppen. Følg det slake partiet til stupet, følg ryggen og land på jordene sør for veien. Veldig fin flytur. Fløyet i nullvind.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7903"
+}

@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":6180,
+    "name":"Stavtjørn, Skarkaknuten",
+    "latitude":58.69722222,
+    "longitude":6.34972222,
+    "description":"Starten ligger på en flate på midtre delen av anlegget (der første heisen stopper). På sommeren er det en del stein på start, så vær obs mtp liner!\nLandinga ligger på myra ved Stavtjørn.\n\nMed vind inn så kan dette være en PP2 plass, men vær obs på østlige vinder da det kan bli rotor bak fjellkanten til øst for start (mer enn 3 m/s). Det er fint å se på Stavtjørn nede i dalen mtp vind.\n\nHøydebegrensning: 1067moh\n\nPlenty of different take offs, with a bit of walking from main take off described above, and shown in pic.\n\nIn the winter you can also launch from the top of the fjellheis with skis, and then land on the other side of the tunnel from the ski center's car park.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6180"
+}

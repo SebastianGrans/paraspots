@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":1400,
+    "name":"Stranda, Strandafjellet Skisenter - Roalden",
+    "latitude":62.30805556,
+    "longitude":6.84944444,
+    "description":" \nSe bilde for info.\n\nDet går gondol på Roaldsiden av Strandafjellet nesten hele året.\n\nHøydebegrensing: Vigra TMA 8, 1372 moh.\n\nSommeren:\nFin startplass fremfor Roaldspaviljongen.\nHovedlandingen er på parkeringsplassen, du ser landing rett etter du har tatt av.\nAlternativ startsted er ved toppstasjon på fjelltrekket.\n\nVinteren:\nDet er anbefalt å ta fjelltrekket eller gå opp til toppstasjonen på fjelltrekket, der er som oftes stort område preparert slik man kan legge ut skjerm. Landing om vinteren bruker vi langrennsløypa på motsatt side av parkeringsplassen. (parkeringsplassen bruker å være full om vinteren på godværsdager.) \nVær obs på skiløpere og unngå om mulig å lande i skisporene.\n\nEr det vestlig vind kan du gå opp til toppen av fjelltrekket og bruke takeoff inn mot Blådalen. (Se egen takeoff for Blådalen.)\n\nStrandafjellet Skisenter AS finner du nå på Holfuy. (Roaldshorn, Stranda.)\nhttps://holfuy.com/en/weather/902\n",
+    "holfuy_id":902,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/902",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1400"
+}

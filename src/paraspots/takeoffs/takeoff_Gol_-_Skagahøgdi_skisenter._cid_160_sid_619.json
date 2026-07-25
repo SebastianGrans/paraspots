@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":619,
+    "name":"Gol - Skagahøgdi skisenter.",
+    "latitude":60.70944444,
+    "longitude":8.88666667,
+    "description":"Starten ligger på toppen av slalombakken.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=619"
+}

@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":7309,
+    "name":"Bardu - Setermoen - Vesleala",
+    "latitude":68.94472222,
+    "longitude":18.40638889,
+    "description":"Vesleala, just north of Storala. You can start almost anywhere during wintertime, in the summer the south side is less rough and easier. Park your car on one of the farms, but ask the people first. Sommervoll or the farm southwest of it are good options. There are multiple paths going up but generally its the south side. A very good mountain for skiing and easy to ascend. Many landing options, less in crop season. For speedriding choose a big wing, at least 14m2 with good glide ratio to be able to have som fun and still not end up in the forest. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7309"
+}

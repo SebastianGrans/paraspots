@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":201,
+    "name":"Geilo, Vestlia (skisenteret)",
+    "latitude":60.51666667,
+    "longitude":8.19777778,
+    "description":"I FØLGE SKISENTERET HAR ALPINANLEGGENES LANDSFORENING GENERELT FORBUDT ALL FLYGING NÆRMERE SKISENTER ENN 200 METER. DET MEDFØRER AT STEDET ER STENGT FOR FLYGING.\n\nPASS PÅ!!! I FEBRUAR 2017 BLE DET BYGGET ZIPLINE HELE VEIEN MELLOM STOLHEIS OG T-KROK. DEN ER 30 METER OVER BAKKEN PÅ DET HØYESTE.\n\nStarten: Anbefalt PP3 med god skjermkontroll grunnet heis, lysmaster og skikjørere.\nTakeoff rett foran kaféen på toppen, eventuelt mot NØ øverst i Randiløypa. Landing på p-plass eller på jordene nedenfor hotellet. Merk høyspentledning nord for p-plass.\nFra 2013 er det laget ny løype fra kaféen. Det gjør at det kan startes på vindretninger fra V til NØ. TA HENSYN TIL DE SOM KJØRER SKI OG BRETT (så vi ikke risikerer bortvisning).",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=201"
+}

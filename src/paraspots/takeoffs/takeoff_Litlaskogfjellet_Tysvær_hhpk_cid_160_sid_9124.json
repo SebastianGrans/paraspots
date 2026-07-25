@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":9124,
+    "name":"Litlaskogfjellet, Tysvær (hhpk)",
+    "latitude":59.42611111,
+    "longitude":5.49305556,
+    "description":"Følg traktorvei opp, nærmere beskrivelse kommer når vi har spurt grunneiger om hvor han ønsker at vi går opp.\n\nGrei landing på jordet som ligger i NNØ retning fra nordstarten, jordet ligger på samme side av hovedveien som starten.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9124"
+}

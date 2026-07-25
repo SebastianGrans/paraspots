@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":9701,
+    "name":"Torshammaren, Eidsbugarden",
+    "latitude":61.37166667,
+    "longitude":8.25388889,
+    "description":"Can be reached from both Eidsbugarden og Tyinholmen in about 45 minutes. Many possible landing sites between Tyinholmen and Eidsbugarden, but watch out for the power line  ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9701"
+}

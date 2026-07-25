@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":10178,
+    "name":"Rebbåsheia",
+    "latitude":58.51472222,
+    "longitude":7.71305556,
+    "description":"Liten plass på start. Stupstart. Krever god start teknikk og minimum pp3",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10178"
+}

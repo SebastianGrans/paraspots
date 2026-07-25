@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":2103,
+    "name":"Vikafjellet -nord for tunnellen",
+    "latitude":61.01166667,
+    "longitude":6.53888889,
+    "description":"Kjøyr gjennom tunnellen, legg ut skjerm på parkerings plass, spring!!\n\nHG-start er enten 200m nedenfor parkeringen på høyre side av veien. Denne starten er litt \"hårete spesielt på sidevind fra sør. Det er kort og slakk løpebane før det går rett ned mot veien med autovern ca. 5m under. Alternativ start er på venstre side rett nedenfor parkeringen. Den fungerer hvertfall når det er snø...\n\nPå formiddagen - med vind fra N/Ø til S/Ø står termikken fint inn mot parkeringsplassen rett utenfor tunnellen. Med +1400 moh på tanken har du nok høyde over mot Hang og Fyrjaeggi. ",
+    "holfuy_id":112,
+    "wind_dirs":[
+        "NW",
+        "W"
+    ],
+    "holfuy_url":"http://holfuy.com/en/weather/112",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2103"
+}

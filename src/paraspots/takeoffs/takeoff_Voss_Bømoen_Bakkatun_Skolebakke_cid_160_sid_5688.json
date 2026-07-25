@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":5688,
+    "name":"Voss, Bømoen, Bakkatun, Skolebakke",
+    "latitude":60.64305556,
+    "longitude":6.49611111,
+    "description":"Skolebakken på Bømoen, Voss. Like ved flyplassen der Falskjermhoppere lander.\nHUSK at her skal det avtales med bonden før en bruker denne bakken for hver dag.\nSå en kan IKKE bare ta en vinge og gå opp i bakken for å fly noen turer uten at dette er avtalt med bonden.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5688"
+}

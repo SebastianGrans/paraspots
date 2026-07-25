@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":8826,
+    "name":"Voss, Myrkdalen, Fossen",
+    "latitude":60.825,
+    "longitude":6.48222222,
+    "description":"Stølen Fossen i Myrkdalen.\n\nEin bør kanskje ha litt erfaring og brukbar startteknikk for å starte her.\n\nGå stølsveg opp frå Nesheim. (2km/300høgdemeter)\n\n\nLitt forskjellige plassar å starte frå litt etter vindretningen. \n\nMot nordvest brukar ein myra over sela og spring ut mot glenne som er hogd i skogen ned mot stølsvegen. Trerne nedenfor vegen er også høge så ein bør ha litt vind inn og trykk i skjermen i det ein nermar seg enden på myra.\n\nMot vest/sørvest kan ein legge ut ved øverste sel og springe ned i retning mot nederste sel. Litt ujevnt og ikkje så bratt med diverse busker ein må finne ei linje mellom.\n\nLanding kan vel gjerast på diverse jorder, men ta hensyn i vekstsesongen og spør grunneigar, ellers så rekker ein fint campingen som også brukes frå Ondrahaugen",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8826"
+}

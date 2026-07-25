@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":5481,
+    "name":"Sæhl, Ål",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Øverst oppe i Sæhlsgardane, øverst på jordet nedenfor veien, landing på jordet i Gullhagensvingen eller på hovedlanding fra Liatoppen",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5481"
+}

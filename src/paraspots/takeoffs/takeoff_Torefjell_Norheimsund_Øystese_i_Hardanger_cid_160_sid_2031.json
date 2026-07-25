@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":2031,
+    "name":"Torefjell, Norheimsund & Øystese i Hardanger",
+    "latitude":60.40833333,
+    "longitude":6.12583333,
+    "description":"Generelt:\nFin stad å fly med spesielt fint hang langs heile toppen mot SSØ. \nTar ca. 1-2 timar å gå opp frå Sjusete. Turskildring er lagt ved som link.\n\nTilkomst og parkering:\nFøg skilting til Sjusete frå Øystese eller Norheimsund.\nStor parkering på Sjusete. \nParkerings- løypeavgift:\nDagskort: kr 100\nMeir info: https://sjusete.com/prisar-og-innmelding/\n\nStarten:\nMogeleg å starte i alle retningar, men er finast mot Ø, SSØ og SV. Kan vera stupstart avhengig av kvar ein startar.\n\nI lufta:\n- Ved start på baksida av fjellet(N-NV) må ein vera obs på rotor frå fjellet.\n- Kjem ein lågt langs fjellet må ein vera obs på høgspenten når ein flyr mot landing.\n- Er av og til mikrofly som tar av/landar på Mo og i Steinsdalen.\n\n\nLanding:\nMogeleg å lande mange stader, blant anna på Sjusete, flystripa i Steinsdalen, Mo, promenaden framfor Hardangerbadet/Hotellet i Øystese, grusbanen i Norheimsund. \nEr det høgt gras lyt ein høyre med grunneigarane fyrst.\n\nHøgdebegrensing:\nMot nord, vest og sør er høgdebegrensinga 2286 moh.\nCa. 1 km vest for toppen er høgdebegrensinga 1676 moh.\nKart: http://luftrom.info/viewer.html#12/60.4070/6.1184/topo4-x12vsf-65l4ys",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2031"
+}

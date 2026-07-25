@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":9452,
+    "name":"Os - Linken",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Parkering på Tøsdal. Beste landing er opp på første beite, 200 m inn på stien.\nKontakt grunneiger Torbjørn Tøsdal,\n(mob 930 59 395) for avgang. Bur i huset over parkering.\nPå toppen med linken finner du deg ein plass å ta av. Eller gå litt videre for alternative plasser.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9452"
+}

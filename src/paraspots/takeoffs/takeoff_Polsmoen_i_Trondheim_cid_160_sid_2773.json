@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":2773,
+    "name":"Polsmoen i Trondheim",
+    "latitude":63.45555556,
+    "longitude":10.45527778,
+    "description":"Artig, artig, artig hengsted.\nFint sted å trene skjermkontroll. Med MYE vind kan man fly, og få heng på skogen og en kolle.\n\nKjør litt forbi Korsvika, \"rundt odden\", til høyre før NGU og hold venstre..",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2773"
+}

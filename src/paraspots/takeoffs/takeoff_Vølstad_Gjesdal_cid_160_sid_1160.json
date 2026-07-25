@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":1160,
+    "name":"Vølstad Gjesdal",
+    "latitude":58.80861111,
+    "longitude":6.06472222,
+    "description":"Kjør inn mot Madland. Vi har for øyeblikket ingen avtale om kjøring på veien opp til start, og det er laaaangt å gå... :)",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1160"
+}

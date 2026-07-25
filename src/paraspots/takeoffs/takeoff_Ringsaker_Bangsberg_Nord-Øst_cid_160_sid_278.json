@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":278,
+    "name":"Ringsaker, Bangsberg Nord-Øst",
+    "latitude":60.84861111,
+    "longitude":10.8975,
+    "description":"Rampa er tatt av snøen og restene er fjernet...starten blir pr dags dato ikke brukt \n\nNB: Dårlig startplass, ikke ryddet de siste årene.\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=278"
+}

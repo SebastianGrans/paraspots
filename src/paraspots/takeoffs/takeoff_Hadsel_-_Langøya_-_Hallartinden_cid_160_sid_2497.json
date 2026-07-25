@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":2497,
+    "name":"Hadsel - Langøya - Hallartinden",
+    "latitude":68.60055556,
+    "longitude":14.94388889,
+    "description":"Fint fjell og fly på. Mulig bra plass og starte distansetur mot Sortland",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=2497"
+}

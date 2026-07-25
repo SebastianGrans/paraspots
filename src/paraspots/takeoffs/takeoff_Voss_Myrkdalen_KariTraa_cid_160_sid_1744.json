@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":1744,
+    "name":"Voss, Myrkdalen, KariTraa",
+    "latitude":60.87722222,
+    "longitude":6.47111111,
+    "description":"Hovedstart i Myrkdalen for SPG kursing og flyging.\nMange startmuligheter på begge sider av toppen av trekket. Du kan landa i bunnen av trekket med høydeforskjell 360m,eller fly heilt ned til varmestova(ved siden av nye ekspressheisen)med høydeforskjell 650m..stor og fin landingsplass",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1744"
+}

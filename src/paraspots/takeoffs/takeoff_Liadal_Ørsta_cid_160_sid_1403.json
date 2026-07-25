@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":1403,
+    "name":"Liadal/Ørsta",
+    "latitude":62.25472222,
+    "longitude":5.99444444,
+    "description":"Dette fly sted ligger innenfor kontrollert luft rom Hovden TIZ, de må innhentes tillatelse fra Hovden Kontrolltårn(Tlf 70041689) før det kan flyges.\nhttps://himmelseglarane.no/flyging/flykultur  \n\nPå Liadal kan du flyge frå fleire fjell fra Rjåneskammen til landemerket Liadalsnipa",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1403"
+}

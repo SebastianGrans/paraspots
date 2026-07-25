@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":9908,
+    "name":"King's view. Hellersheia. Helleren",
+    "latitude":58.33277778,
+    "longitude":6.35305556,
+    "description":"25 minute hike to top from main parking. Steep cliff takeoff with chilling view. Landing by the Jøssingfjord  Vitenmuseum.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9908"
+}

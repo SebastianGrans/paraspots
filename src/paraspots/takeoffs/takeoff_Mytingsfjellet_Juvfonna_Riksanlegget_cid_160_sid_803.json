@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":803,
+    "name":"Mytingsfjellet/Juvfonna (Riksanlegget)",
+    "latitude":61.6725,
+    "longitude":8.33972222,
+    "description":"Åk till Juvashytta och knalla upp. Tar cirka 1 timme att gå upp.\nSe upp för stup!\n\nLitt steinete, fordel å finne snø å legge ut på:-)...er snø på toppen året rundt.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=803"
+}

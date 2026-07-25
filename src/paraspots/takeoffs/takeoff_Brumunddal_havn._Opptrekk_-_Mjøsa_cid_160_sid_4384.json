@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":4384,
+    "name":"Brumunddal havn. Opptrekk - Mjøsa",
+    "latitude":60.88277778,
+    "longitude":10.93305556,
+    "description":"MOLOEN: Vinter-vinsjing\nVinsjetrasje på Mjøs-isen rett utenfor Brumunddal (like ved ESSO/ veikroa). \nKjør under E6, sving av ved båthavna, hold venstre mot volleyballbana og ta av til høyre rett før bommen. \nParkering på land. Møt opp i god tid for utkjøring av alle vinger samtidig på nordlige vinder. På sørlig blir det rigging ved moloen.\n\n\n\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4384"
+}

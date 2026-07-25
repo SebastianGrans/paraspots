@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":6030,
+    "name":"Brøknipa, Osterøy",
+    "latitude":0.0,
+    "longitude":0.0,
+    "description":"Nice speedflying mountain with a bit of a transport section to the landing.\n\nThe takeoff is good, but there are a lot of ledges below it so you need a bit of wind if you have a small wing.\n\nThe landing area is between the church and the red house to the west of the church. It is quite small, and the only alternative is the fjord. You need to be comfortable with your wing and landing skills!\n\nYou can drive and park half way up the mountain. Approx 50 min walk to top (with speedflyer).",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6030"
+}

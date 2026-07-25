@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":8014,
+    "name":"Fjellheisen",
+    "latitude":69.64916667,
+    "longitude":19.39361111,
+    "description":"Fin å fly når det er lite eller null vind. Flat på toppen og lett å starte. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8014"
+}

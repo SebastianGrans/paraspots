@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":1657,
+    "name":"Utsikten, Kvinesdal",
+    "latitude":58.30361111,
+    "longitude":6.97055556,
+    "description":"Langs gamle E-18 kommer man til Utsikten Hotell. Her kan man ta av rett ved veien(krevende start). Motsatt av innkjørsel til Hotellet er det en liten vei inn i skogen. Følg denne ca 150m til en lysning, her er det merket sti med røde band opp til nyryddet pp2 start. Landing på fotballbanen. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1657"
+}

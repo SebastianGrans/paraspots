@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":5390,
+    "name":"Bringen(Selbu)",
+    "latitude":63.06694444,
+    "longitude":11.14305556,
+    "description":"Fjell i Selbu. \nFint nord vest hang.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5390"
+}

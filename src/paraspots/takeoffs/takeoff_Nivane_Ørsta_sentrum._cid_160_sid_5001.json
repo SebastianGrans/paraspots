@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":5001,
+    "name":"Nivane, Ørsta sentrum.",
+    "latitude":62.22361111,
+    "longitude":6.10555556,
+    "description":"Denne takeoffen ligger innenfor kontrollert luft rom Hovden TIZ, det må varsles til Hovden Kontrolltårn (Tlf 70041689) før all flyging.\nhttps://himmelseglarane.no/flyging/flykultur \n\nVeldig fint for ein sklitur.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=5001"
+}

@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":3583,
+    "name":"Mydland i Sokndal",
+    "latitude":58.39861111,
+    "longitude":6.43888889,
+    "description":"Fin mellomstadie bakke. Trivelig grunneiger.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3583"
+}

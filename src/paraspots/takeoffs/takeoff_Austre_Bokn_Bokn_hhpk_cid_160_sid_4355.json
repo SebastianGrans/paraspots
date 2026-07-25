@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":4355,
+    "name":"Austre Bokn, Bokn (hhpk)",
+    "latitude":59.23194444,
+    "longitude":5.47666667,
+    "description":"Høydebegrensing 457 moh, Sola TMA2\nhttps://luftrom.info/viewer.html#7/59.812/8.965/\n\nStart mot øst; PP2, m utstsjekk\nStart mot vest; PP3\n\nHer flyr du primært på østavind. Øst- starten tåler en del vind siden øya ligger langt borte fra høye fjell. Her ute vil østavinden ofte ha roet seg med tanke på turbulens. I sterk østavind vi imidlertid bølger kunne slå ned også her. Faren for å bli blåst bakover og inn i le, må også tenkes på.  \nEn kan parkere borte ved E39 eller kjøre helt bort til landing. Pass på at ikke bilen står i veien for bonden som eier stedet. Du følger «gaten» i skogen der gassrøret går opp til det høyeste punktet, før du dreier til venstre. Mange startmuligheter. Prøv å lande på den delen av jordet som løper langs fjorden. Tarmen som går mot sjøen heller nedover. \nDet skal også la seg gjøre å starte mot vest, men da bør en kanskje ha en parkert på motsatt side. Starten denne retningen er mer krevende, men landingen er fin. \n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4355"
+}

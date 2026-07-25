@@ -1,0 +1,21 @@
+{
+    "country_id":160,
+    "start_id":9180,
+    "name":"Andøya, Ramnskogheia (Åknes/Risøyhamn)",
+    "latitude":68.98583333,
+    "longitude":15.51138889,
+    "description":"Fra Ramnskogheia kan man fly fra Durmålshaugen (533moh) og Melakollen (370moh).\nParkering ved Åknes. Stort sett startbar i alle himmelretninger, men er brattere nordover og en del stein, så krever mer erfaring og kjennskap til forholdene.\nAndøya TMA ligger over. Telefonnummer til Andøya tårn: 76116272.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9180"
+}

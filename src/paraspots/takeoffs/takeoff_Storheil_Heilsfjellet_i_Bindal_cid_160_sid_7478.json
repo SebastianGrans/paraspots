@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":7478,
+    "name":"Storheil, Heilsfjellet i Bindal",
+    "latitude":65.13638889,
+    "longitude":12.12083333,
+    "description":"Start på storheil i Bindal. Går opp på bakside etter atv vei og sti. Ca 15 minutt å gå. Står holfuy vindmåler på start, heilsfjellet torh.\nBør være litt vind inn, da det ikke er plass til forlengsstart. Gode muligheter for litt distanse, selv kun på heng. Hopp fra rygg til rygg. På termiske dager skal det være mulig å komme et bra stykke søråver herifra.  ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "N"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=7478"
+}

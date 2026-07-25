@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":6948,
+    "name":"Hysingjordfjellet, Hysingjord, Nordreisa",
+    "latitude":69.76111111,
+    "longitude":21.14972222,
+    "description":"Det går en atv vei ett stykke opp fjellet. Det er mulig å finne veien fra myra bak Blomli. Følg denne veien opp til myra på 230moh. Gå så mot nord og finn en åpning i berget. Starten er over skoggrensen ovenfor berget, det er mulig å unngå stupstart.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6948"
+}

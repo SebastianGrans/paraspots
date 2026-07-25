@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":10167,
+    "name":"Hokksund, Hobbelstadjordet (Hasselbakken).",
+    "latitude":59.7846,
+    "longitude":9.9098,
+    "description":"Kjør av v/ bensinstasjon Hasselbakken. Første vei til høyre: Parkering ( v/  landingsområdet ).\nVinter: Dette er en Bakke som brukes til diverse ski-aktiviteter. Bakken er preparert. Egner seg godt til trening på start og landing.\n\nSommer: Dyrket mark og kornproduksjon.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10167"
+}

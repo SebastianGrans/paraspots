@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":8992,
+    "name":"Blefjell - Fosskard",
+    "latitude":59.81356389,
+    "longitude":9.15143333,
+    "description":"Off piste start på Blefjells vestside. Gå opp fra Fosskard seter. Det er bilvei opp og man kan låne nøkkel på Blefjell Camping hvis de finns nøkkler ledig (de har et fåtal). Det er markert sti opp på fjellet fra parkeringen vid seteren. \n\nDet finns ikke noen tydlig startplass, så en får bare finne seg ett sted uten alt før mye stein og kratt og starte. \nStartbare vindrettninger henger litt på vindstyrken, men V-VNV er idealt. \n\nUnngå at lande på det store jordet dirkete nord fra sjøen. \nDet er OK at lande på jordet nord fra Sud Fosso gård. \n\n\n\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8992"
+}

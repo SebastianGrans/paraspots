@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":4833,
+    "name":"Kleppstadheia, Lofoten",
+    "latitude":68.25888889,
+    "longitude":14.30222222,
+    "description":"Fin plass å fly. Enormt område uten vegetasjon for takeoff. Har tegnet inn landing men her kan man nesten lande hvor man vil. Går en høyspentlinje ved bunnen av fjellet, men denne flyr man over med klar margin.\n\nParkeringen ligger ca. 30 min vest for Svolvær. Ta av inn mot \"Brenna\".\nEr god parkeringsplass for turgåere ved busstoppen (dette er parkeringen som er tegnet inn på bildet). Ca. 30-45min å gå opp.\n\nMERK: Hvis vindretningen er sørøst kan man risikere å måtte gå et stykke fra landing til man er tilbake ved veien.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4833"
+}

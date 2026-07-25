@@ -1,0 +1,18 @@
+{
+    "country_id":160,
+    "start_id":583,
+    "name":"Hovden i Sætesdalen",
+    "latitude":59.58,
+    "longitude":7.33138889,
+    "description":"Avklar all flyging med drift før du flyr her. Spør etter Mats :)\n\nTa stolheisen til topps.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=583"
+}

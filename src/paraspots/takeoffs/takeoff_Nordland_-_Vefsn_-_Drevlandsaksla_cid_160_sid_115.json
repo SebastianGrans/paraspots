@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":115,
+    "name":"Nordland - Vefsn - Drevlandsaksla",
+    "latitude":65.93916667,
+    "longitude":13.09916667,
+    "description":"Oppgitte kartdata er for NEDRE START som er den mest brukte. \n\nØnsker man mer høyde (450 moh) er det bare å fortsette fra nedre til ØVERSTE START (65° 56' 56''  E 13° 6' 21'') \n\nStartene nåes enklest via delvis synlig sti fra tuppen/neset av Drevlandsaksla. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "S",
+        "SE",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=115"
+}

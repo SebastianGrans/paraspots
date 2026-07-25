@@ -1,0 +1,20 @@
+{
+    "country_id":160,
+    "start_id":4525,
+    "name":"Dokka - Askvoll",
+    "latitude":61.37083333,
+    "longitude":5.15305556,
+    "description":"Stien går opp rett sør for starten. Landing langs traktorveier ved jordet sør for start. Landing og veien opp til start går gjennom privat gård. Det er ikkje forhandla nokon tilgang til start eller landing så vis normal folkeskikk. Det er ikkje nokon vindpølse eller liknande på start men det bør være opplagt å sjå kva som er ein egna start når ein går langs stien opp. NV starten ligg litt vest for hovudstarten over eit gjerde, men ein må påregne litt le-flyging for å nå landing om ein ikkje kjem seg opp.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4525"
+}

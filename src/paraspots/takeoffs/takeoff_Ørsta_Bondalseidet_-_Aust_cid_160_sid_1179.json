@@ -1,0 +1,15 @@
+{
+    "country_id":160,
+    "start_id":1179,
+    "name":"Ørsta, Bondalseidet - Aust",
+    "latitude":62.16166667,
+    "longitude":6.30472222,
+    "description":"Bondalseidet ligger i TIZ til Hovden flyplass Luftrom klasse G. \nDet er ikkje lenger mulig å fly i TMA (over 3500ft/1067m) da avtalen om luftsportsområde Bondalen Sør og Nord er sagt opp av Avinor, pga ny lov om luftromorganisering. \n\nHver enkelt pilot eller gruppe må innhente tillatelse fra tårnet Hovden  for å fly i TIZ, så da er det viktig og ha en god fly plan, samt vere tilgjengelig på  tlf under flyging. Er det flere/en gruppe så må det brukes radio på 154.175 slik at den ansvarlige for tillatelsen kan gi melding til med piloter.\n\nSelv om NLF jobber med å få gjort om luftsports områder til fareområder så er det tvilsomt at det kjem noken avtaler med det første.\n\nhttps://avinor.no/flyplass/orstavolda/flytider/avganger/\nwww.himmelseglarane.no\n2023.12.15",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1179"
+}

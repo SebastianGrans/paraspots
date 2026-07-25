@@ -1,0 +1,16 @@
+{
+    "country_id":160,
+    "start_id":3942,
+    "name":"Veten, Etne (hhpk)",
+    "latitude":59.6875,
+    "longitude":5.92083333,
+    "description":"PP2 med utsjekk, utilgjenglig for hanglidere pga manglende vei.\n\nStart mot sør rett nedenfor varden, plass til mange skjermer på en gang. ca 1,5time å gå opp fra \"stupebrettet\". Følg veibeskrivelse for flystedet Bjørkenes",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "SW",
+        "S",
+        "SE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=3942"
+}

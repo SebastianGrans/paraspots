@@ -1,0 +1,19 @@
+{
+    "country_id":160,
+    "start_id":954,
+    "name":"Valdres, Øystre Slidre, Bygdin, Synshorn",
+    "latitude":61.33638889,
+    "longitude":8.79805556,
+    "description":"Linken over viser noen bilder av Synshorn, Bygdin og veien som går videre opp mot Valdresflya. \n\nSynshorn ligger ved siden av Bygdin, like før du kommer opp på Valdresflya. Her kan det flys på hang bare man går 10 min. opp i fjellsiden. ",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W",
+        "SW",
+        "S",
+        "SE",
+        "E",
+        "NE"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=954"
+}

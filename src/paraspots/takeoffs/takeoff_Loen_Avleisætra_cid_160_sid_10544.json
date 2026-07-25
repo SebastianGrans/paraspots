@@ -1,0 +1,14 @@
+{
+    "country_id":160,
+    "start_id":10544,
+    "name":"Loen, Avleisætra",
+    "latitude":61.84916667,
+    "longitude":6.84138889,
+    "description":"Følg sti til Avleisætra, deretter 500 m mot vest.",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "W"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=10544"
+}

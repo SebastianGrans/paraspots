@@ -1,0 +1,17 @@
+{
+    "country_id":160,
+    "start_id":6328,
+    "name":"Lidaveten",
+    "latitude":62.2186623,
+    "longitude":5.9738964,
+    "description":"Dette fly sted ligger innenforHovden TIZ, de må innhentes tillatelse fra Hovden Kontrolltårn(Tlf 67032092) før det kan flyges\nhttps://himmelseglarane.no/flyging/flykultur Rett før man kjører inn i Eiksundsambandet, tar man av til høgre. Eit stykke så tar man til høgre på ein traktorveg opp fjellet.\n",
+    "holfuy_id":null,
+    "wind_dirs":[
+        "NW",
+        "W",
+        "S",
+        "E"
+    ],
+    "holfuy_url":"",
+    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=6328"
+}
