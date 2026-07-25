@@ -1,4 +1,41 @@
-html, body, #map {
+html, body {
     height: 100%;
     margin: 0;
+}
+
+body {
+    display: flex;
+}
+
+#map {
+    flex: 4;
+    min-width: 200px;
+}
+
+#sidebar {
+    flex: 1;
+    min-width: 550px;
+    display: flex;
+    flex-direction: column;
+}
+
+#takeoff-panel {
+    flex: 1;
+    min-height: 300px;
+}
+
+#list-panel {
+    flex: 1;
+}
+
+.placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: #666;
+    font-family: sans-serif;
+    padding: 16px;
 }
