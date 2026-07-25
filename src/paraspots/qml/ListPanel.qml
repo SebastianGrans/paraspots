@@ -155,31 +155,81 @@ Rectangle {
                     onClicked: sortMenu.open()
                 }
 
-                Menu {
+                // A plain Popup rather than Menu/MenuItem, since Menu closes
+                // itself whenever a MenuItem is triggered — here we want
+                // picking a sort option to stay open.
+                Popup {
                     id: sortMenu
+                    x: parent.width - width
                     y: parent.height
+                    padding: 4
 
-                    MenuItem {
-                        text: "A-Z"
-                        font.bold: root.sortMode === ListPanel.Az
-                        onTriggered: root.sortMode = ListPanel.Az
+                    background: Rectangle {
+                        color: Theme.surfaceLow
+                        border.color: Theme.divider
+                        border.width: 1
                     }
-                    MenuItem {
-                        text: "Z-A"
-                        font.bold: root.sortMode === ListPanel.Za
-                        onTriggered: root.sortMode = ListPanel.Za
-                    }
-                    MenuItem {
-                        text: "Dist. asc."
-                        font.bold: root.sortMode === ListPanel.DistAsc
-                        enabled: !!root.referenceCoordinate
-                        onTriggered: root.sortMode = ListPanel.DistAsc
-                    }
-                    MenuItem {
-                        text: "Dist. desc."
-                        font.bold: root.sortMode === ListPanel.DistDesc
-                        enabled: !!root.referenceCoordinate
-                        onTriggered: root.sortMode = ListPanel.DistDesc
+
+                    contentItem: Column {
+                        spacing: 2
+
+                        Repeater {
+                            model: [
+                                {
+                                    label: "A-Z",
+                                    mode: ListPanel.Az,
+                                    requiresLocation: false
+                                },
+                                {
+                                    label: "Z-A",
+                                    mode: ListPanel.Za,
+                                    requiresLocation: false
+                                },
+                                {
+                                    label: "Dist. asc.",
+                                    mode: ListPanel.DistAsc,
+                                    requiresLocation: true
+                                },
+                                {
+                                    label: "Dist. desc.",
+                                    mode: ListPanel.DistDesc,
+                                    requiresLocation: true
+                                }
+                            ]
+
+                            delegate: Rectangle {
+                                id: sortOption
+                                required property var modelData
+
+                                readonly property bool isEnabled: !sortOption.modelData.requiresLocation || !!root.referenceCoordinate
+
+                                width: 130
+                                height: optionText.implicitHeight + 12
+                                radius: 4
+                                opacity: sortOption.isEnabled ? 1 : 0.4
+                                color: optionArea.containsMouse && sortOption.isEnabled ? Theme.divider : "transparent"
+
+                                Text {
+                                    id: optionText
+                                    anchors.verticalCenter: parent.verticalCenter
+                                    anchors.left: parent.left
+                                    anchors.margins: 8
+                                    text: sortOption.modelData.label
+                                    color: Theme.textPrimary
+                                    font.pointSize: Theme.fontMd
+                                    font.bold: root.sortMode === sortOption.modelData.mode
+                                }
+
+                                MouseArea {
+                                    id: optionArea
+                                    anchors.fill: parent
+                                    hoverEnabled: true
+                                    enabled: sortOption.isEnabled
+                                    cursorShape: Qt.PointingHandCursor
+                                    onClicked: root.sortMode = sortOption.modelData.mode
+                                }
+                            }
+                        }
                     }
                 }
             }
