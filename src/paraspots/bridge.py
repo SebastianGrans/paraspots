@@ -1,4 +1,5 @@
 from __future__ import annotations
+import os
 from pathlib import Path
 from paraspots.qml_models import TakeoffObject
 from paraspots.qml_registration import QmlElement, QmlSingleton
@@ -22,10 +23,16 @@ class Bridge(QObject):
     _instance: ClassVar[Bridge | None] = None
     _takeoffs: list[Takeoff] = []
     _takeoff_objects: list[TakeoffObject] = []
+    _maptiler_key: str = ""
 
     def __init__(self, parent: QObject | None = None) -> None:
         super().__init__(parent)
         Bridge._instance = self
+
+        if key := os.environ.get("MAPTILER_KEY"):
+            self._maptiler_key = key
+        else:
+            self._maptiler_key = ""
 
     @classmethod
     def instance(cls) -> Bridge:
@@ -56,3 +63,7 @@ class Bridge(QObject):
     @Property("QVariantList", notify=takeoffsLoaded)  # ty: ignore[invalid-argument-type]
     def takeoffs(self) -> list[TakeoffObject]:
         return self._takeoff_objects
+
+    @Property(str, constant=True)
+    def maptilerKey(self) -> str:
+        return self._maptiler_key

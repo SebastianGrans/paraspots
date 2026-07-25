@@ -16,10 +16,36 @@ Item {
         anchors.fill: parent
         map.center: QtPositioning.coordinate(61.0, 8.0)
         map.zoomLevel: 5
-        map.copyrightsVisible: false
+        map.copyrightsVisible: true
         map.plugin: Plugin {
             name: "osm"
+            PluginParameter {
+                name: "osm.mapping.providersrepository.disabled"
+                value: "true"
+            }
+            // PluginParameter {
+            //     name: "osm.mapping.custom.host"
+            //     value: "https://api.maptiler.com/tiles/satellite-v2/%z/%x/%y.png?key=" + Bridge.maptilerKey // qmllint disable stale-property-read
+            // }
         }
+    }
+
+    // Keyboard shortcut to cycle through available map types
+    Shortcut {
+        sequences: ["Ctrl+M"]
+        context: Qt.ApplicationShortcut
+        onActivated: root.cycleMapType()
+    }
+
+    property int mapTypeIndex: 0
+
+    function cycleMapType() {
+        const types = mapView.map.supportedMapTypes;
+        if (types.length === 0)
+            return;
+        root.mapTypeIndex = (root.mapTypeIndex + 1) % types.length;
+        mapView.map.activeMapType = types[root.mapTypeIndex];
+        console.log("Map type:", types[root.mapTypeIndex].name);
     }
 
     CoordinateAnimation {

@@ -32,6 +32,7 @@ Module {
             index: 1
             isReadonly: true
         }
+        Property { name: "maptilerKey"; type: "QString"; read: "maptilerKey"; index: 2; isReadonly: true }
         Signal { name: "takeoffsLoaded" }
         Signal {
             name: "someError"
