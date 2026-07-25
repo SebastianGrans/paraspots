@@ -47,6 +47,17 @@ function escapeHtml(text) {
     return div.innerHTML;
 }
 
+// Matches the desktop app's descriptionHtml linkification exactly (see
+// qml_models.py's _URL_RE): escape first, then linkify http(s) URLs in the
+// escaped text, trimming trailing punctuation from the match.
+const URL_RE = /https?:\/\/[^\s<]+[^\s<.,;:!?)"']/g;
+
+function descriptionToHtml(description) {
+    const escaped = escapeHtml(description);
+    const linked = escaped.replace(URL_RE, url => `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`);
+    return linked.replace(/\n/g, "<br>\n");
+}
+
 const WIND_DIRECTION_ANGLES = { N: 0, NE: 45, E: 90, SE: 135, S: 180, SW: 225, W: 270, NW: 315 };
 
 function drawWindRose(canvas, windDirs, size = 64) {
@@ -180,7 +191,7 @@ function showTakeoffDetails(takeoff) {
             <canvas class="wind-rose"></canvas>
         </div>
         <div class="link-row">${linksHtml}</div>
-        <p>${escapeHtml(takeoff.description).replace(/\n/g, "<br>")}</p>
+        <p>${descriptionToHtml(takeoff.description)}</p>
     `;
 
     drawWindRose(panel.querySelector(".wind-rose"), takeoff.wind_dirs);
