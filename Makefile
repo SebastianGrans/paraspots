@@ -66,5 +66,5 @@ run:
 	uv run paraspots
 
 web:
-	$(call printstart,Serving web/ at http://localhost:8000 ...)
-	@cd web && (xdg-open http://localhost:8000 &) && python3 -m http.server
+	$(call printstart,Serving docs/ at http://localhost:8000 ...)
+	@cd docs && (xdg-open http://localhost:8000 &) && python3 -m http.server
