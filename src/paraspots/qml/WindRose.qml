@@ -25,8 +25,10 @@ Canvas {
             1: 315
         })
 
-    width: 96
-    height: 96
+    property int size: 96
+
+    width: size
+    height: size
 
     onWindDirsChanged: requestPaint()
     onPaint: {

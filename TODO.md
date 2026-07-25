@@ -1,9 +1,5 @@
 # TODOs
 
-## Add wind direction indicator
-
-Done. But it's layout needs to be improved.
-
 ## Insert weather prognosis panel for the location? 
 
 totle
@@ -89,3 +85,8 @@ Sundvollen
 ```
 
 It should prioritize sundvollen higher, since it starts with `sund`
+
+## Touchpad scroll multiplier
+
+On a touchpad, the map scroll zooming is way to fast.
+

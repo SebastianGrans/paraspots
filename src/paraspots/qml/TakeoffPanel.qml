@@ -50,15 +50,25 @@ Rectangle {
             anchors.margins: 16
             spacing: 12
 
-            TextEdit {
+            RowLayout {
                 Layout.fillWidth: true
-                text: root.takeoff.name
-                color: Theme.textPrimary
-                font.pointSize: Theme.fontXl
-                font.bold: true
-                wrapMode: Text.WordWrap
-                readOnly: true
-                selectByMouse: true
+                spacing: 12
+
+                TextEdit {
+                    Layout.fillWidth: true
+                    text: root.takeoff.name
+                    color: Theme.textPrimary
+                    font.pointSize: Theme.fontXl
+                    font.bold: true
+                    wrapMode: Text.WordWrap
+                    readOnly: true
+                    selectByMouse: true
+                }
+
+                WindRose {
+                    windDirs: root.takeoff.windDirs
+                    size: 64
+                }
             }
 
             Rectangle {
@@ -122,15 +132,6 @@ Rectangle {
                             onClicked: Qt.openUrlExternally(linkChip.modelData.url)
                         }
                     }
-                }
-            }
-
-            RowLayout {
-                Layout.fillWidth: true
-                spacing: 12
-
-                WindRose {
-                    windDirs: root.takeoff.windDirs
                 }
             }
 
