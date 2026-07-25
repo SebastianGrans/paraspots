@@ -203,11 +203,50 @@ function updateListSelection() {
     }
 }
 
+function isCoordinateVisible(latlng) {
+    return map.getBounds().contains(latlng);
+}
+
+// If the newly selected takeoff (e.g. picked from the list) isn't within
+// the current viewport, bring it into view. When a reference location is
+// also known (e.g. the user pressed "locate me"), keep *both* points
+// visible together instead of just recentring on the takeoff alone —
+// otherwise selecting a takeoff just outside the zoomed-in "locate me"
+// view would push the user's own location off-screen.
+function ensureTakeoffVisible(takeoff) {
+    if (!takeoff)
+        return;
+
+    const takeoffLatLng = L.latLng(takeoff.latitude, takeoff.longitude);
+
+    if (!referenceLocation) {
+        if (isCoordinateVisible(takeoffLatLng))
+            return;
+        if (map.getZoom() > 10) {
+            map.setView(takeoffLatLng, 10, { animate: true });
+        } else {
+            map.panTo(takeoffLatLng, { animate: true });
+        }
+        return;
+    }
+
+    const referenceLatLng = L.latLng(referenceLocation.lat, referenceLocation.lng);
+    if (isCoordinateVisible(takeoffLatLng) && isCoordinateVisible(referenceLatLng))
+        return;
+
+    // Fit both points, then nudge zoom out one more level for breathing room
+    // from the edges — matching the desktop app's approach.
+    const bounds = L.latLngBounds([takeoffLatLng, referenceLatLng]);
+    const targetZoom = Math.max(map.getMinZoom(), map.getBoundsZoom(bounds) - 1);
+    map.setView(bounds.getCenter(), targetZoom, { animate: true });
+}
+
 function selectTakeoff(takeoff) {
     selectedTakeoff = takeoff;
     showTakeoffDetails(takeoff);
     updateListSelection();
     updateMarkerSelection();
+    ensureTakeoffVisible(takeoff);
 }
 
 function zoomToTakeoff(takeoff) {
