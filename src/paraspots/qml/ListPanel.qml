@@ -9,13 +9,40 @@ Rectangle {
 
     signal takeoffSelected(var takeoff)
 
+    enum SortMode {
+        Az,
+        Za,
+        DistAsc,
+        DistDesc
+    }
+
     property var selectedTakeoff: null
     property var referenceCoordinate: null
     property string searchQuery: ""
+    property int sortMode: ListPanel.Az
     property var filteredTakeoffs: {
-        if (!root.searchQuery)
-            return Bridge.takeoffs;
-        return Bridge.takeoffs.filter(t => t.name.toLowerCase().indexOf(root.searchQuery) !== -1);
+        let list = root.searchQuery ? Bridge.takeoffs.filter(t => t.name.toLowerCase().indexOf(root.searchQuery) !== -1) : Bridge.takeoffs.slice();
+
+        switch (root.sortMode) {
+        case ListPanel.Za:
+            list.sort((a, b) => b.name.localeCompare(a.name));
+            break;
+        case ListPanel.DistAsc:
+            if (root.referenceCoordinate)
+                list.sort((a, b) => root.distanceToTakeoff(a) - root.distanceToTakeoff(b));
+            else
+                list.sort((a, b) => a.name.localeCompare(b.name));
+            break;
+        case ListPanel.DistDesc:
+            if (root.referenceCoordinate)
+                list.sort((a, b) => root.distanceToTakeoff(b) - root.distanceToTakeoff(a));
+            else
+                list.sort((a, b) => a.name.localeCompare(b.name));
+            break;
+        default: // ListPanel.Az
+            list.sort((a, b) => a.name.localeCompare(b.name));
+        }
+        return list;
     }
 
     color: Theme.surfaceLow
@@ -30,6 +57,10 @@ Rectangle {
         if (meters < 1000)
             return Math.round(meters) + " m";
         return (meters / 1000).toFixed(1) + " km";
+    }
+
+    function distanceToTakeoff(takeoff) {
+        return root.referenceCoordinate.distanceTo(QtPositioning.coordinate(takeoff.latitude, takeoff.longitude));
     }
 
     Component.onCompleted: root.focusSearch()
@@ -64,30 +95,92 @@ Rectangle {
         spacing: 8
         visible: Bridge.hasData
 
-        TextField {
-            id: searchField
+        RowLayout {
             Layout.fillWidth: true
-            placeholderText: "Search takeoffs…"
-            font.pointSize: Theme.fontMd
-            background: Rectangle {
-                color: Theme.surfaceLow
-                border.color: Theme.divider
-                border.width: 0
-                radius: 4
+            spacing: 8
+
+            TextField {
+                id: searchField
+                Layout.fillWidth: true
+                placeholderText: "Search takeoffs…"
+                font.pointSize: Theme.fontMd
+                background: Rectangle {
+                    color: Theme.surfaceLow
+                    border.color: Theme.divider
+                    border.width: 0
+                    radius: 4
+                }
+
+                onTextChanged: searchDebounce.restart()
+
+                Keys.onDownPressed: event => {
+                    if (listView.count > 0) {
+                        listView.forceActiveFocus();
+                        // forceActiveFocus() can itself promote currentIndex from -1 to 0
+                        // as a side effect, making this assignment a no-op that doesn't fire
+                        // onCurrentIndexChanged. Select explicitly rather than relying on it.
+                        listView.currentIndex = 0;
+                        root.takeoffSelected(root.filteredTakeoffs[0]);
+                    }
+                    event.accepted = true;
+                }
             }
 
-            onTextChanged: searchDebounce.restart()
+            Rectangle {
+                id: sortButton
+                Layout.preferredWidth: 36
+                Layout.preferredHeight: searchField.implicitHeight
+                radius: 0
+                color: sortButtonArea.containsMouse || sortMenu.visible ? Theme.divider : "transparent"
+                border.color: Theme.divider
+                border.width: 1
 
-            Keys.onDownPressed: event => {
-                if (listView.count > 0) {
-                    listView.forceActiveFocus();
-                    // forceActiveFocus() can itself promote currentIndex from -1 to 0
-                    // as a side effect, making this assignment a no-op that doesn't fire
-                    // onCurrentIndexChanged. Select explicitly rather than relying on it.
-                    listView.currentIndex = 0;
-                    root.takeoffSelected(root.filteredTakeoffs[0]);
+                Text {
+                    anchors.centerIn: parent
+                    text: "▲▼"
+                    color: Theme.textMuted
+                    font.pointSize: Theme.fontMd
                 }
-                event.accepted = true;
+
+                MouseArea {
+                    id: sortButtonArea
+                    anchors.fill: parent
+                    hoverEnabled: true
+                    cursorShape: Qt.PointingHandCursor
+                    onClicked: sortMenu.open()
+                }
+
+                Menu {
+                    id: sortMenu
+                    y: parent.height
+
+                    MenuItem {
+                        text: "A-Z"
+                        checkable: true
+                        checked: root.sortMode === ListPanel.Az
+                        onTriggered: root.sortMode = ListPanel.Az
+                    }
+                    MenuItem {
+                        text: "Z-A"
+                        checkable: true
+                        checked: root.sortMode === ListPanel.Za
+                        onTriggered: root.sortMode = ListPanel.Za
+                    }
+                    MenuItem {
+                        text: "Dist. asc."
+                        checkable: true
+                        checked: root.sortMode === ListPanel.DistAsc
+                        enabled: !!root.referenceCoordinate
+                        onTriggered: root.sortMode = ListPanel.DistAsc
+                    }
+                    MenuItem {
+                        text: "Dist. desc."
+                        checkable: true
+                        checked: root.sortMode === ListPanel.DistDesc
+                        enabled: !!root.referenceCoordinate
+                        onTriggered: root.sortMode = ListPanel.DistDesc
+                    }
+                }
             }
         }
 
@@ -153,7 +246,7 @@ Rectangle {
                         anchors.verticalCenter: parent.verticalCenter
                         anchors.right: parent.right
                         anchors.margins: 8
-                        text: visible ? root.formatDistance(root.referenceCoordinate.distanceTo(QtPositioning.coordinate(delegateRoot.modelData.latitude, delegateRoot.modelData.longitude))) : ""
+                        text: visible ? root.formatDistance(root.distanceToTakeoff(delegateRoot.modelData)) : ""
                         color: Theme.textMuted
                         font.pointSize: Theme.fontSm
                     }
