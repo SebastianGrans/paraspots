@@ -54,6 +54,12 @@ Rectangle {
             root.sortMode = ListPanel.DistAsc;
     }
 
+    onSelectedTakeoffChanged: {
+        const index = root.filteredTakeoffs.indexOf(root.selectedTakeoff);
+        if (index >= 0)
+            listView.positionViewAtIndex(index, ListView.Contain);
+    }
+
     function focusSearch() {
         searchField.forceActiveFocus();
     }
