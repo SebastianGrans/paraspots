@@ -100,7 +100,17 @@ map.on("contextmenu", event => {
     item.addEventListener("click", () => setReferenceLocation(lat, lng));
     mapContextMenu.appendChild(item);
 
-    document.getElementById("map").appendChild(mapContextMenu);
+    const mapContainer = document.getElementById("map");
+    mapContainer.appendChild(mapContextMenu);
+
+    // Keep the menu fully on-screen — near an edge, anchoring at the exact
+    // tap point would otherwise push part of it off the visible map.
+    const containerRect = mapContainer.getBoundingClientRect();
+    const menuRect = mapContextMenu.getBoundingClientRect();
+    const maxLeft = containerRect.width - menuRect.width;
+    const maxTop = containerRect.height - menuRect.height;
+    mapContextMenu.style.left = `${Math.max(0, Math.min(point.x, maxLeft))}px`;
+    mapContextMenu.style.top = `${Math.max(0, Math.min(point.y, maxTop))}px`;
 });
 
 map.on("movestart zoomstart", closeMapContextMenu);

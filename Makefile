@@ -68,10 +68,12 @@ lintall:
 run:
 	$(UV) paraspots
 
+web: PORT = 8000
 web:
-	$(call printstart,Serving docs/ at http://localhost:8000 ...)
-	@cd docs && (xdg-open http://localhost:8000 &) && python3 -m http.server
+	$(call printstart,Serving docs/ at http://localhost:$(PORT) ...)
+	@cd docs && (xdg-open http://localhost:$(PORT) &) && python3 -m http.server $(PORT)
 
+mobileweb: PORT = 8000
 mobileweb:
-	$(call printstart,Serving docs/ at http://localhost:8000 in a phone-sized window ...)
-	@cd docs && (sleep 1 && /snap/bin/chromium --app=http://localhost:8000 --window-size=390,844 &) && python3 -m http.server
+	$(call printstart,Serving docs/ at http://localhost:$(PORT) in a phone-sized window ...)
+	@cd docs && (sleep 1 && /snap/bin/chromium --app=http://localhost:$(PORT) --window-size=390,844 &) && python3 -m http.server $(PORT)

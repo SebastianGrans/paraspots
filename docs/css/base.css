@@ -6,6 +6,7 @@ body {
 
 body {
     display: flex;
+    -webkit-tap-highlight-color: transparent;
 }
 
 #map {
@@ -25,6 +26,7 @@ body {
 #takeoff-panel {
     flex: 1;
     min-height: 300px;
+    padding-top: 0;
 }
 
 #list-panel {
@@ -44,4 +46,8 @@ body {
 
 #takeoff-panel {
     overflow-y: auto;
+}
+
+#mobile-view-toggle {
+    display: none;
 }

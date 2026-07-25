@@ -1,6 +1,6 @@
 const WIND_DIRECTION_ANGLES = { N: 0, NE: 45, E: 90, SE: 135, S: 180, SW: 225, W: 270, NW: 315 };
 
-export function drawWindRose(canvas, windDirs, size = 64) {
+export function drawWindRose(canvas, windDirs, size = 48) {
     const padding = 5;
     const dpr = window.devicePixelRatio || 1;
     canvas.width = size * dpr;

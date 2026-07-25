@@ -4,6 +4,7 @@ import { createTakeoffMarker, updateMarkerSelection, setMarkerHovered } from "./
 import { showTakeoffDetails, closeYrWidget } from "./takeoff-detail.js";
 import { initList, updateListSelection, setSortMode, refreshList, closeSortMenu } from "./list.js";
 import { toggleInfoPanel, closeInfoPanel } from "./info-panel.js";
+import { showDetailView, showListView } from "./mobile-view.js";
 
 function isCoordinateVisible(latlng) {
     return map.getBounds().contains(latlng);
@@ -49,13 +50,23 @@ function selectTakeoff(takeoff) {
     updateListSelection();
     updateMarkerSelection();
     ensureTakeoffVisible(takeoff);
+    // On mobile, selecting a takeoff (from the map or the list) shows its
+    // detail split-screen with the map, instead of leaving it hidden behind
+    // whichever full-screen view was showing.
+    showDetailView();
 }
 
 function zoomToTakeoff(takeoff) {
     map.setView([takeoff.latitude, takeoff.longitude], 10, { animate: true });
 }
 
-onLocationSet(() => setSortMode("distance-asc"));
+onLocationSet(() => {
+    setSortMode("distance-asc");
+    // On mobile, show the (now distance-sorted) list split-screen with the
+    // map, whether the location came from "locate me" or the map's
+    // right-click "Set as location" menu.
+    showListView();
+});
 
 initList({ onSelect: selectTakeoff, onZoom: zoomToTakeoff, onHover: setMarkerHovered });
 

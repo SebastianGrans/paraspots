@@ -1,5 +1,6 @@
 import { escapeHtml, descriptionToHtml } from "./utils.js";
 import { drawWindRose } from "./wind-rose.js";
+import { goBackFromDetail } from "./mobile-view.js";
 
 function buildTakeoffLinks(takeoff) {
     return [
@@ -79,7 +80,10 @@ export function showTakeoffDetails(takeoff) {
 
     panel.innerHTML = `
         <div class="detail-header">
-            <h2>${escapeHtml(takeoff.name)}</h2>
+            <div class="detail-title">
+                <button class="detail-back" type="button" aria-label="Back">‹</button>
+                <h3>${escapeHtml(takeoff.name)}</h3 >
+            </div>
             <canvas class="wind-rose"></canvas>
         </div>
         <div class="link-row">
@@ -98,6 +102,7 @@ export function showTakeoffDetails(takeoff) {
 
     drawWindRose(panel.querySelector(".wind-rose"), takeoff.wind_dirs);
     setupYrWidget(panel.querySelector(".yr-widget"), yr.meteogramUrl);
+    panel.querySelector(".detail-back").addEventListener("click", goBackFromDetail);
 }
 
 export function closeYrWidget() {
