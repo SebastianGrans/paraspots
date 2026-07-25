@@ -49,6 +49,11 @@ Rectangle {
     border.color: Theme.divider
     border.width: 1
 
+    onReferenceCoordinateChanged: {
+        if (root.referenceCoordinate)
+            root.sortMode = ListPanel.DistAsc;
+    }
+
     function focusSearch() {
         searchField.forceActiveFocus();
     }
@@ -156,27 +161,23 @@ Rectangle {
 
                     MenuItem {
                         text: "A-Z"
-                        checkable: true
-                        checked: root.sortMode === ListPanel.Az
+                        font.bold: root.sortMode === ListPanel.Az
                         onTriggered: root.sortMode = ListPanel.Az
                     }
                     MenuItem {
                         text: "Z-A"
-                        checkable: true
-                        checked: root.sortMode === ListPanel.Za
+                        font.bold: root.sortMode === ListPanel.Za
                         onTriggered: root.sortMode = ListPanel.Za
                     }
                     MenuItem {
                         text: "Dist. asc."
-                        checkable: true
-                        checked: root.sortMode === ListPanel.DistAsc
+                        font.bold: root.sortMode === ListPanel.DistAsc
                         enabled: !!root.referenceCoordinate
                         onTriggered: root.sortMode = ListPanel.DistAsc
                     }
                     MenuItem {
                         text: "Dist. desc."
-                        checkable: true
-                        checked: root.sortMode === ListPanel.DistDesc
+                        font.bold: root.sortMode === ListPanel.DistDesc
                         enabled: !!root.referenceCoordinate
                         onTriggered: root.sortMode = ListPanel.DistDesc
                     }
