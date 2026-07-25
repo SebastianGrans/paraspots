@@ -26,6 +26,7 @@ Canvas {
         })
 
     property int size: 96
+    property int padding: 5
 
     width: size
     height: size
@@ -37,7 +38,7 @@ Canvas {
 
         const cx = width / 2;
         const cy = height / 2;
-        const radius = Math.min(width, height) / 2 - 10;
+        const radius = Math.min(width, height) / 2 - padding;
         const sliceHalfWidth = (Math.PI / 4) / 2;
 
         // Highlighted 45-degree slices. All wedges are added to a single

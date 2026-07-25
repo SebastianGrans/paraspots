@@ -12,11 +12,6 @@ https://www.yr.no/nb/innhold/60.05388889,10.3225/meteogram.svg
 Qt only implements SVG Tiny 1.2, so this doesn't work :(
 
 
-## If location can't be found, the user should be able to specify a location
-
-Title (this is relevant later for the list of all takeoffs)
-
-
 ## Fix bug
 
 Since I enabled ctrl+c to quit the app, I think that bypasses any "cleanup" activity that the app
@@ -84,6 +79,6 @@ Sundvollen
 It should prioritize sundvollen higher, since it starts with `sund`
 
 
-## Make the map tooltip prettier
+## Double click on takeoff in list should zoom into it
 
-Also include the windrose in the tooltip?
+title

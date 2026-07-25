@@ -313,8 +313,34 @@ Item {
 
                 ToolTip {
                     id: tip
-                    text: takeoffMarker.takeoff.name
                     visible: false
+                    padding: 5
+
+                    background: Rectangle {
+                        color: Theme.surfaceLow
+                        border.color: Theme.divider
+                        border.width: 1
+                        radius: 6
+                    }
+
+                    contentItem: Row {
+                        spacing: 5
+
+                        WindRose {
+                            anchors.verticalCenter: parent.verticalCenter
+                            windDirs: takeoffMarker.takeoff.windDirs
+                            size: 32
+                            padding: 2
+                        }
+
+                        Text {
+                            anchors.verticalCenter: parent.verticalCenter
+                            text: takeoffMarker.takeoff.name
+                            color: Theme.textPrimary
+                            font.pointSize: Theme.fontMd
+                            rightPadding: 5
+                        }
+                    }
                 }
             }
         }
