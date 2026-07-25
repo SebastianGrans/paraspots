@@ -1,18 +1,18 @@
 {
-    "country_id":160,
-    "start_id":1023,
-    "name":"Volda, Skisenter",
-    "latitude":62.16194444,
-    "longitude":6.15194444,
-    "description":"Dette er på toppen av skisenteret i Volda. Det er et populært flysted hele året, som gir en flytur med unik utsikt over Volda.\nTuren opp går normalt i den ordinære skibakken, som er til venstre når du ser opp bakkene (altså ikke den bratte bakken hvor heisen til toppen går).\nNB! Minner om at det ikke er lov å oppholde seg anlegget når en ser at tråkkemaskinene er i arbeid vinterstid grunnet fare ved bruk av wire, det jobbes med å utarbeide merking med lys/lyd i bånn for å markere tråkkearbeid. Vær inntil videre grei å respekter dette, slik at vi får fortsette å bruke denne starten også på vinterstid.\n\nSpeedriding/speedflying er ikke lov når det er drift i anlegget.\n\nFlystedet ligger innenfor Hovden TIZ og det må innhentes tillatelse fra tårnet på Hovden flyplass før flyving. Dersom tårnet er stengt, skal Møre Approach ringes.\n\nhttps://himmelseglarane.no/flyging/flykultur\nHovden flyplass: 700 41 689\nMøre Approach: 670 33 040\n\nHolfuy: https://holfuy.com/en/weather/1451\n\nMinimum sertifisering: PP2\nMax høyde: Avtales med tårnet på Hovden flyplass (normalt får man opptil 3500ft om man trenger det)\n\nTakeoff: På vestsiden av toppstasjonen er det fint å starte mot vest helt til sør. På østsiden er det fint å starte mot øst, men også mulig å starte mot sør (terrenget gjør det noe mer krevende mot sør her).\n\nFaremomenter:\n- Vær ved takeoff oppmerksom på lysstolpene i skianlegget, i tillegg til selve skiheisen.\n- Solgangsbrisen kan være sterk i sentrum om du flyr dit. Årneset er den foretrukne landingen ved slike forhold.\n\nLandingene vi bruker er merket på bilde.\n1. Årneset -  Denne landingen er stor og fin, og er mer skjermet med tanke på turbulens og vind fra fjorden.\n2. Kiwi jordet  - Greit jorde å lande på, men anbefaler normalt Årneset da denne kan være litt krevende under enkelte forhold. Kan være termisk på varme dager, og turbulent ved sterk vind/solgangsbris. Et annet faremoment er høye stolper og trær rundt jordet.\n- For kortere turer er det mulig å finne landinger oppe ved/i nærheten av anlegget.\n",
-    "holfuy_id":1451,
-    "wind_dirs":[
+    "country_id": 160,
+    "start_id": 1023,
+    "name": "Volda, Skisenter",
+    "latitude": 62.16194444,
+    "longitude": 6.15194444,
+    "description": "Dette er på toppen av skisenteret i Volda. Det er et populært flysted hele året, som gir en flytur med unik utsikt over Volda.\nTuren opp går normalt i den ordinære skibakken, som er til venstre når du ser opp bakkene (altså ikke den bratte bakken hvor heisen til toppen går).\nNB! Minner om at det ikke er lov å oppholde seg anlegget når en ser at tråkkemaskinene er i arbeid vinterstid grunnet fare ved bruk av wire, det jobbes med å utarbeide merking med lys/lyd i bånn for å markere tråkkearbeid. Vær inntil videre grei å respekter dette, slik at vi får fortsette å bruke denne starten også på vinterstid.\n\nSpeedriding/speedflying er ikke lov når det er drift i anlegget.\n\nFlystedet ligger innenfor Hovden TIZ og det må innhentes tillatelse fra tårnet på Hovden flyplass før flyving. Dersom tårnet er stengt, skal Møre Approach ringes.\n\nhttps://himmelseglarane.no/flyging/flykultur\nHovden flyplass: 700 41 689\nMøre Approach: 670 33 040\n\nHolfuy: https://holfuy.com/en/weather/1451\n\nMinimum sertifisering: PP2\nMax høyde: Avtales med tårnet på Hovden flyplass (normalt får man opptil 3500ft om man trenger det)\n\nTakeoff: På vestsiden av toppstasjonen er det fint å starte mot vest helt til sør. På østsiden er det fint å starte mot øst, men også mulig å starte mot sør (terrenget gjør det noe mer krevende mot sør her).\n\nFaremomenter:\n- Vær ved takeoff oppmerksom på lysstolpene i skianlegget, i tillegg til selve skiheisen.\n- Solgangsbrisen kan være sterk i sentrum om du flyr dit. Årneset er den foretrukne landingen ved slike forhold.\n\nLandingene vi bruker er merket på bilde.\n1. Årneset - Denne landingen er stor og fin, og er mer skjermet med tanke på turbulens og vind fra fjorden.\n2. Kiwi jordet - Greit jorde å lande på, men anbefaler normalt Årneset da denne kan være litt krevende under enkelte forhold. Kan være termisk på varme dager, og turbulent ved sterk vind/solgangsbris. Et annet faremoment er høye stolper og trær rundt jordet.\n- For kortere turer er det mulig å finne landinger oppe ved/i nærheten av anlegget.\n",
+    "holfuy_id": 1451,
+    "wind_dirs": [
         "W",
         "SW",
         "S",
         "SE",
         "E"
     ],
-    "holfuy_url":"http://holfuy.com/en/weather/1451",
-    "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1023"
+    "holfuy_url": "http://holfuy.com/en/weather/1451",
+    "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=1023"
 }
