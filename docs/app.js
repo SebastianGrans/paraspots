@@ -30,9 +30,16 @@ function setReferenceLocation(lat, lng) {
         referenceMarker = L.marker([lat, lng], { icon: referenceIcon, zIndexOffset: 1000 }).addTo(map);
     }
     document.getElementById("sort-distance-option").disabled = false;
-    if (sortMode === "distance") {
-        refreshList();
+    sortMode = "distance";
+    document.getElementById("sort").value = "distance";
+    refreshList();
+}
+
+function formatDistance(meters) {
+    if (meters < 1000) {
+        return Math.round(meters) + " m";
     }
+    return (meters / 1000).toFixed(1) + " km";
 }
 
 function escapeHtml(text) {
@@ -67,9 +74,22 @@ function renderList(takeoffs) {
     const list = document.getElementById("list");
     list.innerHTML = "";
     listItems.clear();
+    const reference = referenceLocation ? L.latLng(referenceLocation.lat, referenceLocation.lng) : null;
     for (const takeoff of takeoffs) {
         const item = document.createElement("li");
-        item.textContent = takeoff.name;
+
+        const nameSpan = document.createElement("span");
+        nameSpan.className = "name";
+        nameSpan.textContent = takeoff.name;
+        item.appendChild(nameSpan);
+
+        if (reference) {
+            const distanceSpan = document.createElement("span");
+            distanceSpan.className = "distance";
+            distanceSpan.textContent = formatDistance(reference.distanceTo(L.latLng(takeoff.latitude, takeoff.longitude)));
+            item.appendChild(distanceSpan);
+        }
+
         item.addEventListener("click", () => selectTakeoff(takeoff));
         list.appendChild(item);
         listItems.set(takeoff, item);

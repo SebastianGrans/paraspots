@@ -133,9 +133,25 @@ body {
 }
 
 #list li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
     padding: 8px 16px;
     border-bottom: 1px solid #eee;
     cursor: pointer;
+}
+
+#list li .name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#list li .distance {
+    flex-shrink: 0;
+    color: #777;
+    font-size: 0.85em;
 }
 
 #list li:hover {
