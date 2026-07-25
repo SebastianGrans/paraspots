@@ -101,6 +101,61 @@ function drawWindRose(canvas, windDirs, size = 64) {
     }
 }
 
+const takeoffMarkers = new Map(); // takeoff -> L.marker
+
+const takeoffIcon = L.divIcon({
+    html: '<div class="takeoff-marker"></div>',
+    className: "takeoff-marker-icon",
+    iconSize: [16, 16],
+    iconAnchor: [8, 8],
+});
+
+function createMarkerTooltipContent(takeoff) {
+    const container = document.createElement("div");
+    container.className = "marker-tooltip";
+
+    const canvas = document.createElement("canvas");
+    container.appendChild(canvas);
+    drawWindRose(canvas, takeoff.wind_dirs, 32);
+
+    const label = document.createElement("span");
+    label.textContent = takeoff.name;
+    container.appendChild(label);
+
+    return container;
+}
+
+function updateMarkerSelection() {
+    for (const [takeoff, marker] of takeoffMarkers) {
+        const isSelected = takeoff === selectedTakeoff;
+        const el = marker.getElement();
+        if (el) {
+            el.classList.toggle("selected", isSelected);
+        }
+        marker.setZIndexOffset(isSelected ? 1000 : 0);
+    }
+}
+
+// List rows aren't themselves on the map, so hovering one has to reach into
+// the map to grow/tooltip the matching marker. The reverse (hovering a
+// marker directly) needs no JS at all — CSS :hover handles the grow, and
+// Leaflet's own tooltip binding handles showing it.
+function setMarkerHovered(takeoff, isHovered) {
+    const marker = takeoffMarkers.get(takeoff);
+    if (!marker)
+        return;
+    const el = marker.getElement();
+    if (el) {
+        el.classList.toggle("hovered", isHovered);
+    }
+    marker.setZIndexOffset(isHovered || takeoff === selectedTakeoff ? 1000 : 0);
+    if (isHovered) {
+        marker.openTooltip();
+    } else {
+        marker.closeTooltip();
+    }
+}
+
 function buildTakeoffLinks(takeoff) {
     return [
         { label: "Flightlog", url: `https://flightlog.org/fl.html?l=1&a=22&country_id=${takeoff.country_id}&start_id=${takeoff.start_id}` },
@@ -142,6 +197,7 @@ function selectTakeoff(takeoff) {
     selectedTakeoff = takeoff;
     showTakeoffDetails(takeoff);
     updateListSelection();
+    updateMarkerSelection();
 }
 
 function renderList(takeoffs) {
@@ -165,6 +221,8 @@ function renderList(takeoffs) {
         }
 
         item.addEventListener("click", () => selectTakeoff(takeoff));
+        item.addEventListener("mouseenter", () => setMarkerHovered(takeoff, true));
+        item.addEventListener("mouseleave", () => setMarkerHovered(takeoff, false));
         list.appendChild(item);
         listItems.set(takeoff, item);
     }
@@ -296,9 +354,11 @@ fetch("data/takeoffs.json")
     .then(takeoffs => {
         allTakeoffs = takeoffs;
         for (const takeoff of takeoffs) {
-            L.marker([takeoff.latitude, takeoff.longitude])
+            const marker = L.marker([takeoff.latitude, takeoff.longitude], { icon: takeoffIcon })
                 .addTo(map)
                 .on("click", () => selectTakeoff(takeoff));
+            marker.bindTooltip(createMarkerTooltipContent(takeoff), { direction: "top", offset: [0, -8] });
+            takeoffMarkers.set(takeoff, marker);
         }
         refreshList();
     });

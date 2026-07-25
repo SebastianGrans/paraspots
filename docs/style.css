@@ -83,6 +83,37 @@ body {
     background: #f0f0f0;
 }
 
+.takeoff-marker-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.takeoff-marker {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #64748b;
+    border: 1px solid white;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+    transition: width 0.1s ease, height 0.1s ease;
+}
+
+.takeoff-marker-icon:hover .takeoff-marker,
+.takeoff-marker-icon.hovered .takeoff-marker {
+    scale: 1.2;
+}
+
+.takeoff-marker-icon.selected .takeoff-marker {
+    background: #ea580c;
+}
+
+.marker-tooltip {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
 #sidebar {
     flex: 1;
     min-width: 550px;
