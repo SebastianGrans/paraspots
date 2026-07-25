@@ -1,0 +1,125 @@
+#locate-btn {
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+    z-index: 1000;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    background: #fff;
+    font-size: 1.2rem;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+#locate-btn:hover {
+    background: #f0f0f0;
+}
+
+#info-btn {
+    position: absolute;
+    right: 60px;
+    bottom: 12px;
+    z-index: 1000;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    background: #fff;
+    color: #475569;
+    font-size: 1.1rem;
+    font-weight: bold;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+#info-btn:hover {
+    background: #f0f0f0;
+}
+
+#locate-error {
+    position: absolute;
+    right: 12px;
+    bottom: 60px;
+    z-index: 1000;
+    background: #fdecea;
+    border: 1px solid #f5c2c0;
+    color: #611a15;
+    border-radius: 6px;
+    padding: 6px 12px;
+    font: 13px sans-serif;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+#locate-error.hidden {
+    display: none;
+}
+
+.reference-marker-icon {
+    font-size: 28px;
+    text-align: center;
+    line-height: 32px;
+}
+
+.map-context-menu {
+    position: absolute;
+    z-index: 1000;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    font: 14px sans-serif;
+    overflow: hidden;
+}
+
+.map-context-menu div {
+    padding: 8px 16px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.map-context-menu div:hover {
+    background: #f0f0f0;
+}
+
+.takeoff-marker-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.takeoff-marker {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #7c3aed;
+    border: 1px solid white;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+    transition: width 0.1s ease, height 0.1s ease;
+}
+
+.takeoff-marker-icon:hover .takeoff-marker,
+.takeoff-marker-icon.hovered .takeoff-marker {
+    scale: 1.2;
+}
+
+.takeoff-marker-icon.selected .takeoff-marker {
+    background: #ea580c;
+}
+
+.marker-tooltip {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}

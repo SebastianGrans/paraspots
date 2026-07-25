@@ -1,0 +1,172 @@
+#list-toolbar {
+    display: flex;
+    gap: 8px;
+    margin: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+#search-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 0;
+}
+
+#search {
+    width: 100%;
+    padding: 6px 28px 6px 8px;
+    font: inherit;
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background: #fff;
+}
+
+#search:focus {
+    outline: none;
+}
+
+#clear-search {
+    display: none;
+    position: absolute;
+    right: 3px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 22px;
+    height: 22px;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    border: none;
+    border-radius: 50%;
+    background: transparent;
+    color: #94a3b8;
+    font-size: 1.2rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+#clear-search.visible {
+    display: flex;
+}
+
+#clear-search:hover {
+    background: #e2e8f0;
+}
+
+#sort-wrap {
+    position: relative;
+}
+
+#sort-btn {
+    width: 36px;
+    height: 100%;
+    padding: 0;
+    font: inherit;
+    box-sizing: border-box;
+    border: 1px solid #e2e8f0;
+    background: #fff;
+    color: #94a3b8;
+    cursor: pointer;
+}
+
+#sort-btn:hover,
+#sort-btn.open {
+    background: #e2e8f0;
+}
+
+#sort-menu {
+    position: absolute;
+    z-index: 1000;
+    right: 0;
+    top: calc(100% + 4px);
+    padding: 4px;
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+#sort-menu.hidden {
+    display: none;
+}
+
+.sort-option {
+    min-width: 130px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: #0f172a;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.sort-option:hover {
+    background: #e2e8f0;
+}
+
+.sort-option.active {
+    font-weight: bold;
+}
+
+.sort-option.disabled {
+    opacity: 0.4;
+    cursor: default;
+    pointer-events: none;
+}
+
+#list {
+    flex: 1;
+    min-height: 0;
+    margin: 0;
+    padding: 4px 8px;
+    list-style: none;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+#list li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    /* We disable user select in the list to prevent double clicking from
+     triggering select text */
+    user-select: none;
+}
+
+#list li .name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#list li .distance {
+    flex-shrink: 0;
+    color: #777;
+    font-size: 0.85em;
+}
+
+#list li:hover {
+    background: #e2e8f0;
+}
+
+#list li.selected {
+    background: rgba(234, 88, 12, 0.15);
+    border-color: #ea580c;
+    font-weight: bold;
+}
+
+.placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #666;
+    padding: 16px;
+}

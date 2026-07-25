@@ -1,0 +1,103 @@
+.detail {
+    padding: 16px;
+}
+
+.detail h2 {
+    margin-top: 0;
+}
+
+.detail-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.wind-rose {
+    flex-shrink: 0;
+}
+
+.link-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.link-chip {
+    padding: 6px 10px;
+    border: 1px solid #7c3aed;
+    border-radius: 4px;
+    color: #7c3aed;
+    font-size: 0.85em;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.link-chip:hover {
+    background: #f3ebfd;
+}
+
+.yr-widget {
+    display: inline-flex;
+}
+
+.yr-widget .link-chip.yr-btn {
+    border-radius: 4px 0 0 4px;
+}
+
+.yr-toggle {
+    padding: 6px 8px;
+    border: 1px solid #7c3aed;
+    border-left: none;
+    border-radius: 0 4px 4px 0;
+    background: #fff;
+    color: #7c3aed;
+    cursor: pointer;
+    font-size: 0.85em;
+    box-sizing: border-box;
+}
+
+.yr-toggle:hover,
+.yr-toggle.open {
+    background: #f3ebfd;
+}
+
+.meteogram-wrap {
+    display: none;
+    position: fixed;
+    z-index: 1500;
+    width: min(760px, 95vw);
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 4px;
+    padding: 4px;
+    box-sizing: border-box;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.meteogram-wrap.visible {
+    display: block;
+}
+
+.meteogram-wrap img {
+    display: block;
+    width: 100%;
+}
+
+.meteogram-error {
+    display: none;
+    width: 260px;
+    padding: 12px;
+    color: #94a3b8;
+    font-size: 0.85em;
+    box-sizing: border-box;
+}
+
+.meteogram-wrap.error .meteogram-error {
+    display: block;
+}
+
+.meteogram-wrap.error img {
+    display: none;
+}

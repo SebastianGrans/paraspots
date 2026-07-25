@@ -1,0 +1,47 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+}
+
+#map {
+    flex: 4;
+    min-width: 200px;
+    position: relative;
+}
+
+#sidebar {
+    flex: 1;
+    min-width: 550px;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#takeoff-panel {
+    flex: 1;
+    min-height: 300px;
+}
+
+#list-panel {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+#takeoff-panel,
+#list-panel {
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#takeoff-panel {
+    overflow-y: auto;
+}
