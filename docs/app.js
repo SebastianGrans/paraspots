@@ -48,12 +48,28 @@ function escapeHtml(text) {
     return div.innerHTML;
 }
 
+function buildTakeoffLinks(takeoff) {
+    return [
+        { label: "Flightlog", url: `https://flightlog.org/fl.html?l=1&a=22&country_id=${takeoff.country_id}&start_id=${takeoff.start_id}` },
+        { label: "Holfuy", url: takeoff.holfuy_id ? `http://holfuy.com/en/weather/${takeoff.holfuy_id}` : null },
+        { label: "Windy", url: `https://www.windy.com/${takeoff.latitude}/${takeoff.longitude}` },
+        { label: "Google Maps", url: `https://www.google.com/maps/search/?api=1&query=${takeoff.latitude},${takeoff.longitude}` },
+        { label: "Yr.no", url: `https://www.yr.no/nb/v%C3%A6rvarsel/daglig-tabell/${takeoff.latitude},${takeoff.longitude}` },
+    ].filter(link => !!link.url);
+}
+
 function showTakeoffDetails(takeoff) {
     const panel = document.getElementById("takeoff-panel");
     panel.classList.remove("placeholder");
     panel.classList.add("detail");
+
+    const linksHtml = buildTakeoffLinks(takeoff)
+        .map(link => `<a class="link-chip" href="${escapeHtml(link.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(link.label)}</a>`)
+        .join("");
+
     panel.innerHTML = `
         <h2>${escapeHtml(takeoff.name)}</h2>
+        <div class="link-row">${linksHtml}</div>
         <p>${escapeHtml(takeoff.description).replace(/\n/g, "<br>")}</p>
     `;
 }
