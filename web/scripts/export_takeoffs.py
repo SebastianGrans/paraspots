@@ -14,16 +14,7 @@ OUTPUT_FILE = Path(__file__).parent.parent / "data" / "takeoffs.json"
 
 
 def main() -> None:
-    takeoffs = []
-    for path in sorted(SOURCE_DIR.glob("*.json")):
-        data = json.loads(path.read_text())
-        takeoffs.append(
-            {
-                "name": data["name"],
-                "latitude": data["latitude"],
-                "longitude": data["longitude"],
-            }
-        )
+    takeoffs = [json.loads(path.read_text()) for path in sorted(SOURCE_DIR.glob("*.json"))]
 
     OUTPUT_FILE.write_text(json.dumps(takeoffs, indent=2, ensure_ascii=False))
     print(f"Wrote {len(takeoffs)} takeoffs to {OUTPUT_FILE}")
