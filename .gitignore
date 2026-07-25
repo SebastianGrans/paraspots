@@ -12,3 +12,6 @@ wheels/
 .vscode/*
 !.vscode/settings.json
 !.vscode/*.code-workspace
+
+# Scratch space for Claude (screenshots, temp test harnesses, etc.)
+.tmp/
