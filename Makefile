@@ -1,5 +1,7 @@
-QML_DIR   = src/paraspots/qml
-BRIDGE_PY = src/paraspots/bridge.py
+PY_DIR    = py
+UV        = cd $(PY_DIR) && uv run
+QML_DIR   = $(PY_DIR)/src/paraspots/qml
+BRIDGE_PY = $(PY_DIR)/src/paraspots/bridge.py
 
 CYAN  = \033[36m
 GREEN = \033[32m
@@ -30,23 +32,23 @@ help:
 
 lint:
 	$(call printstart,Running ruff check --fix and format...)
-	uv run ruff check --fix src/
-	uv run ruff format src/
+	$(UV) ruff check --fix src/
+	$(UV) ruff format src/
 	$(done)
 
 check:
 	$(call printstart,Running 'ruff check' and 'ty check'...)
-	uv run ruff check src/
-	uv run ty check
+	$(UV) ruff check src/
+	$(UV) ty check
 	$(done)
 
 $(QML_DIR)/paraspots.qmltypes: $(BRIDGE_PY)
 	@printf "$(CYAN)### bridge.py has changed. Rebuilding .qmltypes... ###$(RESET)\n"
-	uv run pyside6-metaobjectdump $(BRIDGE_PY) --out-file $(QML_DIR)/bridge.json
-	uv run pyside6-qmltyperegistrar \
-		--generate-qmltypes $(QML_DIR)/paraspots.qmltypes \
+	$(UV) pyside6-metaobjectdump src/paraspots/bridge.py --out-file src/paraspots/qml/bridge.json
+	$(UV) pyside6-qmltyperegistrar \
+		--generate-qmltypes src/paraspots/qml/paraspots.qmltypes \
 		--import-name qml --major-version 1 --minor-version 0 \
-		$(QML_DIR)/bridge.json > /dev/null
+		src/paraspots/qml/bridge.json > /dev/null
 	rm -f $(QML_DIR)/bridge.json
 	$(done)
 
@@ -54,7 +56,7 @@ stubs: $(QML_DIR)/paraspots.qmltypes
 
 qmllint: stubs
 	@printf "$(CYAN)### Running linter on QML files... ###$(RESET)\n"
-	uv run pyside6-qmllint -I $(QML_DIR) $(QML_DIR)/*.qml
+	$(UV) pyside6-qmllint -I src/paraspots/qml src/paraspots/qml/*.qml
 	$(done)
 
 lintall:
@@ -64,7 +66,7 @@ lintall:
 	@printf "\n$(GREEN)$(BOLD)### ALL CHECKS PASSED! ###$(RESET)\n"
 
 run:
-	uv run paraspots
+	$(UV) paraspots
 
 web:
 	$(call printstart,Serving docs/ at http://localhost:8000 ...)

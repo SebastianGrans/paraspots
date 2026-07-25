@@ -9,7 +9,7 @@ desktop app's dependencies. Run with any Python 3 interpreter.
 import json
 from pathlib import Path
 
-SOURCE_DIR = Path(__file__).parent.parent.parent / "src" / "paraspots" / "takeoffs"
+SOURCE_DIR = Path(__file__).parent.parent.parent / "py" / "src" / "paraspots" / "takeoffs"
 OUTPUT_FILE = Path(__file__).parent.parent / "data" / "takeoffs.json"
 
 

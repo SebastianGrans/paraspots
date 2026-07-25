@@ -9,7 +9,7 @@
 		"ty.diagnosticMode": "workspace",
 		"ty.completions.completeFunctionParentheses": true,
 		"qt-qml.qmlls.additionalImportPaths": [
-			"${workspaceFolder}/src/paraspots/qml",
+			"${workspaceFolder}/py/src/paraspots/qml",
 			"~/Qt/6.11.1/gcc_64/qml"
 		],
 		"editor.rulers": [

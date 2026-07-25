@@ -139,12 +139,20 @@ dependencies = [
     { name = "pyside6-essentials" },
 ]
 
+[package.dev-dependencies]
+dev = [
+    { name = "pyside6" },
+]
+
 [package.metadata]
 requires-dist = [
     { name = "pyserde", specifier = ">=0.31.7" },
     { name = "pyside6-addons", specifier = ">=6.11.1" },
     { name = "pyside6-essentials", specifier = ">=6.11.1" },
 ]
+
+[package.metadata.requires-dev]
+dev = [{ name = "pyside6", specifier = ">=6.11.1" }]
 
 [[package]]
 name = "plum-dispatch"
@@ -190,6 +198,23 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/84/0b/4f92e27cb1ff15a820edc7b06b51bba4ef0d95bbf09522a72730cc7ffd51/pyserde-0.31.7.tar.gz", hash = "sha256:a9ec2a5a61930b6fee4498adda20067eab516798e5a0348da7797778d8b02fb6", size = 525805, upload-time = "2026-07-05T12:30:23.961Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/27/9c/055c3fb933119186541240e062973b44932fc10295965edac08c57bc5946/pyserde-0.31.7-py3-none-any.whl", hash = "sha256:5e72d5c2054d681b4aad712a40322fa2236ca5c181377daed4dbb4ec51a22ebb", size = 52340, upload-time = "2026-07-05T12:30:22.687Z" },
+]
+
+[[package]]
+name = "pyside6"
+version = "6.11.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pyside6-addons" },
+    { name = "pyside6-essentials" },
+    { name = "shiboken6" },
+]
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/da/a6/27ba5947ed48918f7b74b7c43a1e280aac069e36f25adeb4c9adfac835c4/pyside6-6.11.1-cp310-abi3-macosx_13_0_universal2.whl", hash = "sha256:537682c3b7530817203e667c1f5a2f00486b37bf52c52eeab438544c7a0917f6", size = 571921, upload-time = "2026-05-13T09:47:36.402Z" },
+    { url = "https://files.pythonhosted.org/packages/d8/de/af89d71410c83b10654d86ff9aff2a4f87c30163658f1cc145242e222526/pyside6-6.11.1-cp310-abi3-manylinux_2_34_x86_64.whl", hash = "sha256:b1fc521ba2bb5109425ab8add06bddbdd524abcad06cfa012cc39a22a189feb2", size = 572102, upload-time = "2026-05-13T09:47:38.249Z" },
+    { url = "https://files.pythonhosted.org/packages/b6/0e/d583bd3f7bf5046a4497b36f3902cfb64aa29554489a5a25c18e6b4ac0ac/pyside6-6.11.1-cp310-abi3-manylinux_2_39_aarch64.whl", hash = "sha256:75f0005c3eb95c07cfb65522ec50d0815ac007a96482c21dc3cb4b4c04895d84", size = 572098, upload-time = "2026-05-13T09:47:39.44Z" },
+    { url = "https://files.pythonhosted.org/packages/57/f2/d9d8ce1373dabb37e5919f63cd18446556079631d3f2eea3ada03c29f6b8/pyside6-6.11.1-cp310-abi3-win_amd64.whl", hash = "sha256:0968877ab1fb4ef3587a284da6fe05e8647ada56a6a3750b6395188e01f4aba6", size = 578377, upload-time = "2026-05-13T09:47:40.76Z" },
+    { url = "https://files.pythonhosted.org/packages/96/02/a6057d8bd2bdb1940820fff2d627fdf4013148c9c57adf69fa40d3452ac3/pyside6-6.11.1-cp310-abi3-win_arm64.whl", hash = "sha256:acee467cb5f256cc47ebb9d815a054c1d8416da380c191b247a76d164aa3f805", size = 561765, upload-time = "2026-05-13T09:47:41.9Z" },
 ]
 
 [[package]]

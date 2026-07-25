@@ -7,7 +7,7 @@ import QtQuick.tooling 1.2
 
 Module {
     Component {
-        file: "/home/grans/Projects/paraspots/src/paraspots/bridge.py"
+        file: "/home/grans/Projects/paraspots/py/src/paraspots/bridge.py"
         lineNumber: 0
         name: "Bridge"
         accessSemantics: "reference"
