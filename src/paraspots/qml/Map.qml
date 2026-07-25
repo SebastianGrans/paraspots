@@ -255,6 +255,7 @@ Item {
 
             coordinate: QtPositioning.coordinate(takeoff.latitude, takeoff.longitude)
             anchorPoint: Qt.point(marker.width / 2, marker.height / 2)
+            z: takeoffMarker.takeoff === root.selectedTakeoff ? 1 : 0
 
             sourceItem: Rectangle {
                 id: marker
