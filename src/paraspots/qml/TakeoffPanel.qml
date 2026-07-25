@@ -141,12 +141,14 @@ Rectangle {
 
                 TextEdit {
                     width: root.width - 32
-                    text: root.takeoff.description
+                    textFormat: TextEdit.RichText
+                    text: root.takeoff.descriptionHtml
                     color: Theme.textSecondary
                     font.pointSize: Theme.fontMd
                     wrapMode: Text.WordWrap
                     readOnly: true
                     selectByMouse: true
+                    onLinkActivated: link => Qt.openUrlExternally(link)
                 }
             }
         }

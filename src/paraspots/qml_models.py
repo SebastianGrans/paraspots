@@ -1,9 +1,14 @@
 from __future__ import annotations
 
+import html
+import re
+
 from PySide6.QtCore import Property, QObject
 
 from paraspots.qml_registration import QmlElement
 from paraspots.takeoff import Takeoff
+
+_URL_RE = re.compile(r'https?://[^\s<]+[^\s<.,;:!?)"\']')
 
 
 @QmlElement
@@ -29,6 +34,12 @@ class TakeoffObject(QObject):
     @Property(str, constant=True)
     def description(self) -> str:
         return self._takeoff.description
+
+    @Property(str, constant=True)
+    def descriptionHtml(self) -> str:
+        escaped = html.escape(self._takeoff.description)
+        linked = _URL_RE.sub(lambda m: f'<a href="{m[0]}">{m[0]}</a>', escaped)
+        return linked.replace("\n", "<br>\n")
 
     @Property(str, constant=True)
     def flightlogUrl(self) -> str:
