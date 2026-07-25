@@ -110,6 +110,7 @@ ApplicationWindow {
                 SplitView.preferredHeight: sidePanel.height * 0.5
                 SplitView.minimumHeight: 0
                 selectedTakeoff: map.selectedTakeoff
+                referenceCoordinate: map.referenceCoordinate
                 onTakeoffSelected: takeoff => map.selectedTakeoff = takeoff
             }
         }

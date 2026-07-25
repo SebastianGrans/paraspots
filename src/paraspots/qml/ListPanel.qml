@@ -2,6 +2,7 @@ pragma ComponentBehavior: Bound
 import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
+import QtPositioning
 
 Rectangle {
     id: root
@@ -9,6 +10,7 @@ Rectangle {
     signal takeoffSelected(var takeoff)
 
     property var selectedTakeoff: null
+    property var referenceCoordinate: null
     property string searchQuery: ""
     property var filteredTakeoffs: {
         if (!root.searchQuery)
@@ -22,6 +24,12 @@ Rectangle {
 
     function focusSearch() {
         searchField.forceActiveFocus();
+    }
+
+    function formatDistance(meters) {
+        if (meters < 1000)
+            return Math.round(meters) + " m";
+        return (meters / 1000).toFixed(1) + " km";
     }
 
     Component.onCompleted: root.focusSearch()
@@ -130,13 +138,24 @@ Rectangle {
                         id: nameText
                         anchors.verticalCenter: parent.verticalCenter
                         anchors.left: parent.left
-                        anchors.right: parent.right
+                        anchors.right: distanceText.visible ? distanceText.left : parent.right
                         anchors.margins: 8
                         text: delegateRoot.modelData.name
                         color: Theme.textPrimary
                         font.pointSize: Theme.fontMd
                         font.bold: delegateRoot.isSelected
                         elide: Text.ElideRight
+                    }
+
+                    Text {
+                        id: distanceText
+                        visible: !!root.referenceCoordinate
+                        anchors.verticalCenter: parent.verticalCenter
+                        anchors.right: parent.right
+                        anchors.margins: 8
+                        text: visible ? root.formatDistance(root.referenceCoordinate.distanceTo(QtPositioning.coordinate(delegateRoot.modelData.latitude, delegateRoot.modelData.longitude))) : ""
+                        color: Theme.textMuted
+                        font.pointSize: Theme.fontSm
                     }
 
                     MouseArea {

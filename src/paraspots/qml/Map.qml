@@ -10,6 +10,10 @@ Item {
     property var selectedTakeoff: null
     property bool locating: false
     property var userLocationMarker: null
+    // The point takeoff distances are measured from. Only ever set from GPS
+    // today, but named generically since a future feature will let the user
+    // specify an arbitrary location (e.g. an upcoming vacation spot) instead.
+    property var referenceCoordinate: null
 
     MapView {
         id: mapView
@@ -102,6 +106,7 @@ Item {
                 centerAnimation.start();
                 zoomAnimation.start();
                 root.locating = false;
+                root.referenceCoordinate = position.coordinate;
                 root.updateUserLocationMarker(position.coordinate);
             }
         }
