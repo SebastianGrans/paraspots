@@ -138,6 +138,41 @@ Rectangle {
                     }
                     event.accepted = true;
                 }
+
+                Keys.onEscapePressed: event => {
+                    searchField.text = "";
+                    event.accepted = true;
+                }
+            }
+
+            Rectangle {
+                id: clearSearchButton
+                visible: searchField.text.length > 0
+                Layout.preferredWidth: 24
+                Layout.preferredHeight: 24
+                Layout.alignment: Qt.AlignVCenter
+                radius: width / 2
+                color: clearSearchButtonArea.containsMouse ? Theme.divider : "transparent"
+                border.color: Theme.divider
+                border.width: 0
+
+                Text {
+                    anchors.centerIn: parent
+                    text: "×"
+                    color: Theme.textMuted
+                    font.pointSize: Theme.fontXl
+                }
+
+                MouseArea {
+                    id: clearSearchButtonArea
+                    anchors.fill: parent
+                    hoverEnabled: true
+                    cursorShape: Qt.PointingHandCursor
+                    onClicked: {
+                        searchField.text = "";
+                        searchField.forceActiveFocus();
+                    }
+                }
             }
 
             Rectangle {
