@@ -17,7 +17,7 @@ done = @printf "$(GREEN)\#\#\# DONE! \#\#\#$(RESET)\n\n"
 
 
 
-.PHONY: help lint check stubs qmllint lintall run
+.PHONY: help lint check stubs qmllint lintall run web
 
 help:
 	@printf "$(BOLD)lint$(RESET)     - run ruff check --fix and ruff format\n"
@@ -25,6 +25,7 @@ help:
 	@printf "$(BOLD)stubs$(RESET)    - regenerate QML type stubs from bridge.py\n"
 	@printf "$(BOLD)qmllint$(RESET)  - lint all QML files (regenerates stubs first if needed)\n"
 	@printf "$(BOLD)run$(RESET)      - launch the app\n"
+	@printf "$(BOLD)web$(RESET)      - serve the html_js_port web build and open it in a browser\n"
 
 lint:
 	$(call printstart,Running ruff check --fix and format...)
@@ -63,3 +64,7 @@ lintall:
 
 run:
 	uv run paraspots
+
+web:
+	$(call printstart,Serving web/ at http://localhost:8000 ...)
+	@cd web && (xdg-open http://localhost:8000 &) && python3 -m http.server
