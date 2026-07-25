@@ -317,16 +317,23 @@ Item {
                     id: markerArea
                     anchors.fill: parent
                     hoverEnabled: true
-                    onEntered: tip.visible = true
-                    onExited: tip.visible = false
                     onClicked: root.selectedTakeoff = takeoffMarker.takeoff
                     onDoubleClicked: root.zoomToTakeoff(takeoffMarker.takeoff)
                 }
 
                 ToolTip {
                     id: tip
-                    visible: false
+                    visible: marker.isHovered
                     padding: 5
+
+                    exit: Transition {
+                        NumberAnimation {
+                            // Not sure i like this animation...
+                            property: "opacity"
+                            to: 0
+                            duration: 100
+                        }
+                    }
 
                     background: Rectangle {
                         color: Theme.surfaceLow
