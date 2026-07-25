@@ -4,7 +4,9 @@ L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap contributors",
 }).addTo(map);
 
+let allTakeoffs = [];
 let selectedTakeoff = null;
+let searchDebounceTimer = null;
 const listItems = new Map(); // takeoff -> <li>
 
 function escapeHtml(text) {
@@ -36,7 +38,7 @@ function selectTakeoff(takeoff) {
 }
 
 function renderList(takeoffs) {
-    const list = document.getElementById("list-panel");
+    const list = document.getElementById("list");
     list.innerHTML = "";
     listItems.clear();
     for (const takeoff of takeoffs) {
@@ -46,15 +48,31 @@ function renderList(takeoffs) {
         list.appendChild(item);
         listItems.set(takeoff, item);
     }
+    updateListSelection();
 }
+
+function applySearch(query) {
+    const normalized = query.trim().toLowerCase();
+    const filtered = normalized
+        ? allTakeoffs.filter(takeoff => takeoff.name.toLowerCase().includes(normalized))
+        : allTakeoffs;
+    renderList(filtered);
+}
+
+document.getElementById("search").addEventListener("input", event => {
+    clearTimeout(searchDebounceTimer);
+    const query = event.target.value;
+    searchDebounceTimer = setTimeout(() => applySearch(query), 200);
+});
 
 fetch("data/takeoffs.json")
     .then(response => response.json())
     .then(takeoffs => {
+        allTakeoffs = takeoffs;
         for (const takeoff of takeoffs) {
             L.marker([takeoff.latitude, takeoff.longitude])
                 .addTo(map)
                 .on("click", () => selectTakeoff(takeoff));
         }
-        renderList(takeoffs);
+        renderList(allTakeoffs);
     });
