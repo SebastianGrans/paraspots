@@ -17,7 +17,7 @@ done = @printf "$(GREEN)\#\#\# DONE! \#\#\#$(RESET)\n\n"
 
 
 
-.PHONY: help lint check stubs qmllint lintall run web
+.PHONY: help lint check stubs qmllint lintall run web mobileweb
 
 help:
 	@printf "$(BOLD)lint$(RESET)     - run ruff check --fix and ruff format\n"
@@ -26,6 +26,7 @@ help:
 	@printf "$(BOLD)qmllint$(RESET)  - lint all QML files (regenerates stubs first if needed)\n"
 	@printf "$(BOLD)run$(RESET)      - launch the app\n"
 	@printf "$(BOLD)web$(RESET)      - serve the html_js_port web build and open it in a browser\n"
+	@printf "$(BOLD)mobileweb$(RESET) - serve the web build and open it in a phone-sized Chromium window\n"
 
 lint:
 	$(call printstart,Running ruff check --fix and format...)
@@ -68,3 +69,7 @@ run:
 web:
 	$(call printstart,Serving docs/ at http://localhost:8000 ...)
 	@cd docs && (xdg-open http://localhost:8000 &) && python3 -m http.server
+
+mobileweb:
+	$(call printstart,Serving docs/ at http://localhost:8000 in a phone-sized window ...)
+	@cd docs && (sleep 1 && /snap/bin/chromium --app=http://localhost:8000 --window-size=390,844 &) && python3 -m http.server
