@@ -309,6 +309,15 @@ Rectangle {
                         root.takeoffSelected(root.filteredTakeoffs[currentIndex]);
                 }
 
+                Keys.onUpPressed: event => {
+                    if (listView.currentIndex <= 0) {
+                        searchField.forceActiveFocus();
+                        event.accepted = true;
+                    } else {
+                        event.accepted = false;
+                    }
+                }
+
                 delegate: Rectangle {
                     id: delegateRoot
                     required property var modelData
