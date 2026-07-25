@@ -1,14 +1,6 @@
 # TODO Web
 
 
-## Fix yr widget on mobile
-
-Now it's limited to the width of the screen, and sometimes it ends up outside the screen on the
-bottom.
-
-Instead, it could be a larger div in the middle that overflows on each side, and the user can move
-the image left right by touch to see other parts of the image.
-
 ## Favourites
 
 This is a static site. But maybe we can store things in the browser?

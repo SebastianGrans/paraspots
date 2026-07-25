@@ -55,6 +55,10 @@ function setupYrWidget(widget, meteogramUrl) {
     let loaded = false;
 
     img.addEventListener("error", () => wrap.classList.add("error"));
+    img.addEventListener("load", () => {
+        if (wrap.classList.contains("visible"))
+            positionWrap();
+    });
 
     function positionWrap() {
         const buttonRect = toggleBtn.getBoundingClientRect();
@@ -72,7 +76,14 @@ function setupYrWidget(widget, meteogramUrl) {
             const right = Math.max(8, window.innerWidth - buttonRect.right);
             wrap.style.right = `${right}px`;
         }
-        wrap.style.top = `${buttonRect.bottom + 4}px`;
+
+        // Clamp vertically so the popup can't open (or end up, once the
+        // meteogram image loads and changes its height) below the visible
+        // viewport, mirroring the same clamping map.js already does for the
+        // map's right-click context menu.
+        const wrapHeight = wrap.getBoundingClientRect().height;
+        const maxTop = window.innerHeight - wrapHeight - 8;
+        wrap.style.top = `${Math.max(8, Math.min(buttonRect.bottom + 4, maxTop))}px`;
     }
 
     toggleBtn.addEventListener("click", () => {
