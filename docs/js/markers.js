@@ -1,5 +1,6 @@
 import { state } from "./state.js";
 import { drawWindRose } from "./wind-rose.js";
+import { CLICK_DEBOUNCE_MS } from "./utils.js";
 
 export const takeoffIcon = L.divIcon({
     html: '<div class="takeoff-marker"></div>',
@@ -55,11 +56,16 @@ export function setMarkerHovered(takeoff, isHovered) {
 }
 
 export function createTakeoffMarker(map, takeoff, { onSelect, onZoom }) {
+    let clickTimer = null;
     const marker = L.marker([takeoff.latitude, takeoff.longitude], { icon: takeoffIcon })
         .addTo(map)
-        .on("click", () => onSelect(takeoff))
+        .on("click", () => {
+            clearTimeout(clickTimer);
+            clickTimer = setTimeout(() => onSelect(takeoff), CLICK_DEBOUNCE_MS);
+        })
         .on("dblclick", event => {
             L.DomEvent.stopPropagation(event);
+            clearTimeout(clickTimer);
             onZoom(takeoff);
         });
     marker.bindTooltip(createMarkerTooltipContent(takeoff), { direction: "top", offset: [0, -8] });

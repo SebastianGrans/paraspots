@@ -1,5 +1,5 @@
 import { state } from "./state.js";
-import { formatDistance } from "./utils.js";
+import { formatDistance, CLICK_DEBOUNCE_MS } from "./utils.js";
 
 // Wired once from app.js via initList() to avoid a circular import with the
 // cross-cutting selection logic (selectTakeoff/zoomToTakeoff/setMarkerHovered
@@ -37,8 +37,16 @@ function renderList(takeoffs) {
         }
 
         item.tabIndex = -1;
-        item.addEventListener("click", () => callbacks.onSelect(takeoff));
-        item.addEventListener("dblclick", () => callbacks.onZoom(takeoff));
+        item.takeoff = takeoff;
+        let clickTimer = null;
+        item.addEventListener("click", () => {
+            clearTimeout(clickTimer);
+            clickTimer = setTimeout(() => callbacks.onSelect(takeoff), CLICK_DEBOUNCE_MS);
+        });
+        item.addEventListener("dblclick", () => {
+            clearTimeout(clickTimer);
+            callbacks.onZoom(takeoff);
+        });
         item.addEventListener("mouseenter", () => callbacks.onHover(takeoff, true));
         item.addEventListener("mouseleave", () => callbacks.onHover(takeoff, false));
         list.appendChild(item);
@@ -125,7 +133,7 @@ document.getElementById("search").addEventListener("keydown", event => {
         const firstItem = document.querySelector("#list li");
         if (firstItem) {
             firstItem.focus();
-            firstItem.click();
+            callbacks.onSelect(firstItem.takeoff);
         }
     } else if (event.key === "Escape") {
         clearTimeout(searchDebounceTimer);
@@ -151,7 +159,7 @@ document.getElementById("list").addEventListener("keydown", event => {
     const nextItem = items[nextIndex];
     if (nextItem) {
         nextItem.focus();
-        nextItem.click();
+        callbacks.onSelect(nextItem.takeoff);
         nextItem.scrollIntoView({ block: "nearest" });
     }
 });
