@@ -1,0 +1,93 @@
+import { state } from "./state.js";
+import { map, onLocationSet, closeMapContextMenu } from "./map.js";
+import { createTakeoffMarker, updateMarkerSelection, setMarkerHovered } from "./markers.js";
+import { showTakeoffDetails, closeYrWidget } from "./takeoff-detail.js";
+import { initList, updateListSelection, setSortMode, refreshList, closeSortMenu } from "./list.js";
+import { toggleInfoPanel, closeInfoPanel } from "./info-panel.js";
+
+function isCoordinateVisible(latlng) {
+    return map.getBounds().contains(latlng);
+}
+
+// If the newly selected takeoff (e.g. picked from the list) isn't within
+// the current viewport, bring it into view. When a reference location is
+// also known (e.g. the user pressed "locate me"), keep *both* points
+// visible together instead of just recentring on the takeoff alone —
+// otherwise selecting a takeoff just outside the zoomed-in "locate me"
+// view would push the user's own location off-screen.
+function ensureTakeoffVisible(takeoff) {
+    if (!takeoff)
+        return;
+
+    const takeoffLatLng = L.latLng(takeoff.latitude, takeoff.longitude);
+
+    if (!state.referenceLocation) {
+        if (isCoordinateVisible(takeoffLatLng))
+            return;
+        if (map.getZoom() > 10) {
+            map.setView(takeoffLatLng, 10, { animate: true });
+        } else {
+            map.panTo(takeoffLatLng, { animate: true });
+        }
+        return;
+    }
+
+    const referenceLatLng = L.latLng(state.referenceLocation.lat, state.referenceLocation.lng);
+    if (isCoordinateVisible(takeoffLatLng) && isCoordinateVisible(referenceLatLng))
+        return;
+
+    // Fit both points, then nudge zoom out one more level for breathing room
+    // from the edges — matching the desktop app's approach.
+    const bounds = L.latLngBounds([takeoffLatLng, referenceLatLng]);
+    const targetZoom = Math.max(map.getMinZoom(), map.getBoundsZoom(bounds) - 1);
+    map.setView(bounds.getCenter(), targetZoom, { animate: true });
+}
+
+function selectTakeoff(takeoff) {
+    state.selectedTakeoff = takeoff;
+    showTakeoffDetails(takeoff);
+    updateListSelection();
+    updateMarkerSelection();
+    ensureTakeoffVisible(takeoff);
+}
+
+function zoomToTakeoff(takeoff) {
+    map.setView([takeoff.latitude, takeoff.longitude], 10, { animate: true });
+}
+
+onLocationSet(() => setSortMode("distance-asc"));
+
+initList({ onSelect: selectTakeoff, onZoom: zoomToTakeoff, onHover: setMarkerHovered });
+
+document.addEventListener("keydown", event => {
+    if (event.key === "Escape") {
+        closeMapContextMenu();
+        closeInfoPanel();
+        closeSortMenu();
+        closeYrWidget();
+        return;
+    }
+
+    // Don't hijack these keys while the user is typing into a field.
+    const tag = event.target.tagName;
+    if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT")
+        return;
+
+    if (event.key === "/" || (event.key.toLowerCase() === "k" && (event.ctrlKey || event.metaKey))) {
+        event.preventDefault();
+        document.getElementById("search").focus();
+    } else if (event.key === "?") {
+        event.preventDefault();
+        toggleInfoPanel();
+    }
+});
+
+fetch("data/takeoffs.json")
+    .then(response => response.json())
+    .then(takeoffs => {
+        state.allTakeoffs = takeoffs;
+        for (const takeoff of takeoffs) {
+            createTakeoffMarker(map, takeoff, { onSelect: selectTakeoff, onZoom: zoomToTakeoff });
+        }
+        refreshList();
+    });
