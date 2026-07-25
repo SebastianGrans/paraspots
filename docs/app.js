@@ -29,6 +29,10 @@ function setReferenceLocation(lat, lng) {
     } else {
         referenceMarker = L.marker([lat, lng], { icon: referenceIcon, zIndexOffset: 1000 }).addTo(map);
     }
+    document.getElementById("sort-distance-option").disabled = false;
+    if (sortMode === "distance") {
+        refreshList();
+    }
 }
 
 function escapeHtml(text) {
@@ -73,18 +77,48 @@ function renderList(takeoffs) {
     updateListSelection();
 }
 
-function applySearch(query) {
-    const normalized = query.trim().toLowerCase();
+let currentSearchQuery = "";
+let sortMode = "name-asc";
+
+function sortTakeoffs(takeoffs) {
+    const sorted = takeoffs.slice();
+    if (sortMode === "name-desc") {
+        sorted.sort((a, b) => b.name.localeCompare(a.name));
+    } else if (sortMode === "distance" && referenceLocation) {
+        const reference = L.latLng(referenceLocation.lat, referenceLocation.lng);
+        sorted.sort(
+            (a, b) =>
+                reference.distanceTo(L.latLng(a.latitude, a.longitude)) -
+                reference.distanceTo(L.latLng(b.latitude, b.longitude))
+        );
+    } else {
+        sorted.sort((a, b) => a.name.localeCompare(b.name));
+    }
+    return sorted;
+}
+
+function refreshList() {
+    const normalized = currentSearchQuery.trim().toLowerCase();
     const filtered = normalized
         ? allTakeoffs.filter(takeoff => takeoff.name.toLowerCase().includes(normalized))
         : allTakeoffs;
-    renderList(filtered);
+    renderList(sortTakeoffs(filtered));
+}
+
+function applySearch(query) {
+    currentSearchQuery = query;
+    refreshList();
 }
 
 document.getElementById("search").addEventListener("input", event => {
     clearTimeout(searchDebounceTimer);
     const query = event.target.value;
     searchDebounceTimer = setTimeout(() => applySearch(query), 200);
+});
+
+document.getElementById("sort").addEventListener("change", event => {
+    sortMode = event.target.value;
+    refreshList();
 });
 
 const locateBtn = document.getElementById("locate-btn");
@@ -172,5 +206,5 @@ fetch("data/takeoffs.json")
                 .addTo(map)
                 .on("click", () => selectTakeoff(takeoff));
         }
-        renderList(allTakeoffs);
+        refreshList();
     });

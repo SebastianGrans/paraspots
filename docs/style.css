@@ -103,8 +103,21 @@ body {
     overflow: hidden;
 }
 
-#search {
+#list-toolbar {
+    display: flex;
+    gap: 8px;
     margin: 8px;
+}
+
+#search {
+    flex: 1;
+    min-width: 0;
+    padding: 6px 8px;
+    font: inherit;
+    box-sizing: border-box;
+}
+
+#sort {
     padding: 6px 8px;
     font: inherit;
     box-sizing: border-box;
@@ -183,7 +196,8 @@ body {
         min-height: 150px;
     }
 
-    #search {
+    #search,
+    #sort {
         padding: 10px 8px;
     }
 

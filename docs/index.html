@@ -17,7 +17,14 @@
             <p>Select a takeoff on the map<br />to see its details</p>
         </div>
         <div id="list-panel">
-            <input type="text" id="search" placeholder="Search takeoffs…" />
+            <div id="list-toolbar">
+                <input type="text" id="search" placeholder="Search takeoffs…" />
+                <select id="sort">
+                    <option value="name-asc">Name (A-Z)</option>
+                    <option value="name-desc">Name (Z-A)</option>
+                    <option value="distance" id="sort-distance-option" disabled>Distance</option>
+                </select>
+            </div>
             <ul id="list"></ul>
         </div>
     </div>
