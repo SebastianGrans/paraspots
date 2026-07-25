@@ -140,6 +140,7 @@ Rectangle {
                 clip: true
 
                 TextEdit {
+                    id: descriptionText
                     width: root.width - 32
                     textFormat: TextEdit.RichText
                     text: root.takeoff.descriptionHtml
@@ -149,6 +150,10 @@ Rectangle {
                     readOnly: true
                     selectByMouse: true
                     onLinkActivated: link => Qt.openUrlExternally(link)
+
+                    HoverHandler {
+                        cursorShape: descriptionText.hoveredLink ? Qt.PointingHandCursor : Qt.IBeamCursor
+                    }
                 }
             }
         }
