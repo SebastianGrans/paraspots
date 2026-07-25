@@ -72,6 +72,36 @@ Item {
         }
     }
 
+    // Right-click a spot on the map to manually set it as the reference
+    // location (in place of GPS) — e.g. for checking takeoffs near a
+    // planned vacation spot rather than the user's current location.
+    Item {
+        anchors.fill: mapView
+
+        MouseArea {
+            id: contextMenuArea
+            anchors.fill: parent
+            acceptedButtons: Qt.RightButton
+            onClicked: mouse => {
+                contextMenu.coordinate = mapView.map.toCoordinate(Qt.point(mouse.x, mouse.y));
+                contextMenu.popup(mouse.x, mouse.y);
+            }
+        }
+
+        Menu {
+            id: contextMenu
+            property var coordinate: null
+
+            MenuItem {
+                text: "Set as location"
+                onTriggered: {
+                    root.referenceCoordinate = contextMenu.coordinate;
+                    root.updateUserLocationMarker(contextMenu.coordinate);
+                }
+            }
+        }
+    }
+
     // Keyboard shortcut to cycle through available map types
     Shortcut {
         sequences: ["Ctrl+M"]
