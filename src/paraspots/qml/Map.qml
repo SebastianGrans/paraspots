@@ -30,6 +30,29 @@ Item {
         }
     }
 
+    // MapView's own WheelHandler (QtLocation/MapView.qml) applies
+    // zoomLevel += angleDelta.y / 120 to both mouse wheel and, on this
+    // platform, touchpad scroll. A touchpad emits far larger cumulative
+    // deltas per gesture than a mouse wheel's fixed 120-unit notches, so the
+    // same formula zooms way too fast. This overlay sits on top of MapView
+    // and intercepts touchpad wheel events only, applying a gentler
+    // multiplier before MapView's internal handler ever sees them; mouse
+    // wheel zoom is untouched since this handler ignores mouse events.
+    Item {
+        anchors.fill: mapView
+
+        WheelHandler {
+            id: touchpadZoom
+            acceptedDevices: PointerDevice.TouchPad
+
+            onWheel: event => {
+                const loc = mapView.map.toCoordinate(touchpadZoom.point.position);
+                mapView.map.zoomLevel += (event.angleDelta.y / 120) * 0.15;
+                mapView.map.alignCoordinateToPoint(loc, touchpadZoom.point.position);
+            }
+        }
+    }
+
     // Keyboard shortcut to cycle through available map types
     Shortcut {
         sequences: ["Ctrl+M"]

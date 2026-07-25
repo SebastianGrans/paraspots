@@ -4,6 +4,13 @@
 
 totle
 
+Or maybe just show this if you hover over the yr button?
+```
+https://www.yr.no/nb/innhold/60.05388889,10.3225/meteogram.svg
+```
+
+Qt only implements SVG Tiny 1.2, so this doesn't work :(
+
 ## Add a list of all takeoffs to the right
 
 ~~The list should be searchable~~
@@ -16,9 +23,6 @@ Filter by location?
 
 Title (this is relevant later for the list of all takeoffs)
 
-## Ctrl+w should quit the app
-
-title
 
 ## Fix bug
 
@@ -85,8 +89,3 @@ Sundvollen
 ```
 
 It should prioritize sundvollen higher, since it starts with `sund`
-
-## Touchpad scroll multiplier
-
-On a touchpad, the map scroll zooming is way to fast.
-
