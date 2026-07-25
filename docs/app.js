@@ -200,6 +200,10 @@ function selectTakeoff(takeoff) {
     updateMarkerSelection();
 }
 
+function zoomToTakeoff(takeoff) {
+    map.setView([takeoff.latitude, takeoff.longitude], 10, { animate: true });
+}
+
 function renderList(takeoffs) {
     const list = document.getElementById("list");
     list.innerHTML = "";
@@ -221,6 +225,7 @@ function renderList(takeoffs) {
         }
 
         item.addEventListener("click", () => selectTakeoff(takeoff));
+        item.addEventListener("dblclick", () => zoomToTakeoff(takeoff));
         item.addEventListener("mouseenter", () => setMarkerHovered(takeoff, true));
         item.addEventListener("mouseleave", () => setMarkerHovered(takeoff, false));
         list.appendChild(item);
@@ -356,7 +361,11 @@ fetch("data/takeoffs.json")
         for (const takeoff of takeoffs) {
             const marker = L.marker([takeoff.latitude, takeoff.longitude], { icon: takeoffIcon })
                 .addTo(map)
-                .on("click", () => selectTakeoff(takeoff));
+                .on("click", () => selectTakeoff(takeoff))
+                .on("dblclick", event => {
+                    L.DomEvent.stopPropagation(event);
+                    zoomToTakeoff(takeoff);
+                });
             marker.bindTooltip(createMarkerTooltipContent(takeoff), { direction: "top", offset: [0, -8] });
             takeoffMarkers.set(takeoff, marker);
         }

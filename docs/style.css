@@ -172,6 +172,9 @@ body {
     padding: 8px 16px;
     border-bottom: 1px solid #eee;
     cursor: pointer;
+    /* We disable user select in the list to prevent double clicking from
+     triggering select text */
+    user-select: none;
 }
 
 #list li .name {
