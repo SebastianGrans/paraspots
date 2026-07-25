@@ -34,6 +34,21 @@ Item {
         }
     }
 
+    // visibleRegion bundles center+zoom together and can't be animated
+    // directly (it's not something CoordinateAnimation/NumberAnimation can
+    // interpolate), and setting it on the live map — even briefly, to peek
+    // at the ideal fit — risks a visible snap. This same-sized, invisible
+    // "shadow" map exists purely to compute an ideal center/zoom for a
+    // region via its own visibleRegion, without ever touching the real
+    // map's center/zoomLevel except through the animations below.
+    Map {
+        id: shadowMap
+        visible: false
+        width: mapView.width
+        height: mapView.height
+        plugin: mapView.map.plugin
+    }
+
     // MapView's own WheelHandler (QtLocation/MapView.qml) applies
     // zoomLevel += angleDelta.y / 120 to both mouse wheel and, on this
     // platform, touchpad scroll. A touchpad emits far larger cumulative
@@ -66,6 +81,50 @@ Item {
 
     property int mapTypeIndex: 0
 
+    onSelectedTakeoffChanged: root.ensureTakeoffVisible(root.selectedTakeoff)
+
+    function isCoordinateVisible(coordinate) {
+        return !isNaN(mapView.map.fromCoordinate(coordinate, true).x);
+    }
+
+    // If the newly selected takeoff (e.g. picked from the list) isn't within
+    // the current viewport, bring it into view. When a reference location is
+    // also known (e.g. the user pressed "locate me"), keep *both* points
+    // visible together instead of just recentring on the takeoff alone —
+    // otherwise selecting a takeoff just outside the zoomed-in "locate me"
+    // view would push the user's own location off-screen.
+    function ensureTakeoffVisible(takeoff) {
+        if (!takeoff)
+            return;
+
+        const takeoffCoordinate = QtPositioning.coordinate(takeoff.latitude, takeoff.longitude);
+
+        if (!root.referenceCoordinate) {
+            if (root.isCoordinateVisible(takeoffCoordinate))
+                return;
+            centerAnimation.to = takeoffCoordinate;
+            centerAnimation.start();
+            if (mapView.map.zoomLevel > 10) {
+                zoomAnimation.to = 10;
+                zoomAnimation.start();
+            }
+            return;
+        }
+
+        if (root.isCoordinateVisible(takeoffCoordinate) && root.isCoordinateVisible(root.referenceCoordinate))
+            return;
+
+        // Ask the shadow map for the ideal center/zoom to fit both points,
+        // then animate the real map to it — nudging zoom out one level so
+        // the two points get some breathing room from the edges.
+        shadowMap.visibleRegion = QtPositioning.rectangle([takeoffCoordinate, root.referenceCoordinate]);
+
+        centerAnimation.to = shadowMap.center;
+        centerAnimation.start();
+        zoomAnimation.to = Math.max(mapView.map.minimumZoomLevel, shadowMap.zoomLevel - 1);
+        zoomAnimation.start();
+    }
+
     function cycleMapType() {
         const types = mapView.map.supportedMapTypes;
         if (types.length === 0)
@@ -87,7 +146,6 @@ Item {
         id: zoomAnimation
         target: mapView.map
         property: "zoomLevel"
-        to: 10
         duration: 800
         easing.type: Easing.InOutQuad
     }
@@ -104,6 +162,7 @@ Item {
             if (position.latitudeValid && position.longitudeValid) {
                 centerAnimation.to = position.coordinate;
                 centerAnimation.start();
+                zoomAnimation.to = 10;
                 zoomAnimation.start();
                 root.locating = false;
                 root.referenceCoordinate = position.coordinate;
