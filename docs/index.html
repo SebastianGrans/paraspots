@@ -8,7 +8,10 @@
     <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div id="map"></div>
+    <div id="map">
+        <button id="locate-btn" title="Use my location" aria-label="Use my location">📍</button>
+        <div id="locate-error" class="hidden">Couldn't get your location</div>
+    </div>
     <div id="sidebar">
         <div id="takeoff-panel" class="placeholder">
             <p>Select a takeoff on the map<br />to see its details</p>
