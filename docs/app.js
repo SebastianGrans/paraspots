@@ -226,6 +226,7 @@ function renderList(takeoffs) {
             item.appendChild(distanceSpan);
         }
 
+        item.tabIndex = -1;
         item.addEventListener("click", () => selectTakeoff(takeoff));
         item.addEventListener("dblclick", () => zoomToTakeoff(takeoff));
         item.addEventListener("mouseenter", () => setMarkerHovered(takeoff, true));
@@ -273,6 +274,42 @@ document.getElementById("search").addEventListener("input", event => {
     clearTimeout(searchDebounceTimer);
     const query = event.target.value;
     searchDebounceTimer = setTimeout(() => applySearch(query), 200);
+});
+
+document.getElementById("search").addEventListener("keydown", event => {
+    if (event.key === "ArrowDown") {
+        event.preventDefault();
+        const firstItem = document.querySelector("#list li");
+        if (firstItem) {
+            firstItem.focus();
+            firstItem.click();
+        }
+    } else if (event.key === "Escape") {
+        event.target.value = "";
+        applySearch("");
+    }
+});
+
+document.getElementById("list").addEventListener("keydown", event => {
+    if (event.key !== "ArrowDown" && event.key !== "ArrowUp")
+        return;
+    event.preventDefault();
+    const items = Array.from(document.querySelectorAll("#list li"));
+    const currentIndex = items.indexOf(document.activeElement);
+
+    if (event.key === "ArrowUp" && currentIndex <= 0) {
+        document.getElementById("search").focus();
+        return;
+    }
+
+    const step = event.key === "ArrowDown" ? 1 : -1;
+    const nextIndex = Math.max(0, Math.min(items.length - 1, (currentIndex === -1 ? 0 : currentIndex + step)));
+    const nextItem = items[nextIndex];
+    if (nextItem) {
+        nextItem.focus();
+        nextItem.click();
+        nextItem.scrollIntoView({ block: "nearest" });
+    }
 });
 
 document.getElementById("sort").addEventListener("change", event => {
@@ -350,9 +387,53 @@ document.addEventListener("click", event => {
         closeMapContextMenu();
     }
 });
+
+let shortcutsHelp = null;
+
+function toggleShortcutsHelp() {
+    if (shortcutsHelp) {
+        closeShortcutsHelp();
+        return;
+    }
+    shortcutsHelp = document.createElement("div");
+    shortcutsHelp.className = "shortcuts-help";
+    shortcutsHelp.innerHTML = `
+        <strong>Keyboard shortcuts</strong>
+        <ul>
+            <li><kbd>/</kbd> or <kbd>Ctrl</kbd> <kbd>K</kbd> — Focus search</li>
+            <li><kbd>Esc</kbd> — Clear search</li>
+            <li><kbd>↓</kbd> <kbd>↑</kbd> — Move through results</li>
+            <li><kbd>?</kbd> — Toggle this help</li>
+        </ul>
+    `;
+    document.body.appendChild(shortcutsHelp);
+}
+
+function closeShortcutsHelp() {
+    if (shortcutsHelp) {
+        shortcutsHelp.remove();
+        shortcutsHelp = null;
+    }
+}
+
 document.addEventListener("keydown", event => {
     if (event.key === "Escape") {
         closeMapContextMenu();
+        closeShortcutsHelp();
+        return;
+    }
+
+    // Don't hijack these keys while the user is typing into a field.
+    const tag = event.target.tagName;
+    if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT")
+        return;
+
+    if (event.key === "/" || (event.key.toLowerCase() === "k" && (event.ctrlKey || event.metaKey))) {
+        event.preventDefault();
+        document.getElementById("search").focus();
+    } else if (event.key === "?") {
+        event.preventDefault();
+        toggleShortcutsHelp();
     }
 });
 
