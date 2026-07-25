@@ -162,13 +162,24 @@ Item {
         console.log("Map type:", types[root.mapTypeIndex].name);
     }
 
-    // Used both when GPS finds a position and when the user manually sets
-    // one via the map's right-click "Set as location" menu.
-    function setReferenceCoordinate(coordinate) {
+    // The same center+zoom-to-10 animation used whenever the map jumps to a
+    // single point of interest (GPS fix, "Set as location", or zooming into
+    // a takeoff picked from the list).
+    function zoomToCoordinate(coordinate) {
         centerAnimation.to = coordinate;
         centerAnimation.start();
         zoomAnimation.to = 10;
         zoomAnimation.start();
+    }
+
+    function zoomToTakeoff(takeoff) {
+        root.zoomToCoordinate(QtPositioning.coordinate(takeoff.latitude, takeoff.longitude));
+    }
+
+    // Used both when GPS finds a position and when the user manually sets
+    // one via the map's right-click "Set as location" menu.
+    function setReferenceCoordinate(coordinate) {
+        root.zoomToCoordinate(coordinate);
         root.referenceCoordinate = coordinate;
         root.updateUserLocationMarker(coordinate);
     }
@@ -309,6 +320,7 @@ Item {
                     onEntered: tip.visible = true
                     onExited: tip.visible = false
                     onClicked: root.selectedTakeoff = takeoffMarker.takeoff
+                    onDoubleClicked: root.zoomToTakeoff(takeoffMarker.takeoff)
                 }
 
                 ToolTip {

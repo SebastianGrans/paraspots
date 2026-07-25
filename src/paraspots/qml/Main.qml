@@ -113,6 +113,7 @@ ApplicationWindow {
                 selectedTakeoff: map.selectedTakeoff
                 referenceCoordinate: map.referenceCoordinate
                 onTakeoffSelected: takeoff => map.selectedTakeoff = takeoff
+                onTakeoffDoubleClicked: takeoff => map.zoomToTakeoff(takeoff)
             }
         }
     }

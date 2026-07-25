@@ -8,6 +8,7 @@ Rectangle {
     id: root
 
     signal takeoffSelected(var takeoff)
+    signal takeoffDoubleClicked(var takeoff)
 
     enum SortMode {
         Az,
@@ -316,6 +317,7 @@ Rectangle {
                         hoverEnabled: true
                         cursorShape: Qt.PointingHandCursor
                         onClicked: root.takeoffSelected(delegateRoot.modelData)
+                        onDoubleClicked: root.takeoffDoubleClicked(delegateRoot.modelData)
                         onEntered: root.hoveredTakeoff = delegateRoot.modelData
                         onExited: {
                             if (root.hoveredTakeoff === delegateRoot.modelData)
