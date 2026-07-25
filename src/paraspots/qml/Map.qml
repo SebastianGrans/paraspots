@@ -8,6 +8,7 @@ Item {
     id: root
 
     property var selectedTakeoff: null
+    property var hoveredTakeoff: null
     property bool locating: false
     property var userLocationMarker: null
     // The point takeoff distances are measured from. Only ever set from GPS
@@ -94,10 +95,7 @@ Item {
 
             MenuItem {
                 text: "Set as location"
-                onTriggered: {
-                    root.referenceCoordinate = contextMenu.coordinate;
-                    root.updateUserLocationMarker(contextMenu.coordinate);
-                }
+                onTriggered: root.setReferenceCoordinate(contextMenu.coordinate)
             }
         }
     }
@@ -164,6 +162,17 @@ Item {
         console.log("Map type:", types[root.mapTypeIndex].name);
     }
 
+    // Used both when GPS finds a position and when the user manually sets
+    // one via the map's right-click "Set as location" menu.
+    function setReferenceCoordinate(coordinate) {
+        centerAnimation.to = coordinate;
+        centerAnimation.start();
+        zoomAnimation.to = 10;
+        zoomAnimation.start();
+        root.referenceCoordinate = coordinate;
+        root.updateUserLocationMarker(coordinate);
+    }
+
     CoordinateAnimation {
         id: centerAnimation
         target: mapView.map
@@ -190,13 +199,8 @@ Item {
 
         onPositionChanged: {
             if (position.latitudeValid && position.longitudeValid) {
-                centerAnimation.to = position.coordinate;
-                centerAnimation.start();
-                zoomAnimation.to = 10;
-                zoomAnimation.start();
                 root.locating = false;
-                root.referenceCoordinate = position.coordinate;
-                root.updateUserLocationMarker(position.coordinate);
+                root.setReferenceCoordinate(position.coordinate);
             }
         }
 
@@ -285,18 +289,21 @@ Item {
 
             coordinate: QtPositioning.coordinate(takeoff.latitude, takeoff.longitude)
             anchorPoint: Qt.point(marker.width / 2, marker.height / 2)
-            z: takeoffMarker.takeoff === root.selectedTakeoff ? 1 : 0
+            z: takeoffMarker.takeoff === root.selectedTakeoff || takeoffMarker.takeoff === root.hoveredTakeoff ? 1 : 0
 
             sourceItem: Rectangle {
                 id: marker
-                width: 12
-                height: 12
+                readonly property bool isHovered: markerArea.containsMouse || takeoffMarker.takeoff === root.hoveredTakeoff
+
+                width: marker.isHovered ? 16 : 12
+                height: marker.isHovered ? 16 : 12
                 radius: width / 2
                 color: takeoffMarker.takeoff === root.selectedTakeoff ? Theme.accent : Theme.chartLine
                 border.color: "white"
                 border.width: 1
 
                 MouseArea {
+                    id: markerArea
                     anchors.fill: parent
                     hoverEnabled: true
                     onEntered: tip.visible = true

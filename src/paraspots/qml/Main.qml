@@ -73,6 +73,7 @@ ApplicationWindow {
             id: map
             SplitView.preferredWidth: mainRow.width * 0.8
             SplitView.minimumWidth: 200
+            hoveredTakeoff: listPanel.hoveredTakeoff
         }
 
         SplitView {

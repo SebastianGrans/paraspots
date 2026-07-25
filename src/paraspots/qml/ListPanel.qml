@@ -17,6 +17,7 @@ Rectangle {
     }
 
     property var selectedTakeoff: null
+    property var hoveredTakeoff: null
     property var referenceCoordinate: null
     property string searchQuery: ""
     property int sortMode: ListPanel.Az
@@ -39,7 +40,8 @@ Rectangle {
             else
                 list.sort((a, b) => a.name.localeCompare(b.name));
             break;
-        default: // ListPanel.Az
+        default:
+            // ListPanel.Az
             list.sort((a, b) => a.name.localeCompare(b.name));
         }
         return list;
@@ -314,6 +316,11 @@ Rectangle {
                         hoverEnabled: true
                         cursorShape: Qt.PointingHandCursor
                         onClicked: root.takeoffSelected(delegateRoot.modelData)
+                        onEntered: root.hoveredTakeoff = delegateRoot.modelData
+                        onExited: {
+                            if (root.hoveredTakeoff === delegateRoot.modelData)
+                                root.hoveredTakeoff = null;
+                        }
                     }
                 }
             }
