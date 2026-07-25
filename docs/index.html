@@ -18,12 +18,19 @@
         </div>
         <div id="list-panel">
             <div id="list-toolbar">
-                <input type="text" id="search" placeholder="Search takeoffs…" autofocus />
-                <select id="sort">
-                    <option value="name-asc">Name (A-Z)</option>
-                    <option value="name-desc">Name (Z-A)</option>
-                    <option value="distance" id="sort-distance-option" disabled>Distance</option>
-                </select>
+                <div id="search-wrap">
+                    <input type="text" id="search" placeholder="Search takeoffs…" autofocus />
+                    <button id="clear-search" type="button" aria-label="Clear search">×</button>
+                </div>
+                <div id="sort-wrap">
+                    <button id="sort-btn" type="button" aria-label="Sort">▲▼</button>
+                    <div id="sort-menu" class="hidden">
+                        <div class="sort-option" data-mode="name-asc">A-Z</div>
+                        <div class="sort-option" data-mode="name-desc">Z-A</div>
+                        <div class="sort-option" data-mode="distance-asc" data-requires-location="true">Dist. asc.</div>
+                        <div class="sort-option" data-mode="distance-desc" data-requires-location="true">Dist. desc.</div>
+                    </div>
+                </div>
             </div>
             <ul id="list"></ul>
         </div>

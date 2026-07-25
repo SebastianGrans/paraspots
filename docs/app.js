@@ -31,10 +31,7 @@ function setReferenceLocation(lat, lng) {
     } else {
         referenceMarker = L.marker([lat, lng], { icon: referenceIcon, zIndexOffset: 1000 }).addTo(map);
     }
-    document.getElementById("sort-distance-option").disabled = false;
-    sortMode = "distance";
-    document.getElementById("sort").value = "distance";
-    refreshList();
+    setSortMode("distance-asc");
 }
 
 function formatDistance(meters) {
@@ -244,17 +241,39 @@ function sortTakeoffs(takeoffs) {
     const sorted = takeoffs.slice();
     if (sortMode === "name-desc") {
         sorted.sort((a, b) => b.name.localeCompare(a.name));
-    } else if (sortMode === "distance" && referenceLocation) {
+    } else if (sortMode === "distance-asc" && referenceLocation) {
         const reference = L.latLng(referenceLocation.lat, referenceLocation.lng);
         sorted.sort(
             (a, b) =>
                 reference.distanceTo(L.latLng(a.latitude, a.longitude)) -
                 reference.distanceTo(L.latLng(b.latitude, b.longitude))
         );
+    } else if (sortMode === "distance-desc" && referenceLocation) {
+        const reference = L.latLng(referenceLocation.lat, referenceLocation.lng);
+        sorted.sort(
+            (a, b) =>
+                reference.distanceTo(L.latLng(b.latitude, b.longitude)) -
+                reference.distanceTo(L.latLng(a.latitude, a.longitude))
+        );
     } else {
         sorted.sort((a, b) => a.name.localeCompare(b.name));
     }
     return sorted;
+}
+
+function updateSortMenu() {
+    const hasLocation = !!referenceLocation;
+    document.querySelectorAll(".sort-option").forEach(option => {
+        const requiresLocation = option.dataset.requiresLocation === "true";
+        option.classList.toggle("disabled", requiresLocation && !hasLocation);
+        option.classList.toggle("active", option.dataset.mode === sortMode);
+    });
+}
+
+function setSortMode(mode) {
+    sortMode = mode;
+    updateSortMenu();
+    refreshList();
 }
 
 function refreshList() {
@@ -267,6 +286,7 @@ function refreshList() {
 
 function applySearch(query) {
     currentSearchQuery = query;
+    document.getElementById("clear-search").classList.toggle("visible", query.length > 0);
     refreshList();
 }
 
@@ -274,6 +294,14 @@ document.getElementById("search").addEventListener("input", event => {
     clearTimeout(searchDebounceTimer);
     const query = event.target.value;
     searchDebounceTimer = setTimeout(() => applySearch(query), 200);
+});
+
+document.getElementById("clear-search").addEventListener("click", () => {
+    clearTimeout(searchDebounceTimer);
+    const search = document.getElementById("search");
+    search.value = "";
+    search.focus();
+    applySearch("");
 });
 
 document.getElementById("search").addEventListener("keydown", event => {
@@ -285,6 +313,7 @@ document.getElementById("search").addEventListener("keydown", event => {
             firstItem.click();
         }
     } else if (event.key === "Escape") {
+        clearTimeout(searchDebounceTimer);
         event.target.value = "";
         applySearch("");
     }
@@ -312,10 +341,45 @@ document.getElementById("list").addEventListener("keydown", event => {
     }
 });
 
-document.getElementById("sort").addEventListener("change", event => {
-    sortMode = event.target.value;
-    refreshList();
+const sortBtn = document.getElementById("sort-btn");
+const sortMenu = document.getElementById("sort-menu");
+
+function openSortMenu() {
+    sortMenu.classList.remove("hidden");
+    sortBtn.classList.add("open");
+}
+
+function closeSortMenu() {
+    sortMenu.classList.add("hidden");
+    sortBtn.classList.remove("open");
+}
+
+sortBtn.addEventListener("click", () => {
+    if (sortMenu.classList.contains("hidden")) {
+        openSortMenu();
+    } else {
+        closeSortMenu();
+    }
 });
+
+// The menu deliberately stays open after picking an option (matching the
+// desktop app), so you can compare list order across a few sort modes
+// without having to reopen the menu each time.
+document.querySelectorAll(".sort-option").forEach(option => {
+    option.addEventListener("click", () => {
+        if (option.classList.contains("disabled"))
+            return;
+        setSortMode(option.dataset.mode);
+    });
+});
+
+document.addEventListener("click", event => {
+    if (!sortMenu.contains(event.target) && event.target !== sortBtn) {
+        closeSortMenu();
+    }
+});
+
+updateSortMenu();
 
 const locateBtn = document.getElementById("locate-btn");
 const locateError = document.getElementById("locate-error");
@@ -420,6 +484,7 @@ document.addEventListener("keydown", event => {
     if (event.key === "Escape") {
         closeMapContextMenu();
         closeShortcutsHelp();
+        closeSortMenu();
         return;
     }
 
