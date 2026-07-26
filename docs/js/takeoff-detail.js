@@ -8,9 +8,81 @@ function buildTakeoffLinks(takeoff) {
         { label: "Flightlog", url: `https://flightlog.org/fl.html?l=1&a=22&country_id=${takeoff.country_id}&start_id=${takeoff.start_id}` },
         { label: "Holfuy", url: takeoff.holfuy_id ? `http://holfuy.com/en/weather/${takeoff.holfuy_id}` : null },
         { label: "Windy", url: `https://www.windy.com/${takeoff.latitude}/${takeoff.longitude}` },
-        { label: "Google Maps", url: `https://www.google.com/maps/search/?api=1&query=${takeoff.latitude},${takeoff.longitude}` },
     ].filter(link => !!link.url);
 }
+
+export const MapsProvider = Object.freeze({
+    GOOGLE: "google",
+    APPLE: "apple",
+});
+const MAPS_PROVIDER_STORAGE = "paraspots:maps_provider";
+
+function getMapsProvider() {
+    return localStorage.getItem(MAPS_PROVIDER_STORAGE) || MapsProvider.GOOGLE;
+}
+
+function buildMapsUrl(takeoff, provider) {
+    if (provider === MapsProvider.APPLE) {
+        return `https://maps.apple.com/place?coordinate=${takeoff.latitude}%2C${takeoff.longitude}`;
+    }
+    return `https://www.google.com/maps/search/?api=1&query=${takeoff.latitude},${takeoff.longitude}`;
+}
+
+// Same reasoning as the Yr widget below: the takeoff panel is a narrow,
+// vertically-scrolling sidebar, so a CSS-relative dropdown would get
+// clipped by the panel's own overflow instead of floating over it.
+function setupMapsWidget(widget, takeoff) {
+    const link = widget.querySelector(".maps-btn");
+    const toggleBtn = widget.querySelector(".maps-toggle");
+    const menu = widget.querySelector(".maps-menu");
+
+    function updateActiveOption() {
+        const provider = getMapsProvider();
+        widget.querySelectorAll(".maps-option").forEach(option => {
+            option.classList.toggle("active", option.dataset.provider === provider);
+        });
+    }
+    updateActiveOption();
+
+    function positionMenu() {
+        const buttonRect = toggleBtn.getBoundingClientRect();
+        const menuRect = menu.getBoundingClientRect();
+        const maxLeft = window.innerWidth - menuRect.width - 8;
+        menu.style.left = `${Math.max(8, Math.min(buttonRect.left, maxLeft))}px`;
+        const maxTop = window.innerHeight - menuRect.height - 8;
+        menu.style.top = `${Math.max(8, Math.min(buttonRect.bottom + 4, maxTop))}px`;
+    }
+
+    toggleBtn.addEventListener("click", () => {
+        const isVisible = menu.classList.toggle("visible");
+        toggleBtn.textContent = isVisible ? "▾" : "◂";
+        if (isVisible)
+            positionMenu();
+    });
+
+    widget.querySelectorAll(".maps-option").forEach(option => {
+        option.addEventListener("click", () => {
+            const provider = option.dataset.provider;
+            localStorage.setItem(MAPS_PROVIDER_STORAGE, provider);
+            link.href = buildMapsUrl(takeoff, provider);
+            updateActiveOption();
+            menu.classList.remove("visible");
+        });
+    });
+}
+
+export function closeMapsMenu() {
+    const openMenu = document.querySelector(".maps-menu.visible");
+    if (openMenu)
+        openMenu.classList.remove("visible");
+}
+
+document.addEventListener("click", event => {
+    const openMenu = document.querySelector(".maps-menu.visible");
+    if (openMenu && !openMenu.closest(".maps-widget").contains(event.target)) {
+        closeMapsMenu();
+    }
+});
 
 async function copyShareUrl() {
     const url = window.location.href;
@@ -89,7 +161,7 @@ function setupYrWidget(widget, meteogramUrl) {
     toggleBtn.addEventListener("click", () => {
         const isVisible = wrap.classList.toggle("visible");
         toggleBtn.classList.toggle("open", isVisible);
-        toggleBtn.textContent = isVisible ? "▼" : "◀";
+        toggleBtn.textContent = isVisible ? "▾" : "◂";
         if (isVisible) {
             positionWrap();
             if (!loaded) {
@@ -110,6 +182,7 @@ export function showTakeoffDetails(takeoff) {
         .join("");
 
     const yr = buildYrUrls(takeoff);
+    const mapsUrl = buildMapsUrl(takeoff, getMapsProvider());
 
     panel.innerHTML = `
         <div class="detail-header">
@@ -121,9 +194,17 @@ export function showTakeoffDetails(takeoff) {
         </div>
         <div class="link-row">
             ${linksHtml}
+            <div class="maps-widget">
+                <a class="link-chip maps-btn" href="${escapeHtml(mapsUrl)}" target="_blank" rel="noopener noreferrer">Maps</a>
+                <button class="maps-toggle" type="button" aria-label="Choose maps provider">◂</button>
+                <div class="maps-menu">
+                    <div class="maps-option" data-provider="google">Google Maps</div>
+                    <div class="maps-option" data-provider="apple">Apple Maps</div>
+                </div>
+            </div>
             <div class="yr-widget">
                 <a class="link-chip yr-btn" href="${escapeHtml(yr.pageUrl)}" target="_blank" rel="noopener noreferrer">Yr.no</a>
-                <button class="yr-toggle" type="button" aria-label="Show 2-day forecast">◀</button>
+                <button class="yr-toggle" type="button" aria-label="Show 2-day forecast">◂</button>
                 <div class="meteogram-wrap">
                     <img alt="Yr 2-day meteogram" />
                     <div class="meteogram-error">Couldn't load the forecast.</div>
@@ -135,6 +216,7 @@ export function showTakeoffDetails(takeoff) {
     `;
 
     drawWindRose(panel.querySelector(".wind-rose"), takeoff.wind_dirs);
+    setupMapsWidget(panel.querySelector(".maps-widget"), takeoff);
     setupYrWidget(panel.querySelector(".yr-widget"), yr.meteogramUrl);
     panel.querySelector(".detail-back").addEventListener("click", goBackFromDetail);
     panel.querySelector(".share-btn").addEventListener("click", async event => {

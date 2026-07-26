@@ -86,14 +86,17 @@ button.link-chip {
     mask-size: contain;
 }
 
+.maps-widget,
 .yr-widget {
     display: inline-flex;
 }
 
+.maps-widget .link-chip.maps-btn,
 .yr-widget .link-chip.yr-btn {
     border-radius: 4px 0 0 4px;
 }
 
+.maps-toggle,
 .yr-toggle {
     padding: 6px 8px;
     border: 1px solid var(--accent);
@@ -102,13 +105,48 @@ button.link-chip {
     background: var(--bg-panel);
     color: var(--accent);
     cursor: pointer;
-    font-size: 0.85em;
+    font-size: 0.7em;
     box-sizing: border-box;
 }
 
+.maps-toggle:hover,
 .yr-toggle:hover,
 .yr-toggle.open {
     background: var(--bg-hover-accent);
+}
+
+.maps-menu {
+    display: none;
+    position: fixed;
+    z-index: 1500;
+    padding: 4px;
+    background: var(--bg-panel);
+    border: 1px solid var(--border-subtle);
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.maps-menu.visible {
+    display: block;
+}
+
+.maps-option {
+    min-width: 130px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: var(--text-primary);
+    cursor: pointer;
+    box-sizing: border-box;
+    white-space: nowrap;
+}
+
+.maps-option:hover {
+    background: var(--bg-hover);
+}
+
+.maps-option.active {
+    font-weight: bold;
 }
 
 .meteogram-wrap {
