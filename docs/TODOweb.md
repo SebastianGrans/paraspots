@@ -1,5 +1,30 @@
 # TODO Web
 
+## Restore favorites
+
+The user can have favs, but this is in localstorage, which is probably tied to the browser itself.
+If the user then opens a different device, everything is gone.
+
+It would be really cool if we some how could encode the favorites in a string, that we could have
+the user enter, and decode into the favs
+
+Discussed a rough approach with Claude - notes for when we actually plan this:
+
+* No backend needed, pure client-side encode/decode.
+* `country_id` is always small (currently just 160 for every takeoff) and `start_id` ranges 5-10934
+  in the real data, so each favourite packs down to 3 raw bytes (1 byte country_id + 2 bytes
+  start_id). Base64-encode the packed bytes (not the JSON) - roughly 40 chars for 10 favourites,
+  ~80 for 20, ~200 for 50. Base64-encoding the raw JSON array instead would be about 4x longer for
+  the same data.
+* Prepend a version byte + a small checksum so a mistyped/corrupted code fails with a friendly
+  error instead of silently importing garbage.
+* Importing a code should *merge* with existing favourites, not replace them.
+* UI-wise: export can reuse the existing clipboard-copy-with-fallback logic from the Share button;
+  import is probably just a text input + button, maybe living in the info panel near the theme
+  switcher.
+
+
+
 ## Remember last location
 
 Maybe we should remember the last location/state the user was at so that next time the open the
@@ -15,10 +40,10 @@ You can exit it by just tapping outside the box, but also providing an (x) butto
 
 Or what is the best UX design?
 
+## Add other maps options
 
-## Favourites
+??
 
-This is a static site. But maybe we can store things in the browser?
 
 ## Add airspace info from https://luftrom.info/
 
