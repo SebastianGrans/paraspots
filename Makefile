@@ -68,12 +68,19 @@ lintall:
 run:
 	$(UV) paraspots
 
+# Falls back to the MAPTILER_KEY environment variable if .vscode/key.txt
+# doesn't exist, so either way of supplying a local dev key keeps working.
+MAPTILER_KEY_FILE := .vscode/key.txt
+ifneq ($(wildcard $(MAPTILER_KEY_FILE)),)
+MAPTILER_KEY := $(shell cat $(MAPTILER_KEY_FILE) | tr -d '\n')
+endif
+
 web: PORT = 8000
 web:
 	$(call printstart,Serving docs/ at http://localhost:$(PORT) ...)
-	@cd docs && (xdg-open http://localhost:$(PORT) &) && python3 -m http.server $(PORT)
+	@cd docs && (xdg-open "http://localhost:$(PORT)?maptiler_key=$(MAPTILER_KEY)" &) && python3 -m http.server $(PORT)
 
 mobileweb: PORT = 8000
 mobileweb:
 	$(call printstart,Serving docs/ at http://localhost:$(PORT) in a phone-sized window ...)
-	@cd docs && (sleep 1 && /snap/bin/chromium --app=http://localhost:$(PORT) --window-size=390,844 &) && python3 -m http.server $(PORT)
+	@cd docs && (sleep 1 && /snap/bin/chromium --app="http://localhost:$(PORT)?maptiler_key=$(MAPTILER_KEY)" --window-size=390,844 &) && python3 -m http.server $(PORT)

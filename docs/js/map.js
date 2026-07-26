@@ -1,12 +1,65 @@
 import { state } from "./state.js";
 
+const PROD_MAPTILER_KEY = "P6PT7U3h7q2WPvTYodlq";
+const DEV_KEY_STORAGE = "paraspots:maptiler_key";
+
+// A dev key passed via ?maptiler_key= (see `make web`/`make mobileweb`) is
+// stashed in localStorage and immediately scrubbed from the URL, so it
+// doesn't linger in the address bar or get copied by the Share button.
+export function getMaptilerKey() {
+    const params = new URLSearchParams(window.location.search);
+    const urlKey = params.get("maptiler_key");
+    if (urlKey) {
+        localStorage.setItem(DEV_KEY_STORAGE, urlKey);
+        params.delete("maptiler_key");
+        const url = new URL(window.location.href);
+        url.search = params.toString();
+        history.replaceState(null, "", url);
+        return urlKey;
+    }
+    return localStorage.getItem(DEV_KEY_STORAGE) || PROD_MAPTILER_KEY;
+}
+
 export const map = L.map("map", { attributionControl: false }).setView([61.0, 8.0], 5);
 
-L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(map);
+const MAPTILER_ATTRIBUTION =
+    '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> ' +
+    '<a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>';
+const OSM_ATTRIBUTION =
+    '<a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>';
 
-L.control.attribution({ position: "bottomleft" })
-    .addAttribution("&copy; OpenStreetMap contributors")
-    .addTo(map);
+const MAP_TYPES = [
+    { id: "outdoor", icon: "⛰️", tileUrl: key => `https://api.maptiler.com/maps/outdoor-v4/{z}/{x}/{y}.png?key=${key}`, attribution: MAPTILER_ATTRIBUTION },
+    { id: "satellite", icon: "🛰️", tileUrl: key => `https://api.maptiler.com/maps/hybrid-v4/{z}/{x}/{y}.jpg?key=${key}`, attribution: MAPTILER_ATTRIBUTION },
+    { id: "standard", icon: "🗺️", tileUrl: () => "https://tile.openstreetmap.org/{z}/{x}/{y}.png", attribution: OSM_ATTRIBUTION },
+];
+const MAP_TYPE_STORAGE = "paraspots:map_type";
+
+const attributionControl = L.control.attribution({ position: "bottomleft" }).addTo(map);
+const maptypeBtn = document.getElementById("maptype-btn");
+let currentTileLayer = null;
+let currentAttribution = null;
+
+function setMapType(id) {
+    const mapType = MAP_TYPES.find(t => t.id === id) || MAP_TYPES[0];
+    if (currentTileLayer)
+        map.removeLayer(currentTileLayer);
+    currentTileLayer = L.tileLayer(mapType.tileUrl(getMaptilerKey())).addTo(map);
+    if (currentAttribution)
+        attributionControl.removeAttribution(currentAttribution);
+    attributionControl.addAttribution(mapType.attribution);
+    currentAttribution = mapType.attribution;
+    maptypeBtn.textContent = mapType.icon;
+    localStorage.setItem(MAP_TYPE_STORAGE, mapType.id);
+}
+
+maptypeBtn.addEventListener("click", () => {
+    const currentId = localStorage.getItem(MAP_TYPE_STORAGE) || MAP_TYPES[0].id;
+    const currentIndex = MAP_TYPES.findIndex(t => t.id === currentId);
+    setMapType(MAP_TYPES[(currentIndex + 1) % MAP_TYPES.length].id);
+});
+
+setMapType(localStorage.getItem(MAP_TYPE_STORAGE) || MAP_TYPES[0].id);
 
 let referenceMarker = null;
 

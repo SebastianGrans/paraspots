@@ -1,5 +1,20 @@
 # TODO Web
 
+## Remember last location
+
+Maybe we should remember the last location/state the user was at so that next time the open the
+website, they return to the same page?
+
+## Clear localstorage?
+
+Might be useful?
+
+## Add an exit button to the info panel
+
+You can exit it by just tapping outside the box, but also providing an (x) button cant hurt?
+
+Or what is the best UX design?
+
 
 ## Favourites
 
@@ -9,11 +24,6 @@ This is a static site. But maybe we can store things in the browser?
 
 They have a geojson and a xcontest.json file that can be used
 
-## Use maptiler
-
-But how the hell do you do that without having to distribute the api key??
-
-This would give us satellite and dark mode maps
 
 ## Add more to the information section
 
@@ -42,8 +52,20 @@ Does javascript even have a good loggin system?
 
 Not a lot, but some guidance on what they are and why they are there
 
+
+## Future plans
+
+I recently built my IgcViewer app for viewing .igc files. What if we could combine that with this
+app?
+
+Drag n drop an igc file to see the flight (with cesium 3d view)
+
+A flightlog plugin for uploading the flight
+
+
 ## [wontfix] Hide info panel 
 
 After selecting a takeoff, it should also be possible to hide the panel and show the map fullscreen
 
 Workaround: You can press "Map"
+

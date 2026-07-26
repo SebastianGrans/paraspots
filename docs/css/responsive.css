@@ -77,7 +77,8 @@
     }
 
     #locate-btn,
-    #info-btn {
+    #info-btn,
+    #maptype-btn {
         width: 44px;
         height: 44px;
     }
