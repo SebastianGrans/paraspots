@@ -102,6 +102,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    /* Same reasoning as #list li in list-panel.css: without this, a real
+     double-tap on mobile can get consumed by the browser's native
+     double-tap-to-zoom gesture instead of firing our own dblclick handler. */
+    touch-action: manipulation;
 }
 
 .takeoff-marker {

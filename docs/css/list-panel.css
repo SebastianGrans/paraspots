@@ -139,6 +139,10 @@
     /* We disable user select in the list to prevent double clicking from
      triggering select text */
     user-select: none;
+    /* Without this, a real double-tap on mobile can get consumed by the
+     browser's native double-tap-to-zoom gesture instead of firing our own
+     dblclick handler. */
+    touch-action: manipulation;
 }
 
 #list li .name {
