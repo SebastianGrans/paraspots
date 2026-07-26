@@ -1,14 +1,20 @@
 const STORAGE_KEY = "paraspots:theme";
 
+export const ThemeMode = Object.freeze({
+    LIGHT: "light",
+    DARK: "dark",
+    SYSTEM: "system",
+});
+
 export function getTheme() {
-    return localStorage.getItem(STORAGE_KEY) || "system";
+    return localStorage.getItem(STORAGE_KEY) || ThemeMode.SYSTEM;
 }
 
 export function isDarkActive() {
     const mode = document.documentElement.dataset.theme;
-    if (mode === "dark")
+    if (mode === ThemeMode.DARK)
         return true;
-    if (mode === "light")
+    if (mode === ThemeMode.LIGHT)
         return false;
     return window.matchMedia("(prefers-color-scheme: dark)").matches;
 }
@@ -20,7 +26,7 @@ export function setTheme(mode) {
 }
 
 function applyTheme(mode) {
-    if (mode === "system") {
+    if (mode === ThemeMode.SYSTEM) {
         delete document.documentElement.dataset.theme;
     } else {
         document.documentElement.dataset.theme = mode;

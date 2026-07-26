@@ -2,7 +2,7 @@ import { state } from "./state.js";
 import { map, onLocationSet, closeMapContextMenu } from "./map.js";
 import { createTakeoffMarker, updateMarkerSelection, setMarkerHovered } from "./markers.js";
 import { showTakeoffDetails, closeYrWidget } from "./takeoff-detail.js";
-import { initList, updateListSelection, setSortMode, refreshList, closeSortMenu } from "./list.js";
+import { initList, updateListSelection, setSortMode, refreshList, closeSortMenu, SortMode } from "./list.js";
 import { toggleInfoPanel, closeInfoPanel } from "./info-panel.js";
 import { showDetailView, showListView } from "./mobile-view.js";
 import "./theme.js";
@@ -79,7 +79,7 @@ function zoomToTakeoff(takeoff) {
 }
 
 onLocationSet(() => {
-    setSortMode("distance-asc");
+    setSortMode(SortMode.DISTANCE_ASC);
     // On mobile, show the (now distance-sorted) list split-screen with the
     // map, whether the location came from "locate me" or the map's
     // right-click "Set as location" menu.

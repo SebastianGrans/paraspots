@@ -4,7 +4,7 @@ import { formatDistance, CLICK_DEBOUNCE_MS } from "./utils.js";
 // Wired once from app.js via initList() to avoid a circular import with the
 // cross-cutting selection logic (selectTakeoff/zoomToTakeoff/setMarkerHovered
 // live in app.js since they also touch the map and marker layers).
-let callbacks = { onSelect: () => {}, onZoom: () => {}, onHover: () => {} };
+let callbacks = { onSelect: () => { }, onZoom: () => { }, onHover: () => { } };
 
 export function initList(cb) {
     callbacks = cb;
@@ -47,6 +47,7 @@ function renderList(takeoffs) {
             clearTimeout(clickTimer);
             callbacks.onZoom(takeoff);
         });
+        // onHover triggers the "tooltip" of the takeoff to be visible
         item.addEventListener("mouseenter", () => callbacks.onHover(takeoff, true));
         item.addEventListener("mouseleave", () => callbacks.onHover(takeoff, false));
         list.appendChild(item);
@@ -55,21 +56,28 @@ function renderList(takeoffs) {
     updateListSelection();
 }
 
+export const SortMode = Object.freeze({
+    NAME_ASC: "name-asc",
+    NAME_DESC: "name-desc",
+    DISTANCE_ASC: "distance-asc",
+    DISTANCE_DESC: "distance-desc",
+});
+
 let currentSearchQuery = "";
-let sortMode = "name-asc";
+let sortMode = SortMode.NAME_ASC;
 
 function sortTakeoffs(takeoffs) {
     const sorted = takeoffs.slice();
-    if (sortMode === "name-desc") {
+    if (sortMode === SortMode.NAME_DESC) {
         sorted.sort((a, b) => b.name.localeCompare(a.name));
-    } else if (sortMode === "distance-asc" && state.referenceLocation) {
+    } else if (sortMode === SortMode.DISTANCE_ASC && state.referenceLocation) {
         const reference = L.latLng(state.referenceLocation.lat, state.referenceLocation.lng);
         sorted.sort(
             (a, b) =>
                 reference.distanceTo(L.latLng(a.latitude, a.longitude)) -
                 reference.distanceTo(L.latLng(b.latitude, b.longitude))
         );
-    } else if (sortMode === "distance-desc" && state.referenceLocation) {
+    } else if (sortMode === SortMode.DISTANCE_DESC && state.referenceLocation) {
         const reference = L.latLng(state.referenceLocation.lat, state.referenceLocation.lng);
         sorted.sort(
             (a, b) =>
@@ -84,6 +92,8 @@ function sortTakeoffs(takeoffs) {
 
 function updateSortMenu() {
     const hasLocation = !!state.referenceLocation;
+    // Sort by distance requires a location to have been specified, so these are 
+    // disabled if that's not the case.
     document.querySelectorAll(".sort-option").forEach(option => {
         const requiresLocation = option.dataset.requiresLocation === "true";
         option.classList.toggle("disabled", requiresLocation && !hasLocation);

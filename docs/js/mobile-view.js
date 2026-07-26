@@ -2,19 +2,25 @@ import { map } from "./map.js";
 
 const toggleBtn = document.getElementById("mobile-view-toggle");
 
+export const MobileView = Object.freeze({
+    MAP: "map",
+    DETAIL: "detail",
+    LIST: "list",
+});
+
 // Mobile has 3 states (see docs/css/responsive.css for the layout each one
 // produces): "map" (fullscreen, nothing below), "detail" (map on top half,
 // takeoff detail on bottom half), "list" (map on top half, search + list on
 // bottom half). The map is never fully hidden once something is below it.
-let previousView = "map";
+let previousView = MobileView.MAP;
 
 function setView(view) {
     const current = document.body.dataset.mobileView;
-    if (view === "detail" && current !== "detail") {
+    if (view === MobileView.DETAIL && current !== MobileView.DETAIL) {
         previousView = current;
     }
     document.body.dataset.mobileView = view;
-    toggleBtn.textContent = view === "list" ? "Map" : "Search";
+    toggleBtn.textContent = view === MobileView.LIST ? "Map" : "Search";
     // The map container's rendered size changes between states, so
     // Leaflet's cached size goes stale — recompute it whenever the layout
     // changes (its center/zoom are tracked independently and unaffected).
@@ -22,15 +28,15 @@ function setView(view) {
 }
 
 export function showMapView() {
-    setView("map");
+    setView(MobileView.MAP);
 }
 
 export function showDetailView() {
-    setView("detail");
+    setView(MobileView.DETAIL);
 }
 
 export function showListView() {
-    setView("list");
+    setView(MobileView.LIST);
 }
 
 export function goBackFromDetail() {
@@ -38,11 +44,11 @@ export function goBackFromDetail() {
 }
 
 toggleBtn.addEventListener("click", () => {
-    if (document.body.dataset.mobileView === "list") {
+    if (document.body.dataset.mobileView === MobileView.LIST) {
         showMapView();
     } else {
         showListView();
     }
 });
 
-setView("map");
+setView(MobileView.MAP);

@@ -28,10 +28,16 @@ const MAPTILER_ATTRIBUTION =
 const OSM_ATTRIBUTION =
     '<a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>';
 
+export const MapType = Object.freeze({
+    SATELLITE: "satellite",
+    OUTDOOR: "outdoor",
+    STANDARD: "standard",
+});
+
 const MAP_TYPES = [
-    { id: "outdoor", icon: "⛰️", tileUrl: key => `https://api.maptiler.com/maps/outdoor-v4/{z}/{x}/{y}.png?key=${key}`, attribution: MAPTILER_ATTRIBUTION },
-    { id: "satellite", icon: "🛰️", tileUrl: key => `https://api.maptiler.com/maps/hybrid-v4/{z}/{x}/{y}.jpg?key=${key}`, attribution: MAPTILER_ATTRIBUTION },
-    { id: "standard", icon: "🗺️", tileUrl: () => "https://tile.openstreetmap.org/{z}/{x}/{y}.png", attribution: OSM_ATTRIBUTION },
+    { id: MapType.OUTDOOR, icon: "⛰️", tileUrl: key => `https://api.maptiler.com/maps/outdoor-v4/{z}/{x}/{y}.png?key=${key}`, attribution: MAPTILER_ATTRIBUTION },
+    { id: MapType.SATELLITE, icon: "🛰️", tileUrl: key => `https://api.maptiler.com/maps/hybrid-v4/{z}/{x}/{y}.jpg?key=${key}`, attribution: MAPTILER_ATTRIBUTION },
+    { id: MapType.STANDARD, icon: "🗺️", tileUrl: () => "https://tile.openstreetmap.org/{z}/{x}/{y}.png", attribution: OSM_ATTRIBUTION },
 ];
 const MAP_TYPE_STORAGE = "paraspots:map_type";
 
