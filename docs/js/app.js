@@ -1,10 +1,11 @@
 import { state } from "./state.js";
 import { map, onLocationSet, closeMapContextMenu, resetMapView } from "./map.js";
-import { createTakeoffMarker, updateMarkerSelection, setMarkerHovered } from "./markers.js";
-import { showTakeoffDetails, closeYrWidget, clearTakeoffDetails } from "./takeoff-detail.js";
+import { createTakeoffMarker, updateMarkerSelection, setMarkerHovered, updateMarkerFavorite } from "./markers.js";
+import { showTakeoffDetails, closeYrWidget, clearTakeoffDetails, updateDetailFavoriteIcon } from "./takeoff-detail.js";
 import { initList, updateListSelection, setSortMode, refreshList, closeSortMenu, SortMode } from "./list.js";
 import { toggleInfoPanel, closeInfoPanel } from "./info-panel.js";
 import { showDetailView, showListView, showMapView } from "./mobile-view.js";
+import { onFavoritesChange } from "./favorites.js";
 import "./theme.js";
 
 function isCoordinateVisible(latlng) {
@@ -87,6 +88,14 @@ onLocationSet(() => {
 });
 
 initList({ onSelect: selectTakeoff, onZoom: zoomToTakeoff, onHover: setMarkerHovered });
+
+onFavoritesChange(takeoff => {
+    updateMarkerFavorite(takeoff);
+    refreshList();
+    if (state.selectedTakeoff === takeoff) {
+        updateDetailFavoriteIcon(takeoff);
+    }
+});
 
 document.getElementById("home-btn").addEventListener("click", () => {
     state.selectedTakeoff = null;

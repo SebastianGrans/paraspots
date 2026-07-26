@@ -12,6 +12,7 @@ My main goal was to create a site where you can:
 * at a glance, see if the weather is going to be favorable
 * get a description of the take-off (courtesy to [flightlog.org]() and all it's users)
 * open the location in Google/Apple/Whatever maps
+* mark takeoffs as favourites
 
 And I hope I did :)
 

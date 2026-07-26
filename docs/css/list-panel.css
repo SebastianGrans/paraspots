@@ -55,6 +55,26 @@
     background: var(--bg-hover);
 }
 
+#favorites-filter-btn {
+    width: 36px;
+    padding: 0;
+    font: inherit;
+    font-size: 1rem;
+    box-sizing: border-box;
+    border: 1px solid var(--border-subtle);
+    background: var(--bg-panel);
+    color: var(--text-muted);
+    cursor: pointer;
+}
+
+#favorites-filter-btn:hover {
+    background: var(--bg-hover);
+}
+
+#favorites-filter-btn.active {
+    color: #eab308;
+}
+
 #sort-wrap {
     position: relative;
 }
@@ -130,7 +150,6 @@
 #list li {
     display: flex;
     align-items: center;
-    justify-content: space-between;
     gap: 8px;
     padding: 8px 16px;
     border-radius: 4px;
@@ -152,13 +171,45 @@
 }
 
 #list li .distance {
+    /* Pins to the right edge regardless of how many items precede it -
+     needed now that the favorite star is a 3rd row item, since
+     justify-content: space-between only reads sensibly with exactly 2. */
+    margin-left: auto;
     flex-shrink: 0;
     color: var(--text-muted-alt);
     font-size: 0.85em;
 }
 
+.list-favorite-btn {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    border: none;
+    background: transparent;
+    color: var(--text-muted);
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.list-favorite-btn.active {
+    color: #eab308;
+}
+
 #list li:hover {
     background: var(--bg-hover);
+}
+
+#list li.list-placeholder {
+    cursor: default;
+    text-align: center;
+    color: var(--text-muted-alt);
+    padding: 16px;
+}
+
+#list li.list-placeholder:hover {
+    background: transparent;
 }
 
 #list li.selected {

@@ -102,10 +102,26 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    /* No position set here - Leaflet's own .leaflet-marker-icon class
+     already sets position: absolute (how it pins markers to their map
+     coordinates via transform); that's already a valid positioning
+     context for the .favorite::after badge below too, so overriding it
+     (e.g. to "relative") would break marker placement entirely. */
     /* Same reasoning as #list li in list-panel.css: without this, a real
      double-tap on mobile can get consumed by the browser's native
      double-tap-to-zoom gesture instead of firing our own dblclick handler. */
     touch-action: manipulation;
+}
+
+.takeoff-marker-icon.favorite::after {
+    content: "★";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+    line-height: 1;
+    color: #eab308;
 }
 
 .takeoff-marker {
@@ -114,8 +130,6 @@
     border-radius: 50%;
     background: #7c3aed;
     border: 1px solid white;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
-    transition: width 0.1s ease, height 0.1s ease;
 }
 
 .takeoff-marker-icon:hover .takeoff-marker,

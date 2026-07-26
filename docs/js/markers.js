@@ -1,6 +1,7 @@
 import { state } from "./state.js";
 import { drawWindRose } from "./wind-rose.js";
 import { CLICK_DEBOUNCE_MS } from "./utils.js";
+import { isFavorite } from "./favorites.js";
 
 export const takeoffIcon = L.divIcon({
     html: '<div class="takeoff-marker"></div>',
@@ -22,6 +23,16 @@ export function createMarkerTooltipContent(takeoff) {
     container.appendChild(label);
 
     return container;
+}
+
+export function updateMarkerFavorite(takeoff) {
+    const marker = state.takeoffMarkers.get(takeoff);
+    if (!marker)
+        return;
+    const el = marker.getElement();
+    if (el) {
+        el.classList.toggle("favorite", isFavorite(takeoff));
+    }
 }
 
 export function updateMarkerSelection() {
@@ -71,5 +82,6 @@ export function createTakeoffMarker(map, takeoff, { onSelect, onZoom }) {
         });
     marker.bindTooltip(createMarkerTooltipContent(takeoff), { direction: "top", offset: [0, -8] });
     state.takeoffMarkers.set(takeoff, marker);
+    updateMarkerFavorite(takeoff);
     return marker;
 }

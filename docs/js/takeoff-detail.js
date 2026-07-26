@@ -2,6 +2,7 @@ import { escapeHtml, descriptionToHtml } from "./utils.js";
 import { drawWindRose } from "./wind-rose.js";
 import { goBackFromDetail } from "./mobile-view.js";
 import { isDarkActive } from "./theme.js";
+import { isFavorite, toggleFavorite } from "./favorites.js";
 
 function buildTakeoffLinks(takeoff) {
     return [
@@ -189,6 +190,7 @@ export function showTakeoffDetails(takeoff) {
             <div class="detail-title">
                 <button class="detail-back" type="button" aria-label="Back">‹</button>
                 <h3>${escapeHtml(takeoff.name)}</h3 >
+                <button class="detail-favorite-btn${isFavorite(takeoff) ? " active" : ""}" type="button" aria-label="Toggle favorite">${isFavorite(takeoff) ? "★" : "☆"}</button>
             </div>
             <canvas class="wind-rose"></canvas>
         </div>
@@ -219,6 +221,7 @@ export function showTakeoffDetails(takeoff) {
     setupMapsWidget(panel.querySelector(".maps-widget"), takeoff);
     setupYrWidget(panel.querySelector(".yr-widget"), yr.meteogramUrl);
     panel.querySelector(".detail-back").addEventListener("click", goBackFromDetail);
+    panel.querySelector(".detail-favorite-btn").addEventListener("click", () => toggleFavorite(takeoff));
     panel.querySelector(".share-btn").addEventListener("click", async event => {
         const btn = event.currentTarget;
         await copyShareUrl();
@@ -226,6 +229,18 @@ export function showTakeoffDetails(takeoff) {
         btn.textContent = "Copied!";
         setTimeout(() => { btn.innerHTML = original; }, 1500);
     });
+}
+
+// A lightweight, targeted update for when the currently-open takeoff's
+// favorite status changes - avoids a full showTakeoffDetails() re-render,
+// which would needlessly reset the Yr widget's loaded state/scroll
+// position just to flip one icon.
+export function updateDetailFavoriteIcon(takeoff) {
+    const btn = document.querySelector(".detail-favorite-btn");
+    if (btn) {
+        btn.textContent = isFavorite(takeoff) ? "★" : "☆";
+        btn.classList.toggle("active", isFavorite(takeoff));
+    }
 }
 
 // Reverts the panel back to its empty-state placeholder (e.g. for the

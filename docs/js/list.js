@@ -1,11 +1,13 @@
 import { state } from "./state.js";
 import { formatDistance, CLICK_DEBOUNCE_MS } from "./utils.js";
+import { isFavorite, toggleFavorite } from "./favorites.js";
 
 const listEl = document.getElementById("list");
 const searchInput = document.getElementById("search");
 const clearSearchBtn = document.getElementById("clear-search");
 const sortBtn = document.getElementById("sort-btn");
 const sortMenu = document.getElementById("sort-menu");
+const favoritesFilterBtn = document.getElementById("favorites-filter-btn");
 
 // Wired once from app.js via initList() to avoid a circular import with the
 // cross-cutting selection logic (selectTakeoff/zoomToTakeoff/setMarkerHovered
@@ -25,9 +27,33 @@ export function updateListSelection() {
 function renderList(takeoffs) {
     listEl.innerHTML = "";
     state.listItems.clear();
+
+    if (takeoffs.length === 0) {
+        const placeholder = document.createElement("li");
+        placeholder.className = "list-placeholder";
+        placeholder.textContent = favoritesOnly
+            ? "No favorites to show — turn off the ☆ filter to see all takeoffs."
+            : "No takeoffs match your search.";
+        listEl.appendChild(placeholder);
+        return;
+    }
+
     const reference = state.referenceLocation ? L.latLng(state.referenceLocation.lat, state.referenceLocation.lng) : null;
     for (const takeoff of takeoffs) {
         const item = document.createElement("li");
+
+        const favoriteBtn = document.createElement("button");
+        favoriteBtn.type = "button";
+        favoriteBtn.className = "list-favorite-btn";
+        favoriteBtn.setAttribute("aria-label", "Toggle favorite");
+        favoriteBtn.classList.toggle("active", isFavorite(takeoff));
+        favoriteBtn.textContent = isFavorite(takeoff) ? "★" : "☆";
+        favoriteBtn.addEventListener("click", event => {
+            // Don't let this also trigger the row's own click-to-select.
+            event.stopPropagation();
+            toggleFavorite(takeoff);
+        });
+        item.appendChild(favoriteBtn);
 
         const nameSpan = document.createElement("span");
         nameSpan.className = "name";
@@ -113,11 +139,23 @@ export function setSortMode(mode) {
     refreshList();
 }
 
+let favoritesOnly = false;
+
+favoritesFilterBtn.addEventListener("click", () => {
+    favoritesOnly = !favoritesOnly;
+    favoritesFilterBtn.classList.toggle("active", favoritesOnly);
+    favoritesFilterBtn.textContent = favoritesOnly ? "★" : "☆";
+    refreshList();
+});
+
 export function refreshList() {
     const normalized = currentSearchQuery.trim().toLowerCase();
-    const filtered = normalized
+    let filtered = normalized
         ? state.allTakeoffs.filter(takeoff => takeoff.name.toLowerCase().includes(normalized))
         : state.allTakeoffs;
+    if (favoritesOnly) {
+        filtered = filtered.filter(isFavorite);
+    }
     renderList(sortTakeoffs(filtered));
 }
 

@@ -32,6 +32,21 @@
     display: none;
 }
 
+.detail-favorite-btn {
+    flex-shrink: 0;
+    padding: 0;
+    border: none;
+    background: transparent;
+    color: var(--text-muted);
+    font-size: 1.2rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.detail-favorite-btn.active {
+    color: #eab308;
+}
+
 .wind-rose {
     flex-shrink: 0;
 }
