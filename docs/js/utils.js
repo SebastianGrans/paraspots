@@ -17,9 +17,10 @@ export function escapeHtml(text) {
     return div.innerHTML;
 }
 
-// Matches the desktop app's descriptionHtml linkification exactly (see
-// qml_models.py's _URL_RE): escape first, then linkify http(s) URLs in the
-// escaped text, trimming trailing punctuation from the match.
+// There are often URLs in the description
+// We want to make this clickable, so we try to find them using this regex
+// And then we add them back to the description as an anchor element
+// Ensuring to escape any HTML first 
 const URL_RE = /https?:\/\/[^\s<]+[^\s<.,;:!?)"']/g;
 
 export function descriptionToHtml(description) {

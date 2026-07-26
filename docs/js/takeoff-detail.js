@@ -157,6 +157,7 @@ export function closeYrWidget() {
     toggleBtn.textContent = "◀";
 }
 
+// Close the Yr widget by clicking anywhere outside of the widget.
 document.addEventListener("click", event => {
     const openWrap = document.querySelector(".meteogram-wrap.visible");
     if (openWrap && !openWrap.closest(".yr-widget").contains(event.target)) {
