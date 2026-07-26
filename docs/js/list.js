@@ -1,6 +1,12 @@
 import { state } from "./state.js";
 import { formatDistance, CLICK_DEBOUNCE_MS } from "./utils.js";
 
+const listEl = document.getElementById("list");
+const searchInput = document.getElementById("search");
+const clearSearchBtn = document.getElementById("clear-search");
+const sortBtn = document.getElementById("sort-btn");
+const sortMenu = document.getElementById("sort-menu");
+
 // Wired once from app.js via initList() to avoid a circular import with the
 // cross-cutting selection logic (selectTakeoff/zoomToTakeoff/setMarkerHovered
 // live in app.js since they also touch the map and marker layers).
@@ -17,8 +23,7 @@ export function updateListSelection() {
 }
 
 function renderList(takeoffs) {
-    const list = document.getElementById("list");
-    list.innerHTML = "";
+    listEl.innerHTML = "";
     state.listItems.clear();
     const reference = state.referenceLocation ? L.latLng(state.referenceLocation.lat, state.referenceLocation.lng) : null;
     for (const takeoff of takeoffs) {
@@ -50,7 +55,7 @@ function renderList(takeoffs) {
         // onHover triggers the "tooltip" of the takeoff to be visible
         item.addEventListener("mouseenter", () => callbacks.onHover(takeoff, true));
         item.addEventListener("mouseleave", () => callbacks.onHover(takeoff, false));
-        list.appendChild(item);
+        listEl.appendChild(item);
         state.listItems.set(takeoff, item);
     }
     updateListSelection();
@@ -118,13 +123,13 @@ export function refreshList() {
 function applySearch(query) {
     currentSearchQuery = query;
     // Show the clear-search button (x) if the search field has text in it.
-    document.getElementById("clear-search").classList.toggle("visible", query.length > 0);
+    clearSearchBtn.classList.toggle("visible", query.length > 0);
     refreshList();
 }
 
 let searchDebounceTimer = null;
 
-document.getElementById("search").addEventListener("input", event => {
+searchInput.addEventListener("input", event => {
     // Debounce the search field.
     // This will delay the actual search for 200 ms after the last input
     // Without this, the search experience is very laggy, since every input would
@@ -136,20 +141,19 @@ document.getElementById("search").addEventListener("input", event => {
 
 function clearSearch() {
     clearTimeout(searchDebounceTimer);
-    const search = document.getElementById("search");
-    search.value = "";
-    search.focus();
+    searchInput.value = "";
+    searchInput.focus();
     applySearch("");
 }
 
-document.getElementById("clear-search").addEventListener("click", clearSearch);
+clearSearchBtn.addEventListener("click", clearSearch);
 
-document.getElementById("search").addEventListener("keydown", event => {
+searchInput.addEventListener("keydown", event => {
     if (event.key === "ArrowDown") {
-        // When the user has searched for something, the down button will move the focus 
+        // When the user has searched for something, the down button will move the focus
         // down to the list -> select and show the takeoff in the details panel.
         event.preventDefault();
-        const firstItem = document.querySelector("#list li");
+        const firstItem = listEl.querySelector("li");
         if (firstItem) {
             firstItem.focus();
             callbacks.onSelect(firstItem.takeoff);
@@ -160,15 +164,15 @@ document.getElementById("search").addEventListener("keydown", event => {
     }
 });
 
-document.getElementById("list").addEventListener("keydown", event => {
+listEl.addEventListener("keydown", event => {
     if (event.key !== "ArrowDown" && event.key !== "ArrowUp")
         return;
     event.preventDefault();
-    const items = Array.from(document.querySelectorAll("#list li"));
+    const items = Array.from(listEl.querySelectorAll("li"));
     const currentIndex = items.indexOf(document.activeElement);
 
     if (event.key === "ArrowUp" && currentIndex <= 0) {
-        document.getElementById("search").focus();
+        searchInput.focus();
         return;
     }
 
@@ -181,9 +185,6 @@ document.getElementById("list").addEventListener("keydown", event => {
         nextItem.scrollIntoView({ block: "nearest" });
     }
 });
-
-const sortBtn = document.getElementById("sort-btn");
-const sortMenu = document.getElementById("sort-menu");
 
 function openSortMenu() {
     sortMenu.classList.remove("hidden");
@@ -203,9 +204,8 @@ sortBtn.addEventListener("click", () => {
     }
 });
 
-// The menu deliberately stays open after picking an option (matching the
-// desktop app), so you can compare list order across a few sort modes
-// without having to reopen the menu each time.
+// The menu deliberately stays open after picking an option so you can compare list order 
+// across a few sort modes without having to reopen the menu each time.
 document.querySelectorAll(".sort-option").forEach(option => {
     option.addEventListener("click", () => {
         if (option.classList.contains("disabled"))
@@ -214,6 +214,7 @@ document.querySelectorAll(".sort-option").forEach(option => {
     });
 });
 
+// Click anywhere outside the sort menu closes it.
 document.addEventListener("click", event => {
     if (!sortMenu.contains(event.target) && event.target !== sortBtn) {
         closeSortMenu();
