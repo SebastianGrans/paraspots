@@ -67,6 +67,7 @@ export function createTakeoffMarker(map, takeoff, { onSelect, onZoom }) {
             L.DomEvent.stopPropagation(event);
             clearTimeout(clickTimer);
             onZoom(takeoff);
+            onSelect(takeoff);
         });
     marker.bindTooltip(createMarkerTooltipContent(takeoff), { direction: "top", offset: [0, -8] });
     state.takeoffMarkers.set(takeoff, marker);

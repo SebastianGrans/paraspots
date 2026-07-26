@@ -51,6 +51,7 @@ function renderList(takeoffs) {
         item.addEventListener("dblclick", () => {
             clearTimeout(clickTimer);
             callbacks.onZoom(takeoff);
+            callbacks.onSelect(takeoff);
         });
         // onHover triggers the "tooltip" of the takeoff to be visible
         item.addEventListener("mouseenter", () => callbacks.onHover(takeoff, true));
