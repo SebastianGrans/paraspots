@@ -1,10 +1,10 @@
 import { state } from "./state.js";
-import { map, onLocationSet, closeMapContextMenu } from "./map.js";
+import { map, onLocationSet, closeMapContextMenu, resetMapView } from "./map.js";
 import { createTakeoffMarker, updateMarkerSelection, setMarkerHovered } from "./markers.js";
-import { showTakeoffDetails, closeYrWidget } from "./takeoff-detail.js";
+import { showTakeoffDetails, closeYrWidget, clearTakeoffDetails } from "./takeoff-detail.js";
 import { initList, updateListSelection, setSortMode, refreshList, closeSortMenu, SortMode } from "./list.js";
 import { toggleInfoPanel, closeInfoPanel } from "./info-panel.js";
-import { showDetailView, showListView } from "./mobile-view.js";
+import { showDetailView, showListView, showMapView } from "./mobile-view.js";
 import "./theme.js";
 
 function isCoordinateVisible(latlng) {
@@ -87,6 +87,16 @@ onLocationSet(() => {
 });
 
 initList({ onSelect: selectTakeoff, onZoom: zoomToTakeoff, onHover: setMarkerHovered });
+
+document.getElementById("home-btn").addEventListener("click", () => {
+    state.selectedTakeoff = null;
+    clearTakeoffDetails();
+    updateListSelection();
+    updateMarkerSelection();
+    resetMapView();
+    showMapView();
+    history.replaceState(null, "", window.location.pathname);
+});
 
 document.addEventListener("keydown", event => {
     if (event.key === "Escape") {

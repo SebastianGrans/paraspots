@@ -228,6 +228,19 @@ export function showTakeoffDetails(takeoff) {
     });
 }
 
+// Reverts the panel back to its empty-state placeholder (e.g. for the
+// home/reset button) - replacing the innerHTML also discards any open
+// Yr/maps popups along with it, so nothing needs closing separately first.
+export function clearTakeoffDetails() {
+    const panel = document.getElementById("takeoff-panel");
+    panel.classList.remove("detail");
+    panel.classList.add("placeholder");
+    panel.innerHTML = `
+        <p class="placeholder-emoji">🪂</p>
+        <p>Select a takeoff on the map<br />to see its details</p>
+    `;
+}
+
 export function closeYrWidget() {
     const openWrap = document.querySelector(".meteogram-wrap.visible");
     if (!openWrap)

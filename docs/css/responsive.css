@@ -76,9 +76,8 @@
         padding: 12px 16px;
     }
 
-    #locate-btn,
-    #info-btn,
-    #maptype-btn {
+    #controls-toggle,
+    .map-control {
         width: 44px;
         height: 44px;
     }

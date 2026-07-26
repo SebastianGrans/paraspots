@@ -20,7 +20,30 @@ export function getMaptilerKey() {
     return localStorage.getItem(DEV_KEY_STORAGE) || PROD_MAPTILER_KEY;
 }
 
-export const map = L.map("map", { attributionControl: false }).setView([61.0, 8.0], 5);
+const DEFAULT_CENTER = [61.0, 8.0];
+const DEFAULT_ZOOM = 5;
+
+export const map = L.map("map", { attributionControl: false }).setView(DEFAULT_CENTER, DEFAULT_ZOOM);
+
+export function resetMapView() {
+    map.setView(DEFAULT_CENTER, DEFAULT_ZOOM);
+}
+
+const mapControls = document.getElementById("map-controls");
+const controlsToggle = document.getElementById("controls-toggle");
+
+function setControlsExpanded(expanded) {
+    mapControls.classList.toggle("expanded", expanded);
+    controlsToggle.setAttribute("aria-expanded", String(expanded));
+}
+
+controlsToggle.addEventListener("click", () => {
+    setControlsExpanded(!mapControls.classList.contains("expanded"));
+});
+
+// Desktop has room to spare, so start with all the controls showing;
+// mobile starts collapsed under the toggle since space is tight there.
+setControlsExpanded(window.innerWidth >= 800);
 
 const MAPTILER_ATTRIBUTION =
     '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> ' +
