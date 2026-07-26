@@ -1,44 +1,33 @@
 # ParaSpots
 
-A map of paragliding and hang gliding takeoff spots, built for planning trips to unfamiliar areas.
+**[ParaSpots](https://sebastiangrans.github.io/paraspots/)** is a website that makes it easy to
+find paragliding locations in Norway.
 
-**[sebastiangrans.github.io/paraspots](https://sebastiangrans.github.io/paraspots/)**
+I created this because I was frustrated with how convoluted it is to find and plan for flying using
+existing websites.
 
-## Why
+My main goal was to create a site where you can:
 
-When traveling, it's hard to get a quick overview of where you can fly in a new area.
-[flightlog.org](https://flightlog.org) has the most complete takeoff database but no map, no links
-to Google Maps, and no links to weather at the site. `paraglidingmap.com` has a map but doesn't
-necessarily cover every spot. Neither shows takeoff wind directions or a forecast at a glance.
+* easily find spots close to you, or a specific location
+* at a glance, see if the weather is going to be favorable
+* get a description of the take-off (courtesy to [flightlog.org]() and all it's users)
+* open the location in Google/Apple/Whatever maps
 
-ParaSpots is a single page to find takeoffs in a region, see which wind directions each one works
-for, and view the forecast without having to leave the site!
+And I hope I did :)
 
-Currently it includes every takeoff (in Norway) on flightlog.org with a registered flight in the
-past 3 years.
+This website was only possible to create thanks to [flightlog.org](), which has a large database of
+take-offs used by Norwegian paragliders.  
 
-## Native application
-
-This project started out as a Python Qt application, but I realized that I would prefer to have
-this more easily available.
-
-For those interested in a native application, it can be installed and run with:
-
-```bash
-pip install "git+https://github.com/SebastianGrans/paraspots.git#subdirectory=py"
-paraspots
-```
-
+If you have ideas for more features, please create a post in under
+[Discussions](https://github.com/SebastianGrans/paraspots/discussions).
 
 ## Attribution
 
-The data for each takeoff location was scraped from [flightlog.org](). Its shortcomings is the
-whole reason this project exists, but it also wouldn't have been possible without it!
+The data for each takeoff location was scraped from [flightlog.org]().
 
 ## Disclosure of AI use
 
-Large parts of this project, including both the desktop app and the web port, were written using an
-LLM. It was used interactively: one feature at a time, and I've tried my best to review the code.
+Large parts of this project were written using an LLM.
 
 ## License
 
