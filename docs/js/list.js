@@ -117,6 +117,7 @@ export function refreshList() {
 
 function applySearch(query) {
     currentSearchQuery = query;
+    // Show the clear-search button (x) if the search field has text in it.
     document.getElementById("clear-search").classList.toggle("visible", query.length > 0);
     refreshList();
 }
@@ -124,21 +125,29 @@ function applySearch(query) {
 let searchDebounceTimer = null;
 
 document.getElementById("search").addEventListener("input", event => {
+    // Debounce the search field.
+    // This will delay the actual search for 200 ms after the last input
+    // Without this, the search experience is very laggy, since every input would
+    // trigger a "costly" search.
     clearTimeout(searchDebounceTimer);
     const query = event.target.value;
     searchDebounceTimer = setTimeout(() => applySearch(query), 200);
 });
 
-document.getElementById("clear-search").addEventListener("click", () => {
+function clearSearch() {
     clearTimeout(searchDebounceTimer);
     const search = document.getElementById("search");
     search.value = "";
     search.focus();
     applySearch("");
-});
+}
+
+document.getElementById("clear-search").addEventListener("click", clearSearch);
 
 document.getElementById("search").addEventListener("keydown", event => {
     if (event.key === "ArrowDown") {
+        // When the user has searched for something, the down button will move the focus 
+        // down to the list -> select and show the takeoff in the details panel.
         event.preventDefault();
         const firstItem = document.querySelector("#list li");
         if (firstItem) {
@@ -146,9 +155,8 @@ document.getElementById("search").addEventListener("keydown", event => {
             callbacks.onSelect(firstItem.takeoff);
         }
     } else if (event.key === "Escape") {
-        clearTimeout(searchDebounceTimer);
-        event.target.value = "";
-        applySearch("");
+        // Clear the search text (mouseless alternative to the clear-serach button)
+        clearSearch();
     }
 });
 
