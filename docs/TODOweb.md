@@ -44,12 +44,6 @@ Or what is the best UX design?
 
 ??
 
-
-## Add airspace info from https://luftrom.info/
-
-They have a geojson and a xcontest.json file that can be used
-
-
 ## Add more to the information section
 
 * You can double click on a takeoff to zoom to

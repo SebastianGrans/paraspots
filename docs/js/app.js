@@ -7,6 +7,7 @@ import { toggleInfoPanel, closeInfoPanel } from "./info-panel.js";
 import { showDetailView, showListView, showMapView } from "./mobile-view.js";
 import { onFavoritesChange } from "./favorites.js";
 import "./theme.js";
+import "./airspace.js";
 
 function isCoordinateVisible(latlng) {
     return map.getBounds().contains(latlng);

@@ -52,6 +52,11 @@
     font-weight: bold;
 }
 
+#airspace-btn.active {
+    color: #eab308;
+    border-color: #eab308;
+}
+
 #locate-error {
     position: absolute;
     right: 12px;
@@ -155,4 +160,14 @@
 
 .leaflet-tooltip-top:before {
     border-top-color: var(--bg-panel);
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+    background: var(--bg-panel);
+    color: var(--text-primary);
+}
+
+.leaflet-popup-content a {
+    color: var(--text-primary);
 }

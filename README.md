@@ -26,6 +26,9 @@ If you have ideas for more features, please create a post in under
 
 The data for each takeoff location was scraped from [flightlog.org]().
 
+Airspace restriction layers are attributed to [luftrum.info](https://luftrom.info/) (Github:
+[relet](https://github.com/relet/pg-xc))
+
 ## Disclosure of AI use
 
 Large parts of this project were written using an LLM.
