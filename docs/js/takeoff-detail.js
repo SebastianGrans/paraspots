@@ -1,4 +1,4 @@
-import { escapeHtml, descriptionToHtml } from "./utils.js";
+import { escapeHtml, descriptionToHtml, hasCoordinates } from "./utils.js";
 import { drawWindRose } from "./wind-rose.js";
 import { goBackFromDetail } from "./mobile-view.js";
 import { isDarkActive } from "./theme.js";
@@ -8,7 +8,7 @@ function buildTakeoffLinks(takeoff) {
     return [
         { label: "Flightlog", url: `https://flightlog.org/fl.html?l=1&a=22&country_id=${takeoff.country_id}&start_id=${takeoff.start_id}` },
         { label: "Holfuy", url: takeoff.holfuy_id ? `http://holfuy.com/en/weather/${takeoff.holfuy_id}` : null },
-        { label: "Windy", url: `https://www.windy.com/${takeoff.latitude}/${takeoff.longitude}` },
+        { label: "Windy", url: hasCoordinates(takeoff) ? `https://www.windy.com/${takeoff.latitude}/${takeoff.longitude}` : null },
     ].filter(link => !!link.url);
 }
 
@@ -182,8 +182,9 @@ export function showTakeoffDetails(takeoff) {
         .map(link => `<a class="link-chip" href="${escapeHtml(link.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(link.label)}</a>`)
         .join("");
 
-    const yr = buildYrUrls(takeoff);
-    const mapsUrl = buildMapsUrl(takeoff, getMapsProvider());
+    const showLocation = hasCoordinates(takeoff);
+    const yr = showLocation ? buildYrUrls(takeoff) : null;
+    const mapsUrl = showLocation ? buildMapsUrl(takeoff, getMapsProvider()) : null;
 
     panel.innerHTML = `
         <div class="detail-header">
@@ -196,6 +197,7 @@ export function showTakeoffDetails(takeoff) {
         </div>
         <div class="link-row">
             ${linksHtml}
+            ${showLocation ? `
             <div class="maps-widget">
                 <a class="link-chip maps-btn" href="${escapeHtml(mapsUrl)}" target="_blank" rel="noopener noreferrer">Maps</a>
                 <button class="maps-toggle" type="button" aria-label="Choose maps provider">◂</button>
@@ -212,14 +214,17 @@ export function showTakeoffDetails(takeoff) {
                     <div class="meteogram-error">Couldn't load the forecast.</div>
                 </div>
             </div>
+            ` : ""}
             <button class="link-chip share-btn" type="button" aria-label="Share"><span class="share-icon"></span></button>
         </div>
         <p>${descriptionToHtml(takeoff.description)}</p>
     `;
 
     drawWindRose(panel.querySelector(".wind-rose"), takeoff.wind_dirs);
-    setupMapsWidget(panel.querySelector(".maps-widget"), takeoff);
-    setupYrWidget(panel.querySelector(".yr-widget"), yr.meteogramUrl);
+    if (showLocation) {
+        setupMapsWidget(panel.querySelector(".maps-widget"), takeoff);
+        setupYrWidget(panel.querySelector(".yr-widget"), yr.meteogramUrl);
+    }
     panel.querySelector(".detail-back").addEventListener("click", goBackFromDetail);
     panel.querySelector(".detail-favorite-btn").addEventListener("click", () => toggleFavorite(takeoff));
     panel.querySelector(".share-btn").addEventListener("click", async event => {

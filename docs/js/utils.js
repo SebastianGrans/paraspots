@@ -11,6 +11,12 @@ export function formatDistance(meters) {
     return (meters / 1000).toFixed(1) + " km";
 }
 
+// Some scraped takeoffs have no known coordinates; (0, 0) is the sentinel
+// for that ("Null Island" isn't a real takeoff location).
+export function hasCoordinates(takeoff) {
+    return takeoff.latitude !== 0 || takeoff.longitude !== 0;
+}
+
 export function escapeHtml(text) {
     const div = document.createElement("div");
     div.textContent = text;

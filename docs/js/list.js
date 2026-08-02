@@ -1,5 +1,5 @@
 import { state } from "./state.js";
-import { formatDistance, CLICK_DEBOUNCE_MS } from "./utils.js";
+import { formatDistance, CLICK_DEBOUNCE_MS, hasCoordinates } from "./utils.js";
 import { isFavorite, toggleFavorite } from "./favorites.js";
 
 const listEl = document.getElementById("list");
@@ -62,7 +62,7 @@ function renderList(takeoffs) {
         nameSpan.textContent = takeoff.name;
         item.appendChild(nameSpan);
 
-        if (reference) {
+        if (reference && hasCoordinates(takeoff)) {
             const distanceSpan = document.createElement("span");
             distanceSpan.className = "distance";
             distanceSpan.textContent = formatDistance(reference.distanceTo(L.latLng(takeoff.latitude, takeoff.longitude)));
@@ -104,20 +104,18 @@ function sortTakeoffs(takeoffs) {
     const sorted = takeoffs.slice();
     if (sortMode === SortMode.NAME_DESC) {
         sorted.sort((a, b) => b.name.localeCompare(a.name));
-    } else if (sortMode === SortMode.DISTANCE_ASC && state.referenceLocation) {
+    } else if ((sortMode === SortMode.DISTANCE_ASC || sortMode === SortMode.DISTANCE_DESC) && state.referenceLocation) {
         const reference = L.latLng(state.referenceLocation.lat, state.referenceLocation.lng);
-        sorted.sort(
-            (a, b) =>
-                reference.distanceTo(L.latLng(a.latitude, a.longitude)) -
-                reference.distanceTo(L.latLng(b.latitude, b.longitude))
-        );
-    } else if (sortMode === SortMode.DISTANCE_DESC && state.referenceLocation) {
-        const reference = L.latLng(state.referenceLocation.lat, state.referenceLocation.lng);
-        sorted.sort(
-            (a, b) =>
-                reference.distanceTo(L.latLng(b.latitude, b.longitude)) -
-                reference.distanceTo(L.latLng(a.latitude, a.longitude))
-        );
+        const distanceTo = t => reference.distanceTo(L.latLng(t.latitude, t.longitude));
+        const withCoords = sorted.filter(hasCoordinates);
+        const withoutCoords = sorted.filter(t => !hasCoordinates(t));
+        withCoords.sort(sortMode === SortMode.DISTANCE_ASC
+            ? (a, b) => distanceTo(a) - distanceTo(b)
+            : (a, b) => distanceTo(b) - distanceTo(a));
+        // Takeoffs without real coordinates have no meaningful distance, so
+        // they always sink to the end regardless of asc/desc direction.
+        withoutCoords.sort((a, b) => a.name.localeCompare(b.name));
+        return [...withCoords, ...withoutCoords];
     } else {
         sorted.sort((a, b) => a.name.localeCompare(b.name));
     }

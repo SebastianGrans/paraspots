@@ -7,6 +7,7 @@ import { toggleInfoPanel, closeInfoPanel } from "./info-panel.js";
 import { showDetailView, showListView, showMapView } from "./mobile-view.js";
 import { onFavoritesChange } from "./favorites.js";
 import { getSelectedCountries, onCountriesChange, loadCountryTakeoffs, closeCountriesMenu } from "./countries.js";
+import { hasCoordinates } from "./utils.js";
 import "./theme.js";
 import "./airspace.js";
 
@@ -21,7 +22,7 @@ function isCoordinateVisible(latlng) {
 // otherwise selecting a takeoff just outside the zoomed-in "locate me"
 // view would push the user's own location off-screen.
 function ensureTakeoffVisible(takeoff) {
-    if (!takeoff)
+    if (!takeoff || !hasCoordinates(takeoff))
         return;
 
     const takeoffLatLng = L.latLng(takeoff.latitude, takeoff.longitude);
@@ -78,6 +79,8 @@ function selectTakeoff(takeoff) {
 }
 
 function zoomToTakeoff(takeoff) {
+    if (!hasCoordinates(takeoff))
+        return;
     map.setView([takeoff.latitude, takeoff.longitude], 10, { animate: true });
 }
 
@@ -137,7 +140,9 @@ async function loadAndAddCountry(id) {
     const takeoffs = await loadCountryTakeoffs(id);
     state.allTakeoffs.push(...takeoffs);
     for (const takeoff of takeoffs) {
-        createTakeoffMarker(map, takeoff, { onSelect: selectTakeoff, onZoom: zoomToTakeoff });
+        if (hasCoordinates(takeoff)) {
+            createTakeoffMarker(map, takeoff, { onSelect: selectTakeoff, onZoom: zoomToTakeoff });
+        }
     }
 }
 
