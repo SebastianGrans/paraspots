@@ -31,9 +31,11 @@ function renderList(takeoffs) {
     if (takeoffs.length === 0) {
         const placeholder = document.createElement("li");
         placeholder.className = "list-placeholder";
-        placeholder.textContent = favoritesOnly
-            ? "No favorites to show — turn off the ☆ filter to see all takeoffs."
-            : "No takeoffs match your search.";
+        placeholder.textContent = state.allTakeoffs.length === 0
+            ? "No countries selected — pick at least one to see takeoffs."
+            : favoritesOnly
+                ? "No favorites to show — turn off the ☆ filter to see all takeoffs."
+                : "No takeoffs match your search.";
         listEl.appendChild(placeholder);
         return;
     }

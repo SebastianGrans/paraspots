@@ -1,0 +1,1724 @@
+[
+    {
+        "country_id": 203,
+        "start_id": 4118,
+        "name": "Barsebäck, Landskrona",
+        "latitude": 55.76977778,
+        "longitude": 12.92344444,
+        "description": "Kör till Barsebäck camping. Ett litet roligt hårdvindshang som har en VNV och en NNV del.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=4118"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5674,
+        "name": "Blixered, Kungsbacka",
+        "latitude": 57.49722222,
+        "longitude": 12.02444444,
+        "description": "Hang som det flögs förr på, både hängflyg och skärmflyg. Rent hang samt fin XC-potential på termiska dagar.\n\nSuperfina landningar nedanför och vänligt sinnad lokalbefolkning som tycker det är kul det flygs igen. OK att parkera i slutet av grusvägen upp mot det nybyggda huset strax väster om LZ. Parkera EJ längs gräsvägen, då det kan blockera maskiner som en annan granne förvarar där.\n\nGå upp längs gräsvägen, passera det övergivna torpet och vidare upp i gläntan, förbi den stora granen.\n\nStarten kommer sannolikt komma att bli lite större inom kort. 450m i luftrum.\n\nSe även VSK gamla guide:\nhttp://www.vsk.info/vsk2/main.php?sida=flygguide&visa=Blixered",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5674"
+    },
+    {
+        "country_id": 203,
+        "start_id": 7636,
+        "name": "Brandstad - Vinsch",
+        "latitude": 55.67330556,
+        "longitude": 13.74594444,
+        "description": "CPS vinschfält",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=7636"
+    },
+    {
+        "country_id": 203,
+        "start_id": 9798,
+        "name": "Brudarebacken, Göteborg",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Small ski slope for glides on weak NE wind. Good groundhandling spot on top of the hill.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=9798"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10460,
+        "name": "Brukets skidbacke Görväln",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Brukets skidbacke, Görväln, Viksjö",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10460"
+    },
+    {
+        "country_id": 203,
+        "start_id": 473,
+        "name": "Brösarp, Ravlunda-Haväng",
+        "latitude": 55.72722222,
+        "longitude": 14.19416667,
+        "description": "Snällt Kusthang. Flera kilometer långt.\nObs! Soliga dagar kan Ravlunda-effekten uppstå. Det kan blåsa rätt överallt utan på hanget, där det inte blåser något eller väldigt lite.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=473"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10122,
+        "name": "Båstad NÖ",
+        "latitude": 56.43861111,
+        "longitude": 12.80888889,
+        "description": "Nystart som rekades 2022. Fint på Nordöst. Landning nere framför husen. \nMarkägaren ber snällt om att inte beträda marken söder om staketet på starten. \nLandning markerat i bild. \n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10122"
+    },
+    {
+        "country_id": 203,
+        "start_id": 8414,
+        "name": "DaWinchi-Barkarby Syd",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Ligger strax söder om flygstrippen fast utanför stängslet.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=8414"
+    },
+    {
+        "country_id": 203,
+        "start_id": 8526,
+        "name": "DaWinchi - Katrineholm",
+        "latitude": 59.01666667,
+        "longitude": 16.22333333,
+        "description": "Katrineholms flygfält\n(added coordinates 2025-02-13/SR)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "S",
+            "SE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=8526"
+    },
+    {
+        "country_id": 203,
+        "start_id": 7366,
+        "name": "DaWinchi - Saladamm",
+        "latitude": 59.96083333,
+        "longitude": 16.63972222,
+        "description": "Mycket bra start med 1400 meter bana. Krävs dock tillstånd från bonden. 200+ km till Hudiksvalls TMA:)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "S",
+            "E",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=7366"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10882,
+        "name": "Dalsberget",
+        "latitude": 62.95277778,
+        "longitude": 18.19388889,
+        "description": "Short and steep takeoff. Not suitable for zero wind or inexperienced pilots.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10882"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10236,
+        "name": "Enköping, Myrsjö",
+        "latitude": 59.76583333,
+        "longitude": 17.09138889,
+        "description": "Fenix nya sommarfält",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10236"
+    },
+    {
+        "country_id": 203,
+        "start_id": 478,
+        "name": "Falköpin",
+        "latitude": 58.13694444,
+        "longitude": 13.60416667,
+        "description": "Falköping, Ålleberg\nLanda inte på fälten nedanför hanget, strängt förbjudet. Landningsplats på kullen i NO riktning sett från starten på andra sidan vägen (se sattelitbild), skylten hänger även på start. Topplandning OK. Visa respekt för bönderna, använd stigar och gena inte över fälten. \nNotera att annan flygaktivitet kan förekomma, se kartbild) \n\nEnglish: Strictly forbidden to land in the fields below take off..  Landing spot is on the hill NE seen from the start on the other side of the small road - no crops are grown there (see satellite picture), top landing is OK.. please show respect for the farms in the area - no crossing fields, please follow footpaths. . \n\nPlease note that other flying activities may oppose a risk (see map picture) ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=478"
+    },
+    {
+        "country_id": 203,
+        "start_id": 479,
+        "name": "Falköping, Ålleberg väst",
+        "latitude": 58.13444444,
+        "longitude": 13.59833333,
+        "description": "Falköping, Ålleberg\n\nDet har visserligen i alla år hetat Ålleberg Väst, men korrekt vindriktning är VNV. Hanget funkar bra från V till NV.\n\nVid stark vind på takeoff kan man gå ner och starta på lägre platån under branten.\n\nWeather station : http://holfuy.hu/en/data/258",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=479"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10267,
+        "name": "Gangvide Vinsch",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "När. Gotland",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10267"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6119,
+        "name": "Gesundaberget, Mora",
+        "latitude": 60.87,
+        "longitude": 14.52277778,
+        "description": "Vädersäkert. Ofta sjöbris från Siljan. Kontakta Mora flygplats på tfn 0250-301 98 vid flygning (kontrollerad luft TIZ/TIA/RMZ !!)",
+        "holfuy_id": 139,
+        "wind_dirs": [
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "http://holfuy.com/en/weather/139",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6119"
+    },
+    {
+        "country_id": 203,
+        "start_id": 422,
+        "name": "Gränna, Brahehus",
+        "latitude": 58.05027778,
+        "longitude": 14.50194444,
+        "description": "Start:\nLiten start framför ruinen. Ej för nybörjare!\n\nLandning:\nPå något lämpligt fält nedanför.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=422"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6842,
+        "name": "Gränna, Kleven",
+        "latitude": 58.10416667,
+        "longitude": 14.54388889,
+        "description": "Ett fint ställe med enkel start som inte behöver särskilt mycket vind, men samtidigt är stort och fint för mycket vind. Stor topplandning och en bra landning nedanför åt söder i de fall det inte bär.\n\nStarten sker normalt framme vid kanten.\n\nKlevens Gård driver café under sommaren och vissa andra tider under året. Dessutom kan man hyra Kvarnstugan som ligger ett stenkast bakom starten för övernattningar. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6842"
+    },
+    {
+        "country_id": 203,
+        "start_id": 485,
+        "name": "Göteborg, Agnesberg",
+        "latitude": 57.8025,
+        "longitude": 12.01916667,
+        "description": "P2 nivå.\nRadio: 147.200\nSäve CTR numera borta så fritt fram.\nMan kan gärna ha på flygradio 123.350 och ropa att man startar samt om man behöver prata med tex helikoptrar som är närgångna.\n\nParkera på grusplanen och gå sista 150m.\n\n\nTOPPLANDNING främst ! Nedanför finns motorväg, järnväg och Göta älv. Nödlandningsremsa finns mellan motorväg och järnväg eller norrut framför halal slakteriet. Men går fint flyga över älven och landa på öppna ytorna men lång retrieve då. Mini Xc österut mot fri luft förbi Angered går oxå fint...\n\n\nLokalt rekord på stenåldern: Johnny Bergholtz, 11 km (LZ-McDonalds Nödinge) 1998 med en Nova Xenon 26. \n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=485"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6278,
+        "name": "Göteborg, Hovås",
+        "latitude": 57.60777778,
+        "longitude": 11.92222222,
+        "description": "Fint, stort och spektakulärt V-hang som ger fin höjd och ligger nära stan. \n\nNivå: P2/rutinerad kusthangare.\nSkapligt avancerade landningar och starter så inget nybörjarhang. \n\nParkera vid Hovås Kallbadhus sen 800m promenad till starten. \n\nHöga starten är (nog) allmän mark och nås bakifrån.\n\n\"Jespers nya låga start\" klättrar man upp till från cykelbanan och är den enklaste när det är bra tryck.\nVi starta bara på höga och \"nya låga\" starten numera.\n\nVanligaste landningar: \nTopplandning på höga (vid svag vind). \nCykelbanan framför golfbanan. \nHovås kallbadhus strand.\nGräsmattor vid Amundöns hamn\n\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6278"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2260,
+        "name": "Göteborg, Hällsvik",
+        "latitude": 57.69916667,
+        "longitude": 11.72722222,
+        "description": "Kusthang vid gamla skjutfältet mellan Hällsvik och Hjuvik. Underbar utsikt mot Vinga, hamninloppet, södra och norra skärgården.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2260"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2251,
+        "name": "Göteborg, Hästevik",
+        "latitude": 57.72166667,
+        "longitude": 11.70722222,
+        "description": "Kör öckeröleden och tag av mot Hästevik.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2251"
+    },
+    {
+        "country_id": 203,
+        "start_id": 8551,
+        "name": "Göteborg, Långedrag, Hinsholmen,",
+        "latitude": 57.65222222,
+        "longitude": 11.84861111,
+        "description": "Avancerat men coolt ställe. Perfekt med NV +7m/s, inget ställe man chansstartar på utan det skall måste en del vind. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=8551"
+    },
+    {
+        "country_id": 203,
+        "start_id": 723,
+        "name": "Göteborg, Långedrag, Oscar II Fort.",
+        "latitude": 57.67277778,
+        "longitude": 11.85277778,
+        "description": "Fint ställe men inte för nybörjare... Numera får vi inte komma in och starta inne på området, men det finns en liten platå utanför taggtrådsstängslet man kan starta och topplanda på. Gäller dock veta att det lyfter innan man startar annars bombar man på insidan och nya staketet som sattes upp våren 2018 har inga hål smita ut från...",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=723"
+    },
+    {
+        "country_id": 203,
+        "start_id": 1870,
+        "name": "Göteborg, Näsets badplats",
+        "latitude": 57.61527778,
+        "longitude": 11.905,
+        "description": "Sydvindar ska det vara. SSV optimalt. släng ut skärmen och balansera upp någonstans på klipporna, lämpligt i västra kanten ovanför den lilla gräs ytan.\nlandning någonstans på betongen. Men sandstranden är att föredra. \nOBS. Är det en härlig sommardag så fylls detta ställe med badsugna göteborgare som fyller alla små landningsplatser i hopp om att bli något brunare innan solen går ner.  \n\nFILM: http://www.youtube.com/watch?v=zV4c1SrsiCk",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=1870"
+    },
+    {
+        "country_id": 203,
+        "start_id": 924,
+        "name": "Göteborg, Ramberget",
+        "latitude": 57.71361111,
+        "longitude": 11.93583333,
+        "description": "Nu när Säve stängt är det fritt fram flyga på Ramberget igen! Fantastiskt spektakulärt flygställen med utsikt över hela stan. \nMen typ P2 nivå som Agnes.\n\nRekommenderar att nån har med flygradio på frekvens 123.350 för kunna ropa ut att vi flyger och ev hojta på ev närgångna helikoptrar. Men är inte flygradiokrav men detta är \"nya\" frekvensen över Göteborg City efter Säve CTR stängde. \n\nHöga takeoffen är på klipporna ovanför vägen i östra delen.\nLåga takeoffen är på västra asfaltens första lilla parkering med två soptunnor och kedjorna när man kommit upp för trapporna.\n\nTopplandning går fint.\nBottenlandning i lilla parken under. Trixigt men går bra. Kurvar man upp till taket på 450m kan man flyga iväg nånstans ...",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=924"
+    },
+    {
+        "country_id": 203,
+        "start_id": 4039,
+        "name": "Göteborg, UtbyBerget",
+        "latitude": 57.74305556,
+        "longitude": 12.06416667,
+        "description": "Det är ju hemma hanget Utbybergen.\n\nKomplicerat flygställe - utmanande landning om du inte får höjd eller topplandar.\n\nBästa landning är fotbollsplanen till vänster i bild om du får lite höjd. Annars fungerar även den lilla gräsplätten framför \"fabriken\". Se upp för rotorer från träd/hus.\n\nStart: N 57° 44' 35''  E 12° 3' 51",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=4039"
+    },
+    {
+        "country_id": 203,
+        "start_id": 4357,
+        "name": "Hammars Backar",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Verkstadsområde med grus/asfaltsplan, inte nybörjarvänligt.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=4357"
+    },
+    {
+        "country_id": 203,
+        "start_id": 740,
+        "name": "Hoburgen",
+        "latitude": 56.925,
+        "longitude": 18.13027778,
+        "description": "Ligger som alla vet längst söder ut på Gotland. Hanget börjar norr om Maistregården med en höjd på 10 meter. Är som högst ca 27 meter vid stenbrottet. Vindriktning V-VNV. Fina startplatser längst söderut, lite sämre åt andra hållet. Mycket lämpligt för backglidningar, med stor plats bakom starten för balansering. Bra landningsplats nedanför hanget, om man undviker dom otaliga enbuskarna. Vid starkare vindar kan det bildas rotorer bakom träden. Här finns det även plats för uppdrag för hand, om man vill ha lite mer höjd. Det har vi provat med gott resultat. Kanske man även kan ta med winchen för kortare drag. Det är även möjligt att backglida i O/SO-riktning dels på baksidan av hanget strax norr om stenbrottet och dels mot parkeringen på Maistregården (här måste man korsa bilvägen). Båda backarna är ganska låga. Sommartid har caféet/restaurangen öppet. Vi efterlyser möjligheter att ringa någon i trakten för att kolla vädret innan, så vi inte åker 10-15 mil i onödan. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=740"
+    },
+    {
+        "country_id": 203,
+        "start_id": 1512,
+        "name": "Hovs Hallar, Torekov",
+        "latitude": 56.46722222,
+        "longitude": 12.70527778,
+        "description": "(Gustav la till bild och ändrade länk)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=1512"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10771,
+        "name": "Hälsö, Öckerö kommun",
+        "latitude": 57.7315,
+        "longitude": 11.64822222,
+        "description": "Hälsö. Ett spännande sydvästhang. Hanget är ca 250 m brett.\nDet bör vara minst 7 m/s medelvind på Vinga och Måvholmen.\nDet finns topplandningar och någon bottenlandning.\nLandar man på botten så gå norrut mot den lilla bron som leder från Hälsö till en ö med några fritidshus på.\nP2 nivå.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10771"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6415,
+        "name": "Höganäs, Arild, Snogalien",
+        "latitude": 56.27722222,
+        "longitude": 12.56611111,
+        "description": "Arild Haga",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6415"
+    },
+    {
+        "country_id": 203,
+        "start_id": 4590,
+        "name": "Höganäs",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Hang vid Höganäs gamla fabrik.",
+        "holfuy_id": 128,
+        "wind_dirs": [],
+        "holfuy_url": "http://holfuy.com/en/weather/128",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=4590"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2996,
+        "name": "Järvsö, Öjeberget",
+        "latitude": 61.71638889,
+        "longitude": 16.15083333,
+        "description": "Starten på sydsidan av skidbacken Öjebacken i Järvsö.\nParkera vid restaurangen och gå upp till toppen. Fin nyröjd start mot syd.\nFlyg direkt vänster efter start så syns stora landningen mellan husen.\nKontakta någon i Njord klubben eller i FB gruppen \"Skärmflyg i Järvsö\" https://www.facebook.com/groups/192278244459121",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2996"
+    },
+    {
+        "country_id": 203,
+        "start_id": 469,
+        "name": "Jönköping, Brunstorpsberget",
+        "latitude": 57.82361111,
+        "longitude": 14.27694444,
+        "description": "Stupstart\nssv - vnv\nRing ALLTID Flygtornet innan och efter flyg på 036-311220. Var observant vid vnv då det direkt norrut efter start kan vara turbulent. \nLandning finns direkt nedanför berget samt norr om berget. Vid hård vind kan det vara jobbigt att komma ner vid nordliga landningen (venturi). \nTMA är på ligger på 2200ft. \nVindmätaren https://holfuy.com/en/weather/273",
+        "holfuy_id": 273,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "http://holfuy.com/en/weather/273",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=469"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5494,
+        "name": "Kjevik (Bua)",
+        "latitude": 57.21388889,
+        "longitude": 12.14611111,
+        "description": "Vackert hang nära Värö Bruk vid Bua. \n\nKör till Sanddamm badplats, finns stor parkering. Följ vägen längs havet norrut tills du kommer förbi ett mörkt hus precis vid vattnet. Gå förbi detta och följ vägen tills den tar slut, håll sedan vänster och du kommer fram till klipporna. \nFinns flera ställen att starta beroende på hur säker man känner sig. \n\nLandning på stranden är hur bra som helst\n\nLiten varning för den södra delen av hanget, ligger en lite ö framför som är rätt hög och som ger turbulens om man är lågt.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5494"
+    },
+    {
+        "country_id": 203,
+        "start_id": 3704,
+        "name": "Klitterhus, Ängelholm",
+        "latitude": 56.26338889,
+        "longitude": 12.83575,
+        "description": "The sanddunes of Klitterhus by Ängelholm.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=3704"
+    },
+    {
+        "country_id": 203,
+        "start_id": 7864,
+        "name": "Knarrevik",
+        "latitude": 57.96583333,
+        "longitude": 11.65055556,
+        "description": "På Södra Tjörn hittar ni detta hanget. \nBästa vindriktning tror jag är Ss0. Man måste tänka sig för var man landar om det är mycket vind då det finns 20-30m höga hällar framför hanget. \nHike&Fly gäller. Inga bilvägar upp till start. ;)\n\nJag hittade en ok startplats ovanför en av dem stor klåvorna. \n\nOch varför skall man då fortsätta ut hit när man kan flyga på Stenungsön...kan man ju undra. \n\nJag tror att detta stället kan funka bättre i svaga vindar. Då detta ligger några km längre ut i skärgården och är därmed oftast mer vindutsatt.\n\nParkera nere vid vattnet. Det finns parkeringsfickor lite här och där för badgäster och annat.   ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=7864"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6798,
+        "name": "Kullens fyr",
+        "latitude": 56.30333333,
+        "longitude": 12.46,
+        "description": "Start på grässlänt alldeles söder om Kullens fyr, i Nationalparken Kullaberg. Topplandning, med möjliga landningar ner mot vattnet på mindre gräsytor mellan större stenar.  ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6798"
+    },
+    {
+        "country_id": 203,
+        "start_id": 8319,
+        "name": "Kungälv, Aröd, Elefantbadet",
+        "latitude": 57.96083333,
+        "longitude": 11.75805556,
+        "description": "Ett fint SV-hang med strandlandning. Hanget skålar upp fint mot SV och funkar fint i svag vind. Det är relativt öppet framför hanget i SV-vind vilket rörtången inte är.  \n\nDet är en del att tänka på vid flygning här. God kusthangerfarenhet krävs. Man bör absolut ha varit på stranden och rekat innan, detta då fler elstolpar med ledningar finns lite här o där. Startar gör man högst upp vid röset på ljunghällarna. Stranden är en kommunal badplats så Juni-Augusti är det nog tight att landa här mitt på dagen.  \n\nParkering gör man enklast vid den kommunala badplatsparkeringen. Sedan är det raska 10 min promenad upp till starten.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=8319"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2978,
+        "name": "Kungälv, Brattön",
+        "latitude": 57.92,
+        "longitude": 11.73972222,
+        "description": "Högsta punkten på Brattön. Vätter ut N,NV-V,SV. även runt S går bra att starta i :)Johnny Bergholtz var först Paraclub 2000, vad annars ;)\n\nMagnus Bergquist 2022-09-04\nÄven NO funkar fint på Brattön. I denna vindriktning finns goda möjligheter till termisk flygning. Vinden blir störd om den kommer ifrån Ost eller Sydost. På ren Nord är Rårtången Nord bättre såklart. \nStarten är lite trixig då det är träd och buskar runt om. Landningen nere på platån är stor. Håll koll på ledningar vid husen. Och landa i god tid om vinden dör ut. Även Nordöstra udden funkar fint att landa på. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2978"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2233,
+        "name": "Kungälv, Kareby",
+        "latitude": 57.90861111,
+        "longitude": 11.93472222,
+        "description": "Vinschfält norr om Kungälv. Kör förbi Kungälv och tag av vid Rollsbomotet, sväng vänster och kör mot Kareby. Stanna när ni kommer till snabbköpet \"Tempo\"  sväng till höger. Efter ca 200m sväng in på Murhammarvägen. Parkera på grusplanen vid Äventyrscenter. Gå sedan till respektive start.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2233"
+    },
+    {
+        "country_id": 203,
+        "start_id": 452,
+        "name": "Kungälv, Rörtången N",
+        "latitude": 57.91916667,
+        "longitude": 11.76444444,
+        "description": "Stupstart\n\nLandning till höger på åkrarna, nödlandning till vänster i viken.\n\n(Koordinater uppskattade från kartan)\n\nFör Hängflygare:\nBra start, går att flyga mellan NW-NE men blir turbulent om det är alltför snett, särskilt om det är NE så att vinden kommer mer inneifrån fastlandet. Landning på åkern mittemot fågelskådar parkeringen. (Fågelskyddsområde i viken.)\n\nPå bilden här intill är start, landning och bilparkering markerade. Gångstig från bilen upp till starten. Och gångstig från landningen upp för att hämta bilen. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=452"
+    },
+    {
+        "country_id": 203,
+        "start_id": 451,
+        "name": "Kungälv, Rörtången V",
+        "latitude": 57.9175,
+        "longitude": 11.75972222,
+        "description": "Rörtången\n\nTyp: Hang\n\nVindstyrka: 5-7 m/s\n\nUtmaningar: Starten är brant och lyftet kan vara ganska starkt vid start om vinden är för stark. Ön Brattön kan skapa rotorer om det blåser för mycket från norr. Det finns bebyggelse före landningen så om vinden blir stark eller lyften dör kan det vara svårt att nå landningen.\n\nParkering: 57°55'03.9\"N 11°45'54.2\"E | https://goo.gl/maps/tcZiL9VdZFk5we1x7\nSe till att inte blockera vägen eller människors uppfarter.\n\nStart: https://maps.app.goo.gl/DZkjC7pHvPPnNviP8\n\n\nBeskrivning: En trevlig plats med utsikt över byn Rörtången.\n_____________________________________________\n\nType: Soaring\n\nWind strength: 5-7 m/s\n\nChallenges: The start is steep and the lift can be quite strong when launching if the wind is too strong. The Island of Brattön can create rotors if the wind is too much from the north. There is a town before the landing so if the wind becomes strong, or the lift dies it can be challenging to reach the landing.\n\nParking: 57°55'03.9\"N 11°45'54.2\"E | https://goo.gl/maps/tcZiL9VdZFk5we1x7\nMake sure not to block the road or people's driveways.\n\nStart: https://maps.app.goo.gl/DZkjC7pHvPPnNviP8\n\n\nDescription: A nice spot overlooking the town of Rörtången.\n\n_____________________________________________",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=451"
+    },
+    {
+        "country_id": 203,
+        "start_id": 450,
+        "name": "Kungälv, Tjuvkil",
+        "latitude": 57.90083333,
+        "longitude": 11.71388889,
+        "description": "bäst vid ren nord, går vid nv men inte så bra vid no\n\nVid Tjuvkilshuvud, på höger hand på väg ut mot Martrand.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=450"
+    },
+    {
+        "country_id": 203,
+        "start_id": 9634,
+        "name": "Kåseberga, Ales Stenar",
+        "latitude": 55.38305556,
+        "longitude": 14.0525,
+        "description": "Fantastisk kystheng som starter på hjørnet med Ales Stenar ( https://no.m.wikipedia.org/wiki/Ales_stener ) og går 10 km videre i NV , de første 5 er det bra høyde på, videre på NV blir det veldig lavt.\n Henget går også videre fra start i øst til Åsaberga henget.\nStartplassen ligger 900 m SV for campingen og er enklest å nå ved å følge alle skilt til Ales Stenar.\nPå henget er det også en Holfuy : https://holfuy.com/en/weather/214\nDet finnes flere andre takeoff videre NV på henget bl.a Stigs Bakkar og Hammars Bakka\n",
+        "holfuy_id": 214,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "http://holfuy.com/en/weather/214",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=9634"
+    },
+    {
+        "country_id": 203,
+        "start_id": 419,
+        "name": "Kåseberga, Hammars Backar",
+        "latitude": 55.40277778,
+        "longitude": 14.01166667,
+        "description": "Vid flygning på Hammars backar skall ni tänka på följande för att samarbetet med hängflygarna och andra skärmflygare ska fungera. Området kring starten skall enbart användas som start och landning. Ligg inte och flyg på det höga partiet väster om starten när det är mycket folk, speciellt om det är mycket vingar där, gör några svängar för att ta höjd och flyg sedan österut. \n\nNybörjare på hang skall ha en lång röd vimpel tydligt sittande på utrustningen för egen och andras säkerhet. Det är vanligt att men flyger mycket nära varandra vilket kan vara obehagligt för en nybörjare. Parkering sker numera nere vid bommen.",
+        "holfuy_id": 214,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "http://holfuy.com/en/weather/214",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=419"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10691,
+        "name": "Kåseberga, Skolbacken i Kabusa",
+        "latitude": 55.41444444,
+        "longitude": 13.9925,
+        "description": "Skolbacken, som fungerar när det blåser alldeles för starkt i Hammar och Kåseberga. Här ordnas mycket utbildning. Se upp för nybörjarna i backen och lämna plats åt dem när kurser går. Missa inte att bada på den vackra sandstranden",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10691"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6412,
+        "name": "Kåseberga, Stigs backar",
+        "latitude": 55.39166667,
+        "longitude": 14.03444444,
+        "description": "Kåseberga",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6412"
+    },
+    {
+        "country_id": 203,
+        "start_id": 3342,
+        "name": "Kåseberga, Syd",
+        "latitude": 55.38555556,
+        "longitude": 14.06777778,
+        "description": "Långt hang mellan Kåseberga mot Löderups Strandbad. Var uppmärksam på att fotoförbud råder runt skyddsobjektet.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=3342"
+    },
+    {
+        "country_id": 203,
+        "start_id": 420,
+        "name": "Kåseberga",
+        "latitude": 55.38583333,
+        "longitude": 14.07305556,
+        "description": "Några av starterna i flygområdet Kåseberga har regler som är viktiga att känna till. Det är till exempel inte längre tillåtet att starta ovanför restaurangerna i hamnen. Följ i övrigt vägmärken om var biltrafik är tillåten.",
+        "holfuy_id": 155,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "http://holfuy.com/en/weather/155",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=420"
+    },
+    {
+        "country_id": 203,
+        "start_id": 3606,
+        "name": "Laröd",
+        "latitude": 56.09083333,
+        "longitude": 12.64777778,
+        "description": "Kör v 111 från Helsingborg  mot Höganäs ta av mot Larörd. I Laröd sväng vänster efter första fartguppet, Serpentinvägen. Parkera där träden börjar. Starten ligger lite till höger om trappan som går ner för hanget.  ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=3606"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5984,
+        "name": "Lena vinschfält",
+        "latitude": 58.0075,
+        "longitude": 12.62166667,
+        "description": "Vinschfält,korsdrag alla riktningar",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5984"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5067,
+        "name": "Lexby, Partille",
+        "latitude": 57.7475,
+        "longitude": 12.12166667,
+        "description": "Berget ligger precis ovanför Lexbyskolan.\n\nHelt skaplig start som röjts mot S-SV på avsatsen\n\n25 minuter att gå upp till starten. Gå upp västerifrån. Definitivt ett pilot 2 ställe (är klassat pilot 3 på vsk-flygguide) Stupstart.\n\nSamma potential som Agnesberg men fina landningar nedanför men inget ställe man topplandar på direkt...\n\nKanonfina landningar på fotbollsplanerna eller löparbanan nedanför. Österut mot Kåhög finns också massa fält också att välja på vid mini-XC-försök men obs högspänningsledningen halvägs mot Kåhög och hästar samt kor kring kåhögs gård...\n\nFilm: https://vimeo.com/89865996",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5067"
+    },
+    {
+        "country_id": 203,
+        "start_id": 1203,
+        "name": "Lilla Edet",
+        "latitude": 58.16388889,
+        "longitude": 12.14027778,
+        "description": "UPDATED WITH GOOD NEWS IN JUNE 2014 BELOW.\n\n The take off is above a bare face of rock to the east of road 45, about 1 km north of the town of Lilla Edet, after you pass the rest area \"Edet Rasta\". The way up is to the north of that cliff.\nThere are some wind socks at take off and landing.\n\nDen ytan man går på för att starta är ojämnt berg. Åt sydväst finns det mest plats och gräsytor, så lägg ut och dra upp gärna lite åt det hållet även om vinden är rätt på (d.v.s. västlig). Start vid NV vind är möjlig, men svårast(ojämn mark, stup, träd till höger) och kräver tillräcklig vind för tillräcklig säkerhet.\n\nUPDATE MARCH 2012: \nFörhållandena är inte längre vad de har varit förr, men de är inte hopplösa och kan bli bättre nästa år när lokalvägen är klar. De SJU vindkraftverken i lä av hanget kommer dock inte att bli mindre...\n\nConditions are no longer what they used to be, but they might improve when the current road construction works are completed. The SEVEN wind turbines downwind of the ridge are not helpful and their number might even increase (there is still a kind of gap between the northermost one and the others) but the ridge itself still is what it has been, even though it is more difficult to get away from the ridge (altitude limited anyway to 760m MSL, see airspace map at http://www.madsen-system.se/luftrum/  )\n\nPROGRESS STATUS JUNE 2012:\nThe local road can now be used to park the car. Coming from the S, drive by the cliff and take a right before the farm house and drive back south, parking north of the cliff on which the take-off is situated.\nI have put wide aluminium tape on the trunks of smaller trees to mark the new part of the ascension trail. On the first such tree by the \"local\" road (as opposed to the motorway) I have placed a strip of wide orange tape below the aluminium tape to facilitate finding it.\n\nUPDATE JUNE 2013\nPhotos of Lilla Edet and an update on the E45- and access situation are to be found at http://www.paraglidingforum.com/leonardo/flight/766275\n\nUpdate July 2013:\nThe abovementioned path up to the take-off is now accessible in spite of the E45's high wildlife fence via ladders on both sides of that fence. To see what the outer ladder looks like, click on the image in\nhttp://www.flightlog.org/fl.html?l=1&a=34&user_id=2086&trip_id=340897\nA car or two can be parked on the gravel surface by the gate to the north of the \"fence overpass\". Until this gate is padlocked, you may skip the overpass and enter through the gate...\nFor pictures showing two suggested landing options, click on the previous Leonardo link.\n\nJUNI 2014\nLäget har som väl var normaliserats. Det finns numera säkra landningsytor försedda med vindstrutar intill lokalvägen (se bilderna när jag har gjort och laddat upp dem) Grinden intill där stigen upp till startplatsen börjar (märkt med skylt \"PG STIG\" viltstängsled är lyckligtvis INTE låst med hänglås.\nPeter Loeskow\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=1203"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2347,
+        "name": "Lillebybadet, Torslanda",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Parkera bilen vid Lillebybadets parkering. Gå ner till badplatsen som vätter västerut.\nStarta antingen uppe på berget på vänster sida, eller starta på gräsmattan vid badplatsen och balansera sen upp tills det lyfter. Lyftområdet är beroende på vindriktning, men vid NV vind så borde det lyfta ända från gräsmattan till hopptornet.\nÄven mycket bra balanseringsställe.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2347"
+    },
+    {
+        "country_id": 203,
+        "start_id": 9453,
+        "name": "Linneberga, Å",
+        "latitude": 58.5,
+        "longitude": 16.50833333,
+        "description": "Trevlig ställe där man kan hanga vid vind över  ca 5 m/s. Vid mindre vind kan man göra några svängar innan landning (stupstart). Unvik landa på odlade fält nedanför (bonden har dock sagt att det är ok att göra det). När det är termiskt kan man komma loss; flyg då mot Marviken (då undviker man CTR).",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=9453"
+    },
+    {
+        "country_id": 203,
+        "start_id": 513,
+        "name": "Lofsdalen, Hovärken",
+        "latitude": 62.12777778,
+        "longitude": 13.31805556,
+        "description": "På Hovärken kan man starta och flyga på samtliga vindriktningar men vissa ger mer promenad än andra efter landing.\n\nV-SV: Start vart som helst efter bergssidan. På vintern bör man inte starta i eller i närheten av skidbackarna. Högst start under masten. Håll ordentligt avstånd till stolpar och liftvajrar.\nStort hang som ger lyft från 3,5m/s men tål hög vind också.\nLandning: Vid hangflyg kan det vara svårt att nå landning på parkeringen eller på sjön. Bästa alternativ är väst om berget vid vägskälet på platån. \nRisker: Det är ofta skillnad i vindriktning och styrka på landningen samt en hel del fjällbjörkar att se upp för.\n\nVNV-NV: Start under klipporna eller längs vägen. \nLite smalare hang som ger bra lyft på lite starkare vind.\nLandning på platån under väggen i vägskälet.\n\nO-SO: Start på andra sidan om avstiget till liften. Nästan stupstart med lite plats för misstag. Draggning vore illa här. på vintern finns flera alternativs starter längs hanget.\n700m hang som ger bra lyft. \nLandning på platån under väggen eller nere vid parkeringen eller på sjön.\n\nN-NO: Start vid NV-toppen eller under huvudtoppen beroende på riktning. Både NV-toppen och Norra kanten på toppryggen går att hanga på. Bowlen där emellan lämpar sig för wagga och backglidningar. Landning på platån under eller på myren längre ner.\nRisker: Var noga med att inte komma i lä för NV-toppen. \n\nFörutom på OSO-sidan är det lätt att topp- eller släntlanda på Hovärken.\n\n\nStörsta problemet vintertid är att det oftast blåser för mycket på berget, även om det är lugnt nere i dalen. Sommartid är det Hike´n fly som gäller. Om Down hill cyklingen är öppen kan man åka sittlift halva vägen. Annars får man gå. Vintertid går det sittlift till toppen.\n\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=513"
+    },
+    {
+        "country_id": 203,
+        "start_id": 914,
+        "name": "Lysekil, Rixö",
+        "latitude": 58.36805556,
+        "longitude": 11.45166667,
+        "description": "Ett mycket vackert bergkross/grushålehang. Med termiska inslag. (se foto)\nDrakramper i S & SV.\n\nTomas kommentarer->\nHängflyg ramperna:\nStora rampen riktning SV\nLilla rampen riktning V\n\nDet går att starta när vinden går mot syd men det blir mycket turbulent, turbulensen ökar drastiskt med ökad vind.\n\nBy Peter Loeskow : To reach the take off, you have to pass a boom and a gate in an \"industrial area\" (a quarry), which may be open or padlocked (but it's quite alright to WALK past them), until you reach the gravel track leading uphill. There is ample level space for landing by the water, even for hg. The 2 hg ramps face SW and W.\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=914"
+    },
+    {
+        "country_id": 203,
+        "start_id": 1645,
+        "name": "Munkedal, Dingle",
+        "latitude": 58.53,
+        "longitude": 11.55972222,
+        "description": "Gå nereifrån 163'an eller från grustag som nås från g.a E6'an. Brant uppför eller längre att gå, bara att välja :-)\nTomas S.\n\nPAN THE PANORAMA PICTURE!\nToppen med startplatsen ligger nordväst om Naturbruksgymnasiet.\nParkera bilen invid en liten \n i skogen(\"P\" på bilden) och gå sedan på skrå västerut(endast en bit ungefär halvvägs är lite brant) mot startplatsen (\"S\" på bilden). En orange vindstrut ovanför toppen på en tall på startplatsen är väl synlig från fältet nedanför samt med kikare redan från Dinglemotet.\nDet är bevisligen inte omöjligt för pg att starta även i SV-vind. \n\nVarning för otaliga möjligheter för linorna att haka upp sig i berget och ljungen. \nUtöver det ovan beskrivna stället finns även andra (stupstart-)möjligheter i Dingletrakten. \nPeter L.\n\nIf upon arriving at Dingle, you can see from below (use binoculars to observe the wind socks if need be) that the wind on take off is NOT from the south but rather from southWEST, you may consider driving on towards Lysekil to the coastal take-off at Rixö http://www.flightlog.org/fl.html?l=1&country_id=203&a=22&start_id=914",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=1645"
+    },
+    {
+        "country_id": 203,
+        "start_id": 3548,
+        "name": "Mölle, Kullaberg",
+        "latitude": 56.28916667,
+        "longitude": 12.4925,
+        "description": "Kusthang som fungerar för både skärm och hängflyg. Start från Barakullen ovanför Mölle lite klättring krävs. \n\nLandning för HG vid eller helst förbi kyrkan som syns från vägen när man kommer till Mölle. En del erfarenhet är önskvärd.\n\nLandning för PG kan göras rakt nedanför starten vid stenstranden, som är olika stor beroende på hög eller lågvatten. Annars går det att flyga över till hamnen och landa framför (söder om) restaurangerna. Se bara upp för torkställningarna för fiskenätet som finns där. Skulle man inte nå fram på glidet, så går det att nödlanda på vägen eller i viken innanför hamnen.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=3548"
+    },
+    {
+        "country_id": 203,
+        "start_id": 7550,
+        "name": "Nordreälvs mynning",
+        "latitude": 57.7975,
+        "longitude": 11.79916667,
+        "description": "Ett långt och härligt Sydhang som funkar från Sv-So.\nÄr vinden So är hanget bäst i västra änden (finns även en snutt på östra änden som funkar i So).  Det finns fina startmöjligheter ovanför det lilla huset. Ängarna i västra änden på hanget är då bästa landningsalternativet. \n\n(added coordinates SR/20251126)\nÄr det Sv så har man bäst flygning på Östra delen av hanget. Här är landningsmöjligheterna dåliga nedanför hanget. Topplandning rekommenderas. Finns några vassfält man kan nå om man inte är för lågt.  \n\nParkering gör man vid busshållplatsen. Jag tror inte att det är så lämpligt att parkera där ifall bussen behöver vända.Man får nog leta efter annan plats mvh LennartB. Sedan är det drygt 2 km att gå om man skall till östra änden på hanget.  \n\nHanget ligger i Säves CTR så kolla NOTAM innan ni flyger här!!",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=7550"
+    },
+    {
+        "country_id": 203,
+        "start_id": 702,
+        "name": "Norrköping, Yxbacken",
+        "latitude": 58.6675,
+        "longitude": 16.13611111,
+        "description": "Slalombacke & bra backglidningsställe, troligen bäst i Östergötlad. Går att hanga i backen vid 5-6m/s. Var försiktig vid trädridåerna om det blåser snett. Bäst att landa är förmodligen på toppen eller på fälten öster om berget som är rätt stora.  Uppdatering 2025. Siterekord 21 min. Vind på landning och start aldrig lika. Landning ofta lägre vind och annan riktning. Många hinder i backen, i form av höga stolpar för snötillverkning. Även rakt nedanför backen finns dessa. Gröna fältet Ost om backen bra landning. Vid NV vind är det ofta mycket turbulent. Bättre vid vind från NO.\n\nFoto. Rött är ledningar (borttagna 2025). Gula kryss två startplatser. Blått bästa landningen. Grönt, gångväg för att slippa hoppa över diken.\n\nBacken ligger i CTR för Norrköpingsflygplats. Kolla Notam. Enligt ÖK med TWR Norrköping behöver vi inte ringa om vi håller oss under mobilantenn på toppen av backen. Vi brukar normalt inte ringa ÖKC/ATS som har luften TMA från 1500 fot. \nTWR 011 -140200\nATS/ÖKC 011-192814\nEdit: 2024-04-25 enligt senaste kontakt med TWR och ÖKC ska vi inte ringa då vi flyger 'normala' flyg, dvs. som endast börjar i CTR och flyger ut ur det.\n\nUppdatering 20240520 21 min + fluget idag. Backen är bäst på vindar som drar mer mot Ost än Nord. Studera gärna flygen som är långa. Man ser att att i princip sker flygning ganska tvärs backen.\n\nUppdatering 20250210 elledning och telefonledning som skar landningen är nedtagna. Även stolparna för dessa är borttagna.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=702"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2452,
+        "name": "Nöteviken Henån",
+        "latitude": 58.25138889,
+        "longitude": 11.68805556,
+        "description": "Liten snärtig stupstart. Ett etage ner till vänster om flaggan som sitter på toppen.\nTermiskt hang\nLurig och svår landning = liten remsa mellan väg och vatten.\nSteg 2\n\nFrån Peter L.: Varning för vind från höger på startplatsen, ju kraftigare = ju farligare förståss. Kolla gärna riktingen på vindstruten som jag satt upp på berget vid Nötetången.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2452"
+    },
+    {
+        "country_id": 203,
+        "start_id": 483,
+        "name": "Omberg",
+        "latitude": 58.30027778,
+        "longitude": 14.65194444,
+        "description": "Fin SO hang, går göra backglidning med bra fart i benen. Landning på åkern om det inte odlas, annars gräsfältet vid klosterruinen. Går att köra upp, men kör försiktigt för det är bara för \"behörig\" trafik. Enklast är att parkera vid klostret och gå upp.\n\nBlåser det helt fel, eller inte alls så kan men ju alltid ta en tur upp på hjässan och titta på utsikten över östgötaslätten samt vättern.\n\ntänk på att det är naturreservat.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=483"
+    },
+    {
+        "country_id": 203,
+        "start_id": 428,
+        "name": "Orsa, Tallhed",
+        "latitude": 61.1925,
+        "longitude": 14.7175,
+        "description": "one of the best toing areas in sweden",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=428"
+    },
+    {
+        "country_id": 203,
+        "start_id": 7351,
+        "name": "Partille, Kåhög",
+        "latitude": 57.74861111,
+        "longitude": 12.15833333,
+        "description": "Liten stupstart över Kåhög samhälle som det flögs från \"förr i tiden\". Landning på de stora fälten på andra sidan järnvägen eller nödlandning rakt nedanför start. \nStarten är tajt med en rotor längre bak, svårt att få luft i skärmen. Hård termik på dagen. Du bör vara minst P2 för att flyga här!\n\nVägbeskrivning: Kör längst upp på berget via samhället, i slutet av Övre Östegårdsvägen finns en parkering. Följ stigarna tills du kommit till sydvästsidan av berget, sen följ branten tills du kommer till starten. Stigarna är dåliga och det är lätt att gå lite vilse, enklast är nog att knappa in koordinaterna i din GPS (57.74861111, 12.15833333).\n\nAlternativ väg är att följa stigen som går vid åkern längs med bergets östra sida. När det kommer ett hål, typ en stig i skogen, gå rakt upp där.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=7351"
+    },
+    {
+        "country_id": 203,
+        "start_id": 9985,
+        "name": "Rörtången SV",
+        "latitude": 57.91,
+        "longitude": 11.76472222,
+        "description": "Typ: Hang\n\nVindstyrka: 5-7 m/s\n\nUtmaningar: Katapultstart är vanligt. Att flyga från den låga SV-delen till den höga västra delen kan vara knepigt.\n\nParkering: +57.912439, +11.766693 | https://goo.gl/maps/irgEarnXgAfoqYon9\n\nStart: +57.910022, +11.764832 | https://goo.gl/maps/dyrUquwqXjAbcZXi6\n\nOm det är över 5m/s, gå ner och börja i buskarna till höger om starten.\n\nLandning: Avancerad topplandning eller landning på stenstranden framför. Helst inte när det finns badgäster. Stranden är relativt liten, därför rekommenderas en topplandning. Det finns också en strandremsa söder om berget med lite grönska som kan vara lämplig för landning.\n\nBeskrivning: Den lägre starten är bra på Rörtången i högre vind, speciellt om vinden är lite sned från SV. Att flyga från låg till hög kan vara knepigt första gången du gör det.\n\n-------------------------------------------------------\nType: Soaring\n\nWind strength: 5-7 m/s\n\nChallenges: Catapult start is common. Flying from low SW section to the high West section can be tricky.\n\nParking: +57.912439, +11.766693  | https://goo.gl/maps/irgEarnXgAfoqYon9\n\nStart: +57.910022, +11.764832 | https://goo.gl/maps/dyrUquwqXjAbcZXi6\nIf it is over 5m/s, go down and start in the bushes to the right of the start.\n\nLanding: Advanced top landing or landing on the pebble beach in front. Preferably not when there are bathers. The beach is relatively small, therefore a top landing is recommended. There is also a strip of beach south of the mountain with some greenery that may be suitable for landing.\n\nDescription: The lower start is good on Rörtången in higher winds, especially if the wind is a bit skewed from the SW. Flying from low to high can be tricky the first time you do it.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=9985"
+    },
+    {
+        "country_id": 203,
+        "start_id": 9494,
+        "name": "Rörtången Syd",
+        "latitude": 57.90796389,
+        "longitude": 11.78660278,
+        "description": "Ett flygställe för sydliga vindar. \nStarten högst upp på berget är en ljung/granitstart och ganska enkel. Hanget har inte superbrant form så det kräv nog lite vind för att det skall vara bra.\nLandingsmöjligheterna nere på strandängarna är enorma vilket gör detta ställe till ett relativt enkelt flygställe på Sydliga vindar. \n\nDet finns några parkeringsfickor precis efter backen upp till Ödsmålsmosse vid mötesplatsen. Sedan är det en promenad upp på berget på ca 10 min som gäller.   ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=9494"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2787,
+        "name": "Sankt Hans Backar, Lund",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Sankt Hans Backar i Lund är en gammal soptipp omgjord till grönområde i Lund.\n\nEn hel del backar och en lite större med fallhöjd på ca 40m. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2787"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6414,
+        "name": "Skäret",
+        "latitude": 56.26138889,
+        "longitude": 12.61888889,
+        "description": "Arild",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6414"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10907,
+        "name": "Snasahögen",
+        "latitude": 63.24053333,
+        "longitude": 12.33151667,
+        "description": "Startade nedanför toppen",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10907"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2072,
+        "name": "Stenungsön, Tjörnbron",
+        "latitude": 58.05888889,
+        "longitude": 11.79416667,
+        "description": "Film i länken ovan\n\nLiten start söder om tunneln ut till Tjörnbron",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2072"
+    },
+    {
+        "country_id": 203,
+        "start_id": 539,
+        "name": "Stockholm, Granholmstoppen",
+        "latitude": 59.40444444,
+        "longitude": 17.9,
+        "description": "Granholmstoppen är en av de flitigast besökta skärmflygbackarna i Stockholm. Den ligger på Järvafältet, mellan Tensta och Akalla, och är lämplig för backglidning och hangflyg i vindar från NV till NO. Backen byggdes om 2008 med stöd från Idrottslyftet (Stockholms Idrottsförbund och Stockholms Stad) och blev mycket bättre i profilen, elaka terrasseringar jämnades ut.  \n\nNär nordan blåser går det att hanga högt över starten, men backen är också väldigt snäll, utan hårda hinder, och är utmärkt för avrostning och nybörjarflyg.\n\nLandningen utgörs av jordbruksmark där det fn växer vall (=gräs). Det kan röra sig kreatur på landningen och ibland även i sluttningen.\n\nSe upp för rosenbuskar och dess rötter, särskilt om du startar en bit ned i backen.\n\nHitta dit:\nMed lokaltrafik: Tunnelbana till Hjulsta eller Akalla. Därifrån 5–10 minuters promenad. Man kan nu ta sig över E18 vid vattentornet där motorvägen nu går i tunnel. Eller pendel till Spånga och buss 517. Kliv av vid Hästa gård\n\nMed bil: infart från Akallavägen 100 meter öster om motorvägsrondellen. Parkering vid restaurangen och promenad uppför backen.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=539"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6906,
+        "name": "Stockholm, Hässelby, Lövsta",
+        "latitude": 59.38416667,
+        "longitude": 17.78638889,
+        "description": "Väldigt nybörjarvänligt och ofta laminära vindar. Bättre alternativ än Gärdet med stora och snälla gräsfält med få soldyrkare att sick-sacka mellan.\n\nSommartid kan det vara ganska mycket växtlighet som ställer till det. Fältet klipps ned någon gång om året.\n\nOptimalt riktning för backglid: SSW\nBackglidning fungerar bra från V till S (Grön markering).\nFör balansering fungerar även NW om man går fram till grusgången framför vattnet vid södra ändan (Gul markering).\n\nDet går att parkera ett par bilar vid båtklubben men finns många fler platser om man fortsätter 100 meter till på Kyrkhamnsvägen. \nNärmaste Bullhållplats är Riddersvik men även Lingonrisgränd fungerar.\n\nVindmätare finns att se på https://www.findwind.se/spot/lövstabadet",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6906"
+    },
+    {
+        "country_id": 203,
+        "start_id": 586,
+        "name": "Stockholm, Järfälla, Barkarbyfältet",
+        "latitude": 59.41388889,
+        "longitude": 17.88861111,
+        "description": "Barkarbyfältet ligger i Järfälla i nordvästra Stockholm. Det är Fenix skärmflygklubbs \"hemmafält\" med verksamhet året runt.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=586"
+    },
+    {
+        "country_id": 203,
+        "start_id": 3169,
+        "name": "Stockholm, Sätrastrandshanget",
+        "latitude": 59.28972222,
+        "longitude": 17.89222222,
+        "description": "Sätrastrand är ett året runt-hang ovanför Sätra strandbad i sydvästra Stockholm. Inget för nybörjare, och ger ganska ofta bomkörningar eftersom vinden måste ligga exakt från rätt håll för att det ska fungera. Alltför mycket väst ger rotorer från Kungshatts udde. Alltför mycket syd och man kör in i motvinden på väg till landning. Från starten ska vinden komma rakt från skidbacken som man ser ute på Ekerö.\n\nSätrastrand kräver också god disciplin i luften. Om man hamnar i trångt läge och inte \"sticker i tid\" är risken stor att man hamnar i träden. Start uppe på klippan, och sedan går det att landa både nere på badet, och på fältet som ligger uppe på höjden bakom starten.\n\nNär man varit på Sätrastrand avslutar man ofta med fika på Konditori Lyran.\n\nHitta dit\n\nMed bil: Ta av E4 mot Sätra (på väg ut från city), följ Skärholmsvägen, ta av på Björksätravägen vid bollpanerna och sedan vänster mot badet vis skyltar. Enklast är att parkera nere vid badet, men man kan också krångla sig förbi bommarna och ställa bilen uppe vid starten via Sätragårdsvägen. \n\nMed lokaltrafiken: T-bana till Bredäng och promenad via Sätragårdsvägen som avslutas med en gångväg som leder rakt mot starten. Bonus med promenaden är att man slipper den jobbiga vandringen uppför berget.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=3169"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6817,
+        "name": "Stockholm, Tullinge, Hamra grustag",
+        "latitude": 59.19055556,
+        "longitude": 17.89527778,
+        "description": " Fungerar utmärkt som backglidningsbacke för alla kategorier piloter. Vid starkare vind går det att få en del hangeffekt. Gratis parkering alldeles intill (4 tim med P-skiva).",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6817"
+    },
+    {
+        "country_id": 203,
+        "start_id": 7737,
+        "name": "Stockholm, Tumba, Uttran",
+        "latitude": 59.2025,
+        "longitude": 17.79555556,
+        "description": "Grustag med många tänkbara starter. En liten skolbacke i nedre östra hörnet, lite högre med start uppe på gångvägen. Det går att Hanga i rätt vind, annars fin backglidning på sydlig vind. Husbyggena i området är nu klara och det går inte längre att parkera vid starten. All parkering sker nere vid \"stora vägen\". Trevlig restaurang intill järnvägen.\n\n\n\nFallhöjd ca 40m",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=7737"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6320,
+        "name": "Stockholm, Tyresö, Albybacken",
+        "latitude": 59.22861111,
+        "longitude": 18.27111111,
+        "description": "Telefonkarta sidan 59, B4. Kör Tyresövägen förbi Tyresö centrum, tag höger mot Alby friluftsgård. Följ Prästgårdsvägen fram till backen. Koordinater: Latitud: 59,2282 Longitud: 18,2697.\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6320"
+    },
+    {
+        "country_id": 203,
+        "start_id": 3991,
+        "name": "Stockholm, Täby, Arninge, Ullnabacken Nord",
+        "latitude": 59.47055556,
+        "longitude": 18.14361111,
+        "description": "Strax norr om Arninge C. Parkera på Slalomvägen. (Går även å parkera S om backen, vid ArningeC)\nLätt hang om isen ligger på Ullnasjön.\nKnepigare landning på sommaren.\nBästa vindriktning NNV-N.\nBilden tagen från andra sidan Ullnasjön på norrsidan av backen. \n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=3991"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5525,
+        "name": "Storlien - Skurdalshöjden",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Storlien Alpinanlegg - landing ved alpinanlegg.\nHeng på 7ms+ rett sør",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5525"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5387,
+        "name": "Stråvalla Strand",
+        "latitude": 57.29333333,
+        "longitude": 12.16555556,
+        "description": "Hang vid Stråvalla Strand. Inget för den hjärtsvage. Hus, luftledningar, tågspår och trångt men vid rätt vind funkar det fint.\n\nKör ner till Stråvalla Strand och parkera på strandparkeringen. Hanget är söder om parkeringen, start på havssidan nästan ovanför tågtunneln. Gå upp vid det första huset efter tågtunneln och på toppen finns stor och fin start. Luftledning direkt till vänster och tåget direkt till höger så se till att det lyfter. \n\nEn del träd snett nedanför så flyg inte för lågt bakom dem. Går fint att nå stranden om man tappar lyftet. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5387"
+    },
+    {
+        "country_id": 203,
+        "start_id": 638,
+        "name": "Sunne, Tosseberg",
+        "latitude": 59.97916667,
+        "longitude": 13.08777778,
+        "description": "Between Sunne and Torsby in Värmland. Just near the lake Fryken. A hill with road all the way to the top and a restaurant. Take off at the west-southwest side of the hill. A ramp is built so the gliders is facing the wind in a better way. Short but quite good start. Landning in the fields in front of the take off, alternative to the south side of the hill were it is possible to cross the road (highway 45). Can be difficult to reach the landing if there is strong wind and poor lift. Then it is better to choose the south side and fly with the wind and go for the fields on the other side of the road.\n\nGood thermaling site.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=638"
+    },
+    {
+        "country_id": 203,
+        "start_id": 429,
+        "name": "Sälen, Granfjälsstöten",
+        "latitude": 61.265,
+        "longitude": 12.87888889,
+        "description": "(Added coordinates 2025-02-13/SR)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=429"
+    },
+    {
+        "country_id": 203,
+        "start_id": 471,
+        "name": "Sälen, Tandådalen",
+        "latitude": 61.17361111,
+        "longitude": 13.01694444,
+        "description": "Start:\nVintertid i skidbacken \"hanget\", söder om fyrstolsliften.\nLandning: \nVintertid på en liten myr nedanför.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=471"
+    },
+    {
+        "country_id": 203,
+        "start_id": 8255,
+        "name": "Tjolöholms Slott södra",
+        "latitude": 57.39777778,
+        "longitude": 12.10222222,
+        "description": "Väldigt litet och tekniskt hang med plats för endast en skärm. Krävs en del vind. 7-9 m/s fungerar nog bra beroende på skärm.\n Dra upp skärmen vid stranden och balansera upp mot kullen. Starta nära muren så du hamnar i murens lyftområde. Ett riktigt lekställe.\n Parkera vid Tjolöholms slotts parkering och gå runt till slottets framsida. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=8255"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5145,
+        "name": "Torkelstorp, Fjärås",
+        "latitude": 57.43972222,
+        "longitude": 12.09666667,
+        "description": "Litet fint hang precis vid hamnen i Torkelstorp. Parkera vid hamnen och gå upp på berget som ligger precis norr om parkeringen. Finns flera ställen att starta på men bäst funkar i bortre delen av hanget. Direkt efter grinden så håll till höger och gå mot berget, finns några plankor längs stigen att gå på där det är blött.\n\nLandning finns nedanför längs hela hanget, går fint att flyga bort till parkeringen och landa bredvid bilen om det är hyfsat med vind. \n\nOptimal vindriktning 230-250 grader (VSV). Se Onsala rymdobservatorium (ca 6 km väster om Torkelstorp) för aktuell vind: http://vind.minimum.se/ (välj Onsala i rull-listan). Vinden bör ligga runt 7-8 m/s för att det skall vara bra. Om det är termiskt funkar det givetvis med mindre.\n\nDet finns även en vindmätare i hamnen på torkelstorp, den uppdateras en gång i halvtimmen och går att komma åt här: https://www.windguru.cz/station/1059\n\nOBS! Detta är ett naturreservat så ingen åverkan på träd, buskar eller liknande tack! Vore synd om stället stängs pga detta. Sommartid går det kor i hagen nedanför starten.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5145"
+    },
+    {
+        "country_id": 203,
+        "start_id": 9102,
+        "name": "Torkelstorp Syd",
+        "latitude": 57.436686,
+        "longitude": 12.09983381,
+        "description": "Liten skålformad klippa precis invid vägen. Lökken start från backen. Bra  landningar nedanför. \n\nBör blåsa runt 8 på Onsala mätaren för att det ska bära. Rak sydan. \n\nLite småstökig då sydanvinden kommer från land här. \n\nKul lekhang med plats för en i taget. \n\nVar beredd att få ner fötterna fort ;)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=9102"
+    },
+    {
+        "country_id": 203,
+        "start_id": 7886,
+        "name": "Uppsala, Sunnerstabacken",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Backglidning som kan fungera när det är fruset. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=7886"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5840,
+        "name": "Valberget, Torsby",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Cirka 200 m S Torsby flygplats ligger Valbergets friluftsområde. Start i skidbacken, landning på fotbollsplanen nedanför backen.\nAnmäl via flygradio till Torsby info innan du flyger! Backen är stökig om det blåser mer än 2-3 m/sek, risk för inslag.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5840"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5689,
+        "name": "Varberg, Örnkullen",
+        "latitude": 57.19138889,
+        "longitude": 12.31166667,
+        "description": "Aktuell info: Helgen 27-30/3 är det SM i K-pist skytte uppe på berget bakom starten. Vi får lov att flyga ändå om vi antingen flyger iväg eller landar nedanför berget på den vanliga landningen. Om ni flyger där så var beredd på rejält med smällande. Som alltid kör försiktigt genom gården och visa hänsyn då det finns både små barn och djur som rör sig på den privata grusvägen.\n\nOBS! I första hand ett termikställe från februari till slutet oktober så inte lämpligt som nybörjarhang.\n\nInfo: Hittade detta ställe efter att letat alternativ till Ås och Brattås och visade sig vara ett gammalt hängglidarställe från 90-talet berättade markägaren. Ligger nära avfart Varberg N längs väg 41 mot Veddige. Fin start på toppen inramat av enbuskar. Marken nedanför ligger i träda så finns gott om landningsplatser nere. \nFin profil på berget så perfekt att ligga och hanga och vänta på rätt blåsa (https://vimeo.com/149541747). Luftrummet ovanför är 1370 m och ökar sedan till FL95 några kilometer österut. Sedan är det bara att gasa på mot Värnamo och vidare, i princip fritt luftrum fram till Lammhult som ligger drygt 130 km inåt land. \n\nObservera att hela berget och markerna nedanför är privat mark. Dåligt med parkering så ställ bilar vid Statoil/McDonalds och samåk helst i 1 bil till stället. Parkering vid en liten skogsväg gjord av gammalt tegel som ligger längs grusvägen, ställ er åt sidan så traktor kommer förbi. \n\nSöderut på nästa kulle ligger Brattås och där finns flera gårdar med skygga tävlingshästar så flyg INTE åt det hållet. Hagarna är rödmarkerade på bilden. Passera helst ej över såvida du inte har minst 500 meter. Flyger du nära dem så finns risk att de får panik och springer igenom staketet, då blir det tråkigt och dyrt.\n\nVisa respekt för markägaren, vi har inte många ställen i Halland vi kan flyga på och vi är inte välkomna på varken Ås eller Brattås p g a inte visat tillräcklig hänsyn mot hästägare och markägare. \n\nVore kul om detta kunde finnas kvar som start för XC i västlig vind. Läget är riktigt bra. Ring gärna mig på 0708499800 om du planerar att flyga här så kan jag förklara var vi får parkera, vart skogsvägen går, hur man hittar fram till starten etc \n\nFlyghälsningar\nFredrik\n\nFoto: Örnkullen markerad med X. Rödmarkeringar är hästhagar.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5689"
+    },
+    {
+        "country_id": 203,
+        "start_id": 1625,
+        "name": "Varbergs fästning",
+        "latitude": 57.10611111,
+        "longitude": 12.23916667,
+        "description": "Varbergs fästning.\nEtt avancerat hang där man hangar på slottsmuren. Bäst är V-NV och då startar man på den lilla kullen som blir där murarna går ihop. Man får balansera upp skärmen så långt det går och ta ett skutt nära buskar och småträd för att komma upp. Ett alternativ är att starta uppe på muren norr om \"bassängen\". Lägg ut skärmen lite i SV och dra upp där. Väl uppe så är det bra tryck i hanget och lätt att få höjd. Vacker utsikt och mycket publik.\n\nParkera antingen i hamnen så nära stranden som möjligt om du flyger på V-NV, annars är det bättre att åka runt slottet och parkera på andra sidan om du skall flyga på S-SV\n\nIt is a cost soaring place to be :)\n\nThe best side is V-NW, seabris side.\nThis side (S-SV) is OK.  ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=1625"
+    },
+    {
+        "country_id": 203,
+        "start_id": 8227,
+        "name": "Ven Syd/Väst",
+        "latitude": 55.8965,
+        "longitude": 12.69555556,
+        "description": "Fin start och landning",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=8227"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6624,
+        "name": "Ven Syd",
+        "latitude": 55.88972222,
+        "longitude": 12.70722222,
+        "description": "Trevligt hang men lite svårare start än västhangen då det är brantare ner till stranden. Mkt liten strand att landa på troligtvis bäst att topplanda.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6624"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10687,
+        "name": "Venn - Landscrona",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "South East start on south east side of the island on the island Venn off the coast of Landscrona.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10687"
+    },
+    {
+        "country_id": 203,
+        "start_id": 3361,
+        "name": "Vik",
+        "latitude": 55.61613889,
+        "longitude": 14.28433333,
+        "description": "Start och landning kan även ske i Vik söder om Knäbäckshusen. Åk ner i Vik´s hamn sväng norrut längs med hamnen på en smal väg parkera vid fårhagen ( lekplats ). Följ stranden förbi husen. Starta och landning sker vid sista huset. Trixig start och landning. Bra lyft. Varnign man flyger ovanför havet i princip hela tiden.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=3361"
+    },
+    {
+        "country_id": 203,
+        "start_id": 1166,
+        "name": "Vitemölla",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Vägbeskrivning: Ligger söder om Ravlunda. Åk mot Simrishamn. Innan Kivik ser ni skylten mot Vitemölla. Åk ner i hamnen i Vitemölla, håll åt höger och kör ett par hundra meter norrut över en liten bäck. Här finns en parkering. Nu ser du hanget.\n\nStart/Landning: Kan du göra överallt.\n\nInfo: ett mycket bra skolningställe, där man kan såväl hanga som backglida under mycket bra förhållande. Backen är flack. Inga träd. Endast ett fåtal buskar.\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=1166"
+    },
+    {
+        "country_id": 203,
+        "start_id": 10717,
+        "name": "hällers klättercamp lysekil",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "litet termiskt hang nära brodalen Lysekils kommun.\nstig upp till vänster om klättercampen. lätt start till vänster om klätterklippan sett nerifrån. stora landningar nedanför där inte djurena befinner sig. bild tagen från starten.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=10717"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6411,
+        "name": "Ålabodarna",
+        "latitude": 55.9475,
+        "longitude": 12.76638889,
+        "description": "Glumslöv",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6411"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2037,
+        "name": "Ålleberg",
+        "latitude": 58.42944444,
+        "longitude": 11.4675,
+        "description": "Gamalt drakställe. Nästan alltid termiskt när vinden ligger på sfrån NV.\n\n(added coordinates SR/20251126)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2037"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6200,
+        "name": "Åre - Svartberget",
+        "latitude": 63.4125,
+        "longitude": 13.085,
+        "description": "ÅRE - Svartbergsbranten 100 meter väster om kabinbanans stötta 2. \n\n(added coordinates SR/20251126)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6200"
+    },
+    {
+        "country_id": 203,
+        "start_id": 7180,
+        "name": "Åre, Draklanda, Lake Lodge hanget",
+        "latitude": 63.4025,
+        "longitude": 13.0575,
+        "description": " 63°24'8.72\"N\n 13° 3'27.41\"Ø\n\nFør att hanga här måste man ha P4 lisens (norsk PP6) Experts only med andra ord.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=7180"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5118,
+        "name": "Åre, Långspannet",
+        "latitude": 63.42611111,
+        "longitude": 13.0775,
+        "description": "Nedanför kabinbanan, fråga alltid en lokal pilot innan du går dit första gången.\n\n(lade till position... /SR)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5118"
+    },
+    {
+        "country_id": 203,
+        "start_id": 438,
+        "name": "Åre, Mörvikshummeln",
+        "latitude": 63.41638889,
+        "longitude": 13.07805556,
+        "description": "Mörvikshummeln Väst\nVindriktning: Skärmflygare S-SV.\nOmrådet ligger rakt under kabinvajrarna ca 150 meter väster om Hummelstugan. Härifrån har du alltid motvind till Draklanda. Vid ökad vindhastighet kan du få ett hanglyft direkt vid starten som lyfter rakt upp mot kabinbanans vajrar. Tänk själv! Håll koll på huvudvinden. Vid NV-lig vind kan man bli lurad att tro att vinden är SV-lig på startplatsen pga rotor bakom svartberget. \n\nMörvikshummeln Syd\nVindriktning: Skärmflygare S.\nMellan Hummelstugan och liftens bergsstation har du branta startplatser i sydlig riktning. Fina flygdagar får du räkna med en hel del publik som granskar dig. Det är en speciell känsla att stå i händelsernas centrum men låt inte publiktrycket avgöra om du är beredd att starta. \n\nMörvikshummeln Ost\nVindriktning: Skärmflygare O-SO. \nCa 50 meter sydost om Hummelliftens bergsstation ligger startområdet. Här är det viktigt att du, vintertid, inte startar mitt i pisten och hindrar skidåkare.\nEfter start håller du kursen rakt åt söder, mot Åre by, och när du har passerat Stötta 1, på din högra sida, ändrar du kurs mot Draklanda som ligger 1,5 km västerut. Om höjdmarginalen till kabinbanevajrarna känns otillräcklig för passage vinner du snabbt höjd mot vajrarna genom att flyga rakt söderut parallellt med vajrarnas sträckning eftersom lutningen är brant mellan Kabin Dal och Stötta 1. \n\nAtt tänka på före start: \nSäkerhetsmarginal till kabinbanevajrarna. \nLåt alltid kabinerna passera före start, eller ännu bättre; starta bara då kabinerna står still. \nNår jag Draklanda i motvind? \nIngen bra reservlandningsplats om jag inte klarar järnvägsledningen. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=438"
+    },
+    {
+        "country_id": 203,
+        "start_id": 1883,
+        "name": "Åre, Olympiaplatån",
+        "latitude": 63.41555556,
+        "longitude": 13.06055556,
+        "description": "Platån väst om Olympialiften\n\n(lade till position /SR)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=1883"
+    },
+    {
+        "country_id": 203,
+        "start_id": 4795,
+        "name": "Åre, Rappet väst",
+        "latitude": 63.42673056,
+        "longitude": 13.06682222,
+        "description": "Start vid västlig till sydvästlig vind.\n\n63°25'36.23\"N\n13° 4'0.56\"Ø\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=4795"
+    },
+    {
+        "country_id": 203,
+        "start_id": 433,
+        "name": "Åre, Röda Rappet Syd",
+        "latitude": 63.4225,
+        "longitude": 13.07305555,
+        "description": " ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=433"
+    },
+    {
+        "country_id": 203,
+        "start_id": 434,
+        "name": "Åre, Röda rappet Väst",
+        "latitude": 63.42555556,
+        "longitude": 13.05861111,
+        "description": "Startområdet ligger väster om Röda Rappet, ca 500 meter från Kabinbanans bergsstation. Området är lite knöligt så det är krävande vid svag vind. På vårvintern kan du få mycket start- och landningsträning om du landar ca 150 meter väster om Olympiagondolens dalstation och tar liften upp igen. Sommartid är övre startområdet stenigt. Då rekommenderar vi att du går nerför branten och startar i det nedre startområdet norr om bergknallen istället för att ta risken med stupstart och kort startsträcka. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=434"
+    },
+    {
+        "country_id": 203,
+        "start_id": 3382,
+        "name": "Åre, Stendalen",
+        "latitude": 63.43333333,
+        "longitude": 13.06805556,
+        "description": "Første bakkeglidningsturer på ukeskurs i Åre\n\n(added coordinates SR/20251126)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=3382"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5292,
+        "name": "Åre, Totthummeln",
+        "latitude": 63.40055556,
+        "longitude": 13.11027778,
+        "description": "Totthummeln",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5292"
+    },
+    {
+        "country_id": 203,
+        "start_id": 431,
+        "name": "Åre, Tusenmeter berg",
+        "latitude": 63.42666667,
+        "longitude": 13.08166667,
+        "description": "Starten ligger rett ovenfor kabinbanens bergstation.\nGemensamt startområde för hängflyg och skärmflyg. Här kan det bli trångt på vårvintern när många vill starta. Det är också vanligt med nyfiken publik som kommenterar, frågar, fotograferar och filmar. Se upp med grupptrycket om du är ovan. Det är du och ingen annan som avgör om och när du är redo att starta. Kom ihåg att barn inte har samma koll på omgivningen som vuxna har, eller borde ha. Trärampen, som bara syns sommartid, är endast lämplig för hängflyg. Skärmflygare startar öster om rampen. Sommartid kan startområdet vara ganska krävande på grund av den korta löpsträckan som smalnar av mot krönet.\nHöjdskillnad till Draklanda: 905m\nHöjdskillnad till Tusenmeter Dal: 260m\nAtt tänka på före start:\nSäkerhetsavstånd till Tusenmetersliften och Kabinbanevajrarna.\nLöpsträckan fri från skidåkare och åskådare.\nReservlandning öster om Tusenmeter Dal eller bredvid leden till Mörvikshummeln.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=431"
+    },
+    {
+        "country_id": 203,
+        "start_id": 432,
+        "name": "Åre, Tväråvalvet",
+        "latitude": 63.43,
+        "longitude": 13.0825,
+        "description": "Startområdet ligger ca 200 meter norr om Kabinbanans bergsstation och är gemensamt för hängflyg och skärmflyg. Trärampen är endast för hängflyg. Skärmflygare startar bredvid rampen eller på vintern; på bergknallen 50 meter öster om rampen. Att starta i Tväråvalvet är lite speciellt på grund av att du är, så att säga, på fel sida av fjället och du måste flyga över Tväråvalvsliftarna och förbi Rödkullen för att nå Draklanda. För skärmflygare finns på vintern alternativet att landa vid Tväråvalvsliftarnas dalstation och ta liften upp igen med miniskidor. Information om villkor för kortskidor får du hos Åreliftarna. Vid NV-lig vind får du räkna med starkt sjunkande luft i nedsvepet över Åredalen. Om du har dålig höjd över kalfjällsplatån vid Olympiagondolens dalstation kan det vara säkrare att välja landning ca 150 meter väster om Olympiagondolen. Chansa inte, trots medvinden, på att klara dig till landningsfältet om du är osäker. Granarna är otrevligt höga i skogsområdet mellan Rödkullen och Draklanda\nHöjdskillnad till Draklanda: 925m\nHöjdskillnad till Tväråvalvsliftarnas dalstation: 370m",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=432"
+    },
+    {
+        "country_id": 203,
+        "start_id": 5579,
+        "name": "Åre, Vändhjulet",
+        "latitude": 63.42805556,
+        "longitude": 13.0675,
+        "description": "Når det blåser nordvest, men man ikke kab starte i Valvet pga vindstyrke eller tåke kan \"Vändhjulet\" være et alternativ.\nStarten ligger 30m syd for vendehjulet til Valvetliften.\nVed litt mer vestlig ving går man til \"Rappet vest\".",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=5579"
+    },
+    {
+        "country_id": 203,
+        "start_id": 6031,
+        "name": "Åre, Åreskutan",
+        "latitude": 63.43083333,
+        "longitude": 13.09527778,
+        "description": "Åreskutans topp, oststarten",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=6031"
+    },
+    {
+        "country_id": 203,
+        "start_id": 2296,
+        "name": "Åsa Stenvik, Kungsbacka",
+        "latitude": 57.34611111,
+        "longitude": 12.115,
+        "description": "Litet hang i centrala Åsa med fin start och vacker utsikt. Stora landningar på stränderna på båda sidor men var försiktig sommartid då det ofta är barn på stranden. I så fall är det bättre att landa på gräsängen till vänster om hanget, sett från starten. \n\nParkering antingen vid skytteviksvägens lekplats eller vid kyrkan St Lars Kapell. Bäst är att gå upp från Stenvikshållet, går en stig från stranden. Vi har godkännande att starta och landa där från markägaren.\n\nFunkar bäst vid SSO vind som är runt 7 m/s, då lyfter det brett och det går att ansluta till det låga på Vita Sand och hanga där ovanför kiosken.\n\nLänk till bild på startplatsen: http://static.panoramio.com/photos/original/23260138.jpg\n\nFILM, 8/8-09: http://www.vimeo.com/6028974\nFilm 7/1-2013: http://vimeo.com/56931828\nGillis film: http://vimeo.com/56931828\n\nRing Fredrik Ahl på 0708499800 vid frågor eller om du behöver guidning, bor alldeles nedanför hanget.\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=203&start_id=2296"
+    }
+]

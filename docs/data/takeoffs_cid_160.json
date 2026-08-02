@@ -1,18 +1,6 @@
 [
   {
     "country_id": 160,
-    "start_id": 4179,
-    "name": "....",
-    "latitude": 0.0,
-    "longitude": 0.0,
-    "description": "...",
-    "holfuy_id": null,
-    "wind_dirs": [],
-    "holfuy_url": "",
-    "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=4179"
-  },
-  {
-    "country_id": 160,
     "start_id": 1802,
     "name": "Alnes, Godøya",
     "latitude": 62.48055556,
@@ -7141,38 +7129,6 @@
   },
   {
     "country_id": 160,
-    "start_id": 9074,
-    "name": "oslo, ikke bruk",
-    "latitude": 0.0,
-    "longitude": 0.0,
-    "description": "Great take off, a little shallow for smaller wings when taking off to the west. ",
-    "holfuy_id": null,
-    "wind_dirs": [
-      "NW",
-      "W",
-      "SW",
-      "S",
-      "N"
-    ],
-    "holfuy_url": "",
-    "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=9074"
-  },
-  {
-    "country_id": 160,
-    "start_id": 8647,
-    "name": "Åberge, Sogndal",
-    "latitude": 0.0,
-    "longitude": 0.0,
-    "description": "Nuken, nordøst for Åberge",
-    "holfuy_id": null,
-    "wind_dirs": [
-      "S"
-    ],
-    "holfuy_url": "",
-    "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=160&start_id=8647"
-  },
-  {
-    "country_id": 160,
     "start_id": 758,
     "name": "Åberget - Sogndal",
     "latitude": 61.23805556,
@@ -7410,8 +7366,8 @@
     "country_id": 160,
     "start_id": 5832,
     "name": "Øvre Ål, Hove",
-    "latitude": 0.0,
-    "longitude": 0.0,
+    "latitude": 60.634861,
+    "longitude": 8.548694,
     "description": "Start fra et av jordene ved Hove, landing på Stavejordet ved Ferieparken",
     "holfuy_id": null,
     "wind_dirs": [],

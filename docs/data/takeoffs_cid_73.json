@@ -1,0 +1,1738 @@
+[
+    {
+        "country_id": 73,
+        "start_id": 3261,
+        "name": "Aiguines, Lac de Sainte Croix",
+        "latitude": 43.77777778,
+        "longitude": 6.25666667,
+        "description": "En noe teknisk krevende start, det er akkurat plass til å legge ut en skjerm, piloten har bare 2 meter fram til kanten der det går ganske bratt nedover. Nydelig landing nede ved Lac de Sainte Croix.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3261"
+    },
+    {
+        "country_id": 73,
+        "start_id": 9609,
+        "name": "Aix-Les-Bains Belvédère du mont Revard",
+        "latitude": 45.68319444,
+        "longitude": 5.97480556,
+        "description": "Excellent site at Lac du Bourget.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=9609"
+    },
+    {
+        "country_id": 73,
+        "start_id": 8002,
+        "name": "Alp d’Huez - Combe Du Bras",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Peak above Villard-Reculas. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=8002"
+    },
+    {
+        "country_id": 73,
+        "start_id": 491,
+        "name": "Annecy, Montmin, Col de la Forclaz",
+        "latitude": 45.81416667,
+        "longitude": 6.24694444,
+        "description": "From paraglidingearth:\nTake off :\talti: 1240m \nfrom Annecy go to 'col de la forclaz'. here take the road to the north and park your car after a few meters. Walk 10 mn.\n\nLanding :\t alti: 460m \nDoussard, near the cross road with Annecy and Planfait.\n\nAu-dessus du lac d'Annecy, 10 minutes de marche du col de la Forclaz.\nAtterros à Doussard ou au bord de la route au fond du lac.\n\nNear Annecy lake, 10 minutes walk from the col de la Forclaz.\nLanding at Doussard or by the road besides the lake.\nwebkamera Doussard\n:http://www.paratroc.com/societe/webcam-fr.php\nwebkamera annecy-sjøen:\nhttp://www.talloires-lac-annecy.com/fr/webcam.html",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=491"
+    },
+    {
+        "country_id": 73,
+        "start_id": 752,
+        "name": "Annecy, Talloires, Planfait",
+        "latitude": 45.85305556,
+        "longitude": 6.22333333,
+        "description": "Nedanför Dents de Lanfon i Talloires norr om Annecysjön. \n\nTake off :\tNot that wide but somehow easy take-off. \nSome paragliding school use it every day in summer so it's sometimes a bit crowdy \n\nLanding :\t Overflyinf of the houses close to landing zone south of it is prohibited !!!! \n\nRight hand base for landing south \n\nLeft hand base for landing north (make a side step to avoid flying over houses close to landing zone, it's forbidden).",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=752"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2361,
+        "name": "Arc1600 Bourg-st-Maurice",
+        "latitude": 45.55666667,
+        "longitude": 6.76388889,
+        "description": "Take-off in a ski slope of arc1600.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2361"
+    },
+    {
+        "country_id": 73,
+        "start_id": 6285,
+        "name": "Argeliers",
+        "latitude": 43.31611111,
+        "longitude": 2.88527778,
+        "description": "A low in on the flat plane just south of Bézier (half an hour). No club using this site but well appropriated and used by local pilots. The French airforce sometimes fly VERY low in this area so one is advised to contact the airforce telephone to find out whether there are to be held low-flying exercises on the day you want to fly. The airforce apparently never fly there at the weekends.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=6285"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10551,
+        "name": "Ban Rouge, Val d'Arly",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Hike & fly eller ta heisen når den går. Trerekke rett nedanfor start.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10551"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10560,
+        "name": "Biville - Normandie",
+        "latitude": 49.60898056,
+        "longitude": -1.84274444,
+        "description": "Fine sanddyner å leke seg på. Det er også en del bunkere på stranden. Se forøvrig info skilt som henger på parkeringsplassen, og sjekk nettsiden til den lokalt klubben:\n\nhttps://www.cotentinvolibre.com/?page_id=227",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10560"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2104,
+        "name": "Bourg Saint Maurice - Arc 2000 (La Cachette)",
+        "latitude": 45.57638889,
+        "longitude": 6.8,
+        "description": "För att nå denna start tar du bergbanan (funicular) från Bourg-st-Maurice centrum, hoppar på sittliften som tar dig från bergbanans bergstation till starten. \n\nSom for all flyging i Bourg Saint Maurice, må man være oppmerksom på dalvinden på landing.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2104"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10550,
+        "name": "Cap De L'homy",
+        "latitude": 44.039475,
+        "longitude": -1.33906944,
+        "description": "Relativt lave sanddyner som fungerer best i sterk vind. Området rundt parkeringsplassen har brattere heng hvor det er enklere å fly. Fin plass å leke seg litt dersom det er altfor mye trykk på Dune du Pilat, eller at vinden er for vest for Pilat.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10550"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10559,
+        "name": "Carteret - Normandie",
+        "latitude": 49.37541944,
+        "longitude": -1.80815833,
+        "description": "Fin flyplass ved sanddyder med varierende høyde. På NW kan man også fly langs klippene og over en gammel ruin. Start enten rett ved siden av ruinene, eller fra stranden.\n\nSjekk klubbsiden før det flys. Det er begrensninger deler av året grunnet fuglereservat.\nhttps://www.cotentinvolibre.com/?page_id=235",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10559"
+    },
+    {
+        "country_id": 73,
+        "start_id": 4030,
+        "name": "Castérino, Mont Chajol",
+        "latitude": 44.11027778,
+        "longitude": 7.52611111,
+        "description": "1.5 hour walk from Castérino\nTake-off anywhere on the top of the ridge going to mont chajol.\nPlenty of room to land at Castérino near the nordic ski place.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=4030"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3050,
+        "name": "Ceillac",
+        "latitude": 44.66666667,
+        "longitude": 6.78333333,
+        "description": "http://buissair.free.fr/site_de_vol/queyras/queyras.htm",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3050"
+    },
+    {
+        "country_id": 73,
+        "start_id": 6665,
+        "name": "Chamonix - Le Prarion Plancert",
+        "latitude": 45.89194444,
+        "longitude": 6.73694444,
+        "description": "take the gondola and walk over the top. follow the ski pist. - advanced start due to cables and trees.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=6665"
+    },
+    {
+        "country_id": 73,
+        "start_id": 5909,
+        "name": "Chamonix - Plan du Aiguille",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Take off from mid station plan du aiguille",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=5909"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1660,
+        "name": "Chamonix, Aiguille du Midi",
+        "latitude": 45.88111111,
+        "longitude": 6.89666667,
+        "description": "Chamonix, Mont-Blac side. Start mot sør eller nord.\nBilde: Starten sett fra utsiktsplattformen på toppen av Aiguille du Midi. Nord er til høyre på bildet.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1660"
+    },
+    {
+        "country_id": 73,
+        "start_id": 9544,
+        "name": "Chamonix, Dome du Gouter",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Located north west of Mont Blanc. Quite flat, ski-start possible nearly all directions. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=9544"
+    },
+    {
+        "country_id": 73,
+        "start_id": 7553,
+        "name": "Chamonix, Mont Blanc 4810",
+        "latitude": 45.83222222,
+        "longitude": 6.865,
+        "description": "Top of west Europe / 4810. \n\n(added coordinates  /SR)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=7553"
+    },
+    {
+        "country_id": 73,
+        "start_id": 833,
+        "name": "Chamonix, Plaine Joux",
+        "latitude": 45.94972222,
+        "longitude": 6.73972222,
+        "description": "See: \nhttp://www.holidayrentals.btinternet.co.uk/aerialsports.htm",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=833"
+    },
+    {
+        "country_id": 73,
+        "start_id": 537,
+        "name": "Chamonix",
+        "latitude": 45.93,
+        "longitude": 6.84388889,
+        "description": "Up the 1st stage of Le Brevent cable car.\n\nPLEASE NOTE: TOP LANDING IS NOT ALLOWED.\n\nPlanpraz (S/SSW) 2040m, easy, for PG and HG,\nGPS: 45°56’11.76”N, 6°51’4.46”E\nYou pass under the free-hanging cable to Brévent\non the right (its highest side).\n\nPlanpraz (Aiguilles Rouges side) is good in the\nmorning until early afternoon. The house thermals\nare in front of you and later more in the gully below\nBrévent. To the left in front of takeoff there are the\nBrevent cable car cables. Keep right and pass under\nthe cables with a good safety margin. Overflying the\nhighest ridge to the right (W/NW) of launch at less\nthan 1,000m above ground level is forbidden! N or\nW winds stronger than 20km/h at 2000m will cause\na leeside situation: expect strong, turbulent conditions.\nFor XC flights towards the Flégère, beware of\nthe horizontal cables of the Brevent–Flégère cable\ncar in the Combe Lachenal at approx 1,700m!\n\nMain Landing: Bois du Bouchet\n\nWeather link: http://www.compagniedumontblanc.fr/fr/meteo\n\nWebcamera: http://www.chamonet.com/chamonix/webcams/brevent-planpraz.html",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=537"
+    },
+    {
+        "country_id": 73,
+        "start_id": 675,
+        "name": "Chamrousse",
+        "latitude": 45.13055556,
+        "longitude": 5.88138889,
+        "description": "Ski resort over Grenoble.\nTake-off at l'Aiguillette, small summit over le Recoin de Chamrousse, 10 minutes walk to go there.\nLanding at St-Martin-d'Uriage, next to the elementary school.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=675"
+    },
+    {
+        "country_id": 73,
+        "start_id": 7606,
+        "name": "Chorges - Jambon",
+        "latitude": 44.59888889,
+        "longitude": 6.27166667,
+        "description": "Main parking Serre Michel(H878+X7, 05230 Chorges) just north of Chorges. Possible to drive further if your car is good.\n\nA >50 min hike from the parking. Well established path due the Piolit hike. An excellent starting-point for XC flights.\n\nMain landing next to football pitch in Chorges. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=7606"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1003,
+        "name": "Col de Bleyne",
+        "latitude": 43.81361111,
+        "longitude": 6.81111111,
+        "description": "Between Greoliéres and S:t Andre\n\nNice place for XC with normally higher cloudbase than in Greolieres. \n\nPossible to drive to take-off, if the barrier is open, which it normally isn`t! \n\nTake off from the main road towards St. Auban, after you have droven past the green fence. Turn to the right up a narrow road 200 meters after a single house on the right side of the road. \n\nLanding by the main junction to Thorenc.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1003"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2523,
+        "name": "Col de Forclaz- Montmin",
+        "latitude": 45.81472222,
+        "longitude": 6.2475,
+        "description": "The same as other \"montmin\" ,don´t know why it show up as new?\n\n2017-08-14: changed the coordinates just a little bit, so the other \"montmin\" gets selected by default when uploading a track log from GPSdump.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2523"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2094,
+        "name": "Col de l'Epine, Lac d'Aiguebelette, Chambery",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Take the highway west from Chambery towards Lyon in the Savoie region of France.  Take the first exit after the tunnel in the direction of the village of Novalaise. Make a right just before the village and follow the signs to Col de l'Epine.  There are signs marking the way to the start area along the way.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2094"
+    },
+    {
+        "country_id": 73,
+        "start_id": 7459,
+        "name": "Col des Frêtes, Annecy",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Ca. 700 høydemeter høyere enn Planfait. En flott gåtur opp gjennom skogen. Starten er på ryggen sør for Les Dents De Lanfons. Fin utsikt og perfekt på S-SV vind.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=7459"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10257,
+        "name": "Col des Nantets",
+        "latitude": 45.84222222,
+        "longitude": 6.26361111,
+        "description": "Takeoff for tidlig start med flyging på austsida av Arête Couturier.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10257"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10412,
+        "name": "Col du Glandon",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Col du Glandon er et høyt fjellpass i Dauphiné-alpene i Savoie, Frankrike, som forbinder Le Bourg-d'Oisans med La Chambre. \nGode hang-forhold og mulighet for topplanding.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10412"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10677,
+        "name": "Col du Granon Tom's Start - Briancon",
+        "latitude": 44.96305556,
+        "longitude": 6.61388889,
+        "description": "This launch is a few hundred meters east of the official take-off, roughly a five-minute walk from the Buvette du Granon (buvette meaning “hut” or small café). It offers a better orientation to the wind and an improved chance of catching the house thermal from the forest below. However, pilots should have good wing control and be aware of potential dust devils on thermic days. It is known as “Tom’s start” because Tom, the designer from Little Cloud, often uses it.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10677"
+    },
+    {
+        "country_id": 73,
+        "start_id": 6109,
+        "name": "Col du Joly, Hauteluce",
+        "latitude": 45.79166667,
+        "longitude": 6.66444444,
+        "description": "Nice grassy slopes just above the col, with the Mont Blanc massive as a backdrop. Drivable to launch, rough gravel on the last bit. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=6109"
+    },
+    {
+        "country_id": 73,
+        "start_id": 862,
+        "name": "Colonges, Saleve, Les Crets",
+        "latitude": 46.13,
+        "longitude": 6.17222222,
+        "description": "Just on the Swiss/French border. Close to Geneve.\nPicture is from the \"Les Crets\" Launch.\n\nLaunch\n\n1. Les Crets (SW-NW) 1270m, easy, toplandable,\nGPS: 46° 7’48.00”N, 6°10’20.00”E\n\n2.Télépherique (N) 1090m, \nGPS: 46° 9’17.09”N, 6°11’38.42”E. \nJust E of the cablecar, beyond the\nterrace.\n\n3. La Table d’Orientation (N/NW) 1200m, medium. \nGPS: 46° 8’55.19”N, 6°11’21.00”E. \nFrom the cablecar top station follow the path to the observatory for about 20 min.\n\nLanding\n1. Pont de Zone (405m) \nGPS: 46°10’22.80”N, 6°12’31.20”E.\n\n2. Le Coin (680m) \nGPS: 46°8’2.16”N, 6°9’38.40”E.\n\n3. Pas de l’Echelle (430m) club landing, small field surrounded by houses, 300m W of the cablecar, only for experienced pilots!\nGPS: 46° 9’41.10”N, 6°10’55.53”E.\n\n4. CVLG (425m) club landing between Troinex and Veyrier.\nGPS: 46° 9’44.75”N, 6° 9’29.00”E.\n\nFlying school: www.Salèveairlines.com, Étrembières,\nTel. +33 (0)4 5039 7159\n\nWebcam Salève - Les Crets: http://paradelta.ch/webcam/live/webcam_paradelta.php\n\nWind Sensor Salève - Les Crets: http://www.romma.fr/station_24.php?id=73",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=862"
+    },
+    {
+        "country_id": 73,
+        "start_id": 991,
+        "name": "Courtets",
+        "latitude": 44.77444444,
+        "longitude": 5.79333333,
+        "description": "Sous le sommet de l'Obiou (Dévoluy).\nAu Sud de Mens traverser Baudille-et-Pipet, l'atterro est dans un champ à la sortie du village à droite.\nLe déco est visible sur la route forestière au-dessus.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=991"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10414,
+        "name": "Dent de Crolle - Grenoble",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Takeoff on the ridge above Saint Hilare (main takeoff in the area). Only reachable  by hike and fly, 600m vertical hike. \n\n",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10414"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1105,
+        "name": "Dune du Pilat - Arcachon",
+        "latitude": 44.58333333,
+        "longitude": -1.21666667,
+        "description": "Europes largest sand dune located SW of Bordeaux. A Nice playground for kids, and grown up kids :-)\nMain take-off on top of the dune at Gaillouneys, after camping Petit Nice.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1105"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1867,
+        "name": "Entrevernes, Annecy",
+        "latitude": 45.78333333,
+        "longitude": 6.19388889,
+        "description": "Bra ställe för morgonflyg.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1867"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3892,
+        "name": "Fort 2000 - Bourg St Maurice",
+        "latitude": 45.63777778,
+        "longitude": 6.74333333,
+        "description": "Start on cow fields next to an old fortress.\n\nFort 2000 / Fort de la Platte (S/SW) 1950m, easy, on the grass slope in front of the viewpoint, \nGPS: 45°38’14.60”N, 6°44’34.81”E. \nAccess as above but at the end continue to Fort de la Platte.\n\nTwo landing alternatives: \n1) Ilettes 45°35'35''N - 06°45'05''E (751 m) official site,\n2) Rugby field 45°37'12''N-6°46'56''E (808 m).\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3892"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3254,
+        "name": "Gourdon, Kennedy",
+        "latitude": 43.70361111,
+        "longitude": 6.98,
+        "description": "Mainly Hang gliders start here, but can be used by paragliders too. Two take offs.\n\nLanding zone in the valley.\n\nTo get to take off drive the main road from Pre Du Lac towards Gourdon. After 10 min take a little road to the right (situated in the first forest you drive through) A little road goes all the way out to the take off.\n\nAlternative to Haut Montet when the mistral is not too strong. \n\nAltitude restriction with max height of 2000 meters asl, due to Nice Cote de Azur airport.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3254"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1004,
+        "name": "Gourdon, Le Haut Montet",
+        "latitude": 43.72555556,
+        "longitude": 6.94666667,
+        "description": "Northwest of Nice by Gourdon.\n\nGourdon\n1. l’Embarnier (S) 1105m, medium, main takeoff for HG & PG, but risk of rotor from the promontory rocks when the wind is stronger! \nGPS: 43°43’32.01”N, 6°56’49.65”E.  \n\n2. l’Embarnier (S/SW) 1160m, easy, big even slope\nGPS:43°43’26.52”N, 6°56’38.23”E\n\n3. Col de Cavillore (S/SE) 1030m, easy-medium,\nGPS: 43°43’49.35”N, 6°58’20.30”E.\n\nAltitude restrictions due Nice airport. Max altitude 2000 asl. Not allowed to fly XC down to the sea.\n\nThermals year around. Best conditions in winter. Very reliable flying weather in general.\n\nGourdon is usually protected from west wind but it can be turbulent if you fly too high as breeze (SSE) and real wind (W) cross each other in different directions.\nA good idea is to check the wind at Lachens mountain as it is very exposed to the NW wind (mistral).\n\nIn winter the best thermal activity is located in the loup valley: Gourdon village, Kennedy and Courmettes. Usual XC flights are: Gourdon - Observatoire - Grasse and/or Gourdon - Village - Courmette, Tourette sur loup, Saint-Jannet (with return).\nIn summer people don't usually fly in the loup valley as the breeze is too strong and does not let you reach the landing field at Vallettes. Also the thermal house at the village can be rough. There is a much higher potential for XC at col de bleyne or saint-andre les alpes in summer.\n\nLanding:\n1. Domaine de St. Ambroise (830m) big field in\nthe valley below the plateau. \nGPS: 43°43’33.54”N,6°57’34.44”E. \n\n2. Landing Cavillore (851m) very small field.\nGPS: 43°43’37.74”N, 6°58’8.64”E.\n\n3. Rives du Loup (175m) big field below the road, landing for all Gourdon takeoffs. HG & PG.\nGPS: 43°42’0.57”N, 7° 0’20.45”E.\n\nThe official landing field is below the parking place at Cavillore (read info at take-off). Easy top landing on the back. The landing field in the loup valley is the obvious huge field at the very end and it's a long way to glide to so be careful. Please don't get it wrong: it's strictly forbidden to land at any other place, the site is threatened to be closed, two take-off have already been banned at Tourette and Courmette.\n\nThere is a bus every day but Sunday going from Vallettes to Gourdon for 1 euro, check time schedule at www.envibus.fr\n\nGourdon wind talker:\nhttp://www.balisemeteo.com/balise.php?idBalise=63\n\nLachens wind talker:\nhttp://www.balisemeteo.com/balise.php?idBalise=49\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1004"
+    },
+    {
+        "country_id": 73,
+        "start_id": 750,
+        "name": "Grand Bornand, Mont Lachat",
+        "latitude": 45.95833333,
+        "longitude": 6.47666667,
+        "description": "Grand Bornand, Haute-Savoie, France. \n\nLaunch\n1. Le Châtillon (S-W) 2020m, easy. The entire grass slope 2 min south of the top station of the chairlift, below the trail.\nGPS: 45°57’30.85”N, 6°28’35.34”E.\n\n2. Covaleux (SW/W) 1510m, easy.\nGPS: 45°56’56.07”N, 6°28’2.40”E\n\nLanding\n1. Le Bouchet S (1000m) PG&HG.\nGPS: 45°56’10.22”N, 6°27’25.31”E\n\n2. Le Terret (920m) Grand Bornand.\nGPS: 45°56’30.69”N, 6°26’5.51”E.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=750"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10611,
+        "name": "Grande Aguille, Les Deux Alpes",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Takeoff mogeleg i fleire retningar",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10611"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10613,
+        "name": "Grande Léchère, La Chambre",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Nokon tre under takeoff.\n",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10613"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3894,
+        "name": "Granier - Bourg St Maurice",
+        "latitude": 45.57701389,
+        "longitude": 6.62313889,
+        "description": "Start on cow fields. Closest landing at the Y between Aime and Macot (705 m).",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3894"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10558,
+        "name": "Granville - Normandie",
+        "latitude": 48.84483611,
+        "longitude": -1.59143611,
+        "description": "Fin flyplass midt i byen. take off på en liten gresslette ved en sjøutsikt. Her kam man fly langs bygninger på riktig retning. Topplanding er å foretrekke. Se ellers info plakat som henger på stedet.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10558"
+    },
+    {
+        "country_id": 73,
+        "start_id": 552,
+        "name": "Gréolières, Montagne du Cheiron",
+        "latitude": 43.80194444,
+        "longitude": 6.94361111,
+        "description": "Main start at 1550m (4WD or 1:15 walk from landing)\nLower start at 1025 m (30 min walk from landing)\n\nLaunch:\n1.Le Dahut or ‘300’ (S/SE) 1052m, easy, the main takeoff. GPS: 43°48’0.99”N, 6°57’20.00”E\n\n2. Le ‘600’ (S/SE) 1440m, easy, GPS: 43°48’32.85”N,6°57’39.01”E\n\n3. Le ‘700’ (S/SE) 1540m,medium, GPS: 43°48’37.27”N,6°57’26.68”E.\n\n4. Cheiron summit (S/SE) 1750m, medium. GPS: 43°48’56.81”N, 6°58’12.48”E\n\n5. Le Jerusalem (S) 1729m, easy-medium, GPS:43°49’0.58”N, 6°58’42.47”E\n\nLanding:\nGréolières (800m) big field for HG & PG at the entrance of the village; just take the left road at the split and park near the hut (windsock). \nGPS:43°47’45.76”N, 6°56’52.93”E",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=552"
+    },
+    {
+        "country_id": 73,
+        "start_id": 523,
+        "name": "Gréolières, Mt. Cheiron",
+        "latitude": 43.80194444,
+        "longitude": 6.94361111,
+        "description": "Takeoff in Greolieres, landing is at the school.\nPicture is from just below takeoff and looking at the landing area.\nGreolieres is situated 25km from the coast tucked behind the first range of mountains in a deep valley with a \nmassive 1770m high mountain towering above the village. \nGPS coordinates are for the village (landing).\nOrienation: South, 300m to 1000m top to bottom. \nAccess: Get a lift up in the paragliding school's 4WD, cost 30ff, or else walking to the lowest take-off takes 30 \nminutes. \nGood dynamic soaring site mixed with thermals, and out and return possibilities. Very easy take-off and \nlanding. \n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=523"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3858,
+        "name": "L'Index - Chamonix",
+        "latitude": 45.96777778,
+        "longitude": 6.875,
+        "description": "Start ovanför Chamonix.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3858"
+    },
+    {
+        "country_id": 73,
+        "start_id": 8632,
+        "name": "La-Sainte-Victoire",
+        "latitude": 43.53611111,
+        "longitude": 5.56944444,
+        "description": "Puyloubier\nBouches-Du-Rhône\nFrance",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=8632"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2352,
+        "name": "La Clusaz, Crêt du Loup",
+        "latitude": 45.89083333,
+        "longitude": 6.45138889,
+        "description": "Take-off on the ski slope, close to the chair lift crêt du loup. Alternatively you can take-off lower at crêt du merle. Thermal right in front of the take-off.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2352"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1084,
+        "name": "La Clusaz, L'Étale",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "http://www.laclusaz.com/f-GB/\nhttp://www.revedicare.com/laclusaz.htm",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1084"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10612,
+        "name": "La Croix de Cassini, Les Deux Alpes",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Takeoff mogeleg i fleire retningar.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10612"
+    },
+    {
+        "country_id": 73,
+        "start_id": 9615,
+        "name": "La Moucherotte, massif du Vercors",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Hikenfly fjelltopp. Beregn 1,5-2 timer til toppen.\n\nhttp://parapenterando.free.fr/site.php?id=45",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=9615"
+    },
+    {
+        "country_id": 73,
+        "start_id": 488,
+        "name": "La Roque-Esclapon, Montagne de Lachens",
+        "latitude": 43.73361111,
+        "longitude": 6.64694444,
+        "description": "Segelflygarna från Fayence kommer gärna in på berget och tar höjd.\n\nAltitude is for SW-start.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "S",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=488"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3373,
+        "name": "La Seranne. Cazilhac-Montpellier. Languedoc",
+        "latitude": 43.86916667,
+        "longitude": 3.64055556,
+        "description": "Et fint flysted med masse løft og kraftige termikker. Utsikten til havet og \"cevennes\" fjellene er topp!\nGod muligheter for XC \n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3373"
+    },
+    {
+        "country_id": 73,
+        "start_id": 9724,
+        "name": "Lai Barrai (over Monaco)",
+        "latitude": 43.75583333,
+        "longitude": 7.41083333,
+        "description": "Fin start over Monaco. Landing på strand nokre km lenger øst som også er landing for annen start der.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=9724"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10166,
+        "name": "Lans-En-Vercors",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Lans-En-Vercors",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10166"
+    },
+    {
+        "country_id": 73,
+        "start_id": 558,
+        "name": "Laragne, Chabre",
+        "latitude": 44.29861111,
+        "longitude": 5.76638889,
+        "description": "Hovedstarten ved Laragne. Koordinaten er for toppen av veien merket med veiskilt til Chabre-Larange (eller Larange Chabre). Kjør inn til Chateauneuf de Chabre, derfra er det skiltet med 'Voile Libre' En rekke starter som ligger langs ridgen innen av avstand av ca. 500 meter. Alle startene ligger ved veien. Fineste starten for S og N er på toppen, noen minutters gåtur fra enden av veien. Ved lite vind er det vistnok mulig å start uansett vindretning. Startene i seg selv vender både mot S og N.\n\nLaunch\n1. (N/S) 1265m, medium, \nGPS: 44°18’11.94”N, 5°46’36.67”E. \nOn the right where the access road reaches the long Chabre ridge. Not good in the\nafternoon. Not recommended for PG!\n\n2. Les Espranons (S) 1285m, easy, MAIN Launch for PG and HG below the road. Don’t launch above\nthe road with stronger winds as the N side here is a vertical cliff! \nGPS: 44°17’55.24”N, 5°45’59.92”E.\n\n3. (S/SW) easy, and (N) medium-difficult, 1354m, W of the end of the road, towards the highest point.\nBest launch in the afternoon. N launch only suitable for good pilots! \nGPS: 44°17’52.10”N, 5°45’48.53”E.\n\nLanding:\n1. North, L’Île d’Oriane (565m) \nGPS: 44°19’12.08”N, 5°47’33.33”E. \nDrive to the big supermarket in Laragne. Follow the signs (opposite) for Air d’atterisage for about 1 km on a dead-end road to the industrial zone.\n\n2. Laragne-Montéglin campsite(570m) \nGPS: 44°18’45.32”N, 5°50’2.20”E.\nThe main landing zone for HG and good PG pilots (glide ratio of 10 required!) easy to find, E of the railway line, 1 km SE of Laragne town centre.\n\n3. PG south & emergency, Chabre(980m) \nGPS: 44°17’23.74”N, 5°46’2.53”E,\na bit narrow and uneven, surrounded by forest, signed on the way to takeoff.\n\n4. South main landing (735m) PG & HG. \nGPS: 44°16’46.54”N, 5°46’30.25”E.\nGood size field but surrounded by forest, right of the road to launch (signed).\n\n5. Barret-sur-Méouge (650m) HG&PG, just before the entrance of the village, left of the D942 Chateauneuf–Séderon.\nGPS: 44°15’45.13”N, 5°44’28.18”E",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "SW",
+            "S",
+            "SE",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=558"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1989,
+        "name": "Laragne, Sederon",
+        "latitude": 44.20388889,
+        "longitude": 5.51055556,
+        "description": "Ridge start.\nAlso called \"Sederon-mevouillon : bergies\"",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "SW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1989"
+    },
+    {
+        "country_id": 73,
+        "start_id": 592,
+        "name": "Laragne, camping",
+        "latitude": 44.31305556,
+        "longitude": 5.83333333,
+        "description": "Bra for Mosquito-flyging.\n\nLanding of Chabre-Laragne take-off.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=592"
+    },
+    {
+        "country_id": 73,
+        "start_id": 4470,
+        "name": "Le Meruz",
+        "latitude": 45.78486111,
+        "longitude": 6.41463889,
+        "description": "Private takeoff\n\nTakeoff above Ugine. Need to follow the rules for the takeoff. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=4470"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10592,
+        "name": "Le Richards",
+        "latitude": 44.67972222,
+        "longitude": 6.22972222,
+        "description": "Veldig fin gress start. Fly til høyre rundt ryggen ved trærne på andre siden av elvedalen for å komme opp, og ha det gøy videre :)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10592"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2595,
+        "name": "Le Treh, Alsace/Elsass",
+        "latitude": 47.92555556,
+        "longitude": 7.01083333,
+        "description": "Bra bilväg upp till starten. Möjlighet att samåka \"flygbuss\" från landningsplatsen Aerotec (N475405 E065858).",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2595"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1532,
+        "name": "Les Saisies - Bisanne",
+        "latitude": 45.74722222,
+        "longitude": 6.50305556,
+        "description": "Near Les Saisies.\nLanding near Beaufort.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1532"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10552,
+        "name": "Loriaz, Vallorcine",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Hike & fly-takeoff.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10552"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1868,
+        "name": "Marlens, Annecy",
+        "latitude": 45.78111111,
+        "longitude": 6.32916667,
+        "description": "Morgonstart. Man ser huvudlandningen tydligt ;-)\nVær obs på dalvind på landing etter kl. 13. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1868"
+    },
+    {
+        "country_id": 73,
+        "start_id": 6708,
+        "name": "Millau - Brunas",
+        "latitude": 44.07138889,
+        "longitude": 3.06444444,
+        "description": "Fint flysted i nærheten av Millau, på sørsiden av byen. Asfaltert vei opp til starten, som er bred og lang (ypperlig for topplanding) og belagt med kunstgress. Hvis ikke topplanding, kan man lande på en landing ca 300 meter lengre ned i dalen. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=6708"
+    },
+    {
+        "country_id": 73,
+        "start_id": 6709,
+        "name": "Millau - Puncho d'Agast",
+        "latitude": 44.11027778,
+        "longitude": 3.10083333,
+        "description": "Flott flysted rett i nærheten av Millau. Utrolig utsikt. Popular med flyskolene - som det er flere av. Mye tandem aktivitet. Asfaltert vei helt opp til startene, som det finnes fire av - kunstgress. I juli og august går det en shuttle når det er flybart. Ellers, tar det to timer å gå opp (plan B). Det en mye trafikk så normalt mulig å haike opp til starten.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=6709"
+    },
+    {
+        "country_id": 73,
+        "start_id": 553,
+        "name": "Monaco, Monte Carlo, Mont Gros",
+        "latitude": 43.76722222,
+        "longitude": 7.43527778,
+        "description": "Launch\n1. Mont Gros (S-W) 677m, easy-medium, dome with a perfectly arranged green carpet. Crosswind makes it tricky for pilots with little experience as the launch ends in steep scree slope! \nGPS: 43°45’55.69”N, 7°26’33.55”E\n\n2. Mont Gros (E/SE) 660m, medium, short flat slope, surrounded by bush, you need good headwind and launch skill! \nGPS: 43°45’58.31”N, 7°26’36.29”E\n\n3. Laï Barraï (SE-SSW) 695m, medium, grassy dome, expert launch.\nGPS: 43°45’21.38”N, 7°24’38.57”E.\n\nLanding\nPlage du Golf Bleu (0m) beach. GPS: 43 45’32.97”N, 7°27’18.48”E.\n\nFlying\nThe site is open as follows: 16 November–30 April(no limitation); 1 May–30 June, 1 September–30 September (before 08h00 and after 18h00); 10 October–15 November (after 11h15). \nThe altitude limit is 1950m ASL as you are flying within the range of LR-R83, a flight prohibition zone above Mont Agel. \nNo flying west of La Turbie or above Monaco! Check the detailed aerial chart at the Laï Barraï infoboard.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=553"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10154,
+        "name": "Mont Bouquet",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Seynes",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10154"
+    },
+    {
+        "country_id": 73,
+        "start_id": 732,
+        "name": "Montlambert",
+        "latitude": 45.5575,
+        "longitude": 6.10527778,
+        "description": "Near Montmélian.\nOften protected from Nord winds.\nLanding near St-Jean-de-la-Porte.\n10 minutes walk to take-off.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=732"
+    },
+    {
+        "country_id": 73,
+        "start_id": 661,
+        "name": "Morzine",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Morzine ligger like ved skistedet Avoriaz.\nPå bildet er Morzine i forgrunnen, med Avoriaz på fjellet oppe i bakgrunnen.\n\nStarten er til venstre i bildet, landing til høyre. Det er også en landing i sentrum.\n\nStart like ved vegen opp til Avoriaz, ved hus som er halvt hvitt og halvt rødt! Ved toppen av gondolbanen.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=661"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3262,
+        "name": "Moustiers Sainte-Marie, Courchon",
+        "latitude": 43.84277778,
+        "longitude": 6.23027778,
+        "description": "Stor, ganske flat start over Moustiers Sainte-Marie. Landing på Saint Clair.\n\nCOURCHON(S) 940m, easy, toplandable at Venascle. \nGPS:43°50’35.16”N, 6°13’48.90”E.\nAccess: Two possibilities: either park at the Moustiers graveyard and follow the path Chemin de Courchon on the upper end for about 1 hr. Or drive up to Venascle, pass the landing field and Gîte until you reach the junction with the piste to Montdenier at the windsock. Turn right instead towards the limit of the plateau, and the launch site.\n\nLanding\n1. Venascle (934m) the field on the mountainside in front of the Gîte de Venascle. \nGPS: 43°50’44.00”N, 6°15’6.00”E. \nFollow the D952 from Moustiers towards Riez/Puimoisson and after 3km turn right to Venascle, passing the campsite. After 200m turn left to the parking and landing.\n\n2. St. Clair (550m) a small strip between the road and a cultivated field (which you can use after harvest). GPS: 43°49’55.13”N, 6°13’23.56”E. South of the D957 to St. Croix lake, just below Moustiers; about 1 km after the village and 400m before the junction with D952 towards La Palud/Castellane.\n\n3. Plage de Galetas (480m) \nGPS: 43°47’56.40”N, 6°14’33.90”E, \non the beach of the Verdon lake near the confluence of the Verdon river, below the D957 from Moustiers and a campsite (windsock), 2 km before Les Salles sur Verdon.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3262"
+    },
+    {
+        "country_id": 73,
+        "start_id": 489,
+        "name": "Moustiers",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": " ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=489"
+    },
+    {
+        "country_id": 73,
+        "start_id": 922,
+        "name": "Mt. Cherry (Les Gets)",
+        "latitude": 46.16833333,
+        "longitude": 6.64666667,
+        "description": "Take off used for competitions in Morzine.\nThe view is towards north with Morzine in the valley to the lower right and Avoriaz on the cliffs middle right.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=922"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10429,
+        "name": "Oirason",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "300 m hang",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10429"
+    },
+    {
+        "country_id": 73,
+        "start_id": 8196,
+        "name": "Oraison - St Pancrace Le Relais",
+        "latitude": 43.89963333,
+        "longitude": 5.92091667,
+        "description": "\n\"Do not fly by South tendencies (and a fortiori SE): strong risk of not reaching the landfall Off very sensitive terrain (electric line, horses ...) and dangerous (houses). Only the official landing is allowed (no escape solutions to the north: urban area). Do not go north if you are not sure that your finesse will allow you to join the landing.\"",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=8196"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10413,
+        "name": "Passy - Varan",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Alpine take-off zone in fantastic surroundings.\n\nGPS coordinates: N 45 ° 56'42'' - E 006 ° 40 '55''\nOrientation: South-west to south-east\nElevation: 1080 to 1360 m\nLayout: windsock and information panel.\nAltitude: 1640 m\nFlight conditions: calm in the morning, strong warm currents in the afternoon.\nDanger / problems: cliff after takeoff\nLevel: Beginner to XC\nLanding spots: Passy-Chedde and Marlioz. Possible variant: Lake Passy left of the road to Domancy at the intersection with the horse farm.\nSpecific rules: 4 x 4 access. Please respect the hikers.\nPossible variation: Frioland, touring with take-off at 1700 m.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10413"
+    },
+    {
+        "country_id": 73,
+        "start_id": 4313,
+        "name": "Plan de l'Aiguille",
+        "latitude": 45.90444444,
+        "longitude": 6.88305556,
+        "description": "Beware of the electic line and the cables of the cable car.\n\nLanding : Chamonix, Bois-du-Bouchet. Near the little lake.\n\nGoing there : \tHighway to Chamonix. There's a parking at the cable car station. Take the cable car to the intermediate station (Plan de l'Aiguille) ~ 20 EUROS for a one day special pass for paragliding. \n\nFrom the landing, you can reach the cable car lower station (where you just let your car, remember?) by foot, ~15mn.\n\nWeather hazards : \tThere are often _very_ strong thermal conditions. The wind can rise very quickly in the valley. Welcome to the mountains !\n\nFlight regulation : \tIt is not allowed to fly in July and August\n\nPeople to contact : \tClub des Grattes-Ciel\nhttp://www.lesgratteciel.org\n\nWebsite : \thttp://www.ffvl.fr/sites/sites.php3?id=74012\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=4313"
+    },
+    {
+        "country_id": 73,
+        "start_id": 9787,
+        "name": "Planpraz, midstation, Le Brevent Chamonix",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Takeoff fra midtstasjonen, Planpraz, i Le Brevent siden av Chamonix. Takeoffen ligger rett nedenfor Altitude 2000 resturangen. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=9787"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10252,
+        "name": "Pointe de Merdassier",
+        "latitude": 45.86333333,
+        "longitude": 6.43861111,
+        "description": "Mange mulige takeoffplassar og mange mulige landingar.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10252"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10648,
+        "name": "Puy de Dome near Orcines in Auvergne-Rhône-Alpes",
+        "latitude": 45.77194444,
+        "longitude": 2.96555556,
+        "description": "This is a volvano so starts an be mad from almost all directions.  You can walk up to the summit in about 1 hour or yo can take the Panoramiques de Dômes train from the main parking lot at Auvergne Montgolfiere",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10648"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10615,
+        "name": "Pyrenees, Arbas",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Du 1er octobre au 8 novembre, un arrêté municipal de la commune\nd'Herran interdit le décollage des parapentes avant 13h30\n\nAttention : Du 1er mars au 15 septembre ne pas survoler la zone de sensibilité à moins de 300m du point le plus haut de la zone rouge",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10615"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10614,
+        "name": "Pyrenees, Val Louron 700m",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "L'orientation de la brise peut changer de face à dos de façon rapide à Val Louron. Quand cela arrive durant un décollage, il ce peut que vous aller courir plus vite sans que l'aile vous prenne en charge. Alors l'arrêt de course dans la pente de plus en plus pentue peut finir mal. Il faut donc être prêt à abandonner dès que cela arrive, avant que tu as pris trop de vitesse.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10614"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10158,
+        "name": "Reunion, Bellemene 850",
+        "latitude": -21.02277778,
+        "longitude": 55.32194444,
+        "description": "Take the road to Piton Maïdo from St Paul. Pass the village of Guillaume then go 2 km and at the junction with Chemin Feogas n° 2, take the dirt road on the left. Take off on your right on a small hill.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10158"
+    },
+    {
+        "country_id": 73,
+        "start_id": 4374,
+        "name": "Reunion, Colimacon 1400",
+        "latitude": -21.15083333,
+        "longitude": 55.3425,
+        "description": "Toppstarten på Colimacon",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=4374"
+    },
+    {
+        "country_id": 73,
+        "start_id": 4322,
+        "name": "Reunion, Colimacon 800",
+        "latitude": -21.13166667,
+        "longitude": 55.30333333,
+        "description": "Take off near St.Leu",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=4322"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2818,
+        "name": "Roquebrune Cap-Martin, Mont-Gros",
+        "latitude": 43.76583333,
+        "longitude": 7.44277778,
+        "description": "On top of Monaco\nLanding on the \"Golfe bleu\" beach.\n\nAvoid flying over the nearby military base, the prince' house and Monte Carlo.\n\nThere are buses Monday, Thursday, Friday, Saturday and Sunday (NO bus Tuesday and Wednesday) at:\n10:00, 11:45, 14:30 and 16:00.\n\nhttp://www.xcmag.com/2014/02/guide-to-greolieres-france/\n\nThe bus costs 1.5 euro, and have to be booked the day in advance at +33 800 740 538.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2818"
+    },
+    {
+        "country_id": 73,
+        "start_id": 5870,
+        "name": "Réunion, Maïdo",
+        "latitude": -21.05916667,
+        "longitude": 55.38194444,
+        "description": "\"Det høye fjellet\" - et fantastisk flott flysted.\n\nForholdsvis trang og flat stupstart (PP3) nær fjellet Maïdo. Avkjørsel fra Saint-Paul. Følg veien \"Route de Maïdo\" nesten til toppen. Gå stien opp siste stykket, ca 15-20 minutter, følg stien mot venstre når du kommer til inngjerding m/grind.\n\nDet lønner seg å følge kanten til venstre for take-off for å sanke løft.\n\nOBS! Flystedet kan være krevende pga trang dal som må passeres om en ikke får løft. Dalen kan være dekket av lavt skydekke, og det kan være kraftig dalvind. Det ene partiet kalles \"La Machine à laver\" - vaskemaskinen - ikke uten grunn.\n\nLanding i elveleiet ned mot byen Saint-Paul (f.eks ved Lat 20.58.13,  Long 55.19.27). OBS! Mye stor stein mange steder i elveleiet.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=5870"
+    },
+    {
+        "country_id": 73,
+        "start_id": 9727,
+        "name": "Saint-Vallier-de-Thiey",
+        "latitude": 43.71,
+        "longitude": 6.82833333,
+        "description": "Naturstart med en del småstein, men helt ok. Kort gåtur opp langs en sti fra vei D6085. Brukes en del av en profesjonell tandempilot som heter Jean-Vincent Ducrocq og driver firmaet Spir'it Parapente (https://www.spiritparapente.com/)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=9727"
+    },
+    {
+        "country_id": 73,
+        "start_id": 4258,
+        "name": "Saint Jean Montclar (Belvédère)",
+        "latitude": 44.40305556,
+        "longitude": 6.37027778,
+        "description": "Very good and big take-off. Ski lift open during summer. Weekends mai - june. Good for soaring and longer thermal flights in southern alps. \n\nhttps://www.montclar.com/equipement/telesiege-du-belvedere/",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=4258"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2099,
+        "name": "Saint Vincets Les Forts",
+        "latitude": 44.4475,
+        "longitude": 6.38083333,
+        "description": "SE of Gap",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2099"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1080,
+        "name": "Samoëns, 1600",
+        "latitude": 46.05527778,
+        "longitude": 6.70083333,
+        "description": "Ta den lille rød banen opp, starten ligger rett til høyre for heishuset. Flott gresskledd start.\n\nLocal school: http://www.parapente-samoens.com/ ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1080"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10010,
+        "name": "San Bastiano",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "You can Find info online. Safe takeoff.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10010"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2324,
+        "name": "Semnoz - Viuz Chatillion, Leschaux",
+        "latitude": 45.79805556,
+        "longitude": 6.09972222,
+        "description": "Fin stor start vid skidanläggning. Det går att flyga i många riktningar. Lång väg upp. Det är också ett bra ställe att leka och backglida på ;-)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2324"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10777,
+        "name": "Servoz - Pointe Noire de Pormenaz",
+        "latitude": 45.95833333,
+        "longitude": 6.80111111,
+        "description": "Décos\nPente sommitale\nOrientation : W, SW\nPente : plat puis pente assez raide\nLongueur : 20 m\nSol : prairie\nExpo : faible, quelques cailloux\nCotation : 1/5\nRemarques :\nAntécime S (point 2289 IGN), à 200 m au S du sommet\nOrientation : NW, N\nPente : plat puis pente faible\nLongueur : 50 m\nSol : herbe au sommet, cailloux ensuite\nExpo : faible\nCotation : 1/5\nRemarques :\nAtterrissages\n-Chedde (FFVL)\n-Cimetière de Servoz 45.9335 N/6.7650 E\nOrientation : toutes\nPentes : plat\nLongueur: 100 m\nSol : prairie\nExpo : nulle\nCotation : 1/5\nRemarques : quelques obstacles en approche, mais de la place pour évoluer. Vent de vallée venant de l'W pouvant être soutenu en été en après-midi\nVol\nFace direction SW jusqu'à l'atterro\nFinesse : Faire attention pour passer le plateau après le décollage mais ligne droite ça passe sans problème.\nCotation : 1/5\nDescription de l'itinéraire du vol.\n\nDangers\nDangers particuliers : RAS\n\nRestrictions de vol\nRéserve au N du décollage, pas de problème si on part sur Servoz. Hauteur mini 300m/sol",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10777"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2594,
+        "name": "Siebach i  Alsace/Elsass",
+        "latitude": 47.90333333,
+        "longitude": 6.99166667,
+        "description": "Halvdålig bilväg upp till starten, alt promenad. Rakt ovanför landningsplatsen Aerotec (N475405 E065858)se krysset på bilden. Ps. Inte för den som har koskräck :-)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2594"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10772,
+        "name": "Sopel - Monte Grosso",
+        "latitude": 43.9142,
+        "longitude": 7.4672,
+        "description": "Praticabilité :   terrain ouvert à la pratique \nConventionnement :  terrain conventionné FFVL \nRef. terrain : 229\nDate de création : 14/08/1998\nDate de la dernière modification : 12/10/2025\nTitre du terrain : SOSPEL - MONTE GROSSO\nCode postal : 06380\nCommune : SOSPEL\nPratiques possible(s) : parapente\nFonctions de vol possible(s) : déco\nStructure gestionnaire ou gestionnaire de l'information : SOSPEL VOL LIBRE ( n°01798 / id:100)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10772"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3639,
+        "name": "Sospel, Mont Agaisen",
+        "latitude": 43.88611111,
+        "longitude": 7.45472222,
+        "description": "north of monaco\n\nLaunch:\n1. Mont Agaisen (SSE/S/SSW) 750m, easy, de luxe launch with a green carpet and a natural slope (below right). Toplandable! \nGPS: 43°53’12.94”N,7°27’16.32”E.\n\n2. La Lavina (SE/E) 1100m, medium, slope with a lip caused by the track which encircles the slope. \nGPS: 43°52’1.28”N, 7°24’48.72”E.\n\nLanding:\n1. Pigeonnier (335m) huge field just E of Sospel\nGPS: 43°52’41.92”N, 7°27’29.81”E.\n\n2. La Frighiera (420m) small field on private property, surrounded by trees.\nGPS: 43°52’54.97”N, 7°25’41.90”E.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3639"
+    },
+    {
+        "country_id": 73,
+        "start_id": 490,
+        "name": "St. André-Les-Alpes, Chalvet",
+        "latitude": 43.97805556,
+        "longitude": 6.48,
+        "description": "At good days the thermals lift at both sides, but will gradually go over to the west side of the mountain. \n\nLaunch\n1. (NE/E) 1546m, easy, flat dome, windsock, \nGPS: 43°58’38.88”N, 6°29’28.20”E\n\n2. (S/SE) 1538m, easy, just a little lower before (1), grass slope with windsock.\nGPS: 43°58’35.99”N, 6°29’28.89”E. \nBoth (1) and(2) are toplandable!\n\n3. (SW) 1552m, medium, steep slope, better for HG than PG, windsock on the edge above the summit road. \nGPS: 43°58’34.17”N, 6°28’54.07”E.\n\n4. (W) 1554m, easy, excellent for PG, toplandable, windsocks, just N of the parking at the end of summit road. \nGPS: 43°58’42.01”N, 6°28’47.84”E.\n\n\n\nLanding in downtown St. André should be used mainly. Also one landing-field under the westerly takeoff close to a camping-field.\n\nLanding\n1. St. André, zone de Loisir ‘Les Iscles’ (885m).\nAccess: Very big field at the southern exit of St. André, after the Spar Supermarket follow the signs for Les Iscles. Pass the industrial plants and Camping Les Iscles on your left. Continue straight to the parking and the flying school Aeroglis (windsock).\nGPS: 43°57’31.12”N, 6°30’38.61”E\n\n2. Moriez (940m) landing field for PG, just above the N202 Barrême–St.André at the southern exit of Moriez right above the entrance of Camping Le Pastaïre. \nGPS: 43°57’40.00”N, 6°28’37.08”E.\n\n3. The field at La Mure, left of the road, is not an official landing. Ask for further info at Aerogliss.\n\n4. Training hill E of the river for strong winds and training, open to all pilots except when the school is teaching. Behind Camping Les Iscles, go across the bridge and head up. \nGPS: 43°57’24.03”N, 6°30’57.50”E.\n\nThe valley-wind can be strong at the middle of the day.\n\nLocal paragliderschool offers transportation to take-off, weather-forecast, info and equipment. Located at the main LZ.\n\nThe flying is powerful around midday and anabatic in the afternoons. Especially between 11h00 and 17h00 from May until August the wind can increase beyond 40km/h on some days.\n\nIn the height of summer the day reaches its best from 15h00–18h00 with incredible distances possible!\nhttp://www.para2000.org/weather/mto-pro-r.html\n\nTaxi de l’Etoile at Moustiers:\nTel. +33 (0)4 9274 6687 \nor Cell: +33 (0)60737 3378.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=490"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3868,
+        "name": "St Geniez, les Rayes",
+        "latitude": 44.25,
+        "longitude": 6.06388889,
+        "description": "Nordøst for Sisteron.\n\nLaunch:\n1. Les Rayes (S/SW) 1350m, easy, 400m W of Domaine Les Rayes, a superb B&B. \nGPS:44°14’56.94”N, 6°4’0.00”E.\n\n2. Le Traînon (S/SW) 1654m, easy, from Les Rayes it’s a 45 min walk to the summit. \nGPS: 44°15’11.62”N, 6°4’11.95”E.\n\nLanding:\n1. Bastide (1140m) on the mountainside 300m\nbefore reaching the road to Les Rayes, just before a small saddle with a farm called ‘La Grande Bastide’ on your right. \nGPS: 44°14’36.64”N, 6° 3’50.01”E\n\n2. Church (1150m) just above the church of St. Geniez on the left of the way to Pas de l’Echelle.\nGPS: 44°14’46.42”N, 6° 3’10.84”E",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3868"
+    },
+    {
+        "country_id": 73,
+        "start_id": 495,
+        "name": "St Hilaire du Touvet, Grenoble",
+        "latitude": 45.31166667,
+        "longitude": 5.89055556,
+        "description": "The North and South launches cover the range of prevailing winds, although the house thermal out in front can sometimes produce a tailwind on the vast astroturfed south launch. In spring it starts working early in the day and after climbing out from a ratty start above the white cliffs below launch you can relax and pick your route.\nIn calmer autumnal weather take the two-hour hike up to Dent De Crolles above the town for some high mountain soaring and a float back down to your start point\nWHEN TO GO\nApril, May and June have the best XC weather, but the Coupe Icare is in September.\nALTITUDE\nLaunch: 900m (Dent des Crolles 2,040m)\nLanding:230m\n\nSite de la Coupe Icare, bien protégé.\nDeux décos : au tapis en haut du funiculaire, et dans un champ au NE du village (déco Sud).\nAtterrissage à Lumbin, sur le bord de la Nationale.\nBeaucoup de monde en l'air.\nCoupe Icare: http://www.coupe-icare.org/GB_home.html",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=495"
+    },
+    {
+        "country_id": 73,
+        "start_id": 1662,
+        "name": "St Vincent Les Fort(NaN)",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Det ligger nära Larange och är ett fint flygställe, har tyvärr ingen mer info",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=1662"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2100,
+        "name": "St Vincent les Forts",
+        "latitude": 44.44333333,
+        "longitude": 6.37222222,
+        "description": "SE of Gap- Official french HG/PG site. Parking, resturante and toilett on takeoff. Very good for toplanding.\nNice thermal and ridge riding place\nGood startpoint for XC flights.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2100"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10243,
+        "name": "Sulens, Annecy",
+        "latitude": 45.82277778,
+        "longitude": 6.36777778,
+        "description": "Graskledd topp, mange mulige takeoffplassar.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10243"
+    },
+    {
+        "country_id": 73,
+        "start_id": 8662,
+        "name": "Tete de Balme",
+        "latitude": 46.02994444,
+        "longitude": 6.96355556,
+        "description": "Takeof from south side of tete de balme top lift. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=8662"
+    },
+    {
+        "country_id": 73,
+        "start_id": 2142,
+        "name": "Thorenc, Col de Bleine",
+        "latitude": 43.81333333,
+        "longitude": 6.81111111,
+        "description": "Ca 15 km fra Gréolières\nAbout 15 km further into the valley from Gréolières\nBig start and landing.\n\n(photo 2007-03-28)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=2142"
+    },
+    {
+        "country_id": 73,
+        "start_id": 3761,
+        "name": "Tourrettes-sur-Loup, Courmettes",
+        "latitude": 43.72,
+        "longitude": 7.01027778,
+        "description": "On the other side of the loup Valley from Gourdon, long ridge west-faced.\nFrom pont-du-loup, drive towards tourrettes-sur-loup for 3/4km then turn left at the sign \"les courmettes\" and drive all the way up. Park at the farm then walk 10min on the 4wd road along the ridge and go at the view point. Hard to take-off as lines easily get tangled in thyme.\nThe landing field is down in the loup valley, at Vallettes, which is also used in winter from Gourdon.\n\nOn the picture you can see Gourdon village and the haut montet ridge",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=3761"
+    },
+    {
+        "country_id": 73,
+        "start_id": 984,
+        "name": "Ugine",
+        "latitude": 45.79694444,
+        "longitude": 6.44444444,
+        "description": "Great view of Mt.Blanc from this start.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=984"
+    },
+    {
+        "country_id": 73,
+        "start_id": 7913,
+        "name": "Val d’Isere - Les Dainades / James Bond",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Speedriding",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=7913"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10237,
+        "name": "Val d'Isere Solaise",
+        "latitude": 45.43277778,
+        "longitude": 6.99138889,
+        "description": "Winter ski start. One can land in the valley (plenty of space) and ski down towards the gondola or close to the gondola station - there is a wind sock, but the area is a bit tight.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10237"
+    },
+    {
+        "country_id": 73,
+        "start_id": 7910,
+        "name": "Val d’Isère - Charvet",
+        "latitude": 45.42222222,
+        "longitude": 6.95638889,
+        "description": "Speedriding",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=7910"
+    },
+    {
+        "country_id": 73,
+        "start_id": 7906,
+        "name": "Val d’Isère - Olympique / Banana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Speedriding",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=7906"
+    },
+    {
+        "country_id": 73,
+        "start_id": 10411,
+        "name": "Vallouise - Puy Aillaud",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Kjør eller gå til Puy Ailluad. Det er 10 minutt å gå på sti når man kommer til toppen. \nEt par ulike etablerte takeoffer i området. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=10411"
+    },
+    {
+        "country_id": 73,
+        "start_id": 8563,
+        "name": "Vesancy",
+        "latitude": 46.37011111,
+        "longitude": 6.08188889,
+        "description": "When in Vesancy, drive that one road that goes up towards the mountains. Follow the road 500m past the cow-fence and you are at the landing (should be a streamer there) It is possible to land on the small slopy field next to the parking, but there is a large nice field to land on just behind it. Continue driving up the mountain to get to the take-off, when you arrive at a kinda big paved place, turn left, and park behind the white house. The Take off is through the woods to your left. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=8563"
+    },
+    {
+        "country_id": 73,
+        "start_id": 849,
+        "name": "Vérel - Sire",
+        "latitude": 45.62777778,
+        "longitude": 5.94861111,
+        "description": "Près de Chambéry, à mi-hauteur du Sire.\nLaisser la voiture à Pragondan, 20 minutes de marche. Déco parfois turbulent, thermique juste devant.\nPas de vol en vallée à plus de 200 m / sol.\n\nKanonfin grässtart. Se upp med luftrummet.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=73&start_id=849"
+    }
+]

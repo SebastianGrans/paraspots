@@ -1,0 +1,525 @@
+[
+    {
+        "country_id": 171,
+        "start_id": 7673,
+        "name": "Algarve , Porto Mos",
+        "latitude": 37.085,
+        "longitude": -8.69861111,
+        "description": "Sydvendt bratt kystheng ca 2 km. langt.\nStor parkering ute i østenden 10 m. over strandnivå.\nKanten stiger slakt oppover med flere startmuligheter på vei opp til toppstarten.\nHele veien fra parkeringen opp til toppstarten er det flotte landingsmuligheter på stranden under.\nFra hovedstarten og vestover er det et ca. 100 m. høyt heng, men da uten mulighet for landing under.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=7673"
+    },
+    {
+        "country_id": 171,
+        "start_id": 7648,
+        "name": "Amado Beach, Carapateira",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Cliffs ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=7648"
+    },
+    {
+        "country_id": 171,
+        "start_id": 10533,
+        "name": "Areias Brancas (praia da Fonte)",
+        "latitude": 38.05527778,
+        "longitude": -8.82083333,
+        "description": "Sanddyneflyging med varierente høydeforskjell. Dynene er ganske lav, og funker best i mye vind. Rett vest er best, men fungerer med litt NW også.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=10533"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6928,
+        "name": "Arrábida (Setubal)",
+        "latitude": 38.48972222,
+        "longitude": -8.97583333,
+        "description": "take off : 38°29'22\" (38.4897)N; 8°58'33\" (8.9759)W - Elevation : 368 m.\nI følge lokal pilot er det ren Sør vindretning som fungerer best. Kan bli turbulent ved for mye vestlig. Om du er i luften og vinden dreier mot SV, fly ut og ned til det lille henget ved landing. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6928"
+    },
+    {
+        "country_id": 171,
+        "start_id": 9431,
+        "name": "Azorerna - Pico sa Barrosa, Lagoa do Fogo",
+        "latitude": 37.76485556,
+        "longitude": -25.49648056,
+        "description": "Thermal flights. Very suitable for \ncross-country. Various take-offs are suitable, in differ-\nent directions. Two geothermal power plants located \nin proximity to the site allow the formation of strong \n(artificial) thermals, which can be used by experienced \npilots to optimize their flights. \n\nCAUTION Do not fly without giving previous \nnotice to local pilots and without permission from the \ncompetent authorities. Avoid overflying the thermal \nplants when approaching the official landing area.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=9431"
+    },
+    {
+        "country_id": 171,
+        "start_id": 10738,
+        "name": "Azores - Mata dos Valados",
+        "latitude": 37.79035,
+        "longitude": -25.42953333,
+        "description": "Easy to get to by car for take off. Nice take off and landing on the meadows by the sea.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=10738"
+    },
+    {
+        "country_id": 171,
+        "start_id": 9430,
+        "name": "Azores - Salto de Cavalo, Furnas",
+        "latitude": 37.79195278,
+        "longitude": -25.30527778,
+        "description": "An amazing site over the beautiful Furnas valley. Flights are mostly thermal, during several hours. The site is very suitable for cross-country. Large and easy take-off areas.\n\nCAUTION: Do not fly without giving previous notice to local pilots and without permission from the competent authorities.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=9430"
+    },
+    {
+        "country_id": 171,
+        "start_id": 10737,
+        "name": "Azores - Santa Barbara beach",
+        "latitude": 37.81836667,
+        "longitude": -25.543,
+        "description": "Soaring place. Start above the beach or start directly on the beach if there is a little more wind. Large parking nearby and good restaurant on the beach.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=10737"
+    },
+    {
+        "country_id": 171,
+        "start_id": 9429,
+        "name": "Azores - Sete Citades",
+        "latitude": 37.84975,
+        "longitude": -25.76032778,
+        "description": "One of the most beautiful sites in the world to fly, within a breath-taking landscape. The range offers 3 different launch areas, depending on wind direction and intensity. Site with easy landing options. Flights can be mostly thermal.\n\nCAUTION Do not fly without giving previous notice to local pilots and without permission from the competent authorities.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=9429"
+    },
+    {
+        "country_id": 171,
+        "start_id": 1778,
+        "name": "Azores, Sao Miguel, Salto do Cavalo, Furnas",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Sao Miguel, Azores\nStart ovenfor Village of Furnas\nPå nedside av fjellhovedvei mot NV\nLandingsmulighetene mange ved landsbyen\nLandet selv ved de vulkanske varmtvannskildene",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=1778"
+    },
+    {
+        "country_id": 171,
+        "start_id": 9811,
+        "name": "Bordeira",
+        "latitude": 37.19722222,
+        "longitude": -8.90638889,
+        "description": "Borderia",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=9811"
+    },
+    {
+        "country_id": 171,
+        "start_id": 4311,
+        "name": "Caldelas (Braga)",
+        "latitude": 41.65856944,
+        "longitude": -8.358675,
+        "description": "It is a low place good for thermodynamic flight. \n\nCaldelas is about 15 km north of Braga, in Minho region's heart. It is a place with good take-offs and relatively close to those living in Braga, Porto and surrounding area. \n\nTo get there, take the road to Vila Verde (EN 101), after Cávado river turn to Amares (EN 205), then left to Terras de Bouro(EN205-3). Reached Caldelas follow the road to Braga (EN 308) and turn left to Paranhos just after Hotel Termas de Caldelas, and climb up the TV antennas. \n\nTakeoff is large, easy and clean. \n\nLandings consists of large fields, requiring attention to farmland. \n\nIt is quite popular, especially for those living in Braga and for Abouaaboua paragliding club pilots.\n\n(check it also here: http://locais-voo.ko-ok.com.pt/sites/view/51)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=4311"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6036,
+        "name": "Calores - Praia Grande do Rodizio",
+        "latitude": 38.81944444,
+        "longitude": -9.47361111,
+        "description": "..",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6036"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6837,
+        "name": "Canhas Madeira",
+        "latitude": 32.70277778,
+        "longitude": -17.12583333,
+        "description": "Gressslette rett ovenfor Madalena do Mar(landing på stranda)Parkering ved minimarcado. Takeoff 100 m rett nedenfor, retning sør. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6837"
+    },
+    {
+        "country_id": 171,
+        "start_id": 9334,
+        "name": "Cerdal",
+        "latitude": 41.97305556,
+        "longitude": -8.57833333,
+        "description": "Nice soaring / thermal site.\nNorth of Portugal, close to Valença, a border village on the south bank of river Rio Minho.\n\nLanding coordinates:\n41.9757720, -8.5968690\n41º 58’ 32.7792’’ N 8º 35’ 48.7284’’ W\nLanding altitude: 200m\n\nFrequencies used:\n143.950 (Portugal)\n146.100 (Spain)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=9334"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6930,
+        "name": "Fonte da Telha",
+        "latitude": 38.56083333,
+        "longitude": -9.18888889,
+        "description": "take off : 38°33'39\" (38.5611)N; 9°11'20\" (9.1889)W - Elevation : 56 m.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6930"
+    },
+    {
+        "country_id": 171,
+        "start_id": 4593,
+        "name": "Gralha, Sao Martinho do Porto",
+        "latitude": 39.522562,
+        "longitude": -9.13186183,
+        "description": "From Sao Martinho do Porto drive straight north for a few minutes. There is a small dirt road marked with paraglider start at the edge of the village. Takeoff when you see the cliff :)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=4593"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6035,
+        "name": "Leiria, Alcobaça, Martinho do Porto - Praia Grahla",
+        "latitude": 39.52222222,
+        "longitude": -9.13166667,
+        "description": "Coastal soaring. Not too far from Lisbon.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6035"
+    },
+    {
+        "country_id": 171,
+        "start_id": 8404,
+        "name": "Lisboa, Praia da Santa Rita",
+        "latitude": 39.16416667,
+        "longitude": -9.36222222,
+        "description": "Current description (per 2025):\n\nFlight type: coastal soaring\nIdeal wind direction: NW\nDifficulty: easy (technical on strong winds)\n\nAltitude: 32m (97ft)\nGPS coordinates: 39.164212, -9.362255\nRadio frequencies: 143.950 MHz / 143.9375 MHz / 143.925 MHz (simplex-only)\n\nRules and cautions for pilots:\n- If you are a newcomer, please talk with local pilots before take off\n- Don’t fly alone\n- Carefully check the flying conditions\n- Free the area if you aren’t about to launch\n- Respect in-flight priorities\n- During summer, respect the beachgoers space if you need to land on the brach\n- Respect the site. Keep it clean all the time\n\nRules for visitors:\n- Avoid the takeoff/landing area and follow pilots’ instructions\n\nFly safe and have fun!\n\n—————-—————-—————-\nOriginal site description (2001):\n\nDarian C. Haffner was kind to take me there in june 2001",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=8404"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6871,
+        "name": "Madeira,\"Antenna\" Arco de Calheta, Pinheiro de Fora",
+        "latitude": 32.72472222,
+        "longitude": -17.13555556,
+        "description": "Ovenfor Arco de Calheta. Nedenfor radioantenna. Landing i Calheta eller Madelena do Mar.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6871"
+    },
+    {
+        "country_id": 171,
+        "start_id": 2435,
+        "name": "Madeira, Arco da Calheta",
+        "latitude": 32.70805556,
+        "longitude": -17.14222222,
+        "description": "Half hour drive west of Funchal. Insert Madeira Paragliding in Google Maps. Relaxed «hippie» mood. Hartmut is site owner. €5 daily fee (2022). Get weather and flying tips from friendly tandem pilots. Ask about top landing technique before you start, or better yet: Watch them do it. Better than landing on rocky beach by the cemetary just east of Madalena do Mar. Check meteo wind on mountain behind by looking at windmills. Clockwise  rotation when viewed from takeoff: Southerly. Anti-clockwise: Northerly backwind. Very nice site with ridgesoaring in front and to the west combined with good thermals once it heats up",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=2435"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6833,
+        "name": "Madeira, Cabo Girao",
+        "latitude": 32.655306,
+        "longitude": -17.008844,
+        "description": "Kjør til utsiktspunktet, Cabo Girao, 12 km vest for Funchal. Når du står på utsiktspunktet er starten 200 meter vest. Følg hovedveien 300 meter vestover, takeoff er 15 meter fra veien. \n\nLang og noe bratt skråning med opparbeidet gress på hele starten. Ligger på verdens nest høyeste fjellklippe og ruver 580 moh.\n\nDet er noen trær foran på starten, men på grunn av hellingen på start og man står på en 500 meter bratt fjellklippe, kan man ta av her på relativt svak vind inn.\n\nHovedlanding er på Praia Formosa, ca 10 km unna. Det er fint mulig å gli helt bort til landing på svake vinder.\n\nDet er også mulig å lande på strendene før, både den rett under start, ved Teleferico Rancho og på stranda ved Paria de Vigario.\n\nTakeoff is about 300 meters to west, just follow the western road from Cabo Girão. Nice grassy and steep takeoff. Even though there are some trees at the bottom of the bottom, it is possible to take off in light winds due to the lift from the steep wall belove.\n\nMain landing is Praia Formosa, about 10 km away, and its possible to fly all the way even on lighter winds.\n\nIt's also possible to land on the beach right beneath Cabo Girao and the beach Praia de Vigario.\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6833"
+    },
+    {
+        "country_id": 171,
+        "start_id": 1560,
+        "name": "Montalegre, Mountain of Larouco",
+        "latitude": 41.87888889,
+        "longitude": -7.72222222,
+        "description": "Nordisk 2003\nVM 2003",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=1560"
+    },
+    {
+        "country_id": 171,
+        "start_id": 10434,
+        "name": "Obidos (Bom Sucesso)",
+        "latitude": 39.42513611,
+        "longitude": -9.23888889,
+        "description": "Flott kysthang på NW. For N-NE er det sanddyner av ulik størrelse som er fint å leke på. Parkering rett med sanddynene.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=10434"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6556,
+        "name": "Polvoeira",
+        "latitude": 39.72,
+        "longitude": -9.04888889,
+        "description": "Costal soaring site",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6556"
+    },
+    {
+        "country_id": 171,
+        "start_id": 10815,
+        "name": "Praia Azul",
+        "latitude": 39.11583333,
+        "longitude": -9.39166667,
+        "description": "Soaring spot rett ovenfor Praia Azul. Er en skiltet PG takeoff. Kan fly fint langs klippene, spesielt med litt sørvestlig. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=10815"
+    },
+    {
+        "country_id": 171,
+        "start_id": 10823,
+        "name": "Praia da Consolacao, Peniche",
+        "latitude": 39.33138889,
+        "longitude": -9.35888889,
+        "description": "Small dunes faced west. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=10823"
+    },
+    {
+        "country_id": 171,
+        "start_id": 9810,
+        "name": "Praia da Cordoama, 8650 Vila do Bispo",
+        "latitude": 37.10586111,
+        "longitude": -8.93833333,
+        "description": "8650 Vila do Bispo\n",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=9810"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6820,
+        "name": "Praia da Falesia, Albufeira",
+        "latitude": 37.08027778,
+        "longitude": -8.14694444,
+        "description": "Fine muligheter for hangflyging i spektakulære omgivelser. Topplanding eller nede på stranda. \n\nNice place for soaring. Topplanding or at the beach. \n(Corrected the position 2020-03-19 /SR\nand added a photo 2020-04-04)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6820"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6931,
+        "name": "Praia das Bicas",
+        "latitude": 38.46222222,
+        "longitude": -9.19277778,
+        "description": "take off : 38°27'44\" (38.4623)N; 9°11'34\" (9.1928)W - Elevation : 32 m.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6931"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6784,
+        "name": "Praia do Porto de Mós, Lagos",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Nice costal soaring, ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6784"
+    },
+    {
+        "country_id": 171,
+        "start_id": 2445,
+        "name": "Praia dos Salgados, Nazare, Costa de Prata",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Para lá chegar vá á Nazaré e dirija-se a \nS. Martinho do Porto pela marginal\n\nFlott kyststripe med laaaang sandstrand, og høyde på +/- 100 meter i bakkant.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=2445"
+    },
+    {
+        "country_id": 171,
+        "start_id": 911,
+        "name": "Sagres, Vila do Bispo - Praia da Cordoama",
+        "latitude": 37.10388889,
+        "longitude": -8.94083333,
+        "description": "..corrected Longitude to W (was incorrectly E...)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=911"
+    },
+    {
+        "country_id": 171,
+        "start_id": 6698,
+        "name": "Serro de Cabeço de Câmara-Loulé",
+        "latitude": 37.11361111,
+        "longitude": -8.06111111,
+        "description": "Between Faro and Albufeira, can fly all year",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=6698"
+    },
+    {
+        "country_id": 171,
+        "start_id": 1749,
+        "name": "Sra da Graça - Mondim de Basto",
+        "latitude": 41.41638889,
+        "longitude": -7.91666667,
+        "description": "Senhora da Graça\n\n41° 24' 59.3706\"\n-7° 55' 0.0696\"",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=171&start_id=1749"
+    }
+]

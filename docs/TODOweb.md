@@ -1,5 +1,23 @@
 # TODO Web
 
+## Add more countries
+
+I've now scraped more takeoffs from other countries. They are named ``takeoffs_cid_XX.json` and
+located in the data folder.
+
+cid - meaning country id.
+
+203 - sweden 160 - norway 73 - france 195 - spain 57 - denmark 81 - germany 105 - italy 171 -
+portugal
+
+We now need to add the ability to select which countries to include in the view.
+
+Implemented for the web port (`docs/js/countries.js` + a 🌍 dropdown in the list toolbar).
+
+TODO: the Python/desktop app still needs the equivalent country-selection feature — it currently
+has no notion of these per-country files at all.
+
+
 ## Restore favorites
 
 The user can have favs, but this is in localstorage, which is probably tied to the browser itself.

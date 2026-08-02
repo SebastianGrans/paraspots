@@ -1,0 +1,337 @@
+[
+    {
+        "country_id":81,
+        "start_id":4811,
+        "name":"Blomberg",
+        "latitude":47.71666667,
+        "longitude":11.5,
+        "description":"Near Bad Tölz, Bavaria. Close to higher Brauneck site.",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "E",
+            "NE"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=4811"
+    },
+    {
+        "country_id":81,
+        "start_id":2410,
+        "name":"Brauneck",
+        "latitude":47.65,
+        "longitude":11.53333333,
+        "description":"Brauneck is a Skiarea close to Bad Tölz. You can take the Cablecar to the start. Landing ist close to the lower station. You are required to pay a landing fee.",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "S",
+            "E",
+            "NE"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=2410"
+    },
+    {
+        "country_id":81,
+        "start_id":1606,
+        "name":"Buchingberg (Füssen)",
+        "latitude":47.61277778,
+        "longitude":10.81111111,
+        "description":"Detta är ett mindreberg som ligger längre öster ut från Tegelberg och Füssen. Som man kan ta till om det blåser för mkt på tegelberg. \nEn blandning mellan hang och termik. \n\nMan åker stolslift upp. \n\nFör att komma hit så tar man väg 17 mot München från Füssen 6 km. från tegelberg. ",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NE"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=1606"
+    },
+    {
+        "country_id":81,
+        "start_id":6310,
+        "name":"Garmisch-Kreuzeck",
+        "latitude":47.4525,
+        "longitude":11.07944444,
+        "description":"Ta Kreuzeck-bahn opp. Start rett sør av heisstasjonen (100m). Sjekk med locals, kun et par steder tillater teake-off med PG/HG. Landing på fast bestemmt sted i bånn av heisen. ",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=6310"
+    },
+    {
+        "country_id":81,
+        "start_id":6309,
+        "name":"Garmisch-Osterfelder",
+        "latitude":47.43833333,
+        "longitude":11.05027778,
+        "description":"Ta heisen opp (Alpspitz-bahn), 2 definerte starter : Erfaren og Rookie. Sjekk været og forholdene med de lokale ved landing før heisen tas opp. Dalvindene kan gjøre turen utfordrende.",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=6309"
+    },
+    {
+        "country_id":81,
+        "start_id":7632,
+        "name":"Hochfirst (hoch Schwarzwald)",
+        "latitude":47.90142778,
+        "longitude":8.18349722,
+        "description":"Flat takeoff so make sure the wind is coming from the right direction. ",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "W"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=7632"
+    },
+    {
+        "country_id":81,
+        "start_id":6580,
+        "name":"Höfatsblick / Probsthaus Oberstdorf",
+        "latitude":47.41388889,
+        "longitude":10.34638889,
+        "description":"Take the Nebelhorn Bahn to the second stop.  The start is in front of the cafeteria.  Ask the tandem/local pilots for advise. In summer the landing can be quite turbulent with strong wind coming up the valley. Be prepared to make a big-ears approach for a safer landing.",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "W",
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=6580"
+    },
+    {
+        "country_id":81,
+        "start_id":7651,
+        "name":"Kampenwand",
+        "latitude":47.75313056,
+        "longitude":12.35286111,
+        "description":"Fin og stor gresslette rett nedenfor bergstasjon til heisen.",
+        "holfuy_id":null,
+        "wind_dirs":[],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=7651"
+    },
+    {
+        "country_id":81,
+        "start_id":2568,
+        "name":"MARQUARTSTEIIN, ROSENHEIM",
+        "latitude":0.0,
+        "longitude":0.0,
+        "description":"AEROTAUING",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=2568"
+    },
+    {
+        "country_id":81,
+        "start_id":10366,
+        "name":"Merkur west",
+        "latitude":0.0,
+        "longitude":0.0,
+        "description":"Baden-Baden",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=10366"
+    },
+    {
+        "country_id":81,
+        "start_id":2601,
+        "name":"Nebelhorn-Peak (gipfel)/Oberstdorf",
+        "latitude":47.42166667,
+        "longitude":10.34138889,
+        "description":"Take the cablecar from Oberstdorf to the top. You have to change two times. 6 meter pack is possible. Very cliffy start. You need IPPI-SP5.",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "SW"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=2601"
+    },
+    {
+        "country_id":81,
+        "start_id":10834,
+        "name":"Rauenstein",
+        "latitude":50.42381111,
+        "longitude":11.04914444,
+        "description":"Åpen slette og godt tilrettelagt. Lite høydeforskjell til landing (hillside)",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=10834"
+    },
+    {
+        "country_id":81,
+        "start_id":7515,
+        "name":"Schwarzwald, Kandel",
+        "latitude":48.065,
+        "longitude":8.01611111,
+        "description":"Ta av fra Scwarzwald, og kjør opp mot Kandel. Du kjører en sikksakk vei gjennom skogen opp til Kandel. \n\nVIKTIG!  Du MÅ ha utsjekk fra en fra klubben før du kan fly på stedet, det er regler som er bundet til start plassen, og generelt i hele Tyskland er det slik. Du må innom landingsområde før du flyr så det kan være lurt å se om du finner noen som kan gi deg utsjekk allerede der nede (det er mange folk fra klubben som flyr her, så det er ikke problem med å få utsjekk). \nResten av info om for å fly på plassen får du ved utsjekk, eller besøk hjemmesiden til klubben. \n\nMan må også betale for et \"dagskort\" for å fly her, koster rundt 5 euro. \n\nHvis du lurer på om forholdene er gode nokk, så kan du gå inn på webkameraet de har, for å se om det er noen som flyr der.  Ser du vinger på start, er det bare å dra opp (http://www.dgfc-suedschwarzwald.de/webcam2/aktuell.php). \n\n",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=7515"
+    },
+    {
+        "country_id":81,
+        "start_id":4130,
+        "name":"Stockerkopf, Baiersbronn, Schwarzwald",
+        "latitude":0.0,
+        "longitude":0.0,
+        "description":"Training hills used by www.sky-team.de, among others. The highest part is 250m top to bottom, from near the top of the ski lift. Further down is a smaller slope for practicing starts (you have to walk back up...)",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=4130"
+    },
+    {
+        "country_id":81,
+        "start_id":982,
+        "name":"Tegelberg (Füssen)",
+        "latitude":47.56666667,
+        "longitude":10.76666667,
+        "description":"Vid Slottet i Fussen. Skaffa ett grönt kort i kassan kan vara bra, det är gratis. Det betyder att du har fått en genomgång av flygstället. \n\nClose to the castle in Fussen. It can be good to get a green card from there you by tickets to the cabelcar.",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "W",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=982"
+    },
+    {
+        "country_id":81,
+        "start_id":10244,
+        "name":"Tenerife, Taucho - Paragliding Park",
+        "latitude":28.14472222,
+        "longitude":-16.73611111,
+        "description":"Note: Takeoff was originally registred as being in Germany, however the coordinates was from Tenerife and all flights registered are there so I've changed name and country (erdal)",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=10244"
+    },
+    {
+        "country_id":81,
+        "start_id":8170,
+        "name":"Vogelsang",
+        "latitude":0.0,
+        "longitude":0.0,
+        "description":"You can take up the car all the way to the start! Big landingfield, visable from the startplace.\n\nWest only.\nBoth for hanggliders and paragliders.\n\nLandingfee of 3 euros needs to be payed at the restaurant where you park the car.",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "W"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=8170"
+    },
+    {
+        "country_id":81,
+        "start_id":1513,
+        "name":"Wallberg (Tegernsee)",
+        "latitude":0.0,
+        "longitude":0.0,
+        "description":"Stort landingsjorde. Kan parkere her og gå opp til kabelbanen, bare fem minutter å gå. Heisturen koster 10,50 Euro og inkluderer landingsavgift. Eget område litt nedenfor toppstasjonen for paraglidere. Bratt, men fin start uten særlige hindringer. \nLink viser webkamera med starten og værinfo.\n\nN47*39.826\nE011*47.702",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=1513"
+    },
+    {
+        "country_id":81,
+        "start_id":983,
+        "name":"Wank (Garmish)",
+        "latitude":47.5,
+        "longitude":11.13333333,
+        "description":"Ligger i Garmish berget heter Wank svårt att missa\n\nIn Garmish the mountins name is Wank",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "S",
+            "SE",
+            "E",
+            "NE"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=983"
+    },
+    {
+        "country_id":81,
+        "start_id":2335,
+        "name":"Wasserkuppe - Abtsroda - Poppenhausen - Pferdskopf",
+        "latitude":50.5,
+        "longitude":9.93333333,
+        "description":"Her gjorde Otto Lilienthal sine første sprang i luften. Tysk seilflymuseum på toppen. I tillegg ekstremt høy aktivitet med PG, HG, modellfly, motorfly, seilfly og motorseilfly. Her må en virkelig passe på! Landing enten på toppen like bak starten eller ved veien \"Heckenhöfchen\" på veien mellom Abtsroda og Gersfeld. Bildet viser gangveien til start. Se også lenke:\nhttp://www.wasserkuppe.com/",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=2335"
+    },
+    {
+        "country_id":81,
+        "start_id":10621,
+        "name":"Zuflucht",
+        "latitude":48.48638889,
+        "longitude":8.23083333,
+        "description":"Google",
+        "holfuy_id":null,
+        "wind_dirs":[
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url":"",
+        "flightlog_url":"https://flightlog.org/fl.html?l=1&a=22&country_id=81&start_id=10621"
+    }
+]

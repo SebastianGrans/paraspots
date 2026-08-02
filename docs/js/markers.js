@@ -66,6 +66,14 @@ export function setMarkerHovered(takeoff, isHovered) {
     }
 }
 
+export function removeTakeoffMarker(takeoff) {
+    const marker = state.takeoffMarkers.get(takeoff);
+    if (!marker)
+        return;
+    marker.remove();
+    state.takeoffMarkers.delete(takeoff);
+}
+
 export function createTakeoffMarker(map, takeoff, { onSelect, onZoom }) {
     let clickTimer = null;
     const marker = L.marker([takeoff.latitude, takeoff.longitude], { icon: takeoffIcon })

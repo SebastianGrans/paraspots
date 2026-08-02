@@ -1,0 +1,1448 @@
+[
+    {
+        "country_id": 105,
+        "start_id": 5445,
+        "name": "Ahornach (Acereto), Campo Tures",
+        "latitude": 46.92555556,
+        "longitude": 11.96888889,
+        "description": "Nydelig start på gressplæn.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=5445"
+    },
+    {
+        "country_id": 105,
+        "start_id": 9991,
+        "name": "Assen hütte, Merano, Sør-Tyrol",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Skildring kjem.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=9991"
+    },
+    {
+        "country_id": 105,
+        "start_id": 8524,
+        "name": "Aviano",
+        "latitude": 46.09694444,
+        "longitude": 12.54194444,
+        "description": "Paved road all the way up",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=8524"
+    },
+    {
+        "country_id": 105,
+        "start_id": 1415,
+        "name": "Bassano, Campeggia",
+        "latitude": 45.83722222,
+        "longitude": 11.74861111,
+        "description": "HG take off north of the valley Santa Felicita.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=1415"
+    },
+    {
+        "country_id": 105,
+        "start_id": 563,
+        "name": "Bassano, Cima Grappa (panettone) TV",
+        "latitude": 45.86,
+        "longitude": 11.80527778,
+        "description": "Panetone / Monte Meda. This takeoff is below the Monte Grappa monument, and is mostly closed from late November until mid April because of snow.\n\nToplandable, with brilliant views.\nBeware of strong thermals from the gully below – they are powerful when there is NE wind at altitude!\n\nLanding area:\n1.Semonzo del Grappa - \n2.Semonzetto (Garden Relais)\n\nGet your Flycard for Monte Grappa before flying at Airpark Montegrappa or Consorzio Montegrappa(the tourist office)\n• www.vivereilgrappa.it\n• www.aeroclubmontegrappa.it\n\n\nhttp://www.aeroclubmontegrappa.it/\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=563"
+    },
+    {
+        "country_id": 105,
+        "start_id": 9652,
+        "name": "Bassano, Cima Grappa (tapetti)",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Bassano Del Grappa",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=9652"
+    },
+    {
+        "country_id": 105,
+        "start_id": 845,
+        "name": "Bassano, Col del Pupolo \"Da Bepi\" (teppestarten)",
+        "latitude": 45.82361111,
+        "longitude": 11.76861111,
+        "description": "This PG start is just below the HG start (Col Del Pupolo) and listed as #8 on the map available from the Consorzio Turistico (Turist office) at the landing. \n\nIt is also referred to as \"South Start\" (Decollo Sud)\n\nThe take off is very steep and partially covered with green carpet. Take care not to slip on the carpet when wet.\n\nOn the eastside is an old HG launch area, where PG pilots can prepare their wings before bringing them over to launch. \nPark your car 50m higher at the HG ramp (restaurant).",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=845"
+    },
+    {
+        "country_id": 105,
+        "start_id": 585,
+        "name": "Bassano, Col del Pupolo",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Main HG start. On the way up to Monte grappa.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=585"
+    },
+    {
+        "country_id": 105,
+        "start_id": 573,
+        "name": "Bassano, Col di Serai (dietro casette) TV - West Start",
+        "latitude": 45.82722222,
+        "longitude": 11.76805556,
+        "description": "Also referred to as the \"West Start\" (decollo ovest). Plenty of space for preparing your flight, and a very large start slope to the West.\n\nThe little plateau itself is good for preparation and top landing to the west.\n\nStarting towards the south, is prohibited on this site. (flying out over the access road) due to occasional severe turbulence immediately after start. With south winds, use Da Bepi or Stella Alpina further down the road.\n\nLanding area: \n1.Semonzo main landing 170m. GPS: 45°48’28.06”N, 11°46’12.00”E.\n2.Semonzetto (168m), HG+PG, south of the main road crossing Semonzo. Signed, with parking, beside the apartment complex of Garden Relais.\n GPS: 45°48’21.80”N, 11°46’40.12”E.\n\n Detailed description: See \"Costalunga\".",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=573"
+    },
+    {
+        "country_id": 105,
+        "start_id": 525,
+        "name": "Bassano, Costalunga",
+        "latitude": 45.81305556,
+        "longitude": 11.74472222,
+        "description": "Takeoff can be turbulent when the wind goes from S towards SW in the afternoon.\n\nThe main landing is behind Piazza Paradiso, a 200m stroll down from Tilly's Locanda in Semonzo.\n\nThis landing field is located behind the office of the Club Volo Libero Montegrappa, west of the residential area of piazza Paradiso di Semonzo. This field is used exclusively for paragliding pilots, due to its location close to the base of the mountain, offering a very valid landing point. To find it, along the main road from Romando d'Ezzelino to Borso del Grappa, turn left in via Chiesa (road used to access the top of Monte Grappa on the road Strada Generale Giardino), after about 300m on your left you'll see a piazza and the residential complex, turn left and drive around the back of the complex.\n\nPay attention to the turbulence caused by the east wind during landing, and to the houses on the east side of the field. Other than these points, it offers a relatively safe landing area with a good car park and possibility of returning swiftly to the take-off areas",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=525"
+    },
+    {
+        "country_id": 105,
+        "start_id": 574,
+        "name": "Bassano, Pedanetta TV",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Steep takeoff below the road just west of Bar Deltaplano.\nLanding area: Semonzo del Grappa - Semonzetto\nJust west of Tilly's Locanda.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=574"
+    },
+    {
+        "country_id": 105,
+        "start_id": 2817,
+        "name": "Bassano, Rubbio",
+        "latitude": 45.79305556,
+        "longitude": 11.66361111,
+        "description": "Used for competitions - maybe no good landing fields below.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=2817"
+    },
+    {
+        "country_id": 105,
+        "start_id": 4820,
+        "name": "Bassano, Stella Alpina - Camillo (Gresstarten)",
+        "latitude": 45.81944444,
+        "longitude": 11.76333333,
+        "description": "Sydvendt start, ingen parkering ved starten, bruk parkeringen ved Stella Alpina\n\nWebcam: http://www.aeroclubmontegrappa.it/meteo/webcam.php\nhttp://www.aeroclubmontegrappa.it/meteo/webcamdecollo.php\n\nVærst.: http://www.aeroclubmontegrappa.it/meteo/graph6.jpg",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=4820"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10381,
+        "name": "Beim Mannl, Ahrntal, Südtirol",
+        "latitude": 47.03222222,
+        "longitude": 11.99138889,
+        "description": "Graskledd topp.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10381"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10297,
+        "name": "Belice; Courgne, Piemonte",
+        "latitude": 45.41805556,
+        "longitude": 7.64222222,
+        "description": "Belice: lower take-off in Salto, Courgne - used when the high takeoff is unreachable (winter) or inside the clouds, and whenever conditions allow.\nIt is next to the small church Belice, not big but smooth and grassy field at 954 m altitude. Coordinates: 45.418305ºN, 7.641971ºE.\nIt can be easily reached by car via a paved road.\n\nSanta Elisabetta; Is the higher take-off in Salto, Courgne, 1400 m. Nice and huge take off place at the feet of local mountain Punta Quinseina Nord . Only one warning, be careful of the pylons of electric line near the take off.\n\nLanding : 45°24'10\" (45.4027973)N; 7°38'04\" (7.6344506)E - Elevation : 400 m.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10297"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10826,
+        "name": "Belvedere/Col di Rosc, Canazei, Dolomittene",
+        "latitude": 46.47444444,
+        "longitude": 11.79972222,
+        "description": "Takeoff vinterstid når heisen er i drift er over den vesle ryggen mot vest. Landing i Canazei eller i Campitello di Fassa.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10826"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10230,
+        "name": "Bernadia - Nimis",
+        "latitude": 46.22527778,
+        "longitude": 13.26369444,
+        "description": "Bernardia is an option for Gemona area. The main takeoff of the whole area is Monte Cuarnan, with shuttles running from Bordano landing. We have used this takeoff because there was snow!!! (I know snow at 1000m in Italy, almost May!!!) and it worked good even for a small task for Freedom Open 2024.\nIt could be an option if accommodation is closer to the area or if there is a predominant easterly wind. \nIt’s easy access by road, the last 200m of road is gravel but accessible by any car. The last few tens of meters are to be walked, flat terrain path and then a bit downhill. \nNice takeoff, good for 2-3 glider simultaneous, good slope, good for any level. Official landing is with windsock, on nice, flat, large terrain. Other options available too. Apparently the whole area is renowned for a good, sweet, strong white wine. Cannot be wrong to land on any suitable field.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10230"
+    },
+    {
+        "country_id": 105,
+        "start_id": 5066,
+        "name": "Big Sur Flight Park (Garda Lake)",
+        "latitude": 45.66555556,
+        "longitude": 10.56111111,
+        "description": "\n\nSuitable for all levels, hang gliders and paragliders.\n\n\nBigSur SkyPark is part of the Parco Alto Garda (north Garda park), which covers over 38,000 hectares and includes the largest publicly-owned forest in Lombardy. As a result, the area is one of the most valuable nature resources in Italy. The landscape is remarkable in its variety, changing from the shoreline areas of Lake Garda with its cypresses, olive and citrus groves, to the mountain peaks a little further back, with fauna that includes Alpine ibex and chamois deer. In the air, you may even find yourself flying in company of a golden eagle. \n\nLaunch and landing sites\n\nThe launch sites are on the southern slopes of Mount Pizzocolo, at a location named Pirello.\n\nPirello south launch site:\n1,160 m\nGoogle-Earth coordinates 45°39? 56? N  10° 33? 40? E\nsuitable for all levels, hang gliders and paragliders\n\nPirello west launch site:\nheight 1,210 m\nGoogle Earth coordinates 45°40’03”N 10°40’49”E\nsuitable for all levels, hang gliders and paragliders\n\nColomber landing field:\nheight 400 m\nGoogle Earth coordinates 45°38? 30? N  10° 33’ 02? E\nefficiency required: 3.5\ncircuit: left-hand C.\neasy for paragliders; for hang glider pilots with some experience (minimum 30 flights)\n\nMontesei landing field:\nheight 370 m\nGoogle Earth coordinates 45°37’58”N 10°35’55”E\nefficiency required: 4.8\ncircuit: left-hand C\nsuitable for pilots of all levels, the landing field is very large\n\nToscolano beach landing:\nheight 63 m\nGoogle Earth coordinates 45° 38? 23? N  10° 37“ 13? E\nefficiency required: 5\ncircuit: left-hand C with south wind, right-hand C with north wind\nrequires a good level of experience (minimum 100 flights)\n\nWINDS\n\nLaunch is possible with wind from south, east and west.\nLaunch is not possible with strong winds from the north.\n\nN.B. the fact that the launch site faces south-east means that thermal soaring is possible from relatively early in the morning.\n\nFlying difficulty:\nThis flying site is ideal for all levels, both hang gliders and paragliders.\nCross-country flights are possible:\n\nSouthwards: easy\nWestwards: moderately difficult\nNorthwards and eastwards: difficult\n\nN.B. from BigSur SkyPark, flights of over 150 km have been made in all directions.\nHere, the most representative tops of the mountains of the area, photographed from the summit of Mount Pizzocolo.\n\nOur efficient shuttle service with two nine-seat Land Rover Defenders means that all you have to think about is your flight!\n\nKanonställe som drivs av hjälmdesignern och hängflygpiloten, Ignazio Bernardi. \n\nBo gör du lätt på Hotel Columber som är precis vid landningen. Sedan hyr du plats i jeepen upp till starten för 15 euro. Riktigt fin start - super nice flygställe. Känns väldigt vädersäkert. \n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=5066"
+    },
+    {
+        "country_id": 105,
+        "start_id": 5184,
+        "name": "Brosso, Cima Cavallaria, Manifestazione",
+        "latitude": 45.51361111,
+        "longitude": 7.79694444,
+        "description": "Launch:\n1.Manifestazione (S/SW) 1370m,\nBig easy launch.\nCan not be reached by private car \n\nShuttle bus service Monday–Friday at\n13h00 and 17h00, every hour on weekends, contact:\nRemo Tel. +39 333 437 6212. Or try Gianni Tel. + 39 339 8409842.\n\nStrong summer winds and thermals. Exposed to\naltitude winds. Especially sensitive to N foehn. Inexperienced pilots should only\nlaunch in the evenings between May and August.\n\nOther launches:\n2. Pian dei Muli (S) 1443m, easy,\nGPS: 45°31’13.94”N, 7°48’17.74”E\n3. Basso (S/SE) 1300m.\nGPS: 45°31’0.89”N, 7°48’29.88”E\n4. Delle Felci (S/SE) 850m, easy.\nThe only launch that can be reached by private vehicle via Brosso.\nGPS: 45°30’11.38”N, 7°48’18.45”E\n\nLanding:\nCalea (264m) big field for PG+HG, left of the road to Baia Dora. \nGPS: 45°29’56.31”N, 7°49’41.45”E.\nFrom Ivrea on the road to Lessolo\ncontinue towards Baia Dora.\nShortly after entering the village of Calea you’ll find the landing area left of the road, with a parking spot and a small clubhouse.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=5184"
+    },
+    {
+        "country_id": 105,
+        "start_id": 4376,
+        "name": "Bruneck, Kronplatz",
+        "latitude": 46.74277778,
+        "longitude": 11.96083333,
+        "description": "In winter only the south-west side can be used for starting.\nAs there is no skiing in the summer, the choice of starting point does not present a great problem. The pilot can decide for himself where to start as long as he does not adversely affect other people and keeps a sufficient distance from the cable car runs and buildings.\n\nLaunch\n4. Summit south (S/SW) 2260m; 100m S of\nthe cablecar, not allowed in winter! (ski slope).\nGPS: 46°44’17.87”N, 11°57’30.11”E\n\nOther launches:\n1. Cablecar (W-N) 2270m, easy, about 50m\nW of the cablecar station; toplandable.\nGPS: 46°44’17.61”N, 11°57’27.21”E\n2. Ski slope (N/NE) 2219m; about 200m downward\n(N) on the ski slope, visible on the way up from the\ncablecar. GPS: 46°44’28.46”N, 11°57’22.34”E\n3. Summit east (E/SE) 2260m; 100m E of the cablecar\non the summit plateau. Not allowed in winter\n(ski slope)! GPS: 46°44’19.91”N, 11°57’39.99”E\n\n\nLanding:\nReischach (945m), for HG & PG, opposite the\ncablecar, N of the parking area. GPS: 46°46’24.08”N,\n11°56’22.95”E.\nThe cablecars from Olang and St.Vigil have no official landings. PG pilots land there in winter occasionally near the bottom stations or on harvested fields.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=4376"
+    },
+    {
+        "country_id": 105,
+        "start_id": 2478,
+        "name": "Campitello Di Fassa, Col Rodella, N",
+        "latitude": 46.49722222,
+        "longitude": 11.75194444,
+        "description": "Take the cablecar to the start.\n\nVery demanding conditions! Best season is september.\n\nLanding: N 46° 28' 34'' E 11° 45' 03''",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=2478"
+    },
+    {
+        "country_id": 105,
+        "start_id": 2479,
+        "name": "Campitello Di Fassa, Col Rodella, SO",
+        "latitude": 46.49694444,
+        "longitude": 11.75277778,
+        "description": "Take the cablecar to the start.\n\nVery demanding conditions! Best season is september.\n\nLanding: N 46° 28' 34'' E 11° 45' 03''",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=2479"
+    },
+    {
+        "country_id": 105,
+        "start_id": 2480,
+        "name": "Campitello Di Fassa, Col Rodella",
+        "latitude": 46.49694444,
+        "longitude": 11.75277778,
+        "description": "Take the cablecar to the start.\nVery demanding conditions! Best season is september.\nLanding: N 46° 28' 34'' E 11° 45' 03''\nThe aerial arena above Col Rodella and the Sella Pass has a worldwide reputation for the best flying you can find in the Dolomites in late summer\nand autumn. It’s fascinating and breathtaking, but reckless launches in leeside conditions and overcrowding by hundreds of pilots in late September\nare ongoing problems, so Belvedere is a good alternative and the Sella saddle as well. Choose when and where to go\ncarefully. If in doubt, stand down, and take an experienced guide for your own safety and enjoyment!\n\nBorowed from ParaglidingEarth:\nThere are two main take-offs, the first is located just 100 meters from the Col Rodella cable car station near the refuge Des Alpes. Going down the ridge from the hut we note the windsock; on the left side (towards the Gardena valley) is used when the wind comes from the North (the area under the two chair lifts with exposure to the North is customarily used for hang-gliders take off) . The right side (Fassa valley side) is used when the wind comes from South and Southeast and in the early hours of thermal activity, normally until 12.00am. After this time there is a gradual strengthening of the breeze of the Fassa valley, so use a take-off from the South to West facing. This take-off is reached by turning right out of the station and the cable car going down the path that passes under the cable car line in the direction of the road equipped with Rodella, at this point we can see the windsock. If you come from Sella Pass, park the car before the bar near the refuge Valentini and walk for about 30 minutes. In winter take-offs remain viable only North and South-Southeast.\n\nLanding:\nThe main landing is located about 200 meters east of the Col Rodella cable car station, there is a wind sock on the west side. The landing is very big and easy, but we must be alert to the power line that crosses this longitudinally to the normal landing path. The secondary landing just across the river at the beginning of the town of Canazei. The windsock is located more or less at the center of the landing and this is equally easy. For both landings normally there is a landing direction from west to east during the morning, increasing in the afternoon breeze starts to land from east to west, in that case pay attention to the trees situated at beginning of the landings, which could create rotors in case of strong breeze.\n\nWeather Info: \nhttp://www.arpa.veneto.it/... \nhttp://www.meteotrentino.it/ \nPay particular attention to moderate winds from the North and East in general, in these conditions, the area becomes very dangerous and turbulent. In any case, the flight in spring and summer in the central hours (11:00am to 5:00pm) is only recommended for experienced pilots. However, towards evening it is possible for less \nexperienced pilots to make a beautiful soaring flights (South, Southeast Takeoff).\n\nTakeoff parking gps : 46.4751 N, 11.7459 E\nLanding parking gps : 46.4751 N, 11.7464 E",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=2480"
+    },
+    {
+        "country_id": 105,
+        "start_id": 9686,
+        "name": "Campitello di Fassa, Col Pelous 2344",
+        "latitude": 46.46305556,
+        "longitude": 11.75277778,
+        "description": "Alternativ 1: Gå opp sti 645 (Via Alpina) fra Fontanazzo. Midt i Val de Grepa ved de to hyttene som stien går mellom, går det en umerket sti opp til gress-slettene og starten(e).\nAlternativ 2: Ta gondol fra Alba og følg sti 645 til Pian de Sele (ca 200 høydemeter). Følg sti til venstre for ryggen ut til starten(e).\n\nMulig å starte i alle retninger, men hovedlandingen ligger ved gondolen til Col Rodella (mot nord).",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=9686"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10943,
+        "name": "Capaccio, Madonna del Granato",
+        "latitude": 40.44916667,
+        "longitude": 15.04944444,
+        "description": "Hovedstarten til den lokale paragliderklubben i Capaccio og Paestum. Ca. 30 min kjøring sør for Salerno, og ca. 15 min kjøring fra Agropoli, ligger denne fine starten som er et ganske bra utgangspunkt for lokal xc-flyging i området rundt Agropoli.\n\nHovedlandingen er på et jordet ca 800m fra starten og er markert med 2stk vindpølser. Det er en høyspentledning rett foran landingsjordet og midt i innflygingen, så vær obs på den. Ellers god plass!\n\nFølg anvisningene på informasjonssklitet og respekter bøndenes gårdsdrift og klubbens regler. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10943"
+    },
+    {
+        "country_id": 105,
+        "start_id": 3162,
+        "name": "Castelluccio - La Rolonda",
+        "latitude": 42.79833333,
+        "longitude": 13.21666667,
+        "description": "\"Skolbacken\". Ett alternativ om det blåser för mycket på högre startplatser. Det går troligen att starta i fler riktningar på den här kullen. Har ej prövat. Se länk för mer info om flygning i Nationalparken.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=3162"
+    },
+    {
+        "country_id": 105,
+        "start_id": 2600,
+        "name": "Castelluccio Di Poggio Croce",
+        "latitude": 42.81055556,
+        "longitude": 13.18222222,
+        "description": "If you come from Rifugio Perugia take to the left in the middel of village Castelluccio. A narrow rout between the house.\nPicture, take off along the road, with Castelluccio on the left.\nThe vally is often foggy in the morning. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=2600"
+    },
+    {
+        "country_id": 105,
+        "start_id": 3498,
+        "name": "Castellucio, Forca di Presta",
+        "latitude": 42.78888889,
+        "longitude": 13.26111111,
+        "description": "can be exponated for strong winds, large start area,\nlocal school: PRODELTA http://www.prodelta.it/eng/main.htm \nTake-off map:\nhttp://www.prodelta.it/eng/img/cast_decolli1.jpg",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=3498"
+    },
+    {
+        "country_id": 105,
+        "start_id": 3104,
+        "name": "Ciampinoi - Val Gardena/Gherdëina - Südtirol",
+        "latitude": 46.53888889,
+        "longitude": 11.75277778,
+        "description": "Flott stad midt mellom dei mektige Dolomittane.\nHeisen opp til start er open nesten heile året.\n\nParkering: \nParkering ved på ein av skianlegget sine parkeringar i Selva/Wolkenstein.\n\nStarten:\nStart frå toppen er best mot N/NV eller S/SØ. \nStart mot V er best oppe på ryggen på toppen.\nStart mot Ø/NØ er truleg best på den lågare toppen mot Ø der det og går ein skiheis opp(NB eg har sjølv ikkje sjekka om det er mogeleg å ta av der).\nNB! Når det er folk på ski i anlegget er det ikkje plass å legga ut vinga mot N/NV, og ein må opp på ryggen på toppen der det er ein liten stupstart.\n\nI lufta:\n- Aldri fly ved nordföhn!\n- Ver obs på wire på skiheisane\n- Ver obs på mulig dalvind i Val Gardena\n\nLanding:\n\"Offisiell\" landing ved Pra Valentini/Seggiovia Fungeia heisen.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=3104"
+    },
+    {
+        "country_id": 105,
+        "start_id": 6716,
+        "name": "Col dei Rossi - Campitello de Fassa",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Start ved tournante nr 17 der man kjører inn og går opp en bakke og starter i skiløypa. Fin med start mot dalvinden om ettermiddagen og denne kan man fly på også opp fjellsiden mot Passo Sella. \n\nLanding nede i dalen på hovedlanding. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=6716"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10246,
+        "name": "Colle Ripoli. Tivoli",
+        "latitude": 41.94194444,
+        "longitude": 12.80527778,
+        "description": "Large takeoff area accessible by the car with good parking on the top. Easy for top landing.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10246"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10827,
+        "name": "Corteno Golgi, Val Camonica",
+        "latitude": 46.179444,
+        "longitude": 10.255000,
+        "description": "Takoff rett utanfor vegen ved \"Alpe Doare\" på ca 1505 moh.\nLanding på skrått jorde vest for Corteno Golgi.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10827"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10371,
+        "name": "Crode Rosse, San Martino di Castrozza",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Skildring kjem",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10371"
+    },
+    {
+        "country_id": 105,
+        "start_id": 6854,
+        "name": "DUPLICATE - Bassano - Stella Alpina / Camillo",
+        "latitude": 45.8,
+        "longitude": 11.73333333,
+        "description": "Allready registered; Bassano, Stella Alpina - Camillo (Gresstarten)\nUSE: https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=4820\n\nDescription 2 km before Bassano south - da bepi\nSuitable for Paragliding\nNo parking - use chalet carpark.\nAltitude 717m\n\n45°49'10.0\"N 11°45'47.7\"E\n\n45.819449, 11.763256\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=6854"
+    },
+    {
+        "country_id": 105,
+        "start_id": 4781,
+        "name": "De Collo Club Vololibero Cassino",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Follow the way up to Cairo and det mountainvillage Terelle.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=4781"
+    },
+    {
+        "country_id": 105,
+        "start_id": 7585,
+        "name": "Dosso del Sabion, Pinzolo",
+        "latitude": 46.1668,
+        "longitude": 10.8065,
+        "description": "catch the lift up, fly from the top",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=7585"
+    },
+    {
+        "country_id": 105,
+        "start_id": 1090,
+        "name": "Feltre, Monte Avena",
+        "latitude": 46.02944444,
+        "longitude": 11.81777778,
+        "description": "Just west of Feltre.\nThe grassy dome and viewpoint of Monte Avena, above the Piave valley, is an excellent start for adventures along the southern Dolomites. It is also\na good alternative site to the Monte Grappa / Bassano area but with less infrastructure. The landings and launches are wide and easy, but you\nhave to take your own vehicle. A good place for a spring cross country flight and for your first toplanding!",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=1090"
+    },
+    {
+        "country_id": 105,
+        "start_id": 6631,
+        "name": "Gallodoro - Letojanni - Sicily",
+        "latitude": 37.89638889,
+        "longitude": 15.30805556,
+        "description": "Great big and easy start on 500m. Do not get low to the terrain lower than start - electrical wires is hard to see, and you get three spans located a bit lower than start. Landing situated by the end of the river that comes out on Letojanni beach on the Island of Sicily. You don't see it from the start - but the location is totally obvious once airbourne. \nContact Marco (Italian National paraglider champion) at EtnaFly to get the local details. Great site for soaring and thermals. Shuttlebus to the starts for 4 euros. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=6631"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10273,
+        "name": "Garda, Pesina, Monte Belpo, lower start \"Gas\"",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Full info on local club website. Ideal start for a local XC, also possible to start on the top of Mt Belpo. Doesnt get strong valley wind. A good option if Mt Baldo is in cloud/overdevelping.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10273"
+    },
+    {
+        "country_id": 105,
+        "start_id": 6101,
+        "name": "Gemona, Monte Cuarnan",
+        "latitude": 46.27388889,
+        "longitude": 13.17555556,
+        "description": "Shuttlar går från Hotel Willy som tar dig upp på start, bilfärden tar 45 minuter. \nHuvudlandning kordinater \nN 46 16 04.20 E 013 08 24.60",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=6101"
+    },
+    {
+        "country_id": 105,
+        "start_id": 3462,
+        "name": "Grente- Anterselva/Antholz- Suedtirol",
+        "latitude": 46.850417,
+        "longitude": 12.059933,
+        "description": "tidlig öststart. det er den starten som brukes oftest for de store 200 km trianglene i sörtirol: se paa XC contest eller OLC",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=3462"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10572,
+        "name": "Helm/Monte Elmo - Sexten",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Fjelltopp over Sexten og Sillian. Heis til lågare nabotopp.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10572"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10385,
+        "name": "Kalterer, Vinschgau/Val Venosta, Südtirol",
+        "latitude": 46.66166667,
+        "longitude": 10.64027778,
+        "description": "Fleire mogelege stadar å ta av frå.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10385"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10594,
+        "name": "Kirchler Schroppen, Dolomittane",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Takeoff i ulendt terreng.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10594"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10382,
+        "name": "Krimmler Tauern/Passo dei Tauri, Ahrntal, Südtirol",
+        "latitude": 47.08111111,
+        "longitude": 12.15722222,
+        "description": "Nokon graskledde område å ta av frå blant steinura.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10382"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10596,
+        "name": "Kuhleitenhütte, Meran",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Takeoff ved hytta, mogeleg i fleire retninger.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10596"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10733,
+        "name": "Lagolo",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Flying site only used after briefing from local pilots to regulate activity to keep flying open. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10733"
+    },
+    {
+        "country_id": 105,
+        "start_id": 2885,
+        "name": "Laveno",
+        "latitude": 45.92027778,
+        "longitude": 8.67222222,
+        "description": "Shuttelbus vom Landeplatz in Laveno fÃ¤hrt tÃ¤glich ( 7 Euro )\nAbove the southern end of Lago Maggiore, Laveno offers several launches which have an established reputation among hang-gliders. It is excellent for spring cross country flights but also a worthy thermal site during summer. In autumn and winter fog often appears, caused by the lake.\n\nSASSO DEL FERRO\n1. Poggio S. Elsa (S) 920m, HG ramp and\nslope launch, 30m behind the cable car.\nGPS: 45°54’39.67”N, 8°38’17.57”E\n2. Summit (S/SW) 1065m medium, PG. From\nthe cablecar, follow a footpath to the summit\n(15 min). GPS: 45°54’41.24”N, 8°38’35.15”E\n\nLA CROCETTA\n3. Monte Nudo (S/SE) 1070m easy-medium.\nGPS: 45°55’19.73”N, 8°40’26.51”E. Access by\nshuttle from the landing at Icaro.\n\nLanding:\nLaveno-Mombello, Campo Sportivo (250m)\nat the Icaro flying school and club, in the industrial zone of Mombello. \nGPS: 45°53’49.80”N, 8°38’18.21”E.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=2885"
+    },
+    {
+        "country_id": 105,
+        "start_id": 1877,
+        "name": "Levico Terme, Panarotta, Pedana vetriolo",
+        "latitude": 46.04194444,
+        "longitude": 11.31611111,
+        "description": "Rampstart, mycket fin landning nere i dalen, med stor vindstrut. Landningen syns från huvudvägen i dalen.\n\nLanding: https://goo.gl/maps/yvLCf2fbsgG2 (46°00'33.0\"N 11°19'56.1\"E)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=1877"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10416,
+        "name": "Lipari",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "On the top of the vulcano, on 400 masl",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10416"
+    },
+    {
+        "country_id": 105,
+        "start_id": 8109,
+        "name": "Malgo Alpa di Bondone, Baitoni, Lake Idro",
+        "latitude": 45.80972222,
+        "longitude": 10.57777778,
+        "description": "Drive from Baitoni to Bondone and further on to the Alp. You have to walk five minutes at the end.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=8109"
+    },
+    {
+        "country_id": 105,
+        "start_id": 5042,
+        "name": "Marmolada - Topphytten",
+        "latitude": 46.43472222,
+        "longitude": 11.84972222,
+        "description": "Høyeste fjell i Dolomittene. Ligger i Canazei. Man starter på en isbre ved hytten på toppen. Vær oppmerksom på tynn luft, høy hastighet ved landing og start.\nDet kan være sprekker i isen og innefrosne steiner som stikker opp.\nDersom du får kaldras av luft kan det hende du ikke får tatt av og må overnatte på toppen.\n\nFantastisk utsikt :-))\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=5042"
+    },
+    {
+        "country_id": 105,
+        "start_id": 5069,
+        "name": "Meduno",
+        "latitude": 46.22972222,
+        "longitude": 12.80666667,
+        "description": "Perfect site for EASY Flying til sunset\nMeduno has only recently become a ‘secret spot’ for those who like to escape the bad weather\nin the north (or from overcrowded Bassano). Monte Valinis offers huge meadows that are easy\nfor paragliders and hang-gliders to launch and ground-handle. The strong summer breeze\nand the hilly environment are reminiscent of the Umbrian Hills in Middle Italy. The area is more\ncomplicated than Bassano for cross country because of the narrow river valleys and the huge\nforested areas. One needs to get really high! On the other hand it is a fun place with famous\nsummer restitution (valley release) – you can sometimes fly from 16h00 until it’s almost dark,\nthen topland or head out across the flatlands!",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=5069"
+    },
+    {
+        "country_id": 105,
+        "start_id": 3992,
+        "name": "Meran 2000/Piffinger Köpfl",
+        "latitude": 46.67694444,
+        "longitude": 11.25333333,
+        "description": "Suedtirol\nSeveral sites exist around the city of Meran. The grassy spur of Hochmuth provides better flying during the morning and midday, but the west-facing slopes at Hirzer yield better afternoon thermals. Both sites offer panoramic views and XC flights. \nThe best meeting place is Törgglerhof landing at Saltaus, where pilots and their families find comfortable accommodation and a warm welcome.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=3992"
+    },
+    {
+        "country_id": 105,
+        "start_id": 6635,
+        "name": "Molveno - øvre start",
+        "latitude": 46.15416667,
+        "longitude": 10.95527778,
+        "description": "Ta gondolheisen fra Molveno opp til mellomstasjonen, og deretter skiheisen videre til toppen. Takeoff ligger ca 200m fra heisens toppunkt retning sørøst. Fin sørvendt gress-start som har plass til 5-6 vinger.\n\nRett vest for takeoff ligger fjellet Cima Tosa med en tårnende høyde på 3173 m.\n\nLandingen ligger rett ved stranden i nord-enden av vannet og er av typen som krever god kontroll på innflygning, da den er skrånende nedover og ender i vannet. Som regel er der en bris inn fra vannet hver ettermiddag som hjelper til med å få landet perfekt.\n\nTandem-folkene der har en bemannet info-stand rett ved landingen i sommersesongen. Spør der om det er noe du lurer på.\n\nBilde: Stranden i Molveno med landingen nede til høyre.\n\nSe også her for mer info:\nhttp://www.molveno.it/lang/EN/homepage\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=6635"
+    },
+    {
+        "country_id": 105,
+        "start_id": 6715,
+        "name": "Mont De Pana",
+        "latitude": 46.47927778,
+        "longitude": 11.79769444,
+        "description": "North start",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=6715"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10188,
+        "name": "Mont de Seura - Santa Cristina Valgardena",
+        "latitude": 46.53855556,
+        "longitude": 11.72658333,
+        "description": "Dolomites, Valgardena, nearest town: Santa Cristina 1428m\nLanding: next to ski slope, Monte Pana 1667m",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10188"
+    },
+    {
+        "country_id": 105,
+        "start_id": 3121,
+        "name": "Monte Baldo  - Malcesine",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "In the northern end of Lago di Garda, drive southwards on the eastern side of the Lago. After 10 min you will be in Malcesine, a small village where the cablecar is. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=3121"
+    },
+    {
+        "country_id": 105,
+        "start_id": 1815,
+        "name": "Monte Baldo / Gardasjøen",
+        "latitude": 45.78083333,
+        "longitude": 10.85027778,
+        "description": "Taubane opp til en fantastisk startplass. Vær obs på sterk vind i Gardasjøen (kjent surfested). Få landinger. Sjekk med kjentfolk. Topplanding anbefales\n\nLaunch:\n1. (W/SW) 1760m, easy, 15 min walk north of the cablecar station on the wide ridge. Toplandable.\nGPS: 45°46’34.79”N, 10°51’47.47”E\n2. (NE) 1760m, easy, about 10 min N of launch 1, on the ridge. Rarely in use.\n3. (E/SE) 1760m, easy, just opposite the W launch.\n\nLanding:\nMalcesine (60m) huge green, artificial runway, the ‘aircraft carrier’ on the eastern lakeshore about 1.5 km N of the edge of Malcesine. There is no other landing spot – check the landing before you go flying!\n Also, the parking spaces are limited (especially\nin summer). So rather leave your car parked\nat the cablecar station or bring a bike and leave it locked at the landing area. The landing will offer a restaurant and regular services during season, from 2011 onward. \nGPS: 45°46’54.86”N, 10°49’3.39”E.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=1815"
+    },
+    {
+        "country_id": 105,
+        "start_id": 3332,
+        "name": "Monte Caira",
+        "latitude": 41.54733333,
+        "longitude": 13.81211111,
+        "description": "Fint berg med flott utsikt. Ligger i nærheten av Monte Cassino (a monastery on top of the hill., ca. 6.5 km). Les info tavler på landing !\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=3332"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10734,
+        "name": "Monte Casale, Trentino",
+        "latitude": 46.02768056,
+        "longitude": 10.92046944,
+        "description": "Kommer senere",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10734"
+    },
+    {
+        "country_id": 105,
+        "start_id": 925,
+        "name": "Monte Cornizzolo (Suello - Como)",
+        "latitude": 45.83277778,
+        "longitude": 9.30222222,
+        "description": "Takeoff used for PWC. Landing in Suello.\nNo private driving to takeoff. There are normally mini-busses leaving from landing in Suello.\n\nLaunch:\nRisparmio Basso (SE-SW) 1045m, easy, the main takeoff on the central S slope below the road and 100m below the summit.\nGPS: 45°49’58.40”N, 9°18’7.67”E. \nThe only direct access is by shuttle bus.\n\n2. Centrale (SE-W) 1130m, easy. The big grassy western shoulder\nhas a wide choice of launches, usually occupied by competitions.\nGPS: 45°50’0.93”N, 9°17’34.70”E. From the service road walk up (20 min)\n3. Risparmio Alto (SE-SW) 1210m, easy. Not often used, but some\npeople like it. 25 min hike to the summit from the lower takeoff.\nGPS: 45°50’13.65”N, 9°18’7.82”E",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=925"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10735,
+        "name": "Monte Crapene, Livigno",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": ".",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10735"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10433,
+        "name": "Monte Crocione, Lake Como",
+        "latitude": 46.00583333,
+        "longitude": 9.19555556,
+        "description": "Mulig å starte i alle retninger, med unntak av nordlig. \nFlere startmuligheter i området. \n\nLanding på den gamle flystripen fra WW2 i Ballegio. Her må man krysse Comosjøen så ta hensyn til vindstyrke og vingevalg. Info om landingen finnes på appen \"Paragliding Map\"",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10433"
+    },
+    {
+        "country_id": 105,
+        "start_id": 1627,
+        "name": "Monte Cucco, Sigillo",
+        "latitude": 43.35717778,
+        "longitude": 12.74975,
+        "description": "Himla bra ställe !",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=1627"
+    },
+    {
+        "country_id": 105,
+        "start_id": 8639,
+        "name": "Monte Maddalena",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Monte Maddalena",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=8639"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10387,
+        "name": "Monte Vigo, Val Meledrio, Trentino",
+        "latitude": 46.27388889,
+        "longitude": 10.82805556,
+        "description": "Takeoff i fleire retningar frå toppen av skiheisen.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10387"
+    },
+    {
+        "country_id": 105,
+        "start_id": 6634,
+        "name": "Monte croce di Muggio, Alpe Giumello, Chiesetta",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "East side of lake Como.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=6634"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10729,
+        "name": "Monte della Neve, Livigno",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": ".",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10729"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10337,
+        "name": "Monte delle Mine, Livigno",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Skildring kjem.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10337"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10726,
+        "name": "Mottolino, Livigno",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Takeoff in Livigno, near the Mottolino gondola. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10726"
+    },
+    {
+        "country_id": 105,
+        "start_id": 9982,
+        "name": "Muthöfe/Hochmuth - Merano",
+        "latitude": 46.70166667,
+        "longitude": 11.13138889,
+        "description": "Skildring kjem.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=9982"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10386,
+        "name": "Naturnser Hochjoch/Giogo Alto, Vinschgau/Val Venosta, Südtirol",
+        "latitude": 46.60611111,
+        "longitude": 11.0475,
+        "description": "Fleire mogelege stadar å ta av frå.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10386"
+    },
+    {
+        "country_id": 105,
+        "start_id": 2026,
+        "name": "Nord for Bassano",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Ligger ved et skisportsenter og er ypperlig til hangflyging. \nMulighet til å fly på flere vindrettninger.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=2026"
+    },
+    {
+        "country_id": 105,
+        "start_id": 3330,
+        "name": "Norma",
+        "latitude": 41.58305556,
+        "longitude": 12.96666667,
+        "description": "Flott termisk hang; Gå opp vei (ca. 10 min) gjennom område med arkiologisk utgravninger - fint å fly over fjell-byen Norma.\n\nSelv om det melder østlig(bakvind) kan det være meget fint å fly her. Østavinden går høyt over byen, brisen fra sjøen bestemmer som regel her. Termikken kan være skarp midt på dagen(ca.12-14.30), for de ferskeste kan det være lurt å ta en lunsj el lingnende midt på dagen. \n\nLandinga ligger rett foran start med to tre på sørsiden og et på norsiden, vindpøle også. Man bør fly ut på 250 moh for og nå sikkert ned. Finnes ei reservelanding til venstre men den bør man helst ikke bruke(utalelser fra den lokale pg-skolen)\n\nIfølge den lokale pg-skolen hadde dem 320 flydager i 2008.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=3330"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10593,
+        "name": "Peitlerkofel, Dolomittene",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Takeoff under toppen på gras-skråning.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10593"
+    },
+    {
+        "country_id": 105,
+        "start_id": 8519,
+        "name": "Pieve d'Alpago - Dolada",
+        "latitude": 46.19177778,
+        "longitude": 12.35269444,
+        "description": "From airtribune.com:\n\nMt Dolada\nTake-off: 1494 m ASL (N 46.1917°, E 12.3527°)\nLanding: 598 m ASL (N 46.1582°, E 12.3684°)\nThe main take-off will be Monte Dolada right above Pieve. From the centre of Pieve there are signs directing you up the road to launch ground. A tarmac road ends with a car park. From there it’s an easy 100-m walk to the take-off located just behind the mountain hostel \"Rifugio Dolada\". The landing is located in Garna. It’s a big grassy field next to a small building of the local paragling club Dolada. \n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=8519"
+    },
+    {
+        "country_id": 105,
+        "start_id": 3716,
+        "name": "Poggio Bustone, north.",
+        "latitude": 42.51472222,
+        "longitude": 12.88305556,
+        "description": "Main start in Poggio Bustone. Steap grass hill used for hangliding. Large parking. Access by narrow gravel road. Nice picnic table at carpark. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=3716"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10548,
+        "name": "Poggio Bustone, south.",
+        "latitude": 42.49361111,
+        "longitude": 12.89805556,
+        "description": "Accessible by car on unpaved gravel road. Last 200m by fot, no incline. Lots of space for many pilot on takeoff. Beginnerfriendly grass slope.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10548"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10388,
+        "name": "Pradalago, Madonna di Campiglio, Trentino",
+        "latitude": 46.2475,
+        "longitude": 10.81222222,
+        "description": "Takeoff frå toppen av skianlegget over Madonna di Campiglio.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10388"
+    },
+    {
+        "country_id": 105,
+        "start_id": 7560,
+        "name": "Revine",
+        "latitude": 46.00805556,
+        "longitude": 12.22527778,
+        "description": "Start på fjellet over Revine, Treviso.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=7560"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10628,
+        "name": "Rifugio Auronzo, Dolomittane",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Fleire moglege takoffar i området.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10628"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10609,
+        "name": "Rifugio Monzino, Courmayeur",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Takeoff ved hytta, stupstart nokon stadar.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10609"
+    },
+    {
+        "country_id": 105,
+        "start_id": 7350,
+        "name": "Roncola",
+        "latitude": 45.76805556,
+        "longitude": 9.54944444,
+        "description": "Spacious south oriented meadow on the mountain near Roncolo. About 20 minutes walk from where the shuttle drops you off (€ 5,00 for the shuttle to the start).\nHang gliders start from the \"antenna\" start at 920 meters\nSee http://vololiberobergamo.it/pagine/menu/mappa.html for a map of the landing zone (a big field next to the golf club) and other useful information",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=7350"
+    },
+    {
+        "country_id": 105,
+        "start_id": 9362,
+        "name": "San Simeone",
+        "latitude": 46.33005,
+        "longitude": 13.10185,
+        "description": "Perfect takeoff area just above the landing at Bordano. It's much closer to drive from Bordano landing to this takeoff, compared to the main takeoff at Gemona. The road is narrow and very twisty but the surface is very good so it's accessible with any car.\n\nIn a good day the takeoff it's exposed to the valley wind so it might be difficult to push upwind and connect with the mountain in front if there is a plan for XC.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=9362"
+    },
+    {
+        "country_id": 105,
+        "start_id": 8743,
+        "name": "Seceda - Val Gardena/Gherdëina - Südtirol",
+        "latitude": 46.59694444,
+        "longitude": 11.72444444,
+        "description": "Flott startplass  ved sida av Geislerdolomittane.\nHeis(2 heisar) opp til start går nesten heile året.\n\nParkering:\nParkering ved skianlegget sin parkering ved Seceda-heisen i Ortisei/Urtijëi.\n\nStarten:\nTre offisielle startar(sjå biletet):\n1. Sørstarten(2500 moh.): Mot toppen av Seceda.\n2. Sør- og øststarten(2450 moh.): Rett i nærheten av toppstasjonen til heisen.\n3. Veststarten(2360 moh.): Gå litt nedover langs ryggen frå heisen. Delvis stupstart.\n\nI lufta:\n- OBS! Hald god avstand til wiren til heisen og høgspentledninga ved sida av.\n- Aldri fly ved nordföhn!\n- Det kan vera sterk turbulens ved vind frå N.\n- Det er sterk termikk frå april til september, og det krever då mykje flyerfaring for å fly mellom kl. 13 og 17.\n\nLanding:\nLanding ved Baita Pauli-hytta i nærheten av starten av heisen i Ortisei/Urtijëi.\nInnflygning som vist på biletet. Ver obs på at det er skiløype med folk i på store delar av landinga om vinteren.\n\nSjå biletet for meir info.\nDu kan ta kontakt med Heinz i Parapendio Club Ghërdeina på +39 339 6709659 for meir info.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=8743"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10383,
+        "name": "Seebergl, Mühlwalder Tal, Südtirol",
+        "latitude": 46.92916667,
+        "longitude": 11.7675,
+        "description": "Graskledd topp.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10383"
+    },
+    {
+        "country_id": 105,
+        "start_id": 9421,
+        "name": "Serrone",
+        "latitude": 41.84861111,
+        "longitude": 13.09,
+        "description": "The first take-off is located at an altitude of 880 meters, with exposure from south south-east to south south-west. On this take-off you can find a wooden gazebo with table and benches, it is the most used as it can be reached in just 5 minutes from the historic center.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=9421"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10591,
+        "name": "Sextner Stein, Dolomites",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Steinete topp ved Toblinger Knoten og Dreizinnenhütte.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10591"
+    },
+    {
+        "country_id": 105,
+        "start_id": 4249,
+        "name": "Speikboden, Sand in Taufers",
+        "latitude": 46.91527778,
+        "longitude": 11.89861111,
+        "description": "Alpine Takeoff for BIG distances - especially in Summer.\nDifficult for XC in northerly conditions. Soaring possible!\nA jewel hidden in South Tyrol, where long deep valleys run up to the main ranges of the Alps.\n Speikboden has a growing reputation as one of the cross country highlights of the eastern Alps. With valleys and ridges and glaciated peaks all around, Speikboden forms the centrepiece for trips into nearly any direction. \n\nJust below it, the takeoff at Ahornach (situated straight above Sand) is more accessible, offering everything from spring-time thermals to good training flights for pilots with less experience.\n\nSPEIKBODEN\n1. Speikboden (N/S) 2362m–2400m, easy-medium,\nGPS: 46°54’54.63”N, 11°53’55.33”E. From the cablecar\nwalk down the saddle (big windsock) where the ski\npiste descends. You will find several takeoff possibilities\nthere, extending about 50m up the ridge.\n2. Speikboden summit (N/S/E) 2510m, easymedium,\naround the summit of Speikboden, follow\nthe ridge from the cablecar for about 25 min.\n\nLanding:\nSand in Taufers (870m) industrial zone.\nGPS: 46°54’41.34”N, 11°57’38.54”E.\nTaxi Albin Tel. +39 347 353 3353(www.taxisandintaufers.com). It’s the shuttle which also takes pilots to Ahornach.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=4249"
+    },
+    {
+        "country_id": 105,
+        "start_id": 1514,
+        "name": "Spitzbühl Seiser Alm (Bolzano inte Bassano)",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Mäktigt ställe, man ser hela alphuvudkammen i horisonten och marmolada bakom starten och ett värstingberg vid sidan om starten som man inte vagar flyga pa förrän till kvällen. Var ganska turbulent termik när jag var där. Tandemskärmar reagerade som tävlingskärmar med inslag och dyk mm.\nVid nordlig vind sa ska man se upp för dalvinden och helst topplanda vilket är enkelt uppe pa platatn bakom starten",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=1514"
+    },
+    {
+        "country_id": 105,
+        "start_id": 4089,
+        "name": "Sydtirol - Pfalzen- Platte",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "alternativ lavere start for XC arena Pustertal i Sydtirol. Naermeste by er Bruneck. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=4089"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10617,
+        "name": "Tete des Fra, Aosta",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "H&F-takeoff",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10617"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10467,
+        "name": "Tuscola",
+        "latitude": 41.79805556,
+        "longitude": 12.70666667,
+        "description": "Soaring spot in archeological park. Road and parking pretty close with a five minute walk to a small area which works as a takeoff (but possible to take off other places on the ridge too). Big landing field and possible to land further up. Need sufficient wind.\n(Listed on paragliding map)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10467"
+    },
+    {
+        "country_id": 105,
+        "start_id": 4825,
+        "name": "Veneto-Bassano, Col del Pupolo",
+        "latitude": 45.82444444,
+        "longitude": 11.77055556,
+        "description": "Ramp start, with nice landing in the walley! Restaurant, water, toilet, just beside the ramp! ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=4825"
+    },
+    {
+        "country_id": 105,
+        "start_id": 6515,
+        "name": "Vulcano (Aeolian Islands) Sicily NorthEast-East",
+        "latitude": 38.40638889,
+        "longitude": 14.96888889,
+        "description": "45-60 minutes walk from the harbour. Landing north of the harbour at the beach.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=6515"
+    },
+    {
+        "country_id": 105,
+        "start_id": 10384,
+        "name": "Ösacker, Sarnthein/Sarentino, Südtirol",
+        "latitude": 46.64694444,
+        "longitude": 11.34972222,
+        "description": "Låg takeoff rett over Sarnthein/Sarentino som fungerer når dalvinden kjem inn dalen.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=105&start_id=10384"
+    }
+]

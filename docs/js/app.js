@@ -1,11 +1,12 @@
 import { state } from "./state.js";
 import { map, onLocationSet, closeMapContextMenu, resetMapView } from "./map.js";
-import { createTakeoffMarker, updateMarkerSelection, setMarkerHovered, updateMarkerFavorite } from "./markers.js";
+import { createTakeoffMarker, updateMarkerSelection, setMarkerHovered, updateMarkerFavorite, removeTakeoffMarker } from "./markers.js";
 import { showTakeoffDetails, closeYrWidget, clearTakeoffDetails, updateDetailFavoriteIcon } from "./takeoff-detail.js";
 import { initList, updateListSelection, setSortMode, refreshList, closeSortMenu, SortMode } from "./list.js";
 import { toggleInfoPanel, closeInfoPanel } from "./info-panel.js";
 import { showDetailView, showListView, showMapView } from "./mobile-view.js";
 import { onFavoritesChange } from "./favorites.js";
+import { getSelectedCountries, onCountriesChange, loadCountryTakeoffs, closeCountriesMenu } from "./countries.js";
 import "./theme.js";
 import "./airspace.js";
 
@@ -113,6 +114,7 @@ document.addEventListener("keydown", event => {
         closeMapContextMenu();
         closeInfoPanel();
         closeSortMenu();
+        closeCountriesMenu();
         closeYrWidget();
         return;
     }
@@ -131,19 +133,46 @@ document.addEventListener("keydown", event => {
     }
 });
 
-fetch("data/takeoffs.json")
-    .then(response => response.json())
-    .then(takeoffs => {
-        state.allTakeoffs = takeoffs;
-        for (const takeoff of takeoffs) {
-            createTakeoffMarker(map, takeoff, { onSelect: selectTakeoff, onZoom: zoomToTakeoff });
-        }
-        refreshList();
+async function loadAndAddCountry(id) {
+    const takeoffs = await loadCountryTakeoffs(id);
+    state.allTakeoffs.push(...takeoffs);
+    for (const takeoff of takeoffs) {
+        createTakeoffMarker(map, takeoff, { onSelect: selectTakeoff, onZoom: zoomToTakeoff });
+    }
+}
 
-        const linkedTakeoff = findTakeoffFromUrl();
-        if (linkedTakeoff) {
-            zoomToTakeoff(linkedTakeoff);
-            selectTakeoff(linkedTakeoff);
-            state.listItems.get(linkedTakeoff)?.scrollIntoView({ block: "center" });
+function removeCountry(id) {
+    const remaining = [];
+    for (const takeoff of state.allTakeoffs) {
+        if (takeoff.country_id !== id) {
+            remaining.push(takeoff);
+            continue;
         }
-    });
+        removeTakeoffMarker(takeoff);
+        if (state.selectedTakeoff === takeoff) {
+            state.selectedTakeoff = null;
+            clearTakeoffDetails();
+        }
+    }
+    state.allTakeoffs = remaining;
+    refreshList();
+}
+
+onCountriesChange((id, isSelected) => {
+    if (isSelected) {
+        loadAndAddCountry(id).then(refreshList);
+    } else {
+        removeCountry(id);
+    }
+});
+
+Promise.all([...getSelectedCountries()].map(loadAndAddCountry)).then(() => {
+    refreshList();
+
+    const linkedTakeoff = findTakeoffFromUrl();
+    if (linkedTakeoff) {
+        zoomToTakeoff(linkedTakeoff);
+        selectTakeoff(linkedTakeoff);
+        state.listItems.get(linkedTakeoff)?.scrollIntoView({ block: "center" });
+    }
+});

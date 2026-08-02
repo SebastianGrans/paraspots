@@ -1,0 +1,1559 @@
+[
+    {
+        "country_id": 195,
+        "start_id": 5484,
+        "name": "40 minutter kjøring fra alicante.ALICANTE",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "alicante er en turist by på sør kysten.det er sentralt i forhold til flyve muligheter.ps:\ndet andbefales å ta kontakt med di lokale pilotene,å da ordner det seg:)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5484"
+    },
+    {
+        "country_id": 195,
+        "start_id": 7265,
+        "name": "Aguadulce",
+        "latitude": 36.82361111,
+        "longitude": -2.57083333,
+        "description": "Start över Aguadulce med landning på stranden.\nÅk upp med jeep -kontakta lokala klubben",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=7265"
+    },
+    {
+        "country_id": 195,
+        "start_id": 993,
+        "name": "Algodonales, Sierra de Lijar, \"Levante\" SE and SW",
+        "latitude": 36.89833333,
+        "longitude": -5.39333333,
+        "description": "One of the main takeoffs near Algodonales.\nTo get there drive A-382 towards Jerez past the petrol station just outside town. After about 400m turn right at a sign: PISTAS. Follow signs saying PISTAS for two more right turns. Through La Muela! After turning to the gravelroad - drive to the end.\n\nHovedlanding kan sees fra SØ takeoff. Ellers er det mange veldig store jorder nedenfor SØ-takeoff.\n\n\nSe also: http://www.civalgodonales.com/\n         http://www.flyspain.co.uk/\n         http://www.ganterfly.de\n         http://www.fly-algo.com/",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=993"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5140,
+        "name": "Algodonales, Sierra de Lijar, NW, den like ved veien.",
+        "latitude": 36.90333333,
+        "longitude": -5.40777778,
+        "description": "NW - Sierra de Lijar - Algodonales\nTakeoff ligger rett ved siden av veien, med et \"lysthus\" ved siden av. Kun plass til å legge ut en vinge om gangen.\nHovedlanding samme som fra \"Poniente\"",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5140"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5895,
+        "name": "Algodonales, Sierra de Lijar, North, svært skjerlen i bruk",
+        "latitude": 36.915,
+        "longitude": -5.39416667,
+        "description": "Ta vegen til venstre inn en grind like før du kommer til S og Ø-starten på Levante. Følg veien ca 4 km. Starten ligger ca 100m fra veien på høyre side.\nEller så kan man ta til vestre på bakketoppen etter NV-starten. Og følge veien ca5-6km.\nKan lande på vestlandingen, ellers er det store jorder å lande på.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5895"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3211,
+        "name": "Algodonales, Sierra de Lijar, \"Poniente\" W",
+        "latitude": 36.89472222,
+        "longitude": -5.41583333,
+        "description": "One of the main takeoffs near Algodonales.\nTo get there drive A-382 towards Jerez past the petrol station just outside town. After about 400m turn right at a sign: PISTAS. Follow signs saying PISTAS for two more right turns. Keep right and drive to the end of the road.\n\nHovedlanding litt lenger nord. Kan sees fra utkikspunkt ved start. Reservelanding ved veien nedenfor takeoff.\n\nWeatherstation Poniente: http://home.no/lijarest/\nWap Poniente: http://home.no/lijarest/wap/\nWebcam view up to Levante: http://www.ganterfly.de/c/webcam.htm\n\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3211"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2536,
+        "name": "Alhama de Murcia",
+        "latitude": 37.86305556,
+        "longitude": -1.42638889,
+        "description": "The site is located near Alhama near Murcia. It is often closed due to it being situated in a national park with some sensitive wildlife nearby. It is a huge thermal hang site that will work with westerly winds when the sea breeze kicks in. The landing is not obvious and local farmers do not like pilots landing in their fields. \n\nStrongly suggest contacting local pilots or Nick at wwww.doyouwanna.net before flying here.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2536"
+    },
+    {
+        "country_id": 195,
+        "start_id": 4047,
+        "name": "Alicante, Caudete",
+        "latitude": 38.74305556,
+        "longitude": -1.02,
+        "description": "Nice place to fly in front of some Huge windmills. Termals and hang.  ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=4047"
+    },
+    {
+        "country_id": 195,
+        "start_id": 565,
+        "name": "Alicante, Palomaret",
+        "latitude": 38.48638889,
+        "longitude": -0.67527778,
+        "description": "OBS - In summer time, be careful to start before 17,00 very strong thermal (read billborad at start)\nNord for Alicante.\nUtsikt fra starten mot syd, Alicante ligger omtrent bak pølsa, og det kjente tettstedet Agost ligger ned til høyre for pølsa.\n\nPalomaret is a nice take off, close to Alicante. It is about 30 km from Alicante and quite nicely connected. The closest village/small town is Agost. There you can find a good shop and a couple of bars/coffee shops where you could get a nice espresso to build up some energy.\n\nThe drive towards the mountain is on asphalt road. The road goes all the way to take off, however from 2024 this road is closed for everyone else than a few local guides, like Nick. You risk having your car locked in with chains if you drive up. You get down from the car right of the edge of the preparation area: quite convenient. The start is easy to find on Waze, it's mentioned as \"Palomaret start\". There is an artificial surface on take off: kind to the gliders. Also there is a wind sock and streamers in several places. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=565"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1224,
+        "name": "Alicante, Santa pola",
+        "latitude": 38.21972222,
+        "longitude": -0.51527778,
+        "description": "FILM: http://www.vimeo.com/5954581\n\n26-07-08 OBS - in summer strong thermal and southwest vinds extremly dangerus after take off, BIG ROTOR. Many badly accidents there :( \n\nBefore takeoff, talk to locals (Max, (Nick www.doyowanna.net)) aboute locals rules. New, in 2009 you can read sign before takeoff for safe soaring. \n\nKysthang, ca 3 km langt.\n\nParker oppe langs veien og ikke inne ved bebyggelsen. De lokale pilotene\njobber for å beholde starten, mens noen av beboerne vil stoppe flyving fra dette stedet.\n\nDet har vært situasjoner hvor tilreisende har provosert frem situasjoner med beboerne. Dette er noe verken vi, eller de lokale pilotene trenger mer av.\n\nFor mer info se: http://personal.telefonica.terra.es/web/doyouwanna/newsletter.htm\n\nps. Max´s height record is ca. 500 m over sealevel!",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1224"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1731,
+        "name": "Andalucia - Teba",
+        "latitude": 36.98055556,
+        "longitude": -4.92611111,
+        "description": "Sør for Campillos. Start øst for landsbyen på søppelhaugen, eller vest for landsbyen langs veien. (ta til høyre med en gang når du er oppe i landsbyen)\nVeldig fint hangsted, du kan fly over landsbyen og soare deg opp på høyere toppen.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1731"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1730,
+        "name": "Andalucia, El Bosque",
+        "latitude": 36.75638889,
+        "longitude": -5.49083333,
+        "description": "Sør for Villamartin. Start opp grusvei langs veien til Benaoama. Gjennom en grind på begynnelsen av veien. En lavere hangglider start rett nedenfor veien. like før stien opp til øvre start. Parkering langs denne skogsveien.\n Hovedlanding er veldig stor og godt synlig fra øvre start. Reservelanding langs hovedveien og ellers mange jorder å nødlande på.\nFin hangplass, med et avlangt fjell fra SV til NØ. store muligheter for å skru seg opp i termikk.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1730"
+    },
+    {
+        "country_id": 195,
+        "start_id": 4702,
+        "name": "Andalucia , Matalascañas",
+        "latitude": 37.01,
+        "longitude": -6.57361111,
+        "description": "Great coastal soaring site. From here you can soar many kilometers towards the northwest. \n\nThe take off is situated just 100 m northwest of the lighthouse with the radar. \n\nComing from Matalascañas and driving northwest along the coast take to the left in the first roundabout outside the city. Follow the gravel road to the camping ground. When you see the camping entrance on your right side, take to the left. You will find the take off close to the first cafe, on the right side of the road.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=4702"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1746,
+        "name": "Andalucia, Sierra Nevada, Granada, Cenes de la Vega",
+        "latitude": 37.14222222,
+        "longitude": -3.51916667,
+        "description": "Flott flysted nærme byen Granada. Følg skilting gjennom Granada til Sierra Nevada. Når du passerer Cenes er landing på ved side av hovedveg ved en trafikkmaskin. Til start. Fortsett mot Sierra Nevada. Ta inn til høyre ved skilting til Campingplass. Kjør forbi denne og nedover. Grusvei (i denne grusvei må du ha spesielt tillatelse for å kjøre, du kan bli bottelagt hvis du ikke har tillatelse) til høyre etter en del nedstigning. Følg denne en god stund til en kommer til en del benker. ca 10 min å gå opp der til den nedre takeoff. Prøv å ikke fly av høyde over hovedveg. Kan være termisk på og ved landing.\n\nOm du skal fly i Cenes de la Vega, er det nødvendig å betale for å benytte landing både for å parkere og for å lande. Du kan kjøpe dagkort, ukekort og årskort på følgende linken: \n\nhttps://tiendadeparapentedraco.com/service-taller-aterrizaje/1097-colaboracion-uso-del-aterrizaje-cenes-landing-facilities-cenes-de-la-vega.html\n\nVed følgende link kan du sjekket vindmåler som har blitt installert på starten: \n\nhttps://www.openwindmap.org/windbird-1638",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1746"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10694,
+        "name": "Andalusia - Polopos La Mamola",
+        "latitude": 36.80694444,
+        "longitude": -3.30277778,
+        "description": "NOT for low airtime pilots. No landing place almost all way to the sea, good lift but no place for mistakes.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10694"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3229,
+        "name": "Andalusia - Vejer",
+        "latitude": 36.24055556,
+        "longitude": -5.97611111,
+        "description": "Fint hang og termikksted på vest. Kjør gjennom sentrum og opp til vindmøllene. Før du kommer til møllene og rett etter en stor rund antenne er det en grusvei inn til høyre. Ta av der for å komme til PG-starten. HG-starten ligger ved en kafé 200 meter mot nord. Gode topplandingsmuligheter. Ligger ca en mil inn i landet for Atlanterhavet - flott utsikt. Landingen ligger her: N 36 15 02, W 05 58 56.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3229"
+    },
+    {
+        "country_id": 195,
+        "start_id": 9742,
+        "name": "Andalusia, Huéscar, Perico Ruiz",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "En teknisk krevende start hvor man må groundhandle forbi noen trær og busker før man kommer seg i lufta. Krever fin startvind.\nSupert distansested hvor man kan fly vestover ved å hoppe fra rygg til rygg bakover. Ikke PP2-sted, og man må passere mye skog og olivenplantasjer før man kommer til en trygg landing.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=9742"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2552,
+        "name": "Andalusia, Loma del Gato - lower launch",
+        "latitude": 36.76571806,
+        "longitude": -3.65797472,
+        "description": ".",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2552"
+    },
+    {
+        "country_id": 195,
+        "start_id": 7446,
+        "name": "Andalusia, Loma del Gato - upper launch",
+        "latitude": 36.77555556,
+        "longitude": -3.64638889,
+        "description": "Further up the road from Loma del Gato lower launch. 4X4 vihicle needed. Thermals on the ridge coming up.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=7446"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1672,
+        "name": "Andalusia, Loma del Gato",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": " ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1672"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1797,
+        "name": "Andalusien, Almunecar, Otivar",
+        "latitude": 36.83361111,
+        "longitude": -3.70222222,
+        "description": "Termiskt ställe, inte långt ifrån Almunecar. Under goda förhållanden så finns en relativt kort men ganska trixig XC ner till stranden i Almunecar (La Herradura).\n\nInte så stor, men bra start. Körväg hela vägen fram. \n\nLandningen är relativt liten, med tallar mitt i och undvik att flyga för långt. Kräver tålamod under termiska förhållanden! Nedanför är djupa dalar och dåligt med landningsplatser. Landningen ligger på en platå, ca 500 m under starten. Botten av dalen ligger ca 3-400 meter längre ned.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1797"
+    },
+    {
+        "country_id": 195,
+        "start_id": 7282,
+        "name": "Arafo, Upper Takeoff",
+        "latitude": 28.37891694,
+        "longitude": -16.43293889,
+        "description": "The Arafo Takeoff is by the road, but there are at least two more good takeoffs up the hill. This is about a 10 minutes hike up. Look for a tree in front of the takeoff and a low wall behind it...",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=7282"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10074,
+        "name": "Boi, Catalonia",
+        "latitude": 42.49164,
+        "longitude": 0.85543,
+        "description": "Beautiful grass launch on 2200m",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10074"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10067,
+        "name": "Busot",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Doyouwanna.net",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10067"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2637,
+        "name": "Canete la real",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Start ved gravlunden \"cementerio\". Startbakken er litt vanskelig for hangglidere. Alternativ og tryggere start er på åsen bak gravlunden. Et par hundre meter på skrå opp til venstre finnes en fin gressbakke som er fin å starte på i litt vind. Enda bedre nesten helt på toppen, for de spreke",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2637"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1665,
+        "name": "Carchuna, Motril",
+        "latitude": 36.69611111,
+        "longitude": -3.45833333,
+        "description": "In Carchuna muss man damit rechnen das die Polizei kommt, wenn man sich nicht vorher bei Antonio Castro, dem Inhaber der Flugschule in Motril gemeldet und die Konditionen besprochen hat. Also vorher dort anrufen!\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1665"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1701,
+        "name": "Carrascoy",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": " Høyde og høyde diff. er tatt fra Google Earth",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1701"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3242,
+        "name": "Carrasqueta, Jijona/Xixona (by)",
+        "latitude": 38.57611111,
+        "longitude": -0.51472222,
+        "description": "Ligger inn i landet nordvest av Alicante og ca. 20 km innover i landet. Utsikt ut mot Alicante og middelhavet. Starten ligger på toppen av \"sik-sak veien\" som snor seg opp fjellet - du tar av en stikkvei til venstre på toppen og følger fjellsiden nesten hele veien tilbake igjen på en svært humpete grus vei. Husker ikke om det var merket der du stopper og går opp til start. \nStarten blir til venstre på toppen i fjellsiden når du står nede på bensinstasjonen før du kjører opp sik-sak-motorveien i fjellsiden. Landingen ligger rett på andre siden av veien for denne bensinstasjonen. Og landingen bør man treffe... Ikke bedste sted vi har floeyet i Alicante, hverken med hensyn til startstedet (steinete og trangt), hanget (over motorveien i fjellsiden hvor MCéne ligger aa raakjoeer) eller landing (trang og uten retrettmulighet..). \n(corrected Longitude to W, Staffan 2023-03-07)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3242"
+    },
+    {
+        "country_id": 195,
+        "start_id": 6883,
+        "name": "Castala",
+        "latitude": 36.8967183,
+        "longitude": -2.9171165,
+        "description": "Nice start good when its strong vest",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=6883"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2098,
+        "name": "Castejon De Sos",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Castejón de Sos is located 300km from Barcelona. It takes approx 4 hours to drive there.\n\ndrive to lerida and from there to benabarre, in benabarre take the left route on the map not the right.\nhttp://www.hotelpirineos.com/introduction/mapa.htm",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2098"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2974,
+        "name": "Coll d'Ares, Àger/Ager Leida",
+        "latitude": 42.04805556,
+        "longitude": 0.74388889,
+        "description": "Dette er hovedstarten i Àger.\n\nDen er ganske stor og man kan fly ut mange på en gang. Det er også stor plass til å topplande eller drive ground handling. Underlaget er småstein og jord.\n\nDet er en nedre og øvre start. Ved vind fra vest er øvre start best, ellers er de ganske like.\n\nDet går bilvei helt opp. Veien er stort sett asfalt og kan kjøres av vanlige biler, bobiler og liknende. Parkeringen er stor.\n\nHovedlandingene er enten ved campingen eller ved PG-skolen som ligger langs veien opp. Det er også en mellomlanding som kan benyttes dersom man buster umiddelbart eller ikke kommer over neste åskam. Det er et jorde 300 m under start.\n\nDet er vindpølse og vindmåler på start. Last ned appen WeatherLink for å lese av vindmåleren.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2974"
+    },
+    {
+        "country_id": 195,
+        "start_id": 4452,
+        "name": "Colle de Rates    Jalon Vally rettinn for Calpe",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Kjører fra Alicante mot Calpe og videre inn mot Jalon Vally ser da svingene som går opp Langs fjellsida.Se etter sjilt mot Colle de Rates",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=4452"
+    },
+    {
+        "country_id": 195,
+        "start_id": 9184,
+        "name": "Dos Hermanas Frontera El Hierro",
+        "latitude": 27.73277778,
+        "longitude": -18.00694444,
+        "description": "Take off på toppen av vulkanen el Golfo, landing ved buss stasjonen midt i byen",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=9184"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1078,
+        "name": "El Piños, El Carche",
+        "latitude": 38.43416667,
+        "longitude": -1.16583333,
+        "description": "To starter: en ved slutningen av veien og en ved toppen lenger mot vest om man følger stien dit. OBS for sprekker i fjellet når man nærmer seg starten mot vest.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "S",
+            "SE",
+            "E",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1078"
+    },
+    {
+        "country_id": 195,
+        "start_id": 4105,
+        "name": "El Yelmo-Cortijos Nuevos(Jaen)",
+        "latitude": 38.25388889,
+        "longitude": -2.65861111,
+        "description": "Utrolig fin fjell i Jaen provinsen, nordoest fra Jaen by, perfekt til PG og HG, fint start.\nFra tettsted Cortijos Nuevos kjoert til El Ojuelo og videre oppover til EL Yelmo.Fin vei for aa kjoere oppover, men mange svinger, kjør forsiktig i svingene du kan fine andre biler nedover.Det kan være farlig vei hvis kjører man furt.Om vinter det er snø der oppe og da er nødvendig å gå opp.\n\nFlyforholdene kan vaere kraftig i sommer midt paa dagen, perfekt soaring i kveld med vestvind.\nOBS:nordover fra starten cirka 200 meter det er en Høyspentlinje, vær oppmerksomt med det.Det har vært noen ulykker der pga den.\nForholdene er perfekt med vesta vind, går det bra med sydvest men ikke så bra med nordvest selv om det er mulig å fly.\n\nLandinga ligger i Cortijos Nuevos eventuelt i El Ojuelo.\n\nI området hvert år blir en fin Festival med mange piloter, første helg i Juli hvert år.Området er kjent også fordi det var her Raul Rodriguez begynte med alle sine akrogreia og for veldig god olivieolje.\n\nKontakt person i omraadet Dani Martinez: 0034-607301716, han kan tilby overnatting.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=4105"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10931,
+        "name": "Gijon, Colina del Cuervo",
+        "latitude": 43.92222222,
+        "longitude": 5.99027778,
+        "description": ".",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10931"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3975,
+        "name": "Gran Canaria - Las Coloradas",
+        "latitude": 28.16638889,
+        "longitude": -15.43583333,
+        "description": "Fint kysthang. der man kan fly opp til 400 m. Klarer du å hente 350 m her kan du fly over til playa de las canteras å lande der.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3975"
+    },
+    {
+        "country_id": 195,
+        "start_id": 4351,
+        "name": "Gran Canaria - Playa Montana de la Arena (Maspalomas)",
+        "latitude": 27.75194444,
+        "longitude": -15.63888889,
+        "description": "Like ved Maspalomas.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=4351"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5082,
+        "name": "Gran Canary - Las Coleradas",
+        "latitude": 28.16472222,
+        "longitude": -15.43638889,
+        "description": "Reserve flysted for Fly-Canarias. Liten, men grei start. Noen lava steoiner må påregnes. Landing på samme sted (Topp) eller på åpne områder ved havet foran start. Starten er neste på det nordligste punkt på øya. Fra Las Canteras stranden, følg kysten mot nord og opp til Las Coleradas. Fint kystheng på Nordlig vind.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5082"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3292,
+        "name": "Gran Canary - Pico del Viento",
+        "latitude": 28.09638889,
+        "longitude": -15.66055556,
+        "description": "Nearest city is Agaete. Local pilotes meet in Café Los Rosales 1 in  Las Palmas at 10 AM in the weekends. Coordinates to the Café: N28,13203 W15,43805 (or N28Deg 07min 55sec W15Deg 26min 17sec) at the crossing between \"Avenida De José Mesa Y Lopez\" and \"Calle de Palafox\".\n\nOr call local pilot Mario from paragliding club Alpispa: +34 606339932.\n\n\nFOR INFO:\nhttp://www.flyincanarias.com/maps.html",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3292"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3201,
+        "name": "Gran Canary, Los Giles",
+        "latitude": 28.12805556,
+        "longitude": -15.47527778,
+        "description": "Coasthang just south-west of Las Palmas. Contact Armando 606424685 or Pedro 650960130 before flying, and you may get information and good company. Drive towards Los Giles habitation and take a small gravel road north to the edge  Normal landing. Normal landing is toplanding. If sudden loss of thermal, you may land on the beach by Alfredo Kraus concer Hall or on a open field by the motorway 200m west. The distance record is 23km and problems with frequently inversion, but is a very stabil coasthang.\n\nAdditional info: Local pilotes meet in Café Los Rosales 1 in Las Palmas at 10 AM in the weekends. Coordinates to the Café: N28,13203 W15,43805 (or N28Deg 07min 55sec W15Deg 26min 17sec) at the crossing between \"Avenida De José Mesa Y Lopez\" and \"Calle de Palafox\".\n\nFOR INFO:\nhttp://www.flyincanarias.com/maps.html",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3201"
+    },
+    {
+        "country_id": 195,
+        "start_id": 7001,
+        "name": "Granada Cenes del La Vega",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Start sted ved Granada",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=7001"
+    },
+    {
+        "country_id": 195,
+        "start_id": 7711,
+        "name": "Guainos",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Här flyger man på termik ej dynamiskt",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=7711"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3731,
+        "name": "Guimar",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Start nära observatoriet landning på stranden vid Guimar",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3731"
+    },
+    {
+        "country_id": 195,
+        "start_id": 7837,
+        "name": "Ifonce",
+        "latitude": 28.10361111,
+        "longitude": -16.69944444,
+        "description": "Det høye fjellet med flat topp rett sør for Infonche. Man må enten gå opp eller topplande og så fly videre. Stor flate som heller svakt i sørlig retning. Knusktørre små tornekratt over alt så vær forsiktig med vingen. Ved topplanding så vær obs på mulig sterk termikk og turbulens. \nHelt greit å fly til stranda eller Taucho hovedlanding. \nIkke fly særlig lenger østover, da er du ganske fort i kontrollsonen til flyplassen",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=7837"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3209,
+        "name": "Izana",
+        "latitude": 28.32916667,
+        "longitude": -16.49027778,
+        "description": "new start - please give it a proper name and description (2007-01-28 23:43:58)",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3209"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3963,
+        "name": "Jabalcon-Zujar (Granada)",
+        "latitude": 37.56611111,
+        "longitude": -2.82111111,
+        "description": "Fjell som er plasert 10 km unna Baza i Granada provinsen.\nDet er noedvendig aa dra til Zujar fra Baza og aa dra oppover mot fjell fra Zujar.Det er to hovede starter den hoeyeste er paa topp av fjell(w og nw) men foer det er en start(s og se).\nPa dette sted pleier aa blaase ganske mye av og til, pga det er bra til HG, hvor noen piloter har flydd inntil Aguilas ved kysten\nWeatherstation:\nhttp://www.vuelolibreandalucia.es/meteo/IQ031_meteo.html",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3963"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5501,
+        "name": "La Sagra-Granada provinsen",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "La Sagra er høyeste fjell i Andalucia om vi ikke teller Sierra Nevada. Det er som en helt magisk sted. Det mås opp til fots fra Collados de la Sagra som er 1300 moh, ruten opp anbefales fra nord siden. Det går an å se overalt herfra tilog med Sierra Nevada. Det kan være masse snø i vinter så det må brukes bra utstyr.\n\nDet er veldig ukjent sted, det er ikke så mange som flyes herfra men det er verdt det.\n\nOm sommeren det må være fint utganspunkten for XC, men det pleier å blåse mye i området.\n\nFjell ligner ganske mye til Gaustadtoppen, i følge meg.\n\nLanding kan være helt ned (900moh) eller i collados de la Sagra (1300moh)hvor det er utgangspunkten til foottur opp.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5501"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1153,
+        "name": "Lanzarote, Famara Upper start",
+        "latitude": 29.08,
+        "longitude": -13.55805556,
+        "description": "Famara is the biggest flying site on the island and the real reason that people come to Lanzarote to fly. The cliff run is around 21km and the max height of the cliffs is 1780ft/700m. There are two take off sites, one higher than the other, just outside the town of Teguise. At the foot of the take off is the landing zone which is a huge area of sandy soil. You can also land on the beach next to the little town of Famara. The cliffs run all the way up to the top of the island and at the tip, form the other side of the Mirador del Rio cliffs. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1153"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1161,
+        "name": "Lanzarote, Famara,  lower start",
+        "latitude": 29.06277778,
+        "longitude": -13.57805556,
+        "description": "Most used start.Top-landing.Famara is the biggest flying site on the island and the real reason that people come to Lanzarote to fly. The cliff run is around 21km and the max height of the cliffs is around 700m. There are two take off sites, one higher than the other, just outside the town of Teguise. At the foot of the take off is the landing zone which is a huge area of sandy soil. You can also land on the beach next to the little town of Famara. The cliffs run all the way up to the top of the island and at the tip, form the other side of the Mirador del Rio cliffs.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1161"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2625,
+        "name": "Lanzarote, Macher",
+        "latitude": 28.95305556,
+        "longitude": -12.70972222,
+        "description": "Samme som: TINASORIA og LANZAROTE - MACHER.Fareslar a bruke LANZAROTE-LANZAROTE,TINASORIA.\nLike vest for Puerto del Carmen, også kalt TINASORIA.Use LANZAROTE-LANZAROTE,TINASORIA!!",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2625"
+    },
+    {
+        "country_id": 195,
+        "start_id": 888,
+        "name": "Lanzarote, Mala",
+        "latitude": 29.11083333,
+        "longitude": -13.4775,
+        "description": "If you are coming from Arrecife, Turn left from main road in Mala.Park and walk across the dam to the TO. Large Ridge; enough space to set up many HG/PG's: if wind is too strong, there are a few alternative TO's available lower on the ridge. Nice place for XC. NB Look for aeroplanes from Arrecife.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=888"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5094,
+        "name": "Lanzarote, Orzola",
+        "latitude": 29.22416667,
+        "longitude": -13.46333333,
+        "description": "Liten take off ved stranda utenfor Orzola. En vinge om gangen. Fin start nar det blaser for mye andre steder.\nLanding pa stranda foran start.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5094"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3590,
+        "name": "Lanzarote, Playa Quemada",
+        "latitude": 28.90888889,
+        "longitude": -13.73944444,
+        "description": "Kan være flybart ved sterk SE vind.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3590"
+    },
+    {
+        "country_id": 195,
+        "start_id": 6239,
+        "name": "Lanzarote, Tenesar",
+        "latitude": 29.07944444,
+        "longitude": -13.71611111,
+        "description": "Ofte flybart hvis det blåser for mye andre steder.\nDet er ryddet to startplasser.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=6239"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1042,
+        "name": "Lanzarote, Tinasoria",
+        "latitude": 28.95305556,
+        "longitude": -13.71194444,
+        "description": "Samme som: LANZAROTE - MACHER og MACHER.Fareslar a bruke LANZAROTE-LANZAROTE,TINASORIA.(This)\nDirectly above Ma'cher you'll find Tinasoria.\n(southwest of Puerto del Carmen)\nIt's possible to drive all the way up to start, which is a perfect place for toplanding.Also called Macher.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1042"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1154,
+        "name": "Lanzarote, el Cuchillo",
+        "latitude": 29.08555556,
+        "longitude": -13.65472222,
+        "description": "South west of Soo.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1154"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2719,
+        "name": "Loja",
+        "latitude": 37.133,
+        "longitude": -4.18291667,
+        "description": "Flott flysted på vest 20 min fra Granada. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2719"
+    },
+    {
+        "country_id": 195,
+        "start_id": 6438,
+        "name": "Los Gigantes",
+        "latitude": 28.24916667,
+        "longitude": -16.81805556,
+        "description": "Anbefaler å bruke siten kun på gode termikk-dager. Reservelandingen som er den eneste man kan nå uten løft er ikke spesielt bra. \n\nhttp://www.para42.com/en/index.html",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=6438"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3398,
+        "name": "Maria 1, Berga, Catalunya",
+        "latitude": 42.08805556,
+        "longitude": 1.81416667,
+        "description": "There are 2 schools / pg-centers with landings just below takeoff (N42 5 10 E1 49 13) - Espai and Volem. You'll find them by driving from Berga towards Avia (direction Solsona), approximately 400 m before Avia. For more on paragliding in Catalunya / Pirineos: cf:\nhttp://www.geocities.com/Yosemite/Meadows/2822/zonesvol/hiperzones.en.html\nhttp://personal.redestb.es/brauli/catalunya.html\nhttp://www.paracat.org/\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3398"
+    },
+    {
+        "country_id": 195,
+        "start_id": 4680,
+        "name": "Mazarron",
+        "latitude": 37.56305556,
+        "longitude": -1.1675,
+        "description": "small ridge soaring hill. Hike up. Great for sea breeze soaring.\nN 37° 33' 47''  W 1° 10' 3''",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=4680"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2930,
+        "name": "Monte Cabrer, Cocentaina",
+        "latitude": 38.75611111,
+        "longitude": -0.48111111,
+        "description": "Monte Cabrer,  the take off lies in a natural reserve.  Sometimes due to high bushfire risk for instance, it is asked not to fly the hill. \nThe other side of the mountain with its take off near Agres (north) is already closed for vehicles, it is now a three hour walk up.\n\nDue to issues regarding use of the road and landings you should use an guide if you are not a local pilot.\n\nI recommend http://www.doyouwanna.net",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2930"
+    },
+    {
+        "country_id": 195,
+        "start_id": 9446,
+        "name": "Montellano, Lower start",
+        "latitude": 37.00722222,
+        "longitude": -5.5425,
+        "description": "Samme retning som oppe, fint å bruke om det blæs litt oppå toppstarten.\nSamme landing, dvs. hovedlanding.\n\n25 min fra Algo",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=9446"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1111,
+        "name": "Montellano, Upper start",
+        "latitude": 37.00555556,
+        "longitude": -5.54694444,
+        "description": "Stor og fin start, plass til mange vinger, kjempeplass å rigge litt bak på starten.\nHer kan du topplande på start, god plass.\nStor og fin landing, den er litt helling på den.\n\n25 min fra Algo",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1111"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10844,
+        "name": "Málaga (El Pino) Trabuco",
+        "latitude": 37.01666667,
+        "longitude": -4.28777778,
+        "description": "En start som är relativt åtkomlig via en brant stig ner från bergets fot. \nObs! Ligger i TMA, flyg ej här utan att ha kontakt med lokala piloter. Det har varit stängt i många år pga luftrumöverträdelser. \n\nRing mig om du önskar få kontakt med lokala piloter. Adam Alsofi 0764288807",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10844"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1869,
+        "name": "Organyà, Pyrenees",
+        "latitude": 42.22850833,
+        "longitude": 1.32425556,
+        "description": "I de spanske Pyrineene. To mil fra  byen La Seu d'Urgell, og noen timers kjøring fra Barcelona.\n\nKjempe plass. Ta av og jobb deg opp mot toppen som er ca 1600moh ved antennene og når forholda er bra går en langt over.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1869"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1110,
+        "name": "Parcent, Coll de Rates",
+        "latitude": 38.72361111,
+        "longitude": -0.07916667,
+        "description": "Kjør fra Alicante mot Calpe og videre inn mot Jalon Vally. Du ser da svingene som går opp langs fjellsida. Se etter skilt mot Coll de Rates og følg veien dit oppover. Kjør inn til venstre mot restauranten Coll de Rates på veiens høyeste punkt. Hold mot høyre ved restauranten, kjør forbi helikopterlandingsplassen merket med \"H\", og fortsett på smal vei. Første biten er grusvei, men det blir asfalt videre, og helt til toppen ved enden av veien.\nLandingskoordinater:\nN 38 44 36\nW 00 04 25\n\nLandingen brukes både ved start mot sør og start mot nord. Ved start mot sør følges fjellet mot øst, og du kan greit krysse over ved restauranten.\n\nKontaktadresse : Suby, Alicante +34 609066610 email subylutolf@hotmail.com",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1110"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3021,
+        "name": "Pedro Bernardo, West",
+        "latitude": 40.25638889,
+        "longitude": -4.90583333,
+        "description": "West launch on the mountain behind Pedro Bernardo.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3021"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1984,
+        "name": "Pegalajar",
+        "latitude": 37.75138889,
+        "longitude": -3.64638889,
+        "description": "Good flying site and good opertunities for XC flights. It is near the town Jáen north of Grenada in south Spain.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1984"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1086,
+        "name": "Peña Rubia",
+        "latitude": 38.60666667,
+        "longitude": -0.80944444,
+        "description": "2 starter ved antenne\nSjekk også http://luisso.net/prubia.htm",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1086"
+    },
+    {
+        "country_id": 195,
+        "start_id": 9140,
+        "name": "Picu del Sol, Gijon (Asturias)",
+        "latitude": 43.471541,
+        "longitude": 5.659035,
+        "description": "Popular flying spot in Gijon (Asturias). Easy access to start with car, great take off. Beautiful views. Wind direction: NW, N, and NE.\nSeveral landings, including one next to a cafe/bar to refuel. Ask locals.",
+        "holfuy_id": 1353,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "http://holfuy.com/en/weather/1353",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=9140"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2014,
+        "name": "Piedrahita, La Lastra",
+        "latitude": 40.33888889,
+        "longitude": -5.44611111,
+        "description": "Take off near the Village La lastra wich is close to Piedrahita. Used for south wind direction.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2014"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3397,
+        "name": "Raudoral. Ager",
+        "latitude": 42.03583333,
+        "longitude": 0.73583333,
+        "description": "Dette er en lavere start enn hoved starten i Ager. Er på den lave ryggen. 446 m til nærmeste landing og 646 til campingen :-)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3397"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1732,
+        "name": "Ronda la Vieja, Ronda",
+        "latitude": 36.83861111,
+        "longitude": -5.23833333,
+        "description": "Nær Setenil.\nHangsted.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1732"
+    },
+    {
+        "country_id": 195,
+        "start_id": 454,
+        "name": "Salamanca, Piedrahita, Peña Negra.",
+        "latitude": 40.42166667,
+        "longitude": -5.30111111,
+        "description": "Main start of Piedrahita. In the top of \"Puerto de Peñanegra\".\nInfo from paraglider earth: The take off area is divided into two sections: above and below the road. With zero wind it is generally better to take off below the road as it is steeper. With a few km/hr of wind, the top take of is used. If you top land, the best area is the flatter area near the windsock on the west side of the upper launch. The whole area is a little rocky, and also there are a number of gorse bushes.\n\nLanding :\t The flatter fields of the valley are approximately a 4.5:1 glide from Launch. There is a landing field at the half way point on the spine running down on the right of take off. This is just before the forested section (called locally the Monte de Jura). There are also good fields in the gulley before the forested section next to the road. On the Chalet spine there is the option to land near the Chalets. The official landing field in the valley can change year by year. for 2008 and onwards it is a large field on the hill side of the Panera Bar/Steve Ham´s house.\nPeople to contact :\t Steve Ham C/Somoza 20 (road to take off) Piedrahita.(0034) 920360550",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=454"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10886,
+        "name": "Sant Llorenc",
+        "latitude": 41.86611111,
+        "longitude": 0.81805556,
+        "description": "Sant Cristofol. Beautiful launch with artificial grass.\nWith east - south east wind there is a change of a rotor from the ridge opposite the launch! Locals warn for that!\n\nBeautiful area to fly and XC.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10886"
+    },
+    {
+        "country_id": 195,
+        "start_id": 8689,
+        "name": "Serrella",
+        "latitude": 38.7025,
+        "longitude": -0.31277778,
+        "description": "Flott flysted på nordlige vinder i nærheten av Benasau.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=8689"
+    },
+    {
+        "country_id": 195,
+        "start_id": 6795,
+        "name": "Sierra Alhamilla, Almeria",
+        "latitude": 36.9572925,
+        "longitude": -2.4038561,
+        "description": "soaring, thermalling",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=6795"
+    },
+    {
+        "country_id": 195,
+        "start_id": 4806,
+        "name": "Sierra De Lucena",
+        "latitude": 37.375636,
+        "longitude": -4.467508,
+        "description": "a small mountain, nice for soaring in strong wind. \n\nlanding : 37°22'5\" (37.3682)N; 4°27'39\" (4.4609)W - \n\nhttp://www.paraglidingearth.com/pgearth/index.php?site=9148",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=4806"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1794,
+        "name": "Sierra de Lújar, Castell de Ferro",
+        "latitude": 36.82194444,
+        "longitude": -3.40138889,
+        "description": "Kjør opp mot Lujar, men ta til høyre mot Rubite. Følg Orgiva til du ser veien til toppen som går opp på østsiden av fjellet.\nFint startsted på sørsiden av fjellet, noen hundremeter fra Antennene.\nLanding på stranda i Castell-de-Ferro! \n\nDette er en sklitur på 12 km noe som krever et glidetall på ca 6.5 i snitt for å nå fram til hovedlanding.\n\nAlternativ landing i det tørrlagte elveleiet etter 7 km. Hit når du med 4.5 i snitt.\n\nØverste bilde: Panorama med utsikt fra start. Landing på stranda helt til venstre i bildet.\n\nVenstre under: Utsikt som venter deg på sklituren!\n\nHøyre under: Rikelig med landingsplass på stranda.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1794"
+    },
+    {
+        "country_id": 195,
+        "start_id": 9604,
+        "name": "Sopelana, Bilbao",
+        "latitude": 43.38083333,
+        "longitude": -3.01,
+        "description": "There are two takeoffs, one for NE (close to \"bunker de azkorri\"), another for NW (over Sopela beach, next to the paragliding school). Takeoffs are 5-10 mins walk from each other. \n\nAvoid landing at the beach during summer season, only top landing. In case of emergency landing, avoid landing over the protected grass at the back of the beach AT ALL COSTS. It is a fragile environment trying to be recovered.\n\nParking at parking azkorri or parking playa Sopela.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=9604"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3246,
+        "name": "Taucho",
+        "latitude": 28.13333333,
+        "longitude": -16.73333333,
+        "description": "DON´T USE/LOGG HERE, CHOOSE \"TAUCHO\" OR CLICK AT LINK, THANK´S \n\n\n\nJust up the hill near Fanabe - where the coloured spots in the air are - each afternoon... *g*",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3246"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2677,
+        "name": "Tenerife, Fasnia2",
+        "latitude": 28.22888889,
+        "longitude": -16.43138889,
+        "description": "Liten hangbar vulkan!",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2677"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1783,
+        "name": "Tenerife, Fasnia",
+        "latitude": 28.22916667,
+        "longitude": -16.43277778,
+        "description": "Dynamic\nLiten kolle, kan startes på nesten alle rettninger, men best på østlige vinder, da man får vinden inn i en liten bolle, som blir bedre løft. Stedet er ganske termisk.\n\nLanding ved to vannreservoarer SØ for start. Man kjører forbi dem på vei til start. \n\nHer kan man kjøre helt opp til toppen.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S",
+            "SE",
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1783"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2157,
+        "name": "Tenerife, Ifonche",
+        "latitude": 28.12055556,
+        "longitude": -16.69027778,
+        "description": "Thermals and cross country\nTakeoff in the mountain above Playa des Americas. Pass the village Ifonche and find the narrow, but cemented, road out on the cliff edge to the left. There are two take-off places, one on each side of the rock. Landing is in front of the highway at the go-kart track. Or fly to taucho main landing of there are thermals. This site can get kind of turbulent after 13:00.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2157"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2164,
+        "name": "Tenerife, Izana",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Top to bottom\nVed foten av observatoriumet .",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2164"
+    },
+    {
+        "country_id": 195,
+        "start_id": 2614,
+        "name": "Tenerife, Jama",
+        "latitude": 28.115,
+        "longitude": -16.6575,
+        "description": "Thermals\nTake-off beside the road above the village Jama.\nLanding is in the bowl-like walley below, follow narrow roads above football-field. \n!!Be aware!! The rocks to the left creates a large rotor at the landing if there is a strong easterly wind. Check the sea, and windsocks along the road by the airport, before flying.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=2614"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5119,
+        "name": "Tenerife, La Corona",
+        "latitude": 28.37833333,
+        "longitude": -16.60083333,
+        "description": "Thermal\nGreen carpet by the radiotowers.\nGreat place for morning thermals.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5119"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5882,
+        "name": "Tenerife, Ladera de Guimar",
+        "latitude": 28.29166667,
+        "longitude": -16.41805556,
+        "description": "Thermodynamic and cross country\nFint hang. \nKjør opp TF-28 og ta av den bratte grusveien opp til høyre ved statuen ved utsiktsplassen Mirador del Puertito de Güimar. Parkering like ved start som nå er en betongdekket, bratt helling. Landing på stranden på Puertito de Güimar eller flatmark rett ut fra takeoff merket med \"fallskjermklubb\" på google maps",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5882"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5905,
+        "name": "Tenerife, Las Teresitas",
+        "latitude": 28.51083333,
+        "longitude": -16.18777778,
+        "description": "Heng/termisk heng med landing på sandstrand like utfor start. Pass på å lande på øvre østre delen av stranda, det er ikke lov å lande andre steder på stranda!\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5905"
+    },
+    {
+        "country_id": 195,
+        "start_id": 4363,
+        "name": "Tenerife, Los Pinos",
+        "latitude": 28.14416667,
+        "longitude": -16.72222222,
+        "description": "Denne plassen er stengt av grunneier -ref Henry fra Para42 25/1-2023. (Espen Åshammer)\n\nThermals and cross country\nPå fjellet over Taucho, kjør veien videre forbi Taucho helt til man kommer til et blindei skilt (parkeringsplass rett fram) ta så til høyre, hold til høyre og parker ved siden av grusveien før bommen. Følg gå forbi bommen og traktorvei/stien ca. 10 minutter gange fra parkeringen. \nVeldig fin og bra opparbeidet start som absolutt er verdt gåturen. Denne starten er ikke veldig godt kjent så her slipper man de lange startkøene det til tider kan være på Taucho. Samme landing som Taucho.\n\nNB! Dette er en stupstart.\n\nDenne starten er stengt ifølge lokale piloter pga flere fatale ulykker de siste årene.\n\nKorrigering: starten er IKKE stengt! Henry fra Para42.com tar med piloter dit når forholdene tilsier det (Frank Dahle).\n\n2019-12-28. Starten er blokkert med store steiner slik at det ikke er mulig å ta av. Har flydd over og sett med egne øyne. Taucho er alternativ start. (Ingrid Busvold)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=4363"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5108,
+        "name": "Tenerife, Tamaimo",
+        "latitude": 28.24888889,
+        "longitude": -16.82916667,
+        "description": "Thermodynamic\nTake off, close to Los Gigantes.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5108"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10244,
+        "name": "Tenerife, Taucho - Paragliding Park",
+        "latitude": 28.14472222,
+        "longitude": -16.73611111,
+        "description": "Note: Takeoff was originally registred as being in Germany, however the coordinates was from Tenerife and all flights registered are there so I've changed name and country (erdal)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10244"
+    },
+    {
+        "country_id": 195,
+        "start_id": 1059,
+        "name": "Tenerife, Taucho",
+        "latitude": 28.14472222,
+        "longitude": -16.73583333,
+        "description": "Thermals and cross country.\nKjør motorveien fra Playa del Americas i retning av Guia de Isora. Etter ca. 8 km. kommer du til et stort industriområde på venstre side. Se etter et stort grønt supermarked. På sjøsiden av supermarkedet er det satt opp en del streamere og der er hovedlandingen. Koordinatene dit er: N 28.07.14, W 016.44.30. \n\nStarten (  http://vimeo.com/34555156  ) finner du enten ved å følge veien videre til du ser skilt mot Taucho, eller ta til høyre i første rundkjøring du møter etter at motorveien er slutt på vei mot Guia de Isora. Så kjører du rett opp bakken og fortsetter \"rett frem\" i ca. 20 min. Da ser du sikkert en del biler og streamere på høyre side. Er du alene, kan det lønne seg å parkere på landing og haike opp, eller rett og slett ta taxi fra Playa de Las Americas, og fly hjem etterpå. (Taxi från LZ upp till Taucho ca. 7-10e)\n\nNår det er flybart vil du se gliders i luften. Greit utgangspunkt for kortere distanseturer i både nordlig og sørlig retning. Når du skrur deg opp over starten, ser du majestetiske Teide på 3.717 moh i bakgrunnen. \n\nTaucho er den enkleste og mest brukte starten på Teneriffe.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1059"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3766,
+        "name": "Tenerife, Teide, Valle de Güimar",
+        "latitude": 28.32222222,
+        "longitude": -16.49166667,
+        "description": "You can se Puerto de Güimar from the take off. The take off is right beside the road. \nFollow the ridge down to the beach at Puerto de Güimar. \nPrecausions: There are power lines above the mainroad above Puerto de Güimar. Check your alltitude.\n\nThis start is safest eary in the morning, takeoff before 11:00 or late in the evening takeoff after 17:00",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3766"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5878,
+        "name": "Tenerife, Tierra del Trigo (El Tanque)",
+        "latitude": 28.36,
+        "longitude": -16.78583333,
+        "description": "Dynamic\nStarten ligger på baksiden av en restaurant. Hovedlanding er på nest siste nes etter det store bassenget ved kysten, ca 4,5 km vestover. Super landing, synlig hvis man går 50m utpå kanten fra start. Nødlanding på stranden rett nedenfor start, eller ved den gule fabrikken ved kysten ca 3km vestover (på veien). Fin termikk, og flott natur, selv om dette er nordkysten. Flott sted.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5878"
+    },
+    {
+        "country_id": 195,
+        "start_id": 4737,
+        "name": "Tinasoria",
+        "latitude": 28.95055556,
+        "longitude": -12.71027778,
+        "description": "Samme som: TINASORIA og MACHER.Fareslar a bruke LANZAROTE-LANZAROTE,TINASORIA.\nSe mer info under linken",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=4737"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10940,
+        "name": "Torimbia, Asturias",
+        "latitude": 43.4401805,
+        "longitude": -4.84974031,
+        "description": "Beautiful beach. With N-NW, the flight is towards the Torimbia beach, with easy top landing. However, most often wind blows with an E component, and therefore the flight is in the direction of the Toranda beach, with a much more technical top landing. Often people land in the fields below, easy to get a ride up again, especially in summer months.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10940"
+    },
+    {
+        "country_id": 195,
+        "start_id": 5089,
+        "name": "Valencia , Castellon , Figueroles",
+        "latitude": 40.13805556,
+        "longitude": -0.22527778,
+        "description": "Flyable 90% of the year, spacious cleared hilltop takeoff (easy), good landing area.\nContact: info@paragliding-mallorca.com",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5089"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10756,
+        "name": "Valencia , Titaguas",
+        "latitude": 39.87222222,
+        "longitude": -1.05916667,
+        "description": "Grusvei til start",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10756"
+    },
+    {
+        "country_id": 195,
+        "start_id": 7615,
+        "name": "Villar de Arzobispo",
+        "latitude": 39.733231,
+        "longitude": -0.841569,
+        "description": "Region Los Serranos, Valencia. 51km from Valencia.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=7615"
+    },
+    {
+        "country_id": 195,
+        "start_id": 10457,
+        "name": "collado garcia tahal",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "mountain flying",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10457"
+    },
+    {
+        "country_id": 195,
+        "start_id": 3230,
+        "name": "spain",
+        "latitude": 36.90722222,
+        "longitude": -5.35861111,
+        "description": "new start - please give it a proper name and description (2007-02-11 23:39:16)",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3230"
+    }
+]

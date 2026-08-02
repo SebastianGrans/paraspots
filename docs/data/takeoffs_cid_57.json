@@ -1,0 +1,779 @@
+[
+    {
+        "country_id": 57,
+        "start_id": 6198,
+        "name": "Blåvand",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "liten kulle ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=6198"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10299,
+        "name": "Bovbjerg Fyr",
+        "latitude": 56.51305556,
+        "longitude": 8.11972222,
+        "description": "Største højde er 40m oppe ved fyret. Skrænterne strækker sig over ca. 3,5 km. Der kan topstartes- og landes og stranden er bred. Start kan ske ved fyret eller længere nede mod Ferring.\nPas på! - Oppe ved fyret kan der være kraftig rotor.\nEt andet godt startsted er længere sydpå, ved Trans kirke, se detailkort. Der kan flyves hele vejen op til Bovbjerg Fyr. Skrænterne er lavere her og kan altså flyves med mere vind. Startstedet er på plænen ved kirken og er super\n\nFra Lemvig, kør ad 513 mod Thorsminde. Drej fra mod Ferring. I Ferring by, går der en vej op til fyret, hvor der kan parkeres. Prøv også det lave startsted, fra Ferring by, kør ca. 50m ad vejen op mod fyret, drej ad grusvej til højre ud mod skrænten. Her er der også fine parkerings- og startmuligheder.\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10299"
+    },
+    {
+        "country_id": 57,
+        "start_id": 1602,
+        "name": "Dokkedal",
+        "latitude": 56.90361111,
+        "longitude": 10.26055556,
+        "description": "Hang med bra start & landning öster om Aalborg.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=1602"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10301,
+        "name": "Ebeltoft kobberhage 2",
+        "latitude": 56.18541667,
+        "longitude": 10.73647222,
+        "description": "Skrænten er ca. 30m høj og 2 km lang - Den nordligste del af skrænten kan flyves på ØNØ - Ø, den sydlige del på ØSØ - Ø.\n\nFra Århus ad hovedvej 15 mod Ebeltoft. Fra Ebeltoft til Boeslum og videre til Kobberhage. Se detailkort",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E",
+            "NE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10301"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10936,
+        "name": "Emmerslev, vadehavs camping",
+        "latitude": 54.990844,
+        "longitude": 8.657219,
+        "description": "Like ved Emmerslev",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10936"
+    },
+    {
+        "country_id": 57,
+        "start_id": 2017,
+        "name": "Ertebølle",
+        "latitude": 56.81861111,
+        "longitude": 9.18666667,
+        "description": "Fin liten hang største højde er 20m. Skrænten er egnet for begyndere.\n\nAnbefales at starte i den nordlige del da der er fin græs at starte på og derefter koble sig på hanget!\n\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=2017"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10300,
+        "name": "Ferring trans kjerke",
+        "latitude": 56.49805556,
+        "longitude": 8.12083333,
+        "description": "Største højde er 40m oppe ved fyret. Skrænterne strækker sig over ca. 3,5 km. Der kan topstartes- og landes og stranden er bred. Start kan ske ved fyret eller længere nede mod Ferring.\nPas på! - Oppe ved fyret kan der være kraftig rotor.\nEt andet godt startsted er længere sydpå, ved Trans kirke, se detailkort. Der kan flyves hele vejen op til Bovbjerg Fyr. Skrænterne er lavere her og kan altså flyves med mere vind. Startstedet er på plænen ved kirken og er super\n\nFra Lemvig, kør ad 513 mod Thorsminde. Drej fra mod Ferring. I Ferring by, går der en vej op til fyret, hvor der kan parkeres. Prøv også det lave startsted, fra Ferring by, kør ca. 50m ad vejen op mod fyret, drej ad grusvej til højre ud mod skrænten. Her er der også fine parkerings- og startmuligheder",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10300"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10917,
+        "name": "Fur - Nordjylland",
+        "latitude": 56.84627778,
+        "longitude": 9.03294444,
+        "description": "Fin plass bør være nord nord/vest for at hele henget skal fungere.\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10917"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10670,
+        "name": "Fur",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Et lite kystheng på vestsiden av Fur, funker på vinder mellom sørvest og vest.",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10670"
+    },
+    {
+        "country_id": 57,
+        "start_id": 4965,
+        "name": "Gilleleje Feriecenter, Sjælland",
+        "latitude": 56.12527778,
+        "longitude": 12.26555556,
+        "description": "Takeoff er foran strandbygget på Gilleleje Feriecenter. Det går an å lande samme sted. Alternativt kan du lande 50 nedenfor starten på høyre side på stranden. Eller 100 meter til venstre for starten. På en gresslette. Det kan være lokale flyregler som endrer seg. Snakk med de på Feriecenteret hvis du ikke får tak i noen andre. Hanget går ca. 1000 meter ut mot nord. Høyde opp til 30 meter? (Øystein Walle 2/8-2011)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=4965"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10511,
+        "name": "Gjerrild",
+        "latitude": 56.52055556,
+        "longitude": 10.85305556,
+        "description": "Et kystheng på Jyllands østkyst. Det er en parkeringsplass, med toaletter, rett ved henget.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E",
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10511"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10302,
+        "name": "Glatved Strand",
+        "latitude": 56.3,
+        "longitude": 10.86666667,
+        "description": "Lite hang som fungerer på ø/sø.\nKjør mot Glatved strand og hold til venstre rett før innkjøting til p-plass grustak.\nStarten er som beskrevet på danske hps sine sider rett til venstre for et jorde/gressplen.\nFunker ikke på ØNØ og vær obs for rotor på start.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE",
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10302"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10725,
+        "name": "Græm Strand, Jylland",
+        "latitude": 56.29016667,
+        "longitude": 8.12644444,
+        "description": "Typisk dansk kysthang med relativt lave banker. Definitivt best på vind rett inn. Mulig å kjøre nesten frem til stranden",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10725"
+    },
+    {
+        "country_id": 57,
+        "start_id": 3464,
+        "name": "Gulebjerg v. Esbjerg",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Dune for coastal hang in Marbæk near Esbjerg.\n\nVery narrow takeoff conditions at top of dune with lots of trees just behind it. Ok at beach for bottom starting and ground handling.\n\nWind conditions can be turbulent.\n\nhttp://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=gulebjerg&sll=55.46727,8.449078&sspn=0.064615,0.220757&ie=UTF8&hq=gulebjerg&hnear=&ll=55.549454,8.316232&spn=0.002015,0.006899&t=h&z=17",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=3464"
+    },
+    {
+        "country_id": 57,
+        "start_id": 1847,
+        "name": "Gyldendal",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Nær Vestsalling",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=1847"
+    },
+    {
+        "country_id": 57,
+        "start_id": 533,
+        "name": "Hanstholm",
+        "latitude": 57.12361111,
+        "longitude": 8.625,
+        "description": "U have nearly all flying directions in the area\nThe best site is one kilometer east of the pinpointed location.\nThis is a location also popular for flying RC sailplaines.\nCommunicate, and we can all do our hobbies without worries.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NE",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=533"
+    },
+    {
+        "country_id": 57,
+        "start_id": 8215,
+        "name": "Heather Hill",
+        "latitude": 56.09252778,
+        "longitude": 12.14830556,
+        "description": "Rågeleje Strand",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=8215"
+    },
+    {
+        "country_id": 57,
+        "start_id": 597,
+        "name": "Helgenæs Lushage",
+        "latitude": 56.10083333,
+        "longitude": 10.53166667,
+        "description": "Skrænten er ca. 40m høj. Gode muligheder for topstart- og landing. Stranden er forholdsvis smal, men der kan landes på stranden. \nFra Århus, kør ad hovedvej 15 til Mols og videre til Helgenæs. Følg skiltene til Esby. Derfra ad grusvej mod Lushage. Parkering på P-pladsen, derfra til fods 5 -10 minutter Vær forsiktig på sterk vind.Lett og tro at det er mindre vind på start en de er i lufta.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "S",
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=597"
+    },
+    {
+        "country_id": 57,
+        "start_id": 3816,
+        "name": "Helgenæs Ørby Sletterhage",
+        "latitude": 56.10972222,
+        "longitude": 10.5025,
+        "description": "Fint hang med fin startplass inntil skogen på bildet.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=3816"
+    },
+    {
+        "country_id": 57,
+        "start_id": 2363,
+        "name": "Humlum",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "første henget på høyreside etter brua sørover fra Odby.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=2363"
+    },
+    {
+        "country_id": 57,
+        "start_id": 2554,
+        "name": "Husby",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Along the beach. Around Husby",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=2554"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10316,
+        "name": "Husby klit",
+        "latitude": 56.28963889,
+        "longitude": 8.12636111,
+        "description": "Husby klit",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10316"
+    },
+    {
+        "country_id": 57,
+        "start_id": 8134,
+        "name": "Hvide Sande - Stomkløven",
+        "longitude": 8.10111111,
+        "latitude": 56.07944444,
+        "description": "Costal hang just north of Hvide Sande / Nr. Lyngvig lighthouse.\n\nGravel road with parking just behind the dunes.\nNot very many people here :-)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=8134"
+    },
+    {
+        "country_id": 57,
+        "start_id": 8149,
+        "name": "Hvide Sande - Årgab - Tingodden",
+        "latitude": 55.94961111,
+        "longitude": 8.14283333,
+        "description": "A bit bigger and higher costal hang on the dunes south of Hvide Sande.\nPopssible to start on the top and on the beach.\nGreat beach and great place.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=8149"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10678,
+        "name": "Hvide Sande, Karen Brands Vej",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "From Hvide Sande Camping in Karen Brands Vej, Hvide Sande, Just walk over the dunes from the camping and start at the beach",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10678"
+    },
+    {
+        "country_id": 57,
+        "start_id": 4237,
+        "name": "Hvide Sande",
+        "latitude": 55.98611111,
+        "longitude": 8.12777778,
+        "description": "Klintene her er ganske lave, slik at det må blåse ganske mye for å fly (gå litt hvitt utpå sjøen)",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=4237"
+    },
+    {
+        "country_id": 57,
+        "start_id": 6537,
+        "name": "Isgard, Aarhus I Jylland",
+        "latitude": 56.16583333,
+        "longitude": 10.38277778,
+        "description": "Ridge soaring site. Drive to west side cabin area and park on parking site south on the beach. Do not park at the end of gravel road going further south. Walk along the beach and then follow ridgeline. There are 2-3 suitable take offs along the ridge. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW",
+            "S"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=6537"
+    },
+    {
+        "country_id": 57,
+        "start_id": 842,
+        "name": "Jylland - Hamborg",
+        "latitude": 57.11666667,
+        "longitude": 8.65527778,
+        "description": "Fin gresskledt skråning på et par hundre meter.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=842"
+    },
+    {
+        "country_id": 57,
+        "start_id": 9640,
+        "name": "Klitmøller  Hanstholm",
+        "latitude": 57.08611111,
+        "longitude": 8.55722222,
+        "description": "Parking is possible a few metres from the coordinates. \n\nIt is possible to soar all the way down to Klitmøller and up to Hanstholm. \n\nGreat for both beginners and advanced pilots who wants to play around. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=9640"
+    },
+    {
+        "country_id": 57,
+        "start_id": 8382,
+        "name": "Kysthang Danmark",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Diverse hang rundomkring i det forjettede land",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=8382"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10304,
+        "name": "Landbrug Strand, Landborup",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Cliffs at southwest side",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10304"
+    },
+    {
+        "country_id": 57,
+        "start_id": 6710,
+        "name": "Lyngby",
+        "latitude": 56.87888889,
+        "longitude": 8.29111111,
+        "description": " N 56° 52' 44'' E 8° 17' 28''\nHang",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=6710"
+    },
+    {
+        "country_id": 57,
+        "start_id": 1218,
+        "name": "Lökken",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Norr om tältplatsen, dejeligt",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=1218"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10312,
+        "name": "Løkken - rubjerg knude",
+        "latitude": 57.42575,
+        "longitude": 9.75588889,
+        "description": "Imellom løkken & rubjerg knude",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10312"
+    },
+    {
+        "country_id": 57,
+        "start_id": 535,
+        "name": "Løkken, Nørre Lyngby",
+        "latitude": 57.39111111,
+        "longitude": 9.72916667,
+        "description": "Nordens läckraste kusthang! Över 8 km långt.\nBred strand. Högsta höjden är vid rubjerg knude i norr. Det är inte tillåtet att starta var som helst på hanget.\n\nSe link til lokal flyklubb for info (se link).\n\n\n13 juli 06: Kjør til Nørre Lyngby, 5 km nord for selve Løkken by. Her er sandveggen høyere enn ved Løkken. Man kan kjøre ned på stranden, men i tørr sand kjører man seg lett fast uten 4WD.\n\nStartteknikk: Baklengs start, snu deg og rygg mot sandveggen. Du vil bli løftet opp. Sving gjerne til en av sidene om du penetrerer for mye. \nFlyteknikk: Ha stirrup lett tilgjengelig for å unngå å blåse bakpå i rotor bak toppen. Hold deg med god margin foran på hanget når det er mye vind.\nLanding:\nFly utover sjøen, til løftet gradvis avtar. Juster deg bakover mens du synker inntil du har bena i vannkanten. Gå litt bakover og legg ned vingen i tørr sand.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=535"
+    },
+    {
+        "country_id": 57,
+        "start_id": 8535,
+        "name": "Lønstrup(10 km nord fra Løkken)",
+        "latitude": 57.47444444,
+        "longitude": 9.79472222,
+        "description": "Gresslette, litt kjinki å starte om du er uerfaren.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=8535"
+    },
+    {
+        "country_id": 57,
+        "start_id": 596,
+        "name": "Mols , Fuglsø Strand",
+        "latitude": 56.18638889,
+        "longitude": 10.54972222,
+        "description": "Skrenten er 35m på det høyeste og ca. 1 km langt\n Fint for alle nivå\n På gode dager kan en fly nordover på skogen og sørover helt til campingen, da snakker vi om over 2 km totalt.\n Det er starten på høyeste punktet som er merket av på koordinatene og som er ringet inn med gult på bildet.\n Den befinner seg 670 m NØ fra Fuglsø Strand Offentlig Parkering som er ringet inn med rødt på bildet, går sti hele veien ut.\n\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SE"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=596"
+    },
+    {
+        "country_id": 57,
+        "start_id": 6146,
+        "name": "Mulbjerg",
+        "latitude": 56.90304444,
+        "longitude": 10.258925,
+        "description": "Mulbjerg, ikke et fjell akkurat, men et kort heng på Østkysten like sydøst for Ålborg.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "E"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=6146"
+    },
+    {
+        "country_id": 57,
+        "start_id": 3783,
+        "name": "Nymindegab Strand",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Strand ved Nymindegab",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=3783"
+    },
+    {
+        "country_id": 57,
+        "start_id": 695,
+        "name": "Näsby",
+        "latitude": 56.90027778,
+        "longitude": 9.17222222,
+        "description": "Hangflyg\nSöder om Logstör ligger Näsby.\nHanget är flera kilometer långt. Lägst i söder. Höga branta sandsluttningar i norr. Fina snälla grässtarter. Landning sker på stranden eller på lämpliga topplandningsställen. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=695"
+    },
+    {
+        "country_id": 57,
+        "start_id": 2356,
+        "name": "Odby, Krik Vig",
+        "latitude": 56.72333333,
+        "longitude": 8.31138889,
+        "description": "Ligger like ved Humlum\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=2356"
+    },
+    {
+        "country_id": 57,
+        "start_id": 1970,
+        "name": "Rybjerg knude",
+        "latitude": 57.45055556,
+        "longitude": 9.77194444,
+        "description": "Väldigt hög sanddyna. Norra delen av Lökkenhanget.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=1970"
+    },
+    {
+        "country_id": 57,
+        "start_id": 8497,
+        "name": "Rågeleje, københavn",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Fantastic soaring place",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=8497"
+    },
+    {
+        "country_id": 57,
+        "start_id": 1574,
+        "name": "Rønbjerg",
+        "latitude": 56.9025,
+        "longitude": 9.17222222,
+        "description": "On the beach nearby \"Rønbjerg Feriesenter\"",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=1574"
+    },
+    {
+        "country_id": 57,
+        "start_id": 4502,
+        "name": "Skiveren",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Et fint alternativ til Løkken når det blir for mye NV. Stedet ligger ca 50 km nord for Løkken på vei til Skagen. Fra Løkken: Følg skilting mot Hjørring, mot Skagen og så mot Skiveren og følg merking mot stranden så er du der. Du kjører et stykke nordover på stranden før du finner en egnet startplass. Flere kilometer langt fint hang! Ikke så bratte skrenter som Løkken så du trenger litt mere vind for å henge. Ingen hytter bak skrenten, ganske øde sted med en del nakenbadere på fine dager. God tur!",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=4502"
+    },
+    {
+        "country_id": 57,
+        "start_id": 1055,
+        "name": "Struer, Toftum Bjerge",
+        "latitude": 56.546,
+        "longitude": 8.53269444,
+        "description": "Ett hang som finns nära Humlum, i Struer kommun på Midtjylland.\nÄven om vinden är fel tidigt på dagen kan det, en solig dag med mycket termisk aktivitet inåt land, vända framåt eftermiddag och det blir möjligt att få ett fint kvällsflyg. Ligger nära campingen Toftum Bjerge.\nFint ställe !",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=1055"
+    },
+    {
+        "country_id": 57,
+        "start_id": 839,
+        "name": "Svinklovene (Svinkløv)",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Fint lite hangsted. Kort heng. Egnet for uerfarne piloter. Ved gode forhold er det mulig å fly nesten opp til Svinkløv Badehotell.\n\nNB!\nDet er opprettet et Class R Restricted Airspace over området (EK-R70 Blokhus). Sjekk alltid Notam FØR flyging. Det kan feks benyttes notaminfo.com.\n",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "N"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=839"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10675,
+        "name": "Sønderbjerg, Anholt",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Fint kysthang på vind fra vest til sør. Ikke mye plass til landing på stranden rett nedenfor Sønderbjerg, så man burde enten fly nordvest mot havnen eller øst. ",
+        "holfuy_id": null,
+        "wind_dirs": [],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10675"
+    },
+    {
+        "country_id": 57,
+        "start_id": 7087,
+        "name": "Søndervig",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "description": "Laaaaang strand med høyde på ca. 5-6m på det høyeste. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=7087"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10840,
+        "name": "Thorsminde",
+        "latitude": 56.37333333,
+        "longitude": 8.12722222,
+        "description": "Small dunes great for strong wind",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10840"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10261,
+        "name": "Vedersø Klit",
+        "latitude": 56.25,
+        "longitude": 8.13333333,
+        "description": "South of Thorsminde",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10261"
+    },
+    {
+        "country_id": 57,
+        "start_id": 2481,
+        "name": "Vejers",
+        "latitude": 55.62277778,
+        "longitude": 8.11611111,
+        "description": "Kystheng på Danmarks vestkyst. Liten høydeforskjell ca 4-5 meter. Stranden er stor og man kan kjøre ut og parkere/campe på stranden. Henget strekker seg flere kilometer.\n\nStranden er en del av et skytefelt. Når det er skyteøvelse er det flyforbud. Sjekk NOTAMer her: https://briefing.naviair.dk/app/map",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "NW",
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=2481"
+    },
+    {
+        "country_id": 57,
+        "start_id": 10567,
+        "name": "Venøborg, Venø",
+        "latitude": 57.07978889,
+        "longitude": 9.16339444,
+        "description": "Kystheng på Venø. Funker på vest når det blåser for mye lenger ut mot kysten. Alternativ til Humlu. ",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W",
+            "SW"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=10567"
+    },
+    {
+        "country_id": 57,
+        "start_id": 2019,
+        "name": "toftum",
+        "latitude": 56.56047222,
+        "longitude": 8.5535,
+        "description": "Underbar hang, gott om plats att landa på.",
+        "holfuy_id": null,
+        "wind_dirs": [
+            "W"
+        ],
+        "holfuy_url": "",
+        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=57&start_id=2019"
+    }
+]
