@@ -10,14 +10,14 @@ export const COUNTRIES = [
 ];
 
 const SELECTED_STORAGE = "paraspots:selected_countries";
-const ALL_IDS = COUNTRIES.map(c => c.id);
+const DEFAULT_IDS = [160]; // Norway only, until a visitor picks their own set
 
 function loadSelected() {
     try {
         const stored = JSON.parse(localStorage.getItem(SELECTED_STORAGE));
-        return Array.isArray(stored) ? new Set(stored) : new Set(ALL_IDS);
+        return Array.isArray(stored) ? new Set(stored) : new Set(DEFAULT_IDS);
     } catch {
-        return new Set(ALL_IDS);
+        return new Set(DEFAULT_IDS);
     }
 }
 
