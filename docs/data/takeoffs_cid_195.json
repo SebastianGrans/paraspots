@@ -1,23 +1,6 @@
 [
     {
         "country_id": 195,
-        "start_id": 5484,
-        "name": "40 minutter kjøring fra alicante.ALICANTE",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "description": "alicante er en turist by på sør kysten.det er sentralt i forhold til flyve muligheter.ps:\ndet andbefales å ta kontakt med di lokale pilotene,å da ordner det seg:)",
-        "holfuy_id": null,
-        "wind_dirs": [
-            "NW",
-            "W",
-            "SW",
-            "S"
-        ],
-        "holfuy_url": "",
-        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=5484"
-    },
-    {
-        "country_id": 195,
         "start_id": 7265,
         "name": "Aguadulce",
         "latitude": 36.82361111,
@@ -281,21 +264,6 @@
     },
     {
         "country_id": 195,
-        "start_id": 1672,
-        "name": "Andalusia, Loma del Gato",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "description": " ",
-        "holfuy_id": null,
-        "wind_dirs": [
-            "SE",
-            "E"
-        ],
-        "holfuy_url": "",
-        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=1672"
-    },
-    {
-        "country_id": 195,
         "start_id": 1797,
         "name": "Andalusien, Almunecar, Otivar",
         "latitude": 36.83361111,
@@ -335,18 +303,6 @@
         "wind_dirs": [],
         "holfuy_url": "",
         "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10074"
-    },
-    {
-        "country_id": 195,
-        "start_id": 10067,
-        "name": "Busot",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "description": "Doyouwanna.net",
-        "holfuy_id": null,
-        "wind_dirs": [],
-        "holfuy_url": "",
-        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=10067"
     },
     {
         "country_id": 195,
@@ -602,24 +558,6 @@
         ],
         "holfuy_url": "",
         "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=3201"
-    },
-    {
-        "country_id": 195,
-        "start_id": 7001,
-        "name": "Granada Cenes del La Vega",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "description": "Start sted ved Granada",
-        "holfuy_id": null,
-        "wind_dirs": [
-            "NW",
-            "W",
-            "SW",
-            "S",
-            "SE"
-        ],
-        "holfuy_url": "",
-        "flightlog_url": "https://flightlog.org/fl.html?l=1&a=22&country_id=195&start_id=7001"
     },
     {
         "country_id": 195,
